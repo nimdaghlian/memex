@@ -1,0 +1,102 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  {% include floopdashes.html stroke = page.color  %}
+  {% include page_hilight.html hilight = page.color parent="body" %}
+
+  <body class="{{ page.bodyclass }}">
+    <div class="ui container">
+      <nav>
+        <a href="/" class="internal-link"><i class="las la-home page_hilight"></i></a>
+        <a href="/metagardening" class="internal-link"><i class="las la-seedling page_hilight"></i></a>
+        <a href="/notecloud" class="internal-link"><i class="las la-project-diagram page_hilight"></i></a>
+        <a href="http://nimdaghlian.com/art" class="internal-link"><i class="las la-palette page_hilight"></i></a>
+        <i class="las la-rss page_hilight" style="display: none;"></i>
+
+      </nav>
+
+      <div class="ui two column grid stackable gallery-meta">
+        <!-- descriptive header for gallery -->
+        <div class="ui twelve wide column">
+          <h1 class="page_hilight">{{ page.title }}</h1>
+
+          <div class="description page_hilight_bg">
+            <div class="desaturate content page_hilight">
+            {{ content }}
+            </div>
+          </div>
+        </div>
+        <!-- end descriptive header -->
+        <!-- sidebar -->
+        <side style="font-size: 0.9em;" class="ui four wide column">
+          <div class="overlay page_hilight">        
+            <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+              Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+              {% endif %}
+            </time>
+            <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+            {% if page.backlinks.size > 0 %}
+            <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+            {% for backlink in page.backlinks %}
+              <div class="backlink-box">
+                <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+                <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
+              </div>
+            {% endfor %}
+          </div>
+          {% else %}
+        
+          <div style="font-size: 0.9em">
+            <p>
+              There are no notes linking to this note.
+            </p>
+          </div>
+          {% endif %}
+          </div>
+        
+        </side>
+        <!-- end sidebar -->
+
+      </div>
+
+      </div>
+
+      <content class="ui six column stackable grid gallery">
+
+
+      <!-- listing of gallery contents -->
+      {% assign g = page.gallery %}
+        {% for post in site.media %}
+          {% if post.gallery contains g %}
+          <div class="column card block" >
+            <div class="image">
+              <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="ui image"><img class="page_hilight" src="{{ site.url}}{{ post.link }}"></a>
+            </div>
+            <div>              
+              <span class="date">
+                <i class="las la-calendar"></i> {{ post.date | date: "%B %-d, %Y" }}
+                </span>
+            </div>
+            <div class="content">
+              <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="caption">{{ post.title }}</a>
+              {% if post.excerpt  %}
+              <div class="description">{{ post.excerpt | truncatewords: 15 }}</div>
+              {% endif %}
+
+            </div>
+          </div>
+          {% endif %}
+        {% endfor %}
+
+
+    </content>
+  
+    <hr>
+   
+      <footer>{% include footer.html %}</footer>
+    </div>
+
+  </body>
+</html>
