@@ -12,7 +12,7 @@ gal = config["galleries"]
 
 image_location = "/assets/"
 notes_location = "_notes/"
-gallery_notes = "#{notes_location}galleries/"
+gallery_notes = "_galleries/"
 collection_name = "_media/"
 
 
@@ -29,6 +29,8 @@ gal.each do |galitem|
   files_location = "#{site.source}#{image_location}#{gal_dir}/"
   output_location = "#{collection_name}#{gal_dir}/"
 
+  # put all mds for images in _media/name bc it mirrors the assets dir
+  # put all galleries in a _galleries collection, no notes, simple permalinks
 
   # make pages for every image in the specified directory #
 

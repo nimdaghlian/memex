@@ -1,5 +1,8 @@
 {% assign hilight = include.hilight  %}
-{% if hilight And hilight != '' And hilight != nil %}
+{% if hilight == '' OR hilight == nil %}
+{% assign hilight = "dimgrey"  %}
+{% endif %}
+
 	<style type="text/css">
 
 
@@ -14,8 +17,13 @@
 		body {
 			--block-shadow-color: {{ hilight }} !important;
 			--block-text-color: {{ hilight }} !important;
-
 		}
 
+		.page_hilight_contrast {
+			color: {{ hilight }}  !important;
+			filter: invert(.3);
+            mix-blend-mode: difference;
+		}
+
+
 	</style>
-{% endif %}

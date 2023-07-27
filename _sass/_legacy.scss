@@ -242,40 +242,71 @@ body.home {
     }
 }
 
-.gallery {
+.gallery { 
 
+  content { 
+    padding-top: 0px;
+  };
   font-size: 14px;
 
   .page_higlight {
-    color: red;
+    color: dimgrey;
   }
   h1 {
-  padding: 0.37em;
-  border: 1px solid;
-  border-bottom: 9px solid;
-  margin: 0px;
+    padding: 0.37em 0px;
+    border-top: 1px solid;
+    border-bottom: 4px solid;
+    margin: 0px;
   }
   .description {
-    margin: 20px 0px;
+
+    padding: 20px 0px;
+    margin-bottom: 30px;
+
+    font-size: 1.2rem;
+    border-bottom: 5px solid;
+
+    /*
     border-radius: 4px;
     div {
       padding: 10px 20px;
     }
-
-  content {
-    .ui.cards {
+    */
+    }
+    .cards {
       .card {
-        a {
-          font-size: .7em;
+        cursor: auto;
+        .content {
+          p {
+            margin: 1em auto;
+            font-weight: normal;
+          }
+
+          a.card-link {
+
+            &:hover {
+              &:after {
+                content: " ↝";
+              } 
+            }
+          }
+  
         }
-        .meta :last-child {
-          font-size: .5em;
-        } 
+        .card-header {
+          margin-top: -1px;
+          margin-left: -1px;
+          border-bottom: 1px dashed !important;
+          width: calc(100% + 2px);
+          border-radius: 1px 1px 0 0 !important;
+         .date {
+            color: black;
+            padding: 1em;
+            font-weight: normal;
+            font-family: 'Courier New', Courier, monospace;
+          }
+        }
       }
     }
-  }
-  }
-
   .img_grid {
     width: 100%;
     display: grid;
@@ -285,6 +316,8 @@ body.home {
       grid-template-columns: 1fr;
 
   }
+
+
 
   }
   .img {
@@ -304,14 +337,17 @@ body.home {
   side {
     // background: url(/assets/REDfloopdashes.svg);
     padding: 30px;
+    margin-top: 10px;
     * {
        font-family: monospace;
     }
-    div.overlay {
+    .overlay {
       background: white;
       padding: 10px;
-      width: 100%;
+      margin: 5px;
+      width: 98%;
       overflow: auto;
+      display: inline-block;
     }
     
   }
@@ -320,10 +356,10 @@ body.home {
 // modifiers
 
 .desaturate {
-  backdrop-filter: grayscale(.9) brightness(3);
-  -webkit-backdrop-filter: grayscale(.9) brightness(3);
-
+  backdrop-filter: grayscale(.9) brightness(2) !important;
+  -webkit-backdrop-filter: grayscale(.9) brightness(2);
 }
+
 
 a.internal-link:after {
   display: none !important;

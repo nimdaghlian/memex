@@ -66,7 +66,10 @@ collections:
     permalink: /:path
   media:
     output: true
-    permalink: /:path
+    permalink: /:collection/:path
+  galleries:
+    output: true
+    permalink: /:path/index.html
 
 
 # Exclude from processing.
@@ -97,4 +100,10 @@ galleries:
     directory: "clearings"
     tags: ["drawing", "art", "Martha", "Grapefruits"]
     date: 2022-05-10
-
+  - name: "Oops All Frankies"
+    directory: "frankie"
+    tags: ["frankie"]
+    date: 2023-07-27
+  - name: "Pika's Place"
+    directory: "pikas-place"
+    tags: ["art", "memorial"]
