@@ -34,7 +34,7 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
-  - jekyll-paginate-v2
+
 
 pagination:
   per_page: 35
