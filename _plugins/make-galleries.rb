@@ -14,7 +14,12 @@ image_location = "/assets/"
 notes_location = "_notes/"
 gallery_notes = "_galleries/"
 collection_name = "_media/"
+date_regex = /(\d{6})(?:-\d+)?\.[^.]+\z/
 
+def extract_date(filename, regex)
+  match = filename.match(regex)
+  match&.captures&.first if match
+end
 
 everytag = []
 
@@ -22,9 +27,10 @@ gal.each do |galitem|
   gal_dir = galitem["directory"]
   gal_name = galitem["name"]
   gal_tags = galitem["tags"]
+
+
   date = galitem["date"]
   dateadded = Time.new
-  date = dateadded if date.nil?
   name_slug = gal_name.to_slug.sub(/-\Z/,"")
   files_location = "#{site.source}#{image_location}#{gal_dir}/"
   output_location = "#{collection_name}#{gal_dir}/"
@@ -46,7 +52,7 @@ gal.each do |galitem|
         Dir.mkdir(gallery_notes)
       end
 
-      # make a note to link to this gallery
+      # make an index page for this gallery
 
       indexname = "#{gallery_notes}#{name_slug}.md"
       unless File.exists?(indexname)
@@ -66,7 +72,14 @@ gal.each do |galitem|
       Dir.mkdir(output_location)
      end
     Dir.glob(['*.{jpg,jpeg,tiff,png,gif}'], base: files_location) do |f|
-     
+      thisdate = extract_date(f, date_regex) if date.nil?
+      if !thisdate.nil?
+        date_object = Date.strptime(thisdate, "%m%d%y")
+        thisdate = date_object.strftime("%Y-%m-%d")
+      else
+      thisdate = dateadded
+      end
+
      filename = "#{output_location}#{f.to_slug.sub(/-\Z/,"")}.md"
      if File.exist?(filename)
   			next
@@ -74,7 +87,7 @@ gal.each do |galitem|
     		file = File.new(filename, "w+")
     		file.puts "---"
     		file.puts "title: #{f}"
-    		file.puts "date: #{date}"
+    		file.puts "date: #{thisdate}"
     		file.puts "dateadded: #{dateadded}"
     		file.puts "link: #{image_location}#{gal_dir}/#{f}"
     		file.puts "gallery: #{name_slug}"
