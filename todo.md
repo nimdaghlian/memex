@@ -8,9 +8,12 @@ layout: default
 * [x] extract date from well-formed filenames of assets
 * [x] put up Todos
 * [ ] update nav
+* [ ] add a status item to sidebar "ie edited / not processed / dumped etc"
+* [x] add media type to media note
 * [ ] make a basic all-activity rss feed
 * [ ] think about how to make a more sophisticated one
-* [ ] add pagination to gallery contents based on the gallery you came from
+* [x] create site index json object
+* [x] add pagination to gallery contents based on the gallery you came from
 * [ ] add dateadded to cards
 * [ ] look into how tags are currently working
 * [ ] make a decision about tags / terms

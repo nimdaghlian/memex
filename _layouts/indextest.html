@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JSON Data Filtering</title>
+</head>
+<body>
+
+  <script>
+    // Function to fetch JSON data from the given URL
+    async function fetchJSONData(url) {
+      try {
+        const response = await fetch(url);
+        if (!response.ok) {
+          throw new Error('Network response was not ok.');
+        }
+        return await response.json();
+      } catch (error) {
+        console.error('Error fetching JSON data:', error);
+        return [];
+      }
+    }
+
+    // Function to filter the JSON objects based on key and value
+    function filterObjectsByKeyValue(jsonData, key, value) {
+      return jsonData.filter(obj => {
+        if (Array.isArray(obj[key])) {
+          return obj[key].includes(value);
+        } else {
+          return obj[key] === value;
+        }
+      });
+    }
+
+    // Function to find the index of an object in the filtered array based on its ID
+    function findObjectIndexByID(filteredObjects, id) {
+      return filteredObjects.findIndex(obj => obj.id === id);
+    }
+
+    // Example usage:
+    const defaultFilterKey = "gallery"; // Default key to filter by
+    const defaultFilterValue = "pikas-place"; // Default value to filter by
+    const jsonURL = "/site-index.json"; // Replace this with the correct JSON file path
+    const currentPageID = "{{ page.url }}";
+    // const currentPageID = "/media/pikas-place/pikas-place072719-jpeg";
+    const allowedQueryKeys = "gallery, category, collection, tags";
+    let filterKey = defaultFilterKey;
+    let filterValue = defaultFilterValue;
+
+    // Get the query string keys and values
+    const queryStringKeys = Object.fromEntries(new URLSearchParams(window.location.search));
+    
+    // Find the first allowed query string key and set the corresponding filterKey and filterValue
+    for (const key of allowedQueryKeys) {
+      if (queryStringKeys[key]) {
+        filterKey = key;
+        filterValue = queryStringKeys[key];
+        break;
+      }
+    }
+
+    fetchJSONData(jsonURL)
+      .then(jsonData => {
+        // Filter objects based on the specified key and value
+        const filteredObjects = filterObjectsByKeyValue(jsonData, filterKey, filterValue);
+        console.log("Filtered objects:", filteredObjects);
+
+        // Find the index of the current page's ID in the filtered array
+        const currentIndex = findObjectIndexByID(filteredObjects, currentPageID);
+
+        // Find the IDs of the previous and next objects (if available)
+        const previousObjectID = currentIndex > 0 ? filteredObjects[currentIndex - 1].id : null;
+        const nextObjectID = currentIndex < filteredObjects.length - 1 ? filteredObjects[currentIndex + 1].id : null;
+
+        // Create links with the titles of the previous and next objects (if available)
+        const bodyElement = document.querySelector('body');
+
+        if (previousObjectID) {
+          const previousLink = document.createElement('a');
+          previousLink.href = previousObjectID;
+          previousLink.textContent = filteredObjects[currentIndex - 1].title;
+          bodyElement.appendChild(previousLink);
+        }
+
+        if (nextObjectID) {
+          const nextLink = document.createElement('a');
+          nextLink.href = nextObjectID;
+          nextLink.textContent = filteredObjects[currentIndex + 1].title;
+          bodyElement.appendChild(nextLink);
+        }
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+  </script>
+
+</body>
+</html>

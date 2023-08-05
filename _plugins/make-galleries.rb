@@ -38,9 +38,9 @@ gal.each do |galitem|
   # put all mds for images in _media/name bc it mirrors the assets dir
   # put all galleries in a _galleries collection, no notes, simple permalinks
 
-  # make pages for every image in the specified directory #
+  ## Make pages for every image in the specified directory 
 
-  # make sure the gallery exists
+  # only run if the media directory exists
   if File.exists?(files_location)
 
     # make gallery index #
@@ -60,42 +60,65 @@ gal.each do |galitem|
       newindex.puts "---"
       newindex.puts "title: #{gal_name}"
       newindex.puts "gallery: #{name_slug}"
+      # TODO think about other statuses, what to use them for
+      newindex.puts "status: fresh"
+      # TODO allow layout string to be set from config
       newindex.puts "layout: gallery"
       newindex.puts "--- \n"
       end
     else
-      # add error message for galleries needing to have a name
+    # TODO add error message for galleries needing to have a name
     end
     
-    # add flag to overwrite, or to delete notes with no file
+    # TODO add flag to overwrite, or to delete notes with no file
     if !File.exist?(output_location)
       Dir.mkdir(output_location)
      end
     Dir.glob(['*.{jpg,jpeg,tiff,png,gif}'], base: files_location) do |f|
+    
+      ## Date Handling ##
+    
+      # If file name has an expected date pattern, set that as the date
+      # only run if no date has been manually set from config
+      # TODO allow regex to be set from config
+
       thisdate = extract_date(f, date_regex) if date.nil?
+      # set format
       if !thisdate.nil?
         date_object = Date.strptime(thisdate, "%m%d%y")
         thisdate = date_object.strftime("%Y-%m-%d")
       else
+      # set date as dateadded if there are no other sources for it
       thisdate = dateadded
       end
+      fileslug = f.to_slug.sub(/-\Z/,"")
+      filename = "#{output_location}#{fileslug}.md"
 
-     filename = "#{output_location}#{f.to_slug.sub(/-\Z/,"")}.md"
-     if File.exist?(filename)
+      # TODO flag to overwrite 
+      if File.exist?(filename)
   			next
-    	 else
+    	  
+      else
     		file = File.new(filename, "w+")
     		file.puts "---"
     		file.puts "title: #{f}"
     		file.puts "date: #{thisdate}"
     		file.puts "dateadded: #{dateadded}"
     		file.puts "link: #{image_location}#{gal_dir}/#{f}"
-    		file.puts "gallery: #{name_slug}"
+        # TODO check against a set of file extensions and label appropriately
+        file.puts "type: image"
+        file.puts "gallery: #{name_slug}"
+        # NOTE this is pretty jekyll specific, but specifying a permalink means that you could
+        file.puts "permalink: /media/#{name_slug}/#{fileslug}"
     		file.puts "layout: asset"
     		file.puts "tags: #{gal_tags}"
     		file.puts "--- \n"
     		file.close
+
+        # TODO output a json / yaml file that indexes all media files for pagination, indexing
+        # TODO figure out the actual right time and place to do this. seems like a separate plugin
     	end
+
     end
 
     # set tags #
@@ -110,8 +133,8 @@ gal.each do |galitem|
     end
 end
 
-
-# make notes for new tags too. this should defo be cleaned up later
+  # TODO probably should extract out tag handling, but think more
+  # make notes for new tags too. this should defo be cleaned up later
    everytag.each do |tagpage|
      tag_output = "#{notes_location}tags/"
       unless File.exists?(tag_output)
@@ -120,8 +143,7 @@ end
         indexname = "#{tag_output}#{tagpage.to_slug.sub(/-\Z/,"")}.md"
         unless File.exists?(indexname)
         newindex = File.new(indexname, "w+")
- # later accept default overrides from config
-       
+  # later accept default overrides from config
           newindex.puts "---"
           newindex.puts "title: #{tagpage}"
           newindex.puts "layout: tag"

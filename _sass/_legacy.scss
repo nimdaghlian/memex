@@ -353,6 +353,22 @@ body.home {
   }
 }
 
+article.asset {
+
+  .asset-nav {
+    margin: 20px 0px;
+    #previous-asset {
+      float: left;
+    }
+  
+    #next-asset {
+      float: right;
+    }
+  
+  }
+}
+
+
 // modifiers
 
 .desaturate {

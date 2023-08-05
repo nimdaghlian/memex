@@ -4,7 +4,7 @@ metasomething:
 metaanotherthing:
 ---
 
-<article>
+<article class="asset">
   <div>
   </div>
 
@@ -17,10 +17,14 @@ metaanotherthing:
         {{ content }}
 <!-- end excerpt -->
       </content>
-
+      <hr>
     </side>
   </div>
-</article>
+  <div class="asset-nav">
+    <button id="previous-asset" class="block" style="display: none;"></button>
+    <button id="next-asset" class="block" style="display: none;"></button>  
+  </div>
+  </article>
 
-<hr>
+{% include paginate-from-source.html  %}
 

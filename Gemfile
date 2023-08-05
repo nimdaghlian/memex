@@ -13,6 +13,7 @@ gem "webrick", "~> 1.7"
 gem "nokogiri"
 gem 'feed-normalizer'
 gem 'time'
+gem 'json'
 gem 'yaml'
 gem 'to_slug'
 gem 'sanitize'
@@ -27,7 +28,6 @@ gem 'rss'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem 'jekyll-paginate-v2'
   gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
 end
 

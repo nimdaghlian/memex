@@ -34,10 +34,10 @@
               </div>
               <div class="content">
                 <div class="content" style="background-image: url({{post.link | resize: '400>x400'}}); margin: auto; height: 200px; background-repeat: no-repeat; background-position: center; background-size: cover;">
-                <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" style="width: 100%; height: 200px; display: block;"></a>
+                <a href="{{ post.url }}?gallery={{page.gallery}}" target="_blank" title="{{ post.title }}" style="width: 100%; height: 200px; display: block;"></a>
                 </div>
                 <h3>
-                  <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="card-link page_hilight">{{ post.title }}</a>
+                  <a href="{{ post.url }}?gallery={{page.gallery}}" target="_blank" title="{{ post.title }}" class="card-link page_hilight">{{ post.title }}</a>
                 </h3>
                     {% if post.excerpt  %}
                       <div>
