@@ -18,4 +18,6 @@ layout: default
 * [ ] look into how tags are currently working
 * [ ] make a decision about tags / terms
 * [ ] draw a line on how much to develop on Jekyll before reevaluating platforms
+* [ ] make a make-collection plugin for notes, etc
+* [ ] make a simple all-content index
 * [ ] post!

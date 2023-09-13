@@ -7,3 +7,6 @@ gallery: everything-in-my-wifes-bag-two-days-after-we-got-married
 layout: asset
 tags: ["drawing", "art", "Martha"]
 --- 
+
+
+[[Martha]]

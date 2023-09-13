@@ -6,4 +6,6 @@ link: /assets/pikas-place/pikas-place041219.jpeg
 gallery: pikas-place
 layout: asset
 tags: ["art", "memorial"]
+categories: media image
+
 --- 

@@ -1,6 +1,7 @@
 ---
 title: Pika's Place
 gallery: pikas-place
+categories: gallery collection
 layout: gallery
 color: dimgrey
 --- 

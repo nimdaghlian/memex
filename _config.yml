@@ -29,35 +29,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
 # Build settings
+
+exclude:
+  - _includes/notes_graph.json
 
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
-
-
-pagination:
-  per_page: 35
-
-autopages:
-  enabled: true
-  categories:
-    layouts:
-      - 'category.html'
-    title: 'Posts in category :cat'
-  collections:
-    enabled: true
-    layouts:
-      - 'collection.html'
-    title: ':collection'
-  tags:
-    enabled: true
-    title: 'Posts tagged with :tag'
-
-
-
 safe: false 
-
 
 
 collections:
@@ -71,6 +52,15 @@ collections:
     output: true
     permalink: /:path/index.html
 
+feed:
+  disable_in_development: false
+  path: feeds/updates.atom
+  tags:
+    path: "feeds/tag/"
+  collections:
+      - notes
+      - media
+      - galleries
 
 # Exclude from processing.
 # The following items will not be processed, by default.

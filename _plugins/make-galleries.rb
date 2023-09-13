@@ -62,6 +62,7 @@ gal.each do |galitem|
       newindex.puts "gallery: #{name_slug}"
       # TODO think about other statuses, what to use them for
       newindex.puts "status: fresh"
+      newindex.puts "categories: collection gallery"
       # TODO allow layout string to be set from config
       newindex.puts "layout: gallery"
       newindex.puts "--- \n"
@@ -106,7 +107,9 @@ gal.each do |galitem|
     		file.puts "dateadded: #{dateadded}"
     		file.puts "link: #{image_location}#{gal_dir}/#{f}"
         # TODO check against a set of file extensions and label appropriately
-        file.puts "type: image"
+        # This would be on the way to making a more generic "media collection" utility
+        # so you'd want your template to detect the asset type / assign different template (less pref)
+        file.puts "categories: media image"
         file.puts "gallery: #{name_slug}"
         # NOTE this is pretty jekyll specific, but specifying a permalink means that you could
         file.puts "permalink: /media/#{name_slug}/#{fileslug}"

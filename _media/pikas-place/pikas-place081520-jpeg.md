@@ -6,4 +6,5 @@ link: /assets/pikas-place/pikas-place081520.jpeg
 gallery: pikas-place
 layout: asset
 tags: ["art", "memorial"]
+categories: media image
 --- 
