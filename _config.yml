@@ -34,11 +34,21 @@ github_username:  jekyll
 
 exclude:
   - _includes/notes_graph.json
+  - _data/site-index.json
 
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-archives
 safe: false 
+
+tag_index_layout: note
+tag_index_dir: _mytags
+
+cat_index_layout: note
+cat_index_dir: _mycats
+
+
 
 
 collections:

@@ -136,23 +136,6 @@ gal.each do |galitem|
     end
 end
 
-  # TODO probably should extract out tag handling, but think more
-  # make notes for new tags too. this should defo be cleaned up later
-   everytag.each do |tagpage|
-     tag_output = "#{notes_location}tags/"
-      unless File.exists?(tag_output)
-          Dir.mkdir(tag_output)
-      end
-        indexname = "#{tag_output}#{tagpage.to_slug.sub(/-\Z/,"")}.md"
-        unless File.exists?(indexname)
-        newindex = File.new(indexname, "w+")
-  # later accept default overrides from config
-          newindex.puts "---"
-          newindex.puts "title: #{tagpage}"
-          newindex.puts "layout: tag"
-          newindex.puts "--- \n"
-      end
-      p "Handled tag: #{tagpage}"
-  end
+
 
 end
