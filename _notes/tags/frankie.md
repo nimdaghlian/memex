@@ -1,4 +1,0 @@
----
-title: frankie
-layout: tag
---- 

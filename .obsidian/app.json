@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "Memex/assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Drafts",
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "_plugins/",
+    "_site/",
+    "_sass/",
+    "_data/",
+    "_layouts/"
+  ]
+}

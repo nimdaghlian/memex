@@ -94,6 +94,7 @@ GEM
     rouge (3.30.0)
     rss (0.2.9)
       rexml
+    rsync (1.0.9)
     safe_yaml (1.0.5)
     sanitize (6.0.2)
       crass (~> 1.0.2)
@@ -126,6 +127,7 @@ DEPENDENCIES
   json
   nokogiri
   rss
+  rsync
   safe_yaml
   sanitize
   time

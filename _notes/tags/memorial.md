@@ -1,4 +1,0 @@
----
-title: memorial
-layout: tag
---- 

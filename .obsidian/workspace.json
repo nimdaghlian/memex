@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "27371765671b14d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "38c378c89e569750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa132038d01b930d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "733313dcb182471b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7dc079c0274eaa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fab0c5de45a701f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1df9207d4f2ae63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5aefb0bd7dbc654c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9012175d64067c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62e81ea8f072ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1011a48568dcf799",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb93479732cc20a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "notion-like-tables:Create new loom": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "aa132038d01b930d",
+  "lastOpenFiles": [
+    "_site/everything.xml",
+    "_site/site-index.json",
+    "_site/expoch-go-2022/index.html",
+    "_site/expoch-go-2022",
+    "_site/they-always-have-and-still-do/index.html",
+    "_site/they-always-have-and-still-do",
+    "_site/adventures-of-a-n/index.html",
+    "_site/adventures-of-a-n",
+    "_site/wushi.html",
+    "_site/synths/index.html",
+    "_site/synths",
+    "_tags/friend.md",
+    "_tags/fren.md",
+    "_tags/cozyweb.md",
+    "_tags/conceptual labor.md",
+    "_tags/books.md",
+    "_tags/Place and Time.md",
+    "_tags/\noctothorpe.md",
+    "_notes/times/expoch-go-2022.md",
+    "_notes/times/clearings-exhibition.md",
+    "_notes/times/Adventures of A & N.md",
+    "_notes/times/They Always Have and Still Do.md",
+    "_notes/things/books/The Conceptual Labor Book.md",
+    "_notes/things/wushi.md",
+    "_notes/things/synths.md",
+    "_notes/things/Urs.md",
+    "_notes/things/Slow Motion Bullseyes.md",
+    "_notes/projects/octothorpethoughts.md",
+    "_notes/projects/Research Club.md",
+    "_notes/places/Worker's Tap.md",
+    "_notes/places/Mother Foucault's.md",
+    "_notes/places/Dawn Treader Books.md",
+    "_notes/people/me.md",
+    "_notes/people/goodboiz.md",
+    "_notes/people/Spencer Chang.md",
+    "_notes/people/Ryan.md",
+    "_site/assets/ryan-tweet-lost-web.png",
+    "_site/assets/rc/rc-4.jpg",
+    "_site/assets/rc/rc-3.jpg",
+    "_site/assets/rc/rc-2.jpg",
+    "_site/assets/rc/rc-1.jpg",
+    "_site/assets/original-digital-garden-tweet.png",
+    "_site/assets/bernard-black.png",
+    "_site/assets/always-have-still-do/IMG_2820.jpeg",
+    "_site/assets/always-have-still-do/IMG_2819.jpeg",
+    "_site/assets/always-have-still-do/IMG_2818.jpeg"
+  ]
+}

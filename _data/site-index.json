@@ -1,161 +1,330 @@
 [
   {
-    "id": "/my-other-pen/",
+    "id": "/garden-of-blogs/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "13-Sep-23",
-    "layout": "note",
-    "type": "thing",
-    "tags": [
-      "stuff"
-    ],
-    "title": "My other pen",
-    "slug": "My Other Pen",
+    "last_modified_at": "17-Sep-23",
+    "title": "Garden of blogs",
+    "slug": "Garden of Blogs",
     "ext": ".md",
-    "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. hello [[Blartha]]</p>\n",
+    "tags": [
+
+    ],
+    "excerpt": "<h2 id=\"do-you-require-more-slow-internet-browsing\">Do you require more slow internet browsing?</h2>\n",
     "backlink_index": [
       {
-        "title": "My Pen",
-        "url": "/my-pen/",
-        "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. [[Blartha]]</p>\n"
+        "title": "Garden of blogs",
+        "url": "/garden-of-blogs/",
+        "excerpt": "<h2 id=\"do-you-require-more-slow-internet-browsing\">Do you require more slow internet browsing?</h2>\n"
       }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
-    "id": "/blartha/",
+    "id": "/patterns-of-intention/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "13-Sep-23",
-    "layout": "note",
-    "type": "thing",
-    "tags": [
-      "stuff"
-    ],
-    "title": "Blartha",
-    "slug": "blartha",
+    "last_modified_at": "17-Sep-23",
+    "title": "Patterns of intention",
+    "slug": "Patterns of Intention",
     "ext": ".md",
-    "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. hello ASD;LFJA;LKSDJ  asdfas</p>\n",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <em>Patterns of Intention</em> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n",
     "backlink_index": [
       {
-        "title": "My other pen",
-        "url": "/my-other-pen/",
-        "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. hello [[Blartha]]</p>\n"
+        "title": "They always have and still do",
+        "url": "/they-always-have-and-still-do/",
+        "excerpt": "<p><img src=\"Memex/assets/always-have-still-do/IMG_2603.jpeg\" alt=\"\" /></p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/about-gardening-this-garden/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "14-Sep-23",
+    "title": "About Gardening This Garden",
+    "slug": "About Gardening This Garden",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<h2 id=\"how-i-started-this-garden\">How I Started this Garden</h2>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/development-log/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "14-Sep-23",
+    "title": "Garden Development Log",
+    "slug": "Development Log",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/goals/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Goals",
+    "slug": "Goals",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>10.16.22</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/memex-sketch/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-May-23",
+    "title": "Memex sketch",
+    "slug": "Memex sketch",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<h1 id=\"bloggarden\">Bloggarden</h1>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/aaron/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Aaron",
+    "slug": "Aaron",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a>and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n",
+    "backlink_index": [
+      {
+        "title": "Andrea",
+        "url": "/andrea/",
+        "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/abe/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "22-Apr-22",
+    "title": "Abe Ingle",
+    "tags": [
+      "fren",
+      "friend"
+    ],
+    "slug": "Abe",
+    "ext": ".md",
+    "excerpt": "<p>Abe loves fun and a bad cat named Baxter.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       },
       {
-        "title": "My Pen",
-        "url": "/my-pen/",
-        "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. [[Blartha]]</p>\n"
+        "title": "Synthesizers",
+        "url": "/synths/",
+        "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
-    "id": "/my-pen/",
+    "id": "/andrea/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Andrea",
+    "slug": "Andrea",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n",
+    "backlink_index": [
+      {
+        "title": "Aaron",
+        "url": "/aaron/",
+        "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a>and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/clamber/",
     "draft": false,
     "categories": [
 
     ],
     "last_modified_at": "13-Sep-23",
-    "layout": "note",
-    "type": "thing",
+    "title": "Clamber",
     "tags": [
-      "tag",
-      "another tag",
-      "a third tag"
+      "fren",
+      "friend"
     ],
-    "title": "My Pen",
-    "slug": "my-pen",
+    "slug": "Clamber",
     "ext": ".md",
-    "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. [[Blartha]]</p>\n",
+    "excerpt": "<p><img src=\"/images/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n",
     "backlink_index": [
-
+      {
+        "title": "Spencer Chang",
+        "url": "/spencer-chang/",
+        "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      },
+      {
+        "title": "Adventures of A & N",
+        "url": "/adventures-of-a-n/",
+        "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
+      }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
-    "id": "/art/",
+    "id": "/evan/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "13-Sep-23",
-    "title": "art",
-    "layout": "tag",
-    "slug": "art",
-    "ext": ".md",
+    "last_modified_at": "14-Sep-23",
+    "title": "Evan",
     "tags": [
-
+      "fren",
+      "friend"
     ],
-    "excerpt": "<p>[[Something]]</p>\n",
+    "slug": "Evan",
+    "ext": ".md",
+    "excerpt": "<p>Follow Evan’s pursuits at his <a href=\"https://evans-thoughts-garden.onrender.com\">digital garden</a>.</p>\n",
     "backlink_index": [
-
+      {
+        "title": "About Gardening This Garden",
+        "url": "/about-gardening-this-garden/",
+        "excerpt": "<h2 id=\"how-i-started-this-garden\">How I Started this Garden</h2>\n"
+      },
+      {
+        "title": "Goodboiz.md",
+        "url": "/goodboiz/",
+        "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
-    "id": "/drawing/",
+    "id": "/john-james/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "25-Jul-23",
-    "title": "drawing",
-    "layout": "tag",
-    "slug": "drawing",
+    "last_modified_at": "14-Sep-23",
+    "title": "John James",
+    "slug": "John James",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "\n",
+    "excerpt": "<p>John James made <a href=\"https://www.instagram.com/p/CcdmrXkv--S/\">this bench</a> look hella better</p>\n",
     "backlink_index": [
-
+      {
+        "title": "Goodboiz.md",
+        "url": "/goodboiz/",
+        "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
-    "id": "/frankie/",
+    "id": "/jon/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "27-Jul-23",
-    "title": "frankie",
-    "layout": "tag",
-    "slug": "frankie",
-    "ext": ".md",
+    "last_modified_at": "09-May-22",
+    "title": "Mumonkan",
     "tags": [
-
+      "friend",
+      "fren"
     ],
-    "excerpt": "\n",
-    "backlink_index": [
-
-    ],
-    "date": "2023-09-17 15:35:22 -0700"
-  },
-  {
-    "id": "/grapefruits/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "25-Jul-23",
-    "title": "Grapefruits",
-    "layout": "tag",
-    "slug": "grapefruits",
+    "slug": "Jon",
     "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "\n",
+    "excerpt": "<p>Invented the term “hypolink”</p>\n",
     "backlink_index": [
-
+      {
+        "title": "Spencer Chang",
+        "url": "/spencer-chang/",
+        "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      },
+      {
+        "title": "Worker's tap",
+        "url": "/worker-s-tap/",
+        "excerpt": "<p><a href=\"https://workerstap.com/\">The Worker’s Tap</a> is basically our extra living room. It’s a worker-owned anarchist socialist lefty everything bar run by and frequented by the nicest people. We’ve played DnD there about a million times. They let me have my birthday there, and when [[Mykle]] and [[Jon]] and I got stuck in the middle of the World Naked Bike Ride by Michael’s Italian Beef*, they let me come in and order a beer as long as I had “something covering my lower half.”</p>\n"
+      }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
     "id": "/martha/",
@@ -163,59 +332,490 @@
     "categories": [
 
     ],
-    "last_modified_at": "25-Jul-23",
-    "title": "Martha",
-    "layout": "tag",
-    "slug": "martha",
+    "last_modified_at": "18-Apr-22",
+    "title": "💖Martha💖",
+    "slug": "Martha",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "\n",
+    "excerpt": "<p><a href=\"http://athousandcirclets.garden\">get lost in her garden</a></p>\n",
     "backlink_index": [
-
+      {
+        "title": "Patterns of intention",
+        "url": "/patterns-of-intention/",
+        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <em>Patterns of Intention</em> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+      }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
-    "id": "/memorial/",
+    "id": "/nik/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "27-Jul-23",
-    "title": "memorial",
-    "layout": "tag",
-    "slug": "memorial",
+    "last_modified_at": "14-Sep-23",
+    "title": "Nik Wise",
+    "slug": "Nik",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "\n",
+    "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n",
     "backlink_index": [
-
+      {
+        "title": "Goals",
+        "url": "/goals/",
+        "excerpt": "<p>10.16.22</p>\n"
+      },
+      {
+        "title": "Ryan Gantz",
+        "url": "/ryan/",
+        "excerpt": "<p>Ryan is as nice as he is tall, which is “very!”</p>\n"
+      },
+      {
+        "title": "Spencer Chang",
+        "url": "/spencer-chang/",
+        "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
+      },
+      {
+        "title": "Goodboiz.md",
+        "url": "/goodboiz/",
+        "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      },
+      {
+        "title": "octothorpethoughts",
+        "url": "/octothorpethoughts/",
+        "excerpt": "<p>I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n"
+      }
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
-    "id": "/stuff/",
+    "id": "/ryan/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "25-Jul-23",
-    "title": "stuff",
-    "layout": "tag",
-    "slug": "stuff",
+    "last_modified_at": "20-Apr-22",
+    "title": "Ryan Gantz",
+    "slug": "Ryan",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "\n",
+    "excerpt": "<p>Ryan is as nice as he is tall, which is “very!”</p>\n",
+    "backlink_index": [
+      {
+        "title": "About Gardening This Garden",
+        "url": "/about-gardening-this-garden/",
+        "excerpt": "<h2 id=\"how-i-started-this-garden\">How I Started this Garden</h2>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/spencer-chang/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "13-Sep-23",
+    "title": "Spencer Chang",
+    "slug": "Spencer Chang",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n",
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/goodboiz/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "14-Sep-23",
+    "title": "Goodboiz.md",
+    "slug": "goodboiz",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n",
+    "backlink_index": [
+      {
+        "title": "Evan",
+        "url": "/evan/",
+        "excerpt": "<p>Follow Evan’s pursuits at his <a href=\"https://evans-thoughts-garden.onrender.com\">digital garden</a>.</p>\n"
+      },
+      {
+        "title": "John James",
+        "url": "/john-james/",
+        "excerpt": "<p>John James made <a href=\"https://www.instagram.com/p/CcdmrXkv--S/\">this bench</a> look hella better</p>\n"
+      },
+      {
+        "title": "Nik Wise",
+        "url": "/nik/",
+        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/me/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "14-Sep-23",
+    "title": "Me",
+    "slug": "me",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Goodboiz.md",
+        "url": "/goodboiz/",
+        "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
+      },
+      {
+        "title": "Adventures of A & N",
+        "url": "/adventures-of-a-n/",
+        "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/dawn-treader-books/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Dawn treader books",
+    "slug": "Dawn Treader Books",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p><a href=\"https://shop.dawntreaderbooks.com/?page_id=17\">Dawn Treader</a> is a bookstore in Ann Arbor, founded in 1976. [[Corby]] ran it for years and always let me work there when I ended up back in Ann Arbor for some dumb reason or another as a 20-something. After he passed away, Africa Schuamann, who had been manager for a while, really took over and <a href=\"https://www.mlive.com/news/ann-arbor/2023/08/new-owner-of-dawn-treader-continues-legacy-for-longtime-ann-arbor-book-shop.html?outputType=amp\">eventually bought the place</a>. She’s really done right by the place, including replacing the awful florescent lights with classy pendant lights. She was also the one who let us in to the basement to rescue Corby’s years of rude collages.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Slow motion bullseyes",
+        "url": "/slow-motion-bullseyes/",
+        "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/mother-foucault-s/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Mother foucault's",
+    "slug": "Mother Foucault's",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Mother Foucault’s is a bookstore in the dirty southeast of Portland Oregon run by Craig. Here’s a picture of him at work:</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/worker-s-tap/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Worker's tap",
+    "slug": "Worker's Tap",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p><a href=\"https://workerstap.com/\">The Worker’s Tap</a> is basically our extra living room. It’s a worker-owned anarchist socialist lefty everything bar run by and frequented by the nicest people. We’ve played DnD there about a million times. They let me have my birthday there, and when [[Mykle]] and [[Jon]] and I got stuck in the middle of the World Naked Bike Ride by Michael’s Italian Beef*, they let me come in and order a beer as long as I had “something covering my lower half.”</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/research-club/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Research club",
+    "slug": "Research Club",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>From 2009 to 2015, <strong>Research Club</strong> was a collectively-run organization that hosted a free, monthly brunch where local artists, makers, and organizers gave semi-formal talks about the projects that they were working on, the problems they were trying to solve, and the people that they were inspired by.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/octothorpethoughts/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "13-Sep-23",
+    "tags": [
+      "\noctothorpe",
+      "cozyweb"
+    ],
+    "title": "octothorpethoughts",
+    "layout": "note",
+    "poster": "",
+    "slug": "octothorpethoughts",
+    "ext": ".md",
+    "excerpt": "<p>I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Goals",
+        "url": "/goals/",
+        "excerpt": "<p>10.16.22</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/slow-motion-bullseyes/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Slow motion bullseyes",
+    "slug": "Slow Motion Bullseyes",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/urs/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Urs",
+    "slug": "Urs",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Urs or “an Ur” is my term for the basic, underlying format of how you conceive of anything. The language your brain uses. The quanta of thought.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/the-conceptual-labor-book/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "22-Apr-22",
+    "title": "The Conceptual Labor Book",
+    "tags": [
+      "books",
+      "conceptual labor"
+    ],
+    "slug": "The Conceptual Labor Book",
+    "ext": ".md",
+    "excerpt": "<table>\n  <tbody>\n    <tr>\n      <td>This is the Conceptual Labor [[books</td>\n      <td>book]] that I wrote.</td>\n    </tr>\n  </tbody>\n</table>\n",
+    "backlink_index": [
+      {
+        "title": "John James",
+        "url": "/john-james/",
+        "excerpt": "<p>John James made <a href=\"https://www.instagram.com/p/CcdmrXkv--S/\">this bench</a> look hella better</p>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/synths/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "14-Sep-23",
+    "title": "Synthesizers",
+    "slug": "synths",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n",
+    "backlink_index": [
+      {
+        "title": "Abe Ingle",
+        "url": "/abe/",
+        "excerpt": "<p>Abe loves fun and a bad cat named Baxter.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/wushi",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "10-Jan-23",
+    "layout": "page",
+    "title": "Wushi",
+    "permalink": "/wushi",
+    "slug": "wushi",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Lacking by the elegance and refinement of sushi, free of the “good recipes” of tapas, and void of the cachet of nouvelle-cuisine, Wushi is distinguished from other small-plate traditions by placing priority on the question “what do I want to put in my mouth” rather than the question “what should I put in my mouth”.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/adventures-of-a-n/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "22-Apr-22",
+    "title": "Adventures of A & N",
+    "tags": [
+      "books",
+      "Place and Time"
+    ],
+    "slug": "Adventures of A & N",
+    "ext": ".md",
+    "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Clamber",
+        "url": "/clamber/",
+        "excerpt": "<p><img src=\"/images/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/they-always-have-and-still-do/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "They always have and still do",
+    "slug": "They Always Have and Still Do",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p><img src=\"Memex/assets/always-have-still-do/IMG_2603.jpeg\" alt=\"\" /></p>\n",
+    "backlink_index": [
+      {
+        "title": "Patterns of intention",
+        "url": "/patterns-of-intention/",
+        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <em>Patterns of Intention</em> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/clearings-exhibition/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "09-Oct-22",
+    "title": "Clearings Exhibition",
+    "gallery": "clearings-exhibition",
+    "layout": "bucket-gallery",
+    "color": "green",
+    "tags": [
+      "Grapefruits"
+    ],
+    "slug": "clearings-exhibition",
+    "ext": ".md",
+    "excerpt": "<p>Gallery: Clearings Exhibition</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
+  },
+  {
+    "id": "/expoch-go-2022/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "14-Sep-23",
+    "tags": [
+      "place and time",
+      "art"
+    ],
+    "title": "EXPOCH GO 2022",
+    "layout": "note-with-poster",
+    "poster": "/uploads/expo-2022.jpeg",
+    "slug": "expoch-go-2022",
+    "ext": ".md",
+    "excerpt": "<p>[[Memex/_notes/people/Martha]] and I went to <a href=\"https://www.expochicago.com\">Expo Chicago</a> and all the signs made it look like “EXPOCH GO”</p>\n",
+    "backlink_index": [
+      {
+        "title": "Garden Development Log",
+        "url": "/development-log/",
+        "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n"
+      }
+    ],
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
     "id": "/media/pikas-place/pikas-place011519-jpeg",
@@ -2917,7 +3517,7 @@
     "slug": "clearings-exhibition",
     "ext": ".md",
     "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. Pellentesque pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. Now it’s updated!</p>\n",
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
     "id": "/everything-in-my-wifes-bag-two-days-after-we-got-married/index.html",
@@ -2935,7 +3535,7 @@
 
     ],
     "excerpt": "\n",
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
     "id": "/oops-all-frankies/index.html",
@@ -2955,7 +3555,7 @@
     "slug": "oops-all-frankies",
     "ext": ".md",
     "excerpt": "\n",
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   },
   {
     "id": "/pikas-place/index.html",
@@ -2975,6 +3575,6 @@
 
     ],
     "excerpt": "<p>Someone has been leaving touching memorials for their son, who went by Pika, on the same pillar of the Morrison Bridge since at least 2019. This was right outside the door to my studio for years, so I did my best to document it whenever I could before the Portland graffiti removal team would paint over it. Pika, I didn’t know you, but you are remembered.🖤🖤🖤</p>\n",
-    "date": "2023-09-17 15:35:22 -0700"
+    "date": "2023-09-17 16:41:24 -0700"
   }
 ]

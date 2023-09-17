@@ -1,4 +1,0 @@
----
-title: Grapefruits
-layout: tag
---- 
