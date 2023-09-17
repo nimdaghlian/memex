@@ -1,6 +1,31 @@
 [
   {
-    "id": "/blartha",
+    "id": "/my-other-pen/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "13-Sep-23",
+    "layout": "note",
+    "type": "thing",
+    "tags": [
+      "stuff"
+    ],
+    "title": "My other pen",
+    "slug": "My Other Pen",
+    "ext": ".md",
+    "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. hello [[Blartha]]</p>\n",
+    "backlink_index": [
+      {
+        "title": "My Pen",
+        "url": "/my-pen/",
+        "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. [[Blartha]]</p>\n"
+      }
+    ],
+    "date": "2023-09-17 15:35:22 -0700"
+  },
+  {
+    "id": "/blartha/",
     "draft": false,
     "categories": [
 
@@ -17,20 +42,20 @@
     "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. hello ASD;LFJA;LKSDJ  asdfas</p>\n",
     "backlink_index": [
       {
-        "title": "My Pen Other",
-        "url": "/my-pen-other",
+        "title": "My other pen",
+        "url": "/my-other-pen/",
         "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. hello [[Blartha]]</p>\n"
       },
       {
         "title": "My Pen",
-        "url": "/my-pen",
+        "url": "/my-pen/",
         "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. [[Blartha]]</p>\n"
       }
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/my-pen-other",
+    "id": "/my-pen/",
     "draft": false,
     "categories": [
 
@@ -39,28 +64,9 @@
     "layout": "note",
     "type": "thing",
     "tags": [
-      "stuff"
-    ],
-    "title": "My Pen Other",
-    "slug": "my-pen-other",
-    "ext": ".md",
-    "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. [[Pellentesque]] pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. hello [[Blartha]]</p>\n",
-    "backlink_index": [
-
-    ],
-    "date": "2023-09-13 16:51:30 -0700"
-  },
-  {
-    "id": "/my-pen",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "13-Sep-23",
-    "layout": "note",
-    "type": "thing",
-    "tags": [
-      "stuff"
+      "tag",
+      "another tag",
+      "a third tag"
     ],
     "title": "My Pen",
     "slug": "my-pen",
@@ -69,10 +75,10 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/tags/art",
+    "id": "/art/",
     "draft": false,
     "categories": [
 
@@ -89,10 +95,10 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/tags/drawing",
+    "id": "/drawing/",
     "draft": false,
     "categories": [
 
@@ -109,10 +115,10 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/tags/frankie",
+    "id": "/frankie/",
     "draft": false,
     "categories": [
 
@@ -129,10 +135,10 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/tags/grapefruits",
+    "id": "/grapefruits/",
     "draft": false,
     "categories": [
 
@@ -149,10 +155,10 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/tags/martha",
+    "id": "/martha/",
     "draft": false,
     "categories": [
 
@@ -169,10 +175,10 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/tags/memorial",
+    "id": "/memorial/",
     "draft": false,
     "categories": [
 
@@ -189,10 +195,10 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
-    "id": "/tags/stuff",
+    "id": "/stuff/",
     "draft": false,
     "categories": [
 
@@ -209,7 +215,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
     "id": "/media/pikas-place/pikas-place011519-jpeg",
@@ -2911,7 +2917,7 @@
     "slug": "clearings-exhibition",
     "ext": ".md",
     "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. Pellentesque pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. Now it’s updated!</p>\n",
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
     "id": "/everything-in-my-wifes-bag-two-days-after-we-got-married/index.html",
@@ -2929,7 +2935,7 @@
 
     ],
     "excerpt": "\n",
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
     "id": "/oops-all-frankies/index.html",
@@ -2937,7 +2943,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "27-Jul-23",
+    "last_modified_at": "13-Sep-23",
     "title": "Oops All Frankies",
     "gallery": "oops-all-frankies",
     "color": "dimgrey",
@@ -2949,7 +2955,7 @@
     "slug": "oops-all-frankies",
     "ext": ".md",
     "excerpt": "\n",
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   },
   {
     "id": "/pikas-place/index.html",
@@ -2969,6 +2975,6 @@
 
     ],
     "excerpt": "<p>Someone has been leaving touching memorials for their son, who went by Pika, on the same pillar of the Morrison Bridge since at least 2019. This was right outside the door to my studio for years, so I did my best to document it whenever I could before the Portland graffiti removal team would paint over it. Pika, I didn’t know you, but you are remembered.🖤🖤🖤</p>\n",
-    "date": "2023-09-13 16:51:30 -0700"
+    "date": "2023-09-17 15:35:22 -0700"
   }
 ]

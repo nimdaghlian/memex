@@ -32,9 +32,12 @@ github_username:  jekyll
 
 # Build settings
 
+permalink: /:slug
+
 exclude:
   - _includes/notes_graph.json
   - _data/site-index.json
+ 
 
 plugins:
   - jekyll-feed
@@ -54,10 +57,10 @@ cat_index_dir: _mycats
 collections:
   notes:
     output: true
-    permalink: /:path
+    permalink: /:name/
   media:
     output: true
-    permalink: /:collection/:path
+    permalink: /media/:path
   galleries:
     output: true
     permalink: /:path/index.html
