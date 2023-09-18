@@ -11,11 +11,9 @@
             "id": "aa132038d01b930d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "obsidian-templates/Note Template.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/always-have-still-do/always-have-still-do-060323-5.jpeg"
               }
             }
           },
@@ -25,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Patterns of Intention.md",
+                "file": "_notes/times/Amy Bay at Nationale.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Patterns of Intention.md",
+                "file": "_notes/times/Amy Bay at Nationale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,9 +148,22 @@
   },
   "active": "1055473da8c17ad3",
   "lastOpenFiles": [
+    "assets/always-have-still-do/always-have-still-do-060323-5.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070623.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070923-1.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070923-4.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070923-7.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070923-6.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070923.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070923-3.jpeg",
+    "assets/always-have-still-do/always-have-still-do-060323-4.jpeg",
+    "assets/always-have-still-do/always-have-still-do-070923-2.jpeg",
+    "assets/always-have-still-do/always-have-still-do-060323-1.jpeg",
+    "obsidian-templates/Note Template.md",
+    "_notes/times/Amy Bay at Nationale.md",
+    "_notes/Patterns of Intention.md",
     "_notes/people/Martha.md",
     "_galleries/They Always Have and Still Do.md",
-    "_notes/times/Amy Bay at Nationale.md",
     "_site/media/ty-ennis-at-nationale/ty-ennis-091523-jpeg.html",
     "_site/media/ty-ennis-at-nationale/ty-ennis-091523-9-jpeg.html",
     "_site/media/ty-ennis-at-nationale/ty-ennis-091523-8-jpeg.html",
@@ -182,19 +193,6 @@
     "_media/ty-ennis/ty-ennis-091523-jpeg.md",
     "_media/ty-ennis/ty-ennis-091523-9-jpeg.md",
     "_media/ty-ennis/ty-ennis-091523-8-jpeg.md",
-    "_media/ty-ennis/ty-ennis-091523-6-jpeg.md",
-    "_media/ty-ennis/ty-ennis-091523-5-jpeg.md",
-    "_media/ty-ennis/ty-ennis-091523-4-jpeg.md",
-    "_media/ty-ennis/ty-ennis-091523-34-jpeg.md",
-    "_site/cache/resize/9c4e92421d04f8229a7c044f0c3daeee_400x400.jpeg",
-    "_site/cache/resize/80061eab43890d35f9527a81693041f2_400x400.jpeg",
-    "_site/cache/resize/915476671f024aff9677b34ced5b29bf_400x400.jpeg",
-    "_site/cache/resize/129c371bb076db0fb6144bebcef8206a_400x400.jpeg",
-    "_site/cache/resize/0d1d4f9477c7bc45066cbda8be25ce93_400x400.jpeg",
-    "_site/cache/resize/3a4bec918aeb429bc46fb53da7068cd3_400x400.jpeg",
-    "_site/cache/resize/5470a0eb56371e05e4a14813c25d2e94_400x400.jpeg",
-    "_site/cache/resize/b53aa0ddcf2299facbb531850f11ad67_400x400.jpeg",
-    "_site/cache/resize/f812a505f65bc368e3c039698108d0b7_400x400.jpeg",
-    "_site/cache/resize/4f558c1cbf61fc99c00dc32da249094f_400x400.jpeg"
+    "_media/ty-ennis/ty-ennis-091523-6-jpeg.md"
   ]
 }
