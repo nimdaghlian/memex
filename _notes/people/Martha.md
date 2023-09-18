@@ -1,5 +1,6 @@
 ---
 title: 💖Martha💖
+layout: note
 ---
 
 [get lost in her garden](http://athousandcirclets.garden)

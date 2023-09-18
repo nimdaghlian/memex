@@ -2,6 +2,7 @@
 
 EMPTY_FRONT_MATTER = <<~JEKYLL
   ---
+  layout: note
   ---
 
 JEKYLL

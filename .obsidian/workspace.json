@@ -11,11 +11,28 @@
             "id": "aa132038d01b930d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-templates/Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1055473da8c17ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Patterns of Intention.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Patterns of Intention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,13 +118,23 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "589ab4d87396c1b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -115,56 +143,58 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "aa132038d01b930d",
+  "active": "1055473da8c17ad3",
   "lastOpenFiles": [
-    "_site/everything.xml",
-    "_site/site-index.json",
-    "_site/expoch-go-2022/index.html",
-    "_site/expoch-go-2022",
-    "_site/they-always-have-and-still-do/index.html",
-    "_site/they-always-have-and-still-do",
-    "_site/adventures-of-a-n/index.html",
-    "_site/adventures-of-a-n",
-    "_site/wushi.html",
-    "_site/synths/index.html",
-    "_site/synths",
-    "_tags/friend.md",
-    "_tags/fren.md",
-    "_tags/cozyweb.md",
-    "_tags/conceptual labor.md",
-    "_tags/books.md",
-    "_tags/Place and Time.md",
-    "_tags/\noctothorpe.md",
-    "_notes/times/expoch-go-2022.md",
-    "_notes/times/clearings-exhibition.md",
-    "_notes/times/Adventures of A & N.md",
-    "_notes/times/They Always Have and Still Do.md",
-    "_notes/things/books/The Conceptual Labor Book.md",
-    "_notes/things/wushi.md",
-    "_notes/things/synths.md",
-    "_notes/things/Urs.md",
-    "_notes/things/Slow Motion Bullseyes.md",
-    "_notes/projects/octothorpethoughts.md",
-    "_notes/projects/Research Club.md",
-    "_notes/places/Worker's Tap.md",
-    "_notes/places/Mother Foucault's.md",
-    "_notes/places/Dawn Treader Books.md",
-    "_notes/people/me.md",
-    "_notes/people/goodboiz.md",
-    "_notes/people/Spencer Chang.md",
-    "_notes/people/Ryan.md",
-    "_site/assets/ryan-tweet-lost-web.png",
-    "_site/assets/rc/rc-4.jpg",
-    "_site/assets/rc/rc-3.jpg",
-    "_site/assets/rc/rc-2.jpg",
-    "_site/assets/rc/rc-1.jpg",
-    "_site/assets/original-digital-garden-tweet.png",
-    "_site/assets/bernard-black.png",
-    "_site/assets/always-have-still-do/IMG_2820.jpeg",
-    "_site/assets/always-have-still-do/IMG_2819.jpeg",
-    "_site/assets/always-have-still-do/IMG_2818.jpeg"
+    "_notes/people/Martha.md",
+    "_galleries/They Always Have and Still Do.md",
+    "_notes/times/Amy Bay at Nationale.md",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-9-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-8-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-6-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-5-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-4-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-34-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-33-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-32-jpeg.html",
+    "_site/media/ty-ennis-at-nationale/ty-ennis-091523-31-jpeg.html",
+    "_media/always-have-still-do/always-have-still-do-070923-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070923-7-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070923-6-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070923-5-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070923-4-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070923-3-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070923-2-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070923-1-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-070623-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-060323-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-060323-5-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-060323-4-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-060323-3-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-060323-2-jpeg.md",
+    "_media/always-have-still-do/always-have-still-do-060323-1-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-17-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-9-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-8-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-6-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-5-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-4-jpeg.md",
+    "_media/ty-ennis/ty-ennis-091523-34-jpeg.md",
+    "_site/cache/resize/9c4e92421d04f8229a7c044f0c3daeee_400x400.jpeg",
+    "_site/cache/resize/80061eab43890d35f9527a81693041f2_400x400.jpeg",
+    "_site/cache/resize/915476671f024aff9677b34ced5b29bf_400x400.jpeg",
+    "_site/cache/resize/129c371bb076db0fb6144bebcef8206a_400x400.jpeg",
+    "_site/cache/resize/0d1d4f9477c7bc45066cbda8be25ce93_400x400.jpeg",
+    "_site/cache/resize/3a4bec918aeb429bc46fb53da7068cd3_400x400.jpeg",
+    "_site/cache/resize/5470a0eb56371e05e4a14813c25d2e94_400x400.jpeg",
+    "_site/cache/resize/b53aa0ddcf2299facbb531850f11ad67_400x400.jpeg",
+    "_site/cache/resize/f812a505f65bc368e3c039698108d0b7_400x400.jpeg",
+    "_site/cache/resize/4f558c1cbf61fc99c00dc32da249094f_400x400.jpeg"
   ]
 }

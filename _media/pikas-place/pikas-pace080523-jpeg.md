@@ -2,7 +2,7 @@
 title: pikas-pace080523.jpeg
 date: 2023-08-05
 dateadded: 2023-08-04 21:53:12 -0700
-link: /assets/pikas-place/pikas-pace080523.jpeg
+image: /assets/pikas-place/pikas-pace080523.jpeg
 categories: media image
 gallery: pikas-place
 permalink: /media/pikas-place/pikas-pace080523-jpeg

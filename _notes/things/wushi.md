@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: note
 title: Wushi
 permalink: /wushi
 ---

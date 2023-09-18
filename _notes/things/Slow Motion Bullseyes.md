@@ -1,4 +1,5 @@
 ---
+layout: note
 ---
 
 The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station. 

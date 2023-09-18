@@ -53,8 +53,9 @@ gal.each do |galitem|
       end
 
       # make an index page for this gallery
+      # Using proper names assumes that you're formatting the permalink correctly with :name to get the slug in config
 
-      indexname = "#{gallery_notes}#{name_slug}.md"
+      indexname = "#{gallery_notes}#{gal_name}.md"
       unless File.exists?(indexname)
       newindex = File.new(indexname, "w+")
       newindex.puts "---"
@@ -105,7 +106,8 @@ gal.each do |galitem|
     		file.puts "title: #{f}"
     		file.puts "date: #{thisdate}"
     		file.puts "dateadded: #{dateadded}"
-    		file.puts "link: #{image_location}#{gal_dir}/#{f}"
+    		file.puts "asset: #{image_location}#{gal_dir}/#{f}"
+    		file.puts "image: #{image_location}#{gal_dir}/#{f}"
         # TODO check against a set of file extensions and label appropriately
         # This would be on the way to making a more generic "media collection" utility
         # so you'd want your template to detect the asset type / assign different template (less pref)

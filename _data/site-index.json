@@ -20,7 +20,7 @@
         "excerpt": "<h2 id=\"do-you-require-more-slow-internet-browsing\">Do you require more slow internet browsing?</h2>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/patterns-of-intention/",
@@ -29,21 +29,47 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
+    "tags": [
+      "books"
+    ],
     "title": "Patterns of intention",
     "slug": "Patterns of Intention",
+    "ext": ".md",
+    "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Patterns of intention",
+        "url": "/patterns-of-intention/",
+        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+      },
+      {
+        "title": "Amy bay at nationale",
+        "url": "/amy-bay-at-nationale/",
+        "excerpt": "<p>Amy is a friend of me and Martha, and a treasure of Portland’s painting scene. Martha’s been working at Nationale since we moved back, so we were both really stoked when Amy had a solo show there. Martha even had the pleasure of writing her exhibition statement.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 21:09:10 -0700"
+  },
+  {
+    "id": "/untitled/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "note",
+    "title": "Untitled",
+    "slug": "Untitled",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <em>Patterns of Intention</em> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n",
+    "excerpt": "\n",
     "backlink_index": [
-      {
-        "title": "They always have and still do",
-        "url": "/they-always-have-and-still-do/",
-        "excerpt": "<p><img src=\"Memex/assets/always-have-still-do/IMG_2603.jpeg\" alt=\"\" /></p>\n"
-      }
+
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/about-gardening-this-garden/",
@@ -51,7 +77,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "About Gardening This Garden",
     "slug": "About Gardening This Garden",
     "ext": ".md",
@@ -62,7 +88,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/development-log/",
@@ -70,8 +96,9 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Garden Development Log",
+    "layout": "note",
     "slug": "Development Log",
     "ext": ".md",
     "tags": [
@@ -81,7 +108,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/goals/",
@@ -90,6 +117,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Goals",
     "slug": "Goals",
     "ext": ".md",
@@ -100,7 +128,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/memex-sketch/",
@@ -108,7 +136,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "17-May-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Memex sketch",
     "slug": "Memex sketch",
     "ext": ".md",
@@ -119,7 +147,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/aaron/",
@@ -142,7 +170,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/abe/",
@@ -150,7 +178,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "22-Apr-22",
+    "last_modified_at": "17-Sep-23",
     "title": "Abe Ingle",
     "tags": [
       "fren",
@@ -167,11 +195,11 @@
       },
       {
         "title": "Synthesizers",
-        "url": "/synths/",
+        "url": "/synthesizers/",
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/andrea/",
@@ -194,7 +222,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a>and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/clamber/",
@@ -202,7 +230,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Clamber",
     "tags": [
       "fren",
@@ -228,7 +256,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/evan/",
@@ -236,7 +264,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Evan",
     "tags": [
       "fren",
@@ -262,7 +290,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/john-james/",
@@ -270,7 +298,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "John James",
     "slug": "John James",
     "ext": ".md",
@@ -290,7 +318,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/jon/",
@@ -298,7 +326,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "09-May-22",
+    "last_modified_at": "17-Sep-23",
     "title": "Mumonkan",
     "tags": [
       "friend",
@@ -324,7 +352,7 @@
         "excerpt": "<p><a href=\"https://workerstap.com/\">The Worker’s Tap</a> is basically our extra living room. It’s a worker-owned anarchist socialist lefty everything bar run by and frequented by the nicest people. We’ve played DnD there about a million times. They let me have my birthday there, and when [[Mykle]] and [[Jon]] and I got stuck in the middle of the World Naked Bike Ride by Michael’s Italian Beef*, they let me come in and order a beer as long as I had “something covering my lower half.”</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/martha/",
@@ -332,8 +360,9 @@
     "categories": [
 
     ],
-    "last_modified_at": "18-Apr-22",
+    "last_modified_at": "17-Sep-23",
     "title": "💖Martha💖",
+    "layout": "note",
     "slug": "Martha",
     "ext": ".md",
     "tags": [
@@ -344,10 +373,10 @@
       {
         "title": "Patterns of intention",
         "url": "/patterns-of-intention/",
-        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <em>Patterns of Intention</em> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/nik/",
@@ -355,7 +384,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Nik Wise",
     "slug": "Nik",
     "ext": ".md",
@@ -395,7 +424,7 @@
         "excerpt": "<p>I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/ryan/",
@@ -403,7 +432,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "20-Apr-22",
+    "last_modified_at": "17-Sep-23",
     "title": "Ryan Gantz",
     "slug": "Ryan",
     "ext": ".md",
@@ -423,7 +452,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -431,7 +460,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Spencer Chang",
     "slug": "Spencer Chang",
     "ext": ".md",
@@ -442,7 +471,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -450,7 +479,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Goodboiz.md",
     "slug": "goodboiz",
     "ext": ".md",
@@ -475,7 +504,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/me/",
@@ -483,7 +512,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Me",
     "slug": "me",
     "ext": ".md",
@@ -503,7 +532,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -512,6 +541,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Dawn treader books",
     "slug": "Dawn Treader Books",
     "ext": ".md",
@@ -526,7 +556,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -535,6 +565,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Mother foucault's",
     "slug": "Mother Foucault's",
     "ext": ".md",
@@ -545,7 +576,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -554,6 +585,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Worker's tap",
     "slug": "Worker's Tap",
     "ext": ".md",
@@ -564,7 +596,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/research-club/",
@@ -583,7 +615,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/octothorpethoughts/",
@@ -591,7 +623,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "tags": [
       "\noctothorpe",
       "cozyweb"
@@ -609,7 +641,7 @@
         "excerpt": "<p>10.16.22</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/slow-motion-bullseyes/",
@@ -618,6 +650,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Slow motion bullseyes",
     "slug": "Slow Motion Bullseyes",
     "ext": ".md",
@@ -626,9 +659,37 @@
     ],
     "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n",
     "backlink_index": [
+      {
+        "title": "Patterns of intention",
+        "url": "/patterns-of-intention/",
+        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 21:09:10 -0700"
+  },
+  {
+    "id": "/synthesizers/",
+    "draft": false,
+    "categories": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "last_modified_at": "17-Sep-23",
+    "layout": "note",
+    "title": "Synthesizers",
+    "slug": "Synthesizers",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n",
+    "backlink_index": [
+      {
+        "title": "Abe Ingle",
+        "url": "/abe/",
+        "excerpt": "<p>Abe loves fun and a bad cat named Baxter.</p>\n"
+      }
+    ],
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/urs/",
@@ -637,6 +698,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Urs",
     "slug": "Urs",
     "ext": ".md",
@@ -647,7 +709,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/the-conceptual-labor-book/",
@@ -655,7 +717,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "22-Apr-22",
+    "last_modified_at": "17-Sep-23",
     "title": "The Conceptual Labor Book",
     "tags": [
       "books",
@@ -676,30 +738,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
-  },
-  {
-    "id": "/synths/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "14-Sep-23",
-    "title": "Synthesizers",
-    "slug": "synths",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n",
-    "backlink_index": [
-      {
-        "title": "Abe Ingle",
-        "url": "/abe/",
-        "excerpt": "<p>Abe loves fun and a bad cat named Baxter.</p>\n"
-      }
-    ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/wushi",
@@ -707,8 +746,8 @@
     "categories": [
 
     ],
-    "last_modified_at": "10-Jan-23",
-    "layout": "page",
+    "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Wushi",
     "permalink": "/wushi",
     "slug": "wushi",
@@ -720,7 +759,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -728,12 +767,12 @@
     "categories": [
 
     ],
-    "last_modified_at": "22-Apr-22",
+    "last_modified_at": "17-Sep-23",
     "title": "Adventures of A & N",
     "tags": [
-      "books",
-      "Place and Time"
+
     ],
+    "layout": "note",
     "slug": "Adventures of A & N",
     "ext": ".md",
     "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n",
@@ -744,52 +783,31 @@
         "excerpt": "<p><img src=\"/images/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
-    "id": "/they-always-have-and-still-do/",
+    "id": "/amy-bay-at-nationale/",
     "draft": false,
     "categories": [
 
     ],
     "last_modified_at": "17-Sep-23",
-    "title": "They always have and still do",
-    "slug": "They Always Have and Still Do",
+    "layout": "note",
+    "title": "Amy bay at nationale",
+    "slug": "Amy Bay at Nationale",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "<p><img src=\"Memex/assets/always-have-still-do/IMG_2603.jpeg\" alt=\"\" /></p>\n",
+    "excerpt": "<p>Amy is a friend of me and Martha, and a treasure of Portland’s painting scene. Martha’s been working at Nationale since we moved back, so we were both really stoked when Amy had a solo show there. Martha even had the pleasure of writing her exhibition statement.</p>\n",
     "backlink_index": [
       {
         "title": "Patterns of intention",
         "url": "/patterns-of-intention/",
-        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <em>Patterns of Intention</em> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+        "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
-  },
-  {
-    "id": "/clearings-exhibition/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "09-Oct-22",
-    "title": "Clearings Exhibition",
-    "gallery": "clearings-exhibition",
-    "layout": "bucket-gallery",
-    "color": "green",
-    "tags": [
-      "Grapefruits"
-    ],
-    "slug": "clearings-exhibition",
-    "ext": ".md",
-    "excerpt": "<p>Gallery: Clearings Exhibition</p>\n",
-    "backlink_index": [
-
-    ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/expoch-go-2022/",
@@ -797,13 +815,12 @@
     "categories": [
 
     ],
-    "last_modified_at": "14-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "tags": [
-      "place and time",
       "art"
     ],
     "title": "EXPOCH GO 2022",
-    "layout": "note-with-poster",
+    "layout": "note",
     "poster": "/uploads/expo-2022.jpeg",
     "slug": "expoch-go-2022",
     "ext": ".md",
@@ -815,7 +832,7 @@
         "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n"
       }
     ],
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
   },
   {
     "id": "/media/pikas-place/pikas-place011519-jpeg",
@@ -828,7 +845,7 @@
     "title": "I Miss You So Much",
     "date": "2019-01-15 00:00:00 -0800",
     "dateadded": "2023-07-28 23:09:07 -0700",
-    "link": "/assets/pikas-place/pikas-place011519.jpeg",
+    "image": "/assets/pikas-place/pikas-place011519.jpeg",
     "gallery": "pikas-place",
     "layout": "asset",
     "tags": [
@@ -850,7 +867,7 @@
     "title": "We Miss You",
     "date": "2019-04-12 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
-    "link": "/assets/pikas-place/pikas-place041219-1.jpeg",
+    "image": "/assets/pikas-place/pikas-place041219-1.jpeg",
     "gallery": "pikas-place",
     "layout": "asset",
     "tags": [
@@ -872,7 +889,7 @@
     "title": "Stepping Stone",
     "date": "2019-04-12 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
-    "link": "/assets/pikas-place/pikas-place041219.jpeg",
+    "image": "/assets/pikas-place/pikas-place041219.jpeg",
     "gallery": "pikas-place",
     "layout": "asset",
     "tags": [
@@ -894,7 +911,7 @@
     "title": "Sick for Life Sick in Death",
     "date": "2019-07-27 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
-    "link": "/assets/pikas-place/pikas-place072719.jpeg",
+    "image": "/assets/pikas-place/pikas-place072719.jpeg",
     "gallery": "pikas-place",
     "layout": "asset",
     "tags": [
@@ -916,7 +933,7 @@
     "title": "Red Numbers Only",
     "date": "2020-04-04 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
-    "link": "/assets/pikas-place/pikas-place040420.jpeg",
+    "image": "/assets/pikas-place/pikas-place040420.jpeg",
     "gallery": "pikas-place",
     "layout": "asset",
     "tags": [
@@ -938,7 +955,7 @@
     "title": "Pika 5150",
     "date": "2020-08-14 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
-    "link": "/assets/pikas-place/pikas-place081420.jpeg",
+    "image": "/assets/pikas-place/pikas-place081420.jpeg",
     "gallery": "pikas-place",
     "layout": "asset",
     "tags": [
@@ -960,7 +977,7 @@
     "title": "Pika on a Bike",
     "date": "2020-08-15 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
-    "link": "/assets/pikas-place/pikas-place081520.jpeg",
+    "image": "/assets/pikas-place/pikas-place081520.jpeg",
     "gallery": "pikas-place",
     "layout": "asset",
     "tags": [
@@ -972,2505 +989,362 @@
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/img-2718-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-1-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2718.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/IMG_2718.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-060323-1.jpeg",
+    "date": "2023-06-03 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-060323-1.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-060323-1.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-060323-1-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "img-2718-jpeg",
+    "slug": "always-have-still-do-060323-1-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270001-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-2-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270001.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270001.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-060323-2.jpeg",
+    "date": "2023-06-03 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-060323-2.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-060323-2.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-060323-2-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270001-jpeg",
+    "slug": "always-have-still-do-060323-2-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270133-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-3-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270133.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270133.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-060323-3.jpeg",
+    "date": "2023-06-03 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-060323-3.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-060323-3.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-060323-3-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270133-jpeg",
+    "slug": "always-have-still-do-060323-3-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270136-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-4-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270136.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270136.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-060323-4.jpeg",
+    "date": "2023-06-03 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-060323-4.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-060323-4.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-060323-4-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270136-jpeg",
+    "slug": "always-have-still-do-060323-4-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270137-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-5-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270137.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270137.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-060323-5.jpeg",
+    "date": "2023-06-03 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-060323-5.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-060323-5.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-060323-5-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270137-jpeg",
+    "slug": "always-have-still-do-060323-5-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270138-1-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270138-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270138-1.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-060323.jpeg",
+    "date": "2023-06-03 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-060323.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-060323.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-060323-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270138-1-jpeg",
+    "slug": "always-have-still-do-060323-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270138-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070623-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270138.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270138.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070623.jpeg",
+    "date": "2023-07-06 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070623.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070623.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070623-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270138-jpeg",
+    "slug": "always-have-still-do-070623-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270139-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-1-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270139.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270139.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923-1.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923-1.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923-1.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-1-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270139-jpeg",
+    "slug": "always-have-still-do-070923-1-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270141-1-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-2-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270141-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270141-1.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923-2.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923-2.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923-2.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-2-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270141-1-jpeg",
+    "slug": "always-have-still-do-070923-2-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270141-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-3-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270141.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270141.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923-3.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923-3.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923-3.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-3-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270141-jpeg",
+    "slug": "always-have-still-do-070923-3-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270142-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-4-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270142.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270142.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923-4.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923-4.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923-4.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-4-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270142-jpeg",
+    "slug": "always-have-still-do-070923-4-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270143-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-5-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270143.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270143.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923-5.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923-5.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923-5.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-5-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270143-jpeg",
+    "slug": "always-have-still-do-070923-5-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270146-1-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-6-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270146-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270146-1.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923-6.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923-6.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923-6.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-6-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270146-1-jpeg",
+    "slug": "always-have-still-do-070923-6-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270146-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-7-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270146.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270146.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923-7.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923-7.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923-7.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-7-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270146-jpeg",
+    "slug": "always-have-still-do-070923-7-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
   {
-    "id": "/media/clearings/p5270150-jpeg",
+    "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270150.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270150.jpeg",
-    "gallery": "clearings-exhibition",
+    "last_modified_at": "17-Sep-23",
+    "title": "always-have-still-do-070923.jpeg",
+    "date": "2023-07-09 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/always-have-still-do/always-have-still-do-070923.jpeg",
+    "image": "/assets/always-have-still-do/always-have-still-do-070923.jpeg",
+    "gallery": "they-always-have-and-still-do",
+    "permalink": "/media/they-always-have-and-still-do/always-have-still-do-070923-jpeg",
     "layout": "asset",
     "tags": [
-      "drawing",
       "art",
-      "Martha",
-      "Grapefruits"
+      "nationale"
     ],
-    "slug": "p5270150-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270157-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270157.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270157.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270157-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270177-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270177.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270177.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270177-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270179-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270179.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270179.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270179-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270180-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270180.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270180.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270180-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270182-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270182.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270182.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270182-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270187-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270187.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270187.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270187-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270188-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270188.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270188.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270188-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270189-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270189.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270189.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270189-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270201-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270201.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270201.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270201-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270206-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270206.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270206.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270206-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270212-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270212.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270212.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270212-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270215-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270215.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270215.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270215-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270232-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270232.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270232.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270232-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270236-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270236-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270236-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270236-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270236-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270236.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270236.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270236-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270237-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270237-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270237-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270237-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270237-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270237.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270237.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270237-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270238-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270238-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270238-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270238-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270238-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270238.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270238.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270238-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270240-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270240-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270240-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270240-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270240-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270240.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270240.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270240-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270241-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270241.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270241.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270241-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270242-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270242.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270242.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270242-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270243-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270243.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270243.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270243-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270244-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270244.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270244.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270244-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270248-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270248.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270248.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270248-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270250-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270250.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270250.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270250-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5270257-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5270257.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5270257.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5270257-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280090-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280090.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280090.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280090-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280102-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280102.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280102.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280102-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280104-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280104.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280104.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280104-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280115-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280115.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280115.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280115-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280118-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280118.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280118.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280118-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280124-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280124-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280124-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280124-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280124-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280124.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280124.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280124-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280136-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280136-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280136-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280136-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280136-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280136.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280136.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280136-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280138-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280138-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280138-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280138-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280138-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280138.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280138.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280138-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280141-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280141-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280141-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280141-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280141-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280141.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280141.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280141-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280144-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280144-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280144-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280144-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280144-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280144.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280144.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280144-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280147-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280147-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280147-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280147-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280147-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280147.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280147.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280147-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280157-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280157-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280157-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280157-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280157-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280157.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280157.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280157-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280163-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280163.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280163.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280163-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280164-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280164-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280164-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280164-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280164-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280164.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280164.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280164-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280165-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280165-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280165-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280165-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280165-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280165.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280165.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280165-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280166-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280166-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280166-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280166-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280166-2-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280166-2.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280166-2.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280166-2-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280166-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280166.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280166.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280166-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280179-1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280179-1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280179-1.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280179-1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280179-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280179.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280179.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280179-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/clearings/p5280184-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "P5280184.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/clearings/P5280184.jpeg",
-    "gallery": "clearings-exhibition",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha",
-      "Grapefruits"
-    ],
-    "slug": "p5280184-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/0ed26055-b0e6-4d3d-b94a-ae9ef620239b-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "0ED26055-B0E6-4D3D-B94A-AE9EF620239B.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/0ED26055-B0E6-4D3D-B94A-AE9EF620239B.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "0ed26055-b0e6-4d3d-b94a-ae9ef620239b-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/121748be-14c6-457d-8548-63a2c876907b-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "121748BE-14C6-457D-8548-63A2C876907B.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/121748BE-14C6-457D-8548-63A2C876907B.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "121748be-14c6-457d-8548-63a2c876907b-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/237de5b0-cedf-4071-bf95-fdd31598bede-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "237DE5B0-CEDF-4071-BF95-FDD31598BEDE.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/237DE5B0-CEDF-4071-BF95-FDD31598BEDE.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "237de5b0-cedf-4071-bf95-fdd31598bede-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/4e7699b3-548f-4e3b-9623-d338fb49eb90-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "4E7699B3-548F-4E3B-9623-D338FB49EB90.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/4E7699B3-548F-4E3B-9623-D338FB49EB90.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "4e7699b3-548f-4e3b-9623-d338fb49eb90-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/70839936016-db79848c-8f26-4aec-91a6-03de585db66c-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "70839936016__DB79848C-8F26-4AEC-91A6-03DE585DB66C.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/70839936016__DB79848C-8F26-4AEC-91A6-03DE585DB66C.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "70839936016-db79848c-8f26-4aec-91a6-03de585db66c-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/70854052663-415eb48b-6df5-46c2-bb4e-c3f9beac22a9-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "70854052663__415EB48B-6DF5-46C2-BB4E-C3F9BEAC22A9.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/70854052663__415EB48B-6DF5-46C2-BB4E-C3F9BEAC22A9.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "70854052663-415eb48b-6df5-46c2-bb4e-c3f9beac22a9-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/70900694236-7310eeae-a9b9-47eb-8425-7cf8d1a18909-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "70900694236__7310EEAE-A9B9-47EB-8425-7CF8D1A18909.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/70900694236__7310EEAE-A9B9-47EB-8425-7CF8D1A18909.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "70900694236-7310eeae-a9b9-47eb-8425-7cf8d1a18909-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/82594092-bde2-434f-822d-27f449510caf-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "82594092-BDE2-434F-822D-27F449510CAF.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/82594092-BDE2-434F-822D-27F449510CAF.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "82594092-bde2-434f-822d-27f449510caf-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/975002eb-d25f-4b5d-92b6-aa024af379f1-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "975002EB-D25F-4B5D-92B6-AA024AF379F1.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/975002EB-D25F-4B5D-92B6-AA024AF379F1.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "975002eb-d25f-4b5d-92b6-aa024af379f1-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/f558aefb-cd8c-478b-b974-5a7b1f102e69-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "F558AEFB-CD8C-478B-B974-5A7B1F102E69.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/F558AEFB-CD8C-478B-B974-5A7B1F102E69.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "f558aefb-cd8c-478b-b974-5a7b1f102e69-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/img-2648-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2648.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/IMG_2648.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "img-2648-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/img-2662-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2662.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/IMG_2662.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "img-2662-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/img-2668-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2668.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/IMG_2668.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "img-2668-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/img-2717-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2717.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/IMG_2717.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "img-2717-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/img-2725-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2725.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/IMG_2725.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "img-2725-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/img-2726-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2726.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/IMG_2726.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "img-2726-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/frankie/img-2778-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_2778.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/frankie/IMG_2778.jpeg",
-    "gallery": "oops-all-frankies",
-    "layout": "asset",
-    "tags": [
-      "frankie"
-    ],
-    "slug": "img-2778-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1129-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "13-Sep-23",
-    "title": "IMG_1129.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1129.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1129-jpeg",
-    "ext": ".md",
-    "excerpt": "<p>[[Martha]]</p>\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1130-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1130.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1130.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1130-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1131-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1131.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1131.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1131-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1132-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1132.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1132.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1132-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1133-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1133.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1133.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1133-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1134-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1134.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1134.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1134-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1135-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1135.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1135.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1135-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1136-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1136.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1136.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1136-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1137-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1137.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1137.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1137-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1138-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1138.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1138.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1138-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1139-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1139.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1139.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1139-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1140-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1140.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1140.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1140-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1141-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1141.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1141.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1141-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1142-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1142.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1142.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1142-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1143-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1143.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1143.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1143-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1144-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1144.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1144.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1144-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1145-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1145.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1145.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1145-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1146-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1146.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1146.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1146-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1147-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1147.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1147.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1147-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1148-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1148.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1148.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1148-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1149-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1149.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1149.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1149-jpeg",
-    "ext": ".md",
-    "excerpt": "\n"
-  },
-  {
-    "id": "/media/wife-bag/img-1150-jpeg",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "28-Jul-23",
-    "title": "IMG_1150.jpeg",
-    "date": "2023-07-28 23:58:52 -0700",
-    "dateadded": "2023-07-28 23:58:52 -0700",
-    "link": "/assets/wife-bag/IMG_1150.jpeg",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "asset",
-    "tags": [
-      "drawing",
-      "art",
-      "Martha"
-    ],
-    "slug": "img-1150-jpeg",
+    "slug": "always-have-still-do-070923-jpeg",
     "ext": ".md",
     "excerpt": "\n"
   },
@@ -3485,7 +1359,7 @@
     "title": "pikas-pace080523.jpeg",
     "date": "2023-08-05 00:00:00 -0700",
     "dateadded": "2023-08-04 21:53:12 -0700",
-    "link": "/assets/pikas-place/pikas-pace080523.jpeg",
+    "image": "/assets/pikas-place/pikas-pace080523.jpeg",
     "gallery": "pikas-place",
     "permalink": "/media/pikas-place/pikas-pace080523-jpeg",
     "layout": "asset",
@@ -3498,83 +1372,712 @@
     "excerpt": "<p>hello</p>\n"
   },
   {
-    "id": "/clearings-exhibition/index.html",
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-1-jpeg",
     "draft": false,
     "categories": [
-      "art"
+      "media",
+      "image"
     ],
-    "last_modified_at": "27-Jul-23",
-    "title": "Clearings Exhibition",
-    "gallery": "clearings-exhibition",
-    "layout": "gallery",
-    "color": "#78bcf7",
-    "category": "art",
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-1.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-1.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-1.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-1-jpeg",
+    "layout": "asset",
     "tags": [
-      "projects",
-      "martha",
-      "art"
+      "art",
+      "nationale"
     ],
-    "slug": "clearings-exhibition",
+    "slug": "ty-ennis-091523-1-jpeg",
     "ext": ".md",
-    "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. Pellentesque pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium. Now it’s updated!</p>\n",
-    "date": "2023-09-17 16:41:24 -0700"
+    "excerpt": "\n"
   },
   {
-    "id": "/everything-in-my-wifes-bag-two-days-after-we-got-married/index.html",
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-10-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "27-Jul-23",
-    "title": "Everything In My Wife's Bag Two Days After We Got Married",
-    "gallery": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "layout": "gallery",
-    "slug": "everything-in-my-wifes-bag-two-days-after-we-got-married",
-    "ext": ".md",
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-10.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-10.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-10.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-10-jpeg",
+    "layout": "asset",
     "tags": [
-
+      "art",
+      "nationale"
     ],
-    "excerpt": "\n",
-    "date": "2023-09-17 16:41:24 -0700"
+    "slug": "ty-ennis-091523-10-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
   },
   {
-    "id": "/oops-all-frankies/index.html",
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-15-jpeg",
     "draft": false,
     "categories": [
-
+      "media",
+      "image"
     ],
-    "last_modified_at": "13-Sep-23",
-    "title": "Oops All Frankies",
-    "gallery": "oops-all-frankies",
-    "color": "dimgrey",
-    "layout": "gallery",
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-15.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-15.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-15.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-15-jpeg",
+    "layout": "asset",
     "tags": [
-      "cute",
-      "fat"
+      "art",
+      "nationale"
     ],
-    "slug": "oops-all-frankies",
+    "slug": "ty-ennis-091523-15-jpeg",
     "ext": ".md",
-    "excerpt": "\n",
-    "date": "2023-09-17 16:41:24 -0700"
+    "excerpt": "\n"
   },
   {
-    "id": "/pikas-place/index.html",
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-16-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-16.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-16.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-16.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-16-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-16-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-17-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-17.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-17.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-17.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-17-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-17-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-18-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-18.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-18.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-18.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-18-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-18-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-19-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-19.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-19.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-19.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-19-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-19-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-2-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-2.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-2.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-2.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-2-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-2-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-20-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-20.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-20.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-20.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-20-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-20-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-22-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-22.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-22.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-22.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-22-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-22-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-23-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-23.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-23.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-23.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-23-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-23-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-24-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-24.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-24.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-24.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-24-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-24-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-26-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-26.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-26.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-26.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-26-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-26-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-27-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-27.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-27.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-27.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-27-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-27-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-28-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-28.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-28.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-28.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-28-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-28-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-3-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-3.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-3.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-3.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-3-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-3-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-30-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-30.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-30.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-30.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-30-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-30-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-31-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-31.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-31.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-31.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-31-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-31-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-32-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-32.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-32.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-32.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-32-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-32-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-33-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-33.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-33.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-33.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-33-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-33-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-34-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-34.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-34.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-34.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-34-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-34-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-4-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-4.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-4.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-4.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-4-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-4-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-5-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-5.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-5.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-5.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-5-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-5-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-6-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-6.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-6.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-6.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-6-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-6-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-8-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-8.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-8.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-8.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-8-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-8-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-9-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523-9.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523-9.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523-9.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-9-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-9-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-jpeg",
+    "draft": false,
+    "categories": [
+      "media",
+      "image"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "ty-ennis-091523.jpeg",
+    "date": "2023-09-15 00:00:00 -0700",
+    "dateadded": "2023-09-17 21:03:32 -0700",
+    "asset": "/assets/ty-ennis/ty-ennis-091523.jpeg",
+    "image": "/assets/ty-ennis/ty-ennis-091523.jpeg",
+    "gallery": "ty-ennis-at-nationale",
+    "permalink": "/media/ty-ennis-at-nationale/ty-ennis-091523-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "nationale"
+    ],
+    "slug": "ty-ennis-091523-jpeg",
+    "ext": ".md",
+    "excerpt": "\n"
+  },
+  {
+    "id": "/gallery/pika-s-place/",
     "draft": false,
     "categories": [
       "gallery",
       "collection"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "09-Sep-23",
     "title": "Pika's Place",
     "gallery": "pikas-place",
     "layout": "gallery",
     "color": "dimgrey",
-    "slug": "pikas-place",
+    "slug": "Pika's Place",
     "ext": ".md",
     "tags": [
 
     ],
     "excerpt": "<p>Someone has been leaving touching memorials for their son, who went by Pika, on the same pillar of the Morrison Bridge since at least 2019. This was right outside the door to my studio for years, so I did my best to document it whenever I could before the Portland graffiti removal team would paint over it. Pika, I didn’t know you, but you are remembered.🖤🖤🖤</p>\n",
-    "date": "2023-09-17 16:41:24 -0700"
+    "date": "2023-09-17 21:09:10 -0700"
+  },
+  {
+    "id": "/gallery/they-always-have-and-still-do/",
+    "draft": false,
+    "categories": [
+      "collection",
+      "gallery"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "They Always Have and Still Do",
+    "gallery": "they-always-have-and-still-do",
+    "status": "fresh",
+    "layout": "gallery",
+    "color": "goldenrod",
+    "slug": "They Always Have and Still Do",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "date": "2023-09-17 21:09:10 -0700"
+  },
+  {
+    "id": "/gallery/ty-ennis-at-nationale/",
+    "draft": false,
+    "categories": [
+      "collection",
+      "gallery"
+    ],
+    "last_modified_at": "17-Sep-23",
+    "title": "Ty Ennis at Nationale",
+    "gallery": "ty-ennis-at-nationale",
+    "status": "fresh",
+    "layout": "gallery",
+    "slug": "Ty Ennis at Nationale",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n",
+    "date": "2023-09-17 21:09:10 -0700"
   }
 ]

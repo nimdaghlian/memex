@@ -1,5 +1,6 @@
 ---
 title: Garden Development Log
+layout: note
 ---
 
 
