@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "Memex/assets",
+  "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "Drafts",
   "newLinkFormat": "shortest",
