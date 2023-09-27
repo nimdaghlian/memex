@@ -20,7 +20,7 @@
         "excerpt": "<h2 id=\"do-you-require-more-slow-internet-browsing\">Do you require more slow internet browsing?</h2>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/patterns-of-intention/",
@@ -49,7 +49,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/untitled/",
@@ -69,7 +69,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/about-gardening-this-garden/",
@@ -78,17 +78,22 @@
 
     ],
     "last_modified_at": "17-Sep-23",
-    "title": "About Gardening This Garden",
+    "title": "How This Memex Started",
+    "layout": "note",
+    "tags": [
+      "meta"
+    ],
     "slug": "About Gardening This Garden",
     "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "<h2 id=\"how-i-started-this-garden\">How I Started this Garden</h2>\n",
+    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started</p>\n</blockquote>\n",
     "backlink_index": [
-
+      {
+        "title": "Stumbled into a webring",
+        "url": "/stumbled-into-a-webring/",
+        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
+      }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/development-log/",
@@ -97,18 +102,18 @@
 
     ],
     "last_modified_at": "17-Sep-23",
-    "title": "Garden Development Log",
+    "title": "Development Log",
     "layout": "note",
+    "tags": [
+      "meta"
+    ],
     "slug": "Development Log",
     "ext": ".md",
-    "tags": [
-
-    ],
     "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n",
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/goals/",
@@ -128,7 +133,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/memex-sketch/",
@@ -147,7 +152,48 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/stumbled-into-a-webring/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "24-Sep-23",
+    "layout": "note",
+    "title": "Stumbled into a webring",
+    "slug": "Stumbled into a Webring",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/what-is-a-memex/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "27-Sep-23",
+    "layout": "note",
+    "tags": [
+      "meta",
+      "memex"
+    ],
+    "title": "What is a memex",
+    "slug": "What Is a Memex",
+    "ext": ".md",
+    "excerpt": "<p>“Memex” is a portmanteau of “memory expansion,” coined by Vannevar Bush in his essay <a href=\"https://archive.org/details/as-we-may-think/page/n1/mode/2up\">As We May Think.</a> It’s an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/aaron/",
@@ -170,7 +216,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/abe/",
@@ -199,7 +245,7 @@
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/andrea/",
@@ -222,7 +268,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a>and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/clamber/",
@@ -256,7 +302,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/evan/",
@@ -275,9 +321,9 @@
     "excerpt": "<p>Follow Evan’s pursuits at his <a href=\"https://evans-thoughts-garden.onrender.com\">digital garden</a>.</p>\n",
     "backlink_index": [
       {
-        "title": "About Gardening This Garden",
+        "title": "How This Memex Started",
         "url": "/about-gardening-this-garden/",
-        "excerpt": "<h2 id=\"how-i-started-this-garden\">How I Started this Garden</h2>\n"
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started</p>\n</blockquote>\n"
       },
       {
         "title": "Goodboiz.md",
@@ -290,7 +336,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/john-james/",
@@ -318,7 +364,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/jon/",
@@ -352,7 +398,28 @@
         "excerpt": "<p><a href=\"https://workerstap.com/\">The Worker’s Tap</a> is basically our extra living room. It’s a worker-owned anarchist socialist lefty everything bar run by and frequented by the nicest people. We’ve played DnD there about a million times. They let me have my birthday there, and when [[Mykle]] and [[Jon]] and I got stuck in the middle of the World Naked Bike Ride by Michael’s Italian Beef*, they let me come in and order a beer as long as I had “something covering my lower half.”</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/lucy/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "24-Sep-23",
+    "layout": "note",
+    "homepage": "https://lucybellwood.com/",
+    "title": "Lucy",
+    "slug": "Lucy",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p><a href=\"https://lucybellwood.com/\">Lucy</a> is well-known as a natural force of positive energy. We sat next to each other at a button-making workshop at XOXO, talked about iPad screen protectors, and then later she friggin looked up conceptual labor from my actual paper business card, read it, and mentioned it on her blog! That’s someone who does their research!</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/martha/",
@@ -376,12 +443,32 @@
         "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
       },
       {
+        "title": "How This Memex Started",
+        "url": "/about-gardening-this-garden/",
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started</p>\n</blockquote>\n"
+      },
+      {
+        "title": "Me",
+        "url": "/me/",
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+      },
+      {
         "title": "Amy bay at nationale",
         "url": "/amy-bay-at-nationale/",
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
+      },
+      {
+        "title": "EXPOCH GO 2022",
+        "url": "/expoch-go-2022/",
+        "excerpt": "<p>[[Martha]] and I went to <a href=\"https://www.expochicago.com\">Expo Chicago</a> and all the signs made it look like “EXPOCH GO”</p>\n"
+      },
+      {
+        "title": "Ty Ennis at Nationale",
+        "url": "/gallery/ty-ennis-at-nationale/",
+        "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/nik/",
@@ -429,7 +516,7 @@
         "excerpt": "<p>I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/ryan/",
@@ -447,9 +534,9 @@
     "excerpt": "<p>Ryan is as nice as he is tall, which is “very!”</p>\n",
     "backlink_index": [
       {
-        "title": "About Gardening This Garden",
+        "title": "How This Memex Started",
         "url": "/about-gardening-this-garden/",
-        "excerpt": "<h2 id=\"how-i-started-this-garden\">How I Started this Garden</h2>\n"
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started</p>\n</blockquote>\n"
       },
       {
         "title": "Me",
@@ -457,7 +544,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -476,7 +563,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -509,7 +596,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/me/",
@@ -537,7 +624,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -561,7 +648,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -581,7 +668,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -601,7 +688,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/research-club/",
@@ -620,7 +707,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/octothorpethoughts/",
@@ -630,7 +717,7 @@
     ],
     "last_modified_at": "17-Sep-23",
     "tags": [
-      "\noctothorpe",
+      "octothorpes",
       "cozyweb"
     ],
     "title": "octothorpethoughts",
@@ -646,7 +733,7 @@
         "excerpt": "<p>10.16.22</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/slow-motion-bullseyes/",
@@ -670,7 +757,7 @@
         "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/synthesizers/",
@@ -694,7 +781,7 @@
         "excerpt": "<p>Abe loves fun and a bad cat named Baxter.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/urs/",
@@ -714,7 +801,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/the-conceptual-labor-book/",
@@ -743,7 +830,7 @@
         "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/wushi",
@@ -764,7 +851,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -788,7 +875,7 @@
         "excerpt": "<p><img src=\"/images/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -812,7 +899,7 @@
         "excerpt": "<p>Walking up to [[Martha]]’s recent [[art show]] at Mother Foucault’s, I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/expoch-go-2022/",
@@ -829,15 +916,15 @@
     "poster": "/uploads/expo-2022.jpeg",
     "slug": "expoch-go-2022",
     "ext": ".md",
-    "excerpt": "<p>[[Memex/_notes/people/Martha]] and I went to <a href=\"https://www.expochicago.com\">Expo Chicago</a> and all the signs made it look like “EXPOCH GO”</p>\n",
+    "excerpt": "<p>[[Martha]] and I went to <a href=\"https://www.expochicago.com\">Expo Chicago</a> and all the signs made it look like “EXPOCH GO”</p>\n",
     "backlink_index": [
       {
-        "title": "Garden Development Log",
+        "title": "Development Log",
         "url": "/development-log/",
         "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n"
       }
     ],
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/media/pikas-place/pikas-place011519-jpeg",
@@ -846,7 +933,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "I Miss You So Much",
     "date": "2019-01-15 00:00:00 -0800",
     "dateadded": "2023-07-28 23:09:07 -0700",
@@ -859,7 +946,10 @@
     ],
     "slug": "pikas-place011519-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/pikas-place/pikas-place041219-1-jpeg",
@@ -868,7 +958,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "We Miss You",
     "date": "2019-04-12 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
@@ -881,7 +971,10 @@
     ],
     "slug": "pikas-place041219-1-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/pikas-place/pikas-place041219-jpeg",
@@ -890,7 +983,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Stepping Stone",
     "date": "2019-04-12 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
@@ -903,7 +996,10 @@
     ],
     "slug": "pikas-place041219-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/pikas-place/pikas-place072719-jpeg",
@@ -912,7 +1008,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Sick for Life Sick in Death",
     "date": "2019-07-27 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
@@ -925,7 +1021,10 @@
     ],
     "slug": "pikas-place072719-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/pikas-place/pikas-place040420-jpeg",
@@ -934,7 +1033,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Red Numbers Only",
     "date": "2020-04-04 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
@@ -947,7 +1046,10 @@
     ],
     "slug": "pikas-place040420-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/pikas-place/pikas-place081420-jpeg",
@@ -956,7 +1058,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Pika 5150",
     "date": "2020-08-14 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
@@ -969,7 +1071,10 @@
     ],
     "slug": "pikas-place081420-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/pikas-place/pikas-place081520-jpeg",
@@ -978,7 +1083,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Pika on a Bike",
     "date": "2020-08-15 00:00:00 -0700",
     "dateadded": "2023-07-28 23:09:07 -0700",
@@ -991,7 +1096,10 @@
     ],
     "slug": "pikas-place081520-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-1-jpeg",
@@ -1015,7 +1123,10 @@
     ],
     "slug": "always-have-still-do-060323-1-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-2-jpeg",
@@ -1039,7 +1150,10 @@
     ],
     "slug": "always-have-still-do-060323-2-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-3-jpeg",
@@ -1063,7 +1177,10 @@
     ],
     "slug": "always-have-still-do-060323-3-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-4-jpeg",
@@ -1087,7 +1204,10 @@
     ],
     "slug": "always-have-still-do-060323-4-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-5-jpeg",
@@ -1111,7 +1231,10 @@
     ],
     "slug": "always-have-still-do-060323-5-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-060323-jpeg",
@@ -1135,7 +1258,10 @@
     ],
     "slug": "always-have-still-do-060323-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070623-jpeg",
@@ -1159,7 +1285,10 @@
     ],
     "slug": "always-have-still-do-070623-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-1-jpeg",
@@ -1183,7 +1312,10 @@
     ],
     "slug": "always-have-still-do-070923-1-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-2-jpeg",
@@ -1207,7 +1339,10 @@
     ],
     "slug": "always-have-still-do-070923-2-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-3-jpeg",
@@ -1231,7 +1366,10 @@
     ],
     "slug": "always-have-still-do-070923-3-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-4-jpeg",
@@ -1255,7 +1393,10 @@
     ],
     "slug": "always-have-still-do-070923-4-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-5-jpeg",
@@ -1279,7 +1420,10 @@
     ],
     "slug": "always-have-still-do-070923-5-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-6-jpeg",
@@ -1303,7 +1447,10 @@
     ],
     "slug": "always-have-still-do-070923-6-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-7-jpeg",
@@ -1327,7 +1474,10 @@
     ],
     "slug": "always-have-still-do-070923-7-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/they-always-have-and-still-do/always-have-still-do-070923-jpeg",
@@ -1351,7 +1501,10 @@
     ],
     "slug": "always-have-still-do-070923-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/pikas-place/pikas-pace080523-jpeg",
@@ -1360,7 +1513,7 @@
       "media",
       "image"
     ],
-    "last_modified_at": "13-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "pikas-pace080523.jpeg",
     "date": "2023-08-05 00:00:00 -0700",
     "dateadded": "2023-08-04 21:53:12 -0700",
@@ -1374,7 +1527,10 @@
     ],
     "slug": "pikas-pace080523-jpeg",
     "ext": ".md",
-    "excerpt": "<p>hello</p>\n"
+    "excerpt": "<p>hello</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-1-jpeg",
@@ -1386,7 +1542,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-1.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-1.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-1.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1398,7 +1554,10 @@
     ],
     "slug": "ty-ennis-091523-1-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-10-jpeg",
@@ -1410,7 +1569,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-10.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-10.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-10.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1422,7 +1581,10 @@
     ],
     "slug": "ty-ennis-091523-10-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-15-jpeg",
@@ -1434,7 +1596,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-15.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-15.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-15.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1446,7 +1608,10 @@
     ],
     "slug": "ty-ennis-091523-15-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-16-jpeg",
@@ -1458,7 +1623,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-16.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-16.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-16.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1470,7 +1635,10 @@
     ],
     "slug": "ty-ennis-091523-16-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-17-jpeg",
@@ -1482,7 +1650,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-17.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-17.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-17.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1494,7 +1662,10 @@
     ],
     "slug": "ty-ennis-091523-17-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-18-jpeg",
@@ -1506,7 +1677,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-18.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-18.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-18.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1518,7 +1689,10 @@
     ],
     "slug": "ty-ennis-091523-18-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-19-jpeg",
@@ -1530,7 +1704,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-19.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-19.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-19.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1542,7 +1716,10 @@
     ],
     "slug": "ty-ennis-091523-19-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-2-jpeg",
@@ -1554,7 +1731,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-2.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-2.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-2.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1566,7 +1743,10 @@
     ],
     "slug": "ty-ennis-091523-2-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-20-jpeg",
@@ -1578,7 +1758,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-20.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-20.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-20.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1590,7 +1770,10 @@
     ],
     "slug": "ty-ennis-091523-20-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-22-jpeg",
@@ -1602,7 +1785,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-22.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-22.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-22.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1614,7 +1797,10 @@
     ],
     "slug": "ty-ennis-091523-22-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-23-jpeg",
@@ -1626,7 +1812,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-23.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-23.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-23.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1638,7 +1824,10 @@
     ],
     "slug": "ty-ennis-091523-23-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-24-jpeg",
@@ -1650,7 +1839,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-24.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-24.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-24.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1662,7 +1851,10 @@
     ],
     "slug": "ty-ennis-091523-24-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-26-jpeg",
@@ -1674,7 +1866,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-26.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-26.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-26.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1686,7 +1878,10 @@
     ],
     "slug": "ty-ennis-091523-26-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-27-jpeg",
@@ -1698,7 +1893,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-27.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-27.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-27.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1710,7 +1905,10 @@
     ],
     "slug": "ty-ennis-091523-27-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-28-jpeg",
@@ -1722,7 +1920,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-28.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-28.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-28.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1734,7 +1932,10 @@
     ],
     "slug": "ty-ennis-091523-28-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-3-jpeg",
@@ -1746,7 +1947,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-3.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-3.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-3.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1758,7 +1959,10 @@
     ],
     "slug": "ty-ennis-091523-3-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-30-jpeg",
@@ -1770,7 +1974,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-30.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-30.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-30.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1782,7 +1986,10 @@
     ],
     "slug": "ty-ennis-091523-30-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-31-jpeg",
@@ -1794,7 +2001,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-31.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-31.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-31.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1806,7 +2013,10 @@
     ],
     "slug": "ty-ennis-091523-31-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-32-jpeg",
@@ -1818,7 +2028,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-32.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-32.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-32.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1830,7 +2040,10 @@
     ],
     "slug": "ty-ennis-091523-32-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-33-jpeg",
@@ -1842,7 +2055,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-33.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-33.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-33.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1854,7 +2067,10 @@
     ],
     "slug": "ty-ennis-091523-33-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-34-jpeg",
@@ -1866,7 +2082,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-34.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-34.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-34.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1878,7 +2094,10 @@
     ],
     "slug": "ty-ennis-091523-34-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-4-jpeg",
@@ -1890,7 +2109,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-4.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-4.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-4.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1902,7 +2121,10 @@
     ],
     "slug": "ty-ennis-091523-4-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-5-jpeg",
@@ -1914,7 +2136,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-5.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-5.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-5.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1926,7 +2148,10 @@
     ],
     "slug": "ty-ennis-091523-5-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-6-jpeg",
@@ -1938,7 +2163,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-6.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-6.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-6.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1950,7 +2175,10 @@
     ],
     "slug": "ty-ennis-091523-6-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-8-jpeg",
@@ -1962,7 +2190,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-8.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-8.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-8.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1974,7 +2202,10 @@
     ],
     "slug": "ty-ennis-091523-8-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-9-jpeg",
@@ -1986,7 +2217,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523-9.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523-9.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523-9.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -1998,7 +2229,10 @@
     ],
     "slug": "ty-ennis-091523-9-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/media/ty-ennis-at-nationale/ty-ennis-091523-jpeg",
@@ -2010,7 +2244,7 @@
     "last_modified_at": "17-Sep-23",
     "title": "ty-ennis-091523.jpeg",
     "date": "2023-09-15 00:00:00 -0700",
-    "dateadded": "2023-09-17 21:03:32 -0700",
+    "dateadded": "2023-09-27 01:33:21 -0700",
     "asset": "/assets/ty-ennis/ty-ennis-091523.jpeg",
     "image": "/assets/ty-ennis/ty-ennis-091523.jpeg",
     "gallery": "ty-ennis-at-nationale",
@@ -2022,7 +2256,10 @@
     ],
     "slug": "ty-ennis-091523-jpeg",
     "ext": ".md",
-    "excerpt": "\n"
+    "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/gallery/pika-s-place/",
@@ -2031,7 +2268,7 @@
       "gallery",
       "collection"
     ],
-    "last_modified_at": "09-Sep-23",
+    "last_modified_at": "17-Sep-23",
     "title": "Pika's Place",
     "gallery": "pikas-place",
     "layout": "gallery",
@@ -2042,7 +2279,10 @@
 
     ],
     "excerpt": "<p>Someone has been leaving touching memorials for their son, who went by Pika, on the same pillar of the Morrison Bridge since at least 2019. This was right outside the door to my studio for years, so I did my best to document it whenever I could before the Portland graffiti removal team would paint over it. Pika, I didn’t know you, but you are remembered.🖤🖤🖤</p>\n",
-    "date": "2023-09-17 21:18:18 -0700"
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/gallery/they-always-have-and-still-do/",
@@ -2057,13 +2297,21 @@
     "status": "fresh",
     "layout": "gallery",
     "color": "goldenrod",
+    "tags": [
+      "art",
+      "painting"
+    ],
     "slug": "They Always Have and Still Do",
     "ext": ".md",
-    "tags": [
-
+    "excerpt": "<p><a href=\"https://www.nationale.us/amy-bay-they-always-have-and-still-do-2023\">June 2–July 9, 2023 at Nationale</a></p>\n",
+    "backlink_index": [
+      {
+        "title": "Amy bay at nationale",
+        "url": "/amy-bay-at-nationale/",
+        "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
+      }
     ],
-    "excerpt": "\n",
-    "date": "2023-09-17 21:18:18 -0700"
+    "date": "2023-09-27 11:00:10 -0700"
   },
   {
     "id": "/gallery/ty-ennis-at-nationale/",
@@ -2077,12 +2325,429 @@
     "gallery": "ty-ennis-at-nationale",
     "status": "fresh",
     "layout": "gallery",
+    "color": "rebeccapurple",
+    "tags": [
+      "art",
+      "shows"
+    ],
     "slug": "Ty Ennis at Nationale",
+    "ext": ".md",
+    "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Aaron",
+        "url": "/aaron/",
+        "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a>and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-1.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-1-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-10.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-10-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-15.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-15-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-16.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-16-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-17.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-17-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-18.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-18-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-19.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-19-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-2.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-2-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-20.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-20-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-22.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-22-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-23.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-23-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-24.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-24-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-26.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-26-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-27.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-27-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-28.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-28-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-3.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-3-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-30.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-30-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-31.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-31-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-32.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-32-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-33.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-33-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-34.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-34-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-4.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-4-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-5.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-5-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-6.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-6-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-8.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-8-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523-9.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-9-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      },
+      {
+        "title": "ty-ennis-091523.jpeg",
+        "url": "/media/ty-ennis-at-nationale/ty-ennis-091523-jpeg",
+        "excerpt": "<p>[[Ty Ennis at Nationale]]</p>\n"
+      }
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/art/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "tag",
+    "title": "art",
+    "slug": "art",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n",
-    "date": "2023-09-17 21:18:18 -0700"
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/books/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "tag",
+    "title": "books",
+    "slug": "books",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+      {
+        "title": "The Conceptual Labor Book",
+        "url": "/the-conceptual-labor-book/",
+        "excerpt": "<table>\n  <tbody>\n    <tr>\n      <td>This is the Conceptual Labor [[books</td>\n      <td>book]] that I wrote.</td>\n    </tr>\n  </tbody>\n</table>\n"
+      }
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/conceptual-labor/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "tag",
+    "title": "conceptual labor",
+    "slug": "conceptual labor",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/cozyweb/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "tag",
+    "title": "cozyweb",
+    "slug": "cozyweb",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+      {
+        "title": "How This Memex Started",
+        "url": "/about-gardening-this-garden/",
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started</p>\n</blockquote>\n"
+      },
+      {
+        "title": "Spencer Chang",
+        "url": "/spencer-chang/",
+        "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
+      }
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/fren/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "tag",
+    "title": "fren",
+    "slug": "fren",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/friend/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "tag",
+    "title": "friend",
+    "slug": "friend",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/memex/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "27-Sep-23",
+    "layout": "tag",
+    "title": "memex",
+    "slug": "memex",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/memorial/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "17-Sep-23",
+    "layout": "tag",
+    "title": "memorial",
+    "slug": "memorial",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/meta/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "27-Sep-23",
+    "layout": "tag",
+    "title": "meta",
+    "slug": "meta",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/nationale/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "24-Sep-23",
+    "layout": "tag",
+    "title": "nationale",
+    "slug": "nationale",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/octothorpes/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "24-Sep-23",
+    "layout": "tag",
+    "title": "octothorpes",
+    "slug": "octothorpes",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/painting/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "24-Sep-23",
+    "layout": "tag",
+    "title": "painting",
+    "slug": "painting",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
+  },
+  {
+    "id": "/tag/shows/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "27-Sep-23",
+    "layout": "tag",
+    "title": "shows",
+    "slug": "shows",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "backlink_index": [
+
+    ],
+    "date": "2023-09-27 11:00:10 -0700"
   }
 ]

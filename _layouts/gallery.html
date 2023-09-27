@@ -57,12 +57,31 @@
 
         <!-- sidebar -->
         <side style="font-size: 0.9em;" class="ui four wide column flooped">
-          <div >        
-            <time class="overlay page_hilight" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-              Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+            <div class="overlay page_hilight">        
+                {% if page.status != ""  %}
+                <h5 class="page-status">Status: </h5> {{ page.status | capitalize }} <br>
+                {% endif  %}
+                {% if page.type != 'pages' %}
+                <time class="page_hilight" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+                  Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+                </time>
+                {% endif %}
+
+              {% if page.tags.size >0  %}
+                <h5>Tags: </h5>
+                {% for tag in page.tags  %}
+                <a class="mini ui button basic" style="color: {{page.color}}; border: 1px solid {{page.color}};" href="/tag/{{tag}}">{{tag}}</a>
+                {% endfor  %}
+              {% endif  %}
+              {% if page.backlinks.size > 0 %}
+              <h5>Links to this page: </h5>
+              {% for backlink in page.backlinks %}
+                  <a class="internal-link page_hilight" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+                  <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
+              {% endfor %}
               {% endif %}
-            </time>
-          </div>        
+  
+            </div>        
         </side>
         <!-- end sidebar -->
  

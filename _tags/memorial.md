@@ -1,6 +1,4 @@
 ---
-layout: note
+layout: tag
 title: memorial
 ---
-
-# memorial Index Page

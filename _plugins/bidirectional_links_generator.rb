@@ -74,7 +74,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     end
 
     # Identify note backlinks and add them to each note
-    all_notes.each do |current_note|
+    all_docs.each do |current_note|
       # Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
         e.content.include?(current_note.url)
@@ -103,10 +103,10 @@ class BidirectionalLinksGenerator < Jekyll::Generator
        # Do it again but with less data for site-index.json. Very strange that the objects on the document created by this can't be addressed in a jekyll object
 
     # Identify note backlinks and add them to each note
-    all_notes.each do |current_note|
+    all_docs.each do |current_note|
       # Nodes: Jekyll
       moar_backlinks = [] 
-      all_notes.filter do |e|
+      all_docs.filter do |e|
         if e.content.include?(current_note.url)
           backlink_index = {title: e.data['title'], url: e.url, excerpt: e.data["excerpt"]}
           moar_backlinks.push(backlink_index)

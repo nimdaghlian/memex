@@ -1,6 +1,11 @@
 ---
-title: About Gardening This Garden
+title: How This Memex Started
+layout: note
+tags:
+  - meta
 ---
+
+> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started
 
 ## How I Started this Garden
 
@@ -55,13 +60,14 @@ So far the external sites I've imported are:
 * [[astronomy-picture-of-the-day]]
 * [[public-domain-review]]
 * [[the-morning-news]]
-* and [[Memex/_notes/people/Martha]]'s excellent [[Grapefruits Sometimes Art Email]]
+* and [[Martha]]'s excellent [[Grapefruits Sometimes Art Email]]
 
-and you can find allllll my bookmarks in the [[bookmarks]] bucket.
-
+~~and you can find allllll my bookmarks in the [[bookmarks]] bucket.
+~~
+Bookmarks removed after the advent of  [bloggy.garden](https://bloggy.garden)
 ### I made some new templates
 
-Very quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Memex/_notes/people/Martha|Martha]] a garden of emoji plants. They're evident in the above links.
+Very quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Martha|Martha]] a garden of emoji plants. They're evident in the above links.
 
 1.15.23
 

@@ -1,0 +1,136 @@
+---
+layout: default
+---
+<main class="ui container">
+  <content class="ui two column grid stackable gallery">
+      <!-- descriptive header for gallery -->
+      <div class="ui twelve wide column">
+        <h1 class="page_hilight">{{ page.title }}</h1>
+        <div class="description page_hilight">
+          <h3>Filter by category: </h3>
+          <div class="buttons-container">
+              <!-- Buttons will be added here dynamically -->
+            </div>
+          {{ content }}
+        </div>
+              <!-- listing of gallery contents -->
+    
+            <div class="ui cards grid four column stackable">
+            {% assign thetag = page.title  %}
+            {% for post in site.documents %}
+              {% if post.tags contains thetag %}
+
+              <div class="card block {% for cat in post.categories  %} {{cat}}{% endfor  %}" >
+                <div class="card-header page_hilight_bg">
+                  <div class="desaturate page_hilight">
+                    {% if post.date  %}
+                    <span class="date">
+                      <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+                    </span>
+                    {% endif  %}
+                  </div>
+                </div>
+                <div class="content">
+                  <strong>
+                    <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="card-link page_hilight">{{ post.title }}</a>
+                  </strong>
+                </div>
+              </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+
+
+      </div>
+      <side style="font-size: 0.9em;" class="ui four wide column flooped">
+      
+          
+          
+          
+        </side>
+  </content>
+  </main>
+ 
+  
+  <script>
+    // Get the container element
+    const galleryContainer = document.querySelector('.gallery');
+    const buttonsContainer = document.querySelector('.buttons-container');
+  
+    // Find all unique class names except "card" and "block"
+    const uniqueClasses = new Set();
+    const allDivs = galleryContainer.querySelectorAll('.card.block');
+    
+    allDivs.forEach(div => {
+      const classNames = div.className.split(' ');
+      classNames.forEach(className => {
+        if (className !== 'card' && className !== 'block' && className.trim() !== '') {
+          uniqueClasses.add(className);
+        }
+      });
+    });
+  
+    // Create buttons for each unique class
+    const filterChoices = [];
+  
+    uniqueClasses.forEach(className => {
+      const button = document.createElement('button');
+      button.textContent = className;
+      button.classList.add("mini", "ui", "primary", "basic", "button" )
+      
+      // Add click event listener to toggle visibility
+      button.addEventListener('click', () => {
+        const index = filterChoices.indexOf(className);
+  
+        if (index !== -1) {
+          filterChoices.splice(index, 1);
+        } else {
+          filterChoices.push(className);
+        }
+  
+        applyFilters();
+        updateURLParams();
+      });
+  
+      buttonsContainer.appendChild(button);
+    });
+  
+    // Function to update URL with filter choices
+    function updateURLParams() {
+      const urlParams = new URLSearchParams();
+      filterChoices.forEach(className => {
+        urlParams.append('filter', className);
+      });
+  
+      const newURL = `${window.location.pathname}?${urlParams.toString()}`;
+      history.pushState(null, '', newURL);
+    }
+  
+    // Function to apply filters based on selected choices
+    function applyFilters() {
+      allDivs.forEach(div => {
+        const show = filterChoices.every(className => div.classList.contains(className));
+        div.style.display = show ? 'block' : 'none';
+      });
+  
+      // Set active state for buttons
+      buttonsContainer.querySelectorAll('button').forEach(button => {
+        const className = button.textContent;
+        button.classList.toggle('primary', filterChoices.includes(className));
+      });
+    }
+  
+    // Function to handle URL parameters on page load
+    function handleURLParams() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const selectedClasses = urlParams.getAll('filter');
+      filterChoices.push(...selectedClasses);
+  
+      // Apply filters based on URL parameters
+      applyFilters();
+    }
+  
+    // Call the function to handle URL parameters on page load
+    handleURLParams();
+  </script>
+  

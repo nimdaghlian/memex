@@ -1,6 +1,4 @@
 ---
-layout: note
+layout: tag
 title: conceptual labor
 ---
-
-# conceptual labor Index Page

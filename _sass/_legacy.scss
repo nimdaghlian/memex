@@ -206,26 +206,6 @@ body.home {
           background-image: url(/images/talkingweed.gif);
         }
       }
-      &.garden-feed {
-        border: none;
-        padding: 0px 0px 0px;
-        &.the-morning-news i {
-          background-image: url(/images/tmn-plant.png);
-        }
-        &.astronomy-picture-of-the-day i {
-          background-image: url(/images/apod-plant.png);
-        }
-        &.public-domain-review i {
-          background-image: url(/images/pdr-plant.png);
-        }
-
-        // background: url(/images/grass.png) ;
-
-        img {
-          width: 100%;
-          height: auto;
-        }
-      }
     }
 
   }
@@ -342,12 +322,16 @@ body.home {
        font-family: monospace;
     }
     .overlay {
-      background: white;
-      padding: 10px;
-      margin: 5px;
-      width: 98%;
-      overflow: auto;
+      background-color: white;
+      padding: 4%;
+      // overflow: auto;
       display: inline-block;
+
+      .label {
+        &:hover {
+          opacity: 1;
+        }
+      }
     }
     
   }
@@ -372,8 +356,8 @@ article.asset {
 // modifiers
 
 .desaturate {
-  backdrop-filter: grayscale(.9) brightness(2) !important;
-  -webkit-backdrop-filter: grayscale(.9) brightness(2);
+  backdrop-filter: saturate(45%) brightness(2.3) !important;
+  -webkit-backdrop-filter: saturate(30%) brightness(2.3);
 }
 
 

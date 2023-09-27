@@ -16,6 +16,9 @@ metaanotherthing:
       <content>
         {{ content }}
 <!-- end excerpt -->
+        {% if page.gallery !=""  %}
+        <a href="/gallery/{{page.gallery}}">Original gallery</a>
+        {% endif %}
       </content>
       <hr>
     </side>

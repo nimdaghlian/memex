@@ -18,4 +18,4 @@ https://twitter.com/nimdaghlian/status/655524378969436160
 
 I'm frens with [[Abe]] [[Evan]] [[Nik]] [[John James]] [[Clamber]] [[Ryan]] [[Jon]]
 
-and I *like*-like [[Memex/_notes/people/Martha]]
+and I *like*-like [[Martha]]

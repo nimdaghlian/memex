@@ -118,6 +118,7 @@ gal.each do |galitem|
     		file.puts "layout: asset"
     		file.puts "tags: #{gal_tags}"
     		file.puts "--- \n"
+        file.puts "[[#{gal_name}]]"
     		file.close
 
         # TODO output a json / yaml file that indexes all media files for pagination, indexing

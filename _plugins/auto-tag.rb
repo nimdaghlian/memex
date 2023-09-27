@@ -28,6 +28,7 @@ module Jekyll
         # Add the arrays to site variables so they can be accessed in templates
         site.config['everytag'] = everytag
         site.config['everycat'] = everycat
+      
   
         # Create blank index Markdown files for tags and categories
         create_blank_files(site, 'tag', 'tag_index_layout', 'tag_index_dir', everytag)
@@ -58,8 +59,6 @@ module Jekyll
               layout: #{layout}
               title: #{title}
               ---
-  
-              # #{title} Index Page
             MARKDOWN
   
             # Write the Markdown content to the file

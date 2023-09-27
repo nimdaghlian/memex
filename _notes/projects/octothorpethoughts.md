@@ -1,9 +1,5 @@
 ---
-tags:
-- |2-
-
-  octothorpe
-- cozyweb
+tags: octothorpes cozyweb
 title: octothorpethoughts
 layout: note
 poster: ''

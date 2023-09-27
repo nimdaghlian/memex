@@ -1,6 +1,4 @@
 ---
-layout: note
+layout: tag
 title: books
 ---
-
-# books Index Page

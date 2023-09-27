@@ -1,6 +1,8 @@
 ---
-title: Garden Development Log
+title: Development Log
 layout: note
+tags:
+  - meta
 ---
 
 
@@ -23,8 +25,8 @@ layout: note
 - re-integrated Backlinks from [digital-garden-template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
 - thought way too much about categorization
 - added basic plugins to make index pages for all tags and categories
-- made sync script to smooth out the workflow of writing in Obsidian and publishing in Jekyll -- should preserve backlinks and image links as long as I'm minimally mindful
-
+- ~~made sync script to smooth out the workflow of writing in Obsidian and publishing in Jekyll -- should preserve backlinks and image links as long as I'm minimally mindful~~ 
+[easier to do it manually right now](http://xkcd.com/1319/)
 
 **Spring - Summer 2023**
 
