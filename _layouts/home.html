@@ -8,7 +8,7 @@ layout: default
 
   <div id="notes-entry-container">
 
-    <side style="font-size: 0.9em">
+ 
     <h1>{{ page.title }}</h1>
       <content>
         {{ content }}
@@ -19,7 +19,11 @@ layout: default
               </h2>
     {% endfor  %}
       </content>
-
+      <side style="font-size: 0.9em">
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+        {{ tag[0]}}
+        {% endfor %}
     </side>
   </div>
 </article>

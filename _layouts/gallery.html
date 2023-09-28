@@ -22,30 +22,13 @@
         {% assign g = page.gallery %}
           {% for post in site.media %}
             {% if post.gallery contains g %}
-            <div class="card block" >
-              <div class="card-header page_hilight_bg">
-                <div class="desaturate page_hilight">
-                  {% if post.date  %}
-                  <span class="date">
-                    <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-                  </span>
-                  {% endif  %}
-                </div>
-              </div>
-              <div class="content">
-                <div class="content" style="background-image: url({{ post.image | resize: '400>x400'}}); margin: auto; height: 200px; background-repeat: no-repeat; background-position: center; background-size: cover;">
-                <a href="{{ post.url }}?gallery={{page.gallery}}" target="_blank" title="{{ post.title }}" style="width: 100%; height: 200px; display: block;"></a>
-                </div>
-                <h3>
-                  <a href="{{ post.url }}?gallery={{page.gallery}}" target="_blank" title="{{ post.title }}" class="card-link page_hilight">{{ post.title }}</a>
-                </h3>
-                    {% if post.excerpt  %}
-                      <div>
-                        {{ post.excerpt | truncatewords: 25 }}
-                      </div>
-                    {% endif %}
-                  </div>
-            </div>
+            {% assign postTitle = post.title  %}
+            {% assign postGallery = post.gallery  %}
+            {% assign postUrl = post.url  %}
+            {% assign postExcerpt = post.excerpt  %}
+            {% assign postDate = post.date  %}
+
+            {% include image_card.html  %}
             {% endif %}
           {% endfor %}
         </div>
@@ -57,31 +40,7 @@
 
         <!-- sidebar -->
         <side style="font-size: 0.9em;" class="ui four wide column flooped">
-            <div class="overlay page_hilight">        
-                {% if page.status != ""  %}
-                <h5 class="page-status">Status: </h5> {{ page.status | capitalize }} <br>
-                {% endif  %}
-                {% if page.type != 'pages' %}
-                <time class="page_hilight" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-                  Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
-                </time>
-                {% endif %}
-
-              {% if page.tags.size >0  %}
-                <h5>Tags: </h5>
-                {% for tag in page.tags  %}
-                <a class="mini ui button basic" style="color: {{page.color}}; border: 1px solid {{page.color}};" href="/tag/{{tag}}">{{tag}}</a>
-                {% endfor  %}
-              {% endif  %}
-              {% if page.backlinks.size > 0 %}
-              <h5>Links to this page: </h5>
-              {% for backlink in page.backlinks %}
-                  <a class="internal-link page_hilight" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
-                  <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
-              {% endfor %}
-              {% endif %}
-  
-            </div>        
+          {% include side.html  %}
         </side>
         <!-- end sidebar -->
  

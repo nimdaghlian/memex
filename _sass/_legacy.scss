@@ -25,6 +25,12 @@ body {
   }
 }
 
+
+a:hover {
+  text-decoration: underline solid 2px;
+  text-underline-offset: 4px;
+}
+
 time {
   display: block;
   color: $color-subtext;
@@ -76,42 +82,9 @@ h6 {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-/* 
-a {
-  transition: background 300ms;
-  padding: 0 0.1em;
-  text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
-  &:hover {
-    color: black !important;
-    background: #fffaf1;
-  }
-  &:after {
-    position: relative;
-    top: -0.5em;
-    font-size: 0.7em;
-    // content: "↗";
-    color: #aaaaaa;
-  }
-  &.internal-link {
-    background: transparent;
-    border: 0px;
-  }
-  &.internal-link:after,
-  &.footnote:after,
-  &.reversefootnote:after {
-    content: "";
-    display: none;
-  }
 
-}
 
-*:focus {
-  background: #ffe8bc !important;
-  color: black !important;
-}
-*/
+
 nav {
   margin: 1em 0 3em;
 }
@@ -222,6 +195,8 @@ body.home {
     }
 }
 
+// gallery
+
 .gallery { 
 
   content { 
@@ -246,6 +221,15 @@ body.home {
     font-size: 1.2rem;
     border-bottom: 5px solid;
 
+    a {
+      text-decoration: underline solid 2px;
+      text-underline-offset: 4px;
+      color: inherit;
+      &:hover {
+        text-decoration: underline wavy 1px;
+        text-underline-offset: 4px;  
+      }
+    }
     /*
     border-radius: 4px;
     div {
@@ -265,6 +249,7 @@ body.home {
           a.card-link {
 
             &:hover {
+              text-decoration: none;
               &:after {
                 content: " ↝";
               } 
@@ -314,29 +299,24 @@ body.home {
       border-radius: none;
     }
   }
-  side {
-    // background: url(/assets/REDfloopdashes.svg);
-    padding: 30px;
-    margin-top: 10px;
-    * {
-       font-family: monospace;
-    }
-    .overlay {
-      background-color: white;
-      padding: 4%;
-      // overflow: auto;
-      display: inline-block;
-
-      .label {
-        &:hover {
-          opacity: 1;
-        }
-      }
-    }
-    
-  }
 }
 
+// tag page
+
+.tag-page {
+  .buttons-container {
+    margin: 20px 0px;
+
+    h2 {
+      float: left;
+      width: auto;
+    }
+    button.button {
+      margin: 5px;
+    }
+
+  }
+}
 article.asset {
 
   .asset-nav {
@@ -352,6 +332,33 @@ article.asset {
   }
 }
 
+// components
+
+side {
+  // background: url(/assets/REDfloopdashes.svg);
+  padding: 30px;
+  margin-top: 10px;
+  * {
+     font-family: monospace;
+  }
+  .overlay {
+    background-color: white;
+    padding: 4%;
+    // overflow: auto;
+    display: inline-block;
+      div {
+        margin: 1rem 15% 1rem 1rem;
+      }
+
+
+    .label {
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+  
+}
 
 // modifiers
 

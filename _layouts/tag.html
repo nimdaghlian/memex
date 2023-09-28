@@ -1,17 +1,14 @@
 ---
 layout: default
 ---
-<main class="ui container">
-  <content class="ui two column grid stackable gallery">
+  <content class="ui twelve wide column grid stackable gallery tag-page">
       <!-- descriptive header for gallery -->
-      <div class="ui twelve wide column">
+      <div>
         <h1 class="page_hilight">{{ page.title }}</h1>
-        <div class="description page_hilight">
-          <h3>Filter by category: </h3>
-          <div class="buttons-container">
-              <!-- Buttons will be added here dynamically -->
-            </div>
-          {{ content }}
+        <div class="buttons-container">
+          <h2><i class="las la-filter page_hilight"></i></h2>
+      
+          <!-- Buttons will be added here dynamically -->
         </div>
               <!-- listing of gallery contents -->
     
@@ -42,14 +39,16 @@ layout: default
 
 
       </div>
-      <side style="font-size: 0.9em;" class="ui four wide column flooped">
-      
-          
-          
-          
-        </side>
   </content>
-  </main>
+  <side class="ui sticky four wide column">
+
+    <div class="overlay">
+      <div class="description">
+        {{ content }}
+      </div>
+    </div>
+    </side>
+
  
   
   <script>

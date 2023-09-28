@@ -25,7 +25,7 @@ plugins:
 safe: false 
 
 tag_index_layout: tag
-tag_index_dir: _tags
+tag_index_dir: _tag-pages
 
 cat_index_layout: category
 cat_index_dir: /_categories
@@ -43,7 +43,7 @@ collections:
   galleries:
     output: true
     permalink: /gallery/:name/
-  tags:
+  tag-pages:
     output: true
     permalink: /tag/:name/
 

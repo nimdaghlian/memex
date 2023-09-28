@@ -1,0 +1,28 @@
+{% assign width=""  %}
+{% if include.width  %}
+{% assign width=include.width  %}
+{% endif  %}
+<div class="card block" style="width:{{width}};" >
+    <div class="card-header page_hilight_bg">
+      <div class="desaturate page_hilight">
+        {% if postDate  %}
+        <span class="date">
+          <small>{{ postDate | date: "%B %-d, %Y" }}</small>
+        </span>
+        {% endif  %}
+      </div>
+    </div>
+    <div class="content">
+      <div class="content" style="background-image: url({{ post.image | resize: '400>x400'}}); margin: auto; height: 200px; background-repeat: no-repeat; background-position: center; background-size: cover;">
+      <a href="{{ postUrl }}?gallery={{postGallery}}" title="{{ postTitle }}" style="width: 100%; height: 200px; display: block;"></a>
+      </div>
+      <h3>
+        <a href="{{ postUrl }}?gallery={{postGallery}}" title="{{ postTitle }}" class="card-link page_hilight">{{ postTitle }}</a>
+      </h3>
+          {% if postExcerpt  %}
+            <div>
+              {{ postExcerpt | truncatewords: 25 }}
+            </div>
+          {% endif %}
+        </div>
+  </div>

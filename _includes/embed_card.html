@@ -1,0 +1,11 @@
+{% for post in site.media %}
+    {% if post.title contains include.postTitle %}
+    {% assign postTitle = post.title  %}
+    {% assign postGallery = post.gallery  %}
+    {% assign postUrl = post.url  %}
+    {% assign postExcerpt = post.excerpt  %}
+    {% assign postDate = post.date  %}
+
+    {% include image_card.html  %}
+    {% endif %}
+{% endfor %}

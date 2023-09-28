@@ -11,3 +11,5 @@ tags: ["art", "memorial"]
 --- 
 
 hello
+
+{{ page.thumbnail }}
