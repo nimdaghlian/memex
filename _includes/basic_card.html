@@ -1,0 +1,28 @@
+<div class="card block {% for cat in post.categories  %} {{cat}}{% endfor  %}" >
+    <div class="card-header page_hilight_bg">
+      <div class="desaturate page_hilight">
+        {% if post.date  %}
+        <span class="date">
+          <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+        </span>
+        {% endif  %}
+      </div>
+    </div>
+    <div class="content">
+      {% if post.image  %}
+      <div class="thumbnail">
+        <a style="background-image: url({{ post.image | resize: '90>x90'}}); margin: auto; height: 40px; width: 40px; background-repeat: no-repeat; background-position: center; background-size: cover; display: inline-block;">&nbsp;</a>
+      </div>
+       {% endif  %} 
+       <div class="title"> 
+        <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="card-link page_hilight">{{ post.title }}</a>
+       </div>
+       {% if include.excerpt == "true"  %}
+        {% if post.excerpt != ""  %}
+        <div class="except">
+         {{ post.excerpt | strip_html | truncatewords: 20 }}
+        </div>
+        {% endif  %}
+       {% endif  %}
+    </div>
+  </div>

@@ -1,0 +1,94 @@
+<div class="buttons-container">
+    <!-- Buttons will be added here dynamically -->
+  </div>
+  
+  <script>
+    // Get the container element
+    const galleryContainer = document.querySelector('.gallery');
+    const buttonsContainer = document.querySelector('.buttons-container');
+  
+    // Find all unique class names except "card" and "block"
+    const uniqueClasses = new Set();
+    const allDivs = galleryContainer.querySelectorAll('.card.block');
+    
+    allDivs.forEach(div => {
+      const classNames = div.className.split(' ');
+      classNames.forEach(className => {
+        if (className !== 'card' && className !== 'block' && className.trim() !== '') {
+          uniqueClasses.add(className);
+        }
+      });
+    });
+  
+    // Create buttons for each unique class
+    const filterChoices = [];
+  
+    uniqueClasses.forEach(className => {
+      const button = document.createElement('button');
+      button.textContent = className;
+      button.classList.add("mini", "ui", "primary", "basic", "button" )
+
+
+      // Add click event listener to toggle visibility
+      button.addEventListener('click', () => {
+        const index = filterChoices.indexOf(className);
+  
+        if (index !== -1) {
+          filterChoices.splice(index, 1);
+        } else {
+          filterChoices.push(className);
+        }
+  
+        applyFilters();
+        updateURLParams();
+      });
+  
+      buttonsContainer.appendChild(button);
+    });
+  
+    // Function to update URL with filter choices
+    function updateURLParams() {
+      const urlParams = new URLSearchParams();
+      filterChoices.forEach(className => {
+        urlParams.append('filter', className);
+      });
+  
+      const newURL = `${window.location.pathname}?${urlParams.toString()}`;
+      history.pushState(null, '', newURL);
+    }
+  
+    // Function to apply filters based on selected choices
+    function applyFilters() {
+      allDivs.forEach(div => {
+        const show = filterChoices.length === 0 || filterChoices.every(className => div.classList.contains(className));
+        
+        // Remove any existing inline display style
+        div.style.removeProperty('display');
+        
+        // Set the display property with !important based on show variable
+        if (!show) {
+          div.style.setProperty('display', 'none', 'important');
+        }
+      });
+  
+      // Set active state for buttons
+      buttonsContainer.querySelectorAll('button').forEach(button => {
+        const className = button.textContent;
+        button.classList.toggle('active', filterChoices.includes(className));
+      });
+    }
+  
+    // Function to handle URL parameters on page load
+    function handleURLParams() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const selectedClasses = urlParams.getAll('filter');
+      filterChoices.push(...selectedClasses);
+  
+      // Apply filters based on URL parameters
+      applyFilters();
+    }
+  
+    // Call the function to handle URL parameters on page load
+    handleURLParams();
+  </script>
+  

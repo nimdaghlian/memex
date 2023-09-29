@@ -16,13 +16,41 @@
           {% assign galleries = site.galleries | sort: 'date' | reverse  %}
           <div class="ui basic segment">
             {% for post in galleries  limit:1 %}
-          
+            {% assign recentgal = post.gallery  %}
             <h2>
               <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{ post.title}}</a>
             </h2>
 
           {% endfor  %}
-            {% include embed_card.html postTitle="ty-ennis-091523-6.jpeg"  %}
+          {% assign rightgal = site.media | where: "gallery", recentgal  %}
+          {% for media in rightgal limit:1   %}
+          <div class="card block" >
+            <div class="card-header page_hilight_bg">
+              <div class="desaturate page_hilight">
+                {% if postDate  %}
+                <span class="date">
+                  <small>{{ postDate | date: "%B %-d, %Y" }}</small>
+                </span>
+                {% endif  %}
+              </div>
+            </div>
+            <div class="content">
+              <div class="content" style="background-image: url({{ media.image | resize: '400>x400'}}); margin: auto; height: 415px; background-repeat: no-repeat; background-position: center; background-size: cover;">
+              <a href="{{ media.url }}?gallery={{media.url}}" title="{{ media.title }}" style="width: 100%; height: 415px; display: block;"></a>
+              </div>
+              <h3>
+                <a href="{{ media.url }}?gallery={{media.url}}" title="{{ media.title }}" class="card-link page_hilight">{{ media.title }}</a>
+              </h3>
+                  {% if postExcerpt  %}
+                    <div>
+                      {{ postExcerpt | truncatewords: 25 }}
+                    </div>
+                  {% endif %}
+                </div>
+          </div>
+          {% endfor  %}
+
+
         </div>
         </content>
         <side class="ui six wide column">
@@ -44,23 +72,24 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. Pellentesque pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium.</p>
       </div>
       <div class="ui four wide column">
-        <h4 class="ui header">Collections</h4>
+        <h4 class="ui header">Types
+        </h4>
           <div class="ui basic segments">
           {% for collection in site.collections %}
+          {% if collection.label != "cat-pages" and collection.label !="posts"   %}
           <div class="ui segment">
-            <h4>{{collection.label}}</h4>
-            Link to collection to come
+             <a href="/{{collection.label}}"><h4>{{collection.label}}</h4></a>
           </div>
+          {% endif  %}
           {% endfor %}
         </div>
       </div>
       <div class="ui four wide column">
         <h4 class="ui header">Categories</h4>
           <div class="ui basic segments">
-          {% for collection in site.collections %}
+          {% for cat in site.cat-pages %}
           <div class="ui segment">
-            <h4>{{collection.label}}</h4>
-            Link to category to come
+            <a href="{{cat.url}}"<h4>{{cat.title}}</h4></a>
           </div>
           {% endfor %}
         </div>

@@ -1,5 +1,7 @@
 ---
 title: Spencer Chang
+categories:
+    - people
 ---
 
 Spencer is a real nice guy who reached out to me on Twitter after I made [bloggy.garden/](https://bloggy.garden/). (His feed is the 🌀.) He's doing super cool stuff in the [[cozyweb]] realm like [htmlgarden](https://htmlgarden.spencerchang.me/) and [more!](https://www.spencerchang.me/)

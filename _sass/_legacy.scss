@@ -189,7 +189,14 @@ code {
             margin: 1em auto;
             font-weight: normal;
           }
-
+          .thumbnail {
+            float: left;
+            margin: 0px 5px 5px 0px;
+          }
+          .title {
+            font-weight: normal;
+            font-size: .9em;
+          }
           a.card-link {
 
             &:hover {
@@ -245,9 +252,8 @@ code {
   }
 }
 
-// tag page
+// collections
 
-.tag-page {
   .buttons-container {
     margin: 20px 0px;
 
@@ -260,7 +266,8 @@ code {
     }
 
   }
-}
+
+
 article.asset {
 
   .asset-nav {
@@ -302,6 +309,10 @@ side {
     }
   }
   
+}
+
+a.ui.button {
+  margin: 3px;
 }
 
 // modifiers
