@@ -148,8 +148,9 @@
   },
   "active": "1055473da8c17ad3",
   "lastOpenFiles": [
-    "_site/site-index.json",
+    "index.md",
     "_site/everything.xml",
+    "_site/site-index.json",
     "_tag-pages/shows.md",
     "_tag-pages/painting.md",
     "_tag-pages/octothorpes.md",

@@ -126,74 +126,18 @@ code {
   cursor: help;
 }
 
-body.home {
- margin: 0px;
- padding: 0px; 
-  .homepage {
-    display: grid;
-    grid-template-columns: repeat(25, 1fr);
-    width: 100vw;
-    background-color: #3abe41;
-    @media (max-width: 900px) {
-      grid-template-columns: repeat(10, 1fr);
-    }
-    a {
-      &.internal-link {
-        border: none;
-        background: unset;
-      }
-      &.garden-grid {
-        width: 4vw;
-        height: 4vw;
-        @media (max-width: 900px) {
-          width: 10vw;
-          height: 10vw;
-        }
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-image: url(/images/grass2.png);
-        &:hover i {
-          margin-top: -7px;
-        }
-        i {
-          width: 2vw;
-          height: 2vw;
-          margin: 1vw;
-          padding: 1vw;
-          display: block;
-          background-size: contain;
-          background-repeat: no-repeat;
-          @media (max-width: 900px) {
-            width: 6vw;
-            height: 6vw;
-            padding: 2vw;
-            margin: 2vw;
-          }
+// home
 
-
-        }
-
-      }
-      &.garden-sprite {
-        i {
-          background-image: url(/images/talkingweed.gif);
-        }
+.home {
+  side {
+    .excerpt {
+      img {
+        max-height: 175px;
       }
     }
-
-  }
-}
-.garden {
-  h3 {
-    grid-column: 1 / -1;
   }
 }
 
-.stuff-list {
-  h3, a, p {
-    grid-column: 1 / -1;
-    }
-}
 
 // gallery
 
@@ -375,7 +319,77 @@ a.internal-link:after {
 
 
 
+@slayer old {
 
+body.home {
+  margin: 0px;
+  padding: 0px; 
+   .homepage {
+     display: grid;
+     grid-template-columns: repeat(25, 1fr);
+     width: 100vw;
+     background-color: #3abe41;
+     @media (max-width: 900px) {
+       grid-template-columns: repeat(10, 1fr);
+     }
+     a {
+       &.internal-link {
+         border: none;
+         background: unset;
+       }
+       &.garden-grid {
+         width: 4vw;
+         height: 4vw;
+         @media (max-width: 900px) {
+           width: 10vw;
+           height: 10vw;
+         }
+         background-size: contain;
+         background-repeat: no-repeat;
+         background-image: url(/images/grass2.png);
+         &:hover i {
+           margin-top: -7px;
+         }
+         i {
+           width: 2vw;
+           height: 2vw;
+           margin: 1vw;
+           padding: 1vw;
+           display: block;
+           background-size: contain;
+           background-repeat: no-repeat;
+           @media (max-width: 900px) {
+             width: 6vw;
+             height: 6vw;
+             padding: 2vw;
+             margin: 2vw;
+           }
+ 
+ 
+         }
+ 
+       }
+       &.garden-sprite {
+         i {
+           background-image: url(/images/talkingweed.gif);
+         }
+       }
+     }
+ 
+   }
+ }
+ .garden {
+   h3 {
+     grid-column: 1 / -1;
+   }
+ }
+ 
+ .stuff-list {
+   h3, a, p {
+     grid-column: 1 / -1;
+     }
+ }
+}
 
 
 

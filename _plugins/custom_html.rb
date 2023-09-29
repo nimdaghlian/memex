@@ -43,7 +43,7 @@ module Jekyll
                 if document.data["image"]
                     image_url = document.data["image"]
                 output += "<div class='content'>
-                <div style='background-image: url({{ #{image_url} | resize: '400>x400'}}); margin: auto; height: 200px; background-repeat: no-repeat; background-position: center; background-size: cover;'>
+                <div style='background-image: url({{ #{image_url} | resize: '400>x400'}}); margin: auto; background-repeat: no-repeat; background-position: center; background-size: cover;'>
                 <a href='#{document.data["url"]}?gallery=#{document.data["gallery"]}' target='_blank' title='#{document.data["title"]}' style='width: 100%; height: 200px; display: block;'></a>
                 </div>
                 <h3>

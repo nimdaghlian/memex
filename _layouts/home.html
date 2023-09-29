@@ -1,32 +1,86 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body class="home">
+    <div class="ui container">
+      {% include nav.html  %}
+      <div class="site-description ui grid">
+        <div class="ui six wide column">
+          <h1>{{ page.title }}</h1>
+          {{ content }}    
+        </div>
+      </div>
+      <main class="ui two column grid stackable">
+        <content class="ui ten wide column">
+          <!-- end excerpt -->
+          {% assign galleries = site.galleries | sort: 'date' | reverse  %}
+          <div class="ui basic segment">
+            {% for post in galleries  limit:1 %}
+          
+            <h2>
+              <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{ post.title}}</a>
+            </h2>
 
-<article>
-  <div>
-  </div>
+          {% endfor  %}
+            {% include embed_card.html postTitle="ty-ennis-091523-6.jpeg"  %}
+        </div>
+        </content>
+        <side class="ui six wide column">
+          <div class="ui piled segment">
+            <h2>Recent Notes</h2>
+            {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+            {% for note in sorted_notes limit:3 %}
+            <div class="ui vertical segment">
+              <a href="{{note.url}}"><h4>{{note.title }}</h4></a>
+              <div class="excerpt">
+                {{ note.excerpt }}
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+      </side>
+      <div class="ui four wide column">
+        <h4 class="ui header">About this site</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. Pellentesque pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium.</p>
+      </div>
+      <div class="ui four wide column">
+        <h4 class="ui header">Collections</h4>
+          <div class="ui basic segments">
+          {% for collection in site.collections %}
+          <div class="ui segment">
+            <h4>{{collection.label}}</h4>
+            Link to collection to come
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="ui four wide column">
+        <h4 class="ui header">Categories</h4>
+          <div class="ui basic segments">
+          {% for collection in site.collections %}
+          <div class="ui segment">
+            <h4>{{collection.label}}</h4>
+            Link to category to come
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    <div class="ui four wide column">
+      <h4 class="ui header">Tags</h4>
+      <div class="ui basic segments">
+          {% for tag in site.tag-pages %}
+            <a class="mini ui button basic" style="color: {{page.color}}; border: 1px solid {{page.color}};" href="{{tag.url}}">{{tag.title}}</a>
+          {% endfor %}
+      </div>
+    </div>
+      </main>
+      <footer>{% include footer.html %}</footer>
+    </div>
 
-  <div id="notes-entry-container">
+  </body>
+</html>
 
- 
-    <h1>{{ page.title }}</h1>
-      <content>
-        {{ content }}
-<!-- end excerpt -->
-    {% for post in site.galleries %}
-              <h2>
-                <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{ post.title}}</a>
-              </h2>
-    {% endfor  %}
-      </content>
-      <side style="font-size: 0.9em">
-        {% assign tags = site.tags | sort %}
-        {% for tag in tags %}
-        {{ tag[0]}}
-        {% endfor %}
-    </side>
+    
   </div>
 </article>
-
-<hr>
 
