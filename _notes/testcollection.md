@@ -1,6 +1,7 @@
 ---
 title: test collection
 layout: collection
+category: collection
 galmatch: 
 tagmatch:
     - memex

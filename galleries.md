@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: All Galleries
-colmatch: notes
+title: galleries
+colmatch: galleries
 ---
 
 You may also enjoy seeing all of these [in a graph.](/notecloud)

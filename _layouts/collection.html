@@ -44,39 +44,54 @@ layout: default
   </content>
         <!-- sidebar -->
         <side class="ui four wide column">
-          <h3>Collection of: </h3>
-          {% if cats  %}
-            <h4>Categories:</h4>
-            <ul>
-              {% for item in cats  %}
-              <li>{{item}}</li>
+          <div class="overlay">
+
+          <h5>Collection of: </h5>
+
+          <div class="ui horizontal list">
+
+                {% if cats  %}
+                {% for item in cats  %}
+                <span class="item">
+                  <div class="content">
+                    <p>Category</p>
+                    <a href="/category/{{item}}">{{item}}</a>
+                  </div>
+                </span>
               {% endfor  %}
-            </ul>
-          {% endif  %}
-          {% if tags  %}
-            <h4>Tags:</h4>
-            <ul>
+              {% endif  %}
+              {% if tags  %}
               {% for item in tags  %}
-              <li>{{item}}</li>
-              {% endfor  %}
-            </ul>
-          {% endif  %}
-          {% if gals  %}
-          <h4>Galleries:</h4>
-          <ul>
-            {% for item in gals  %}
-            <li>{{item}}</li>
+              <span class="item">
+                <div class="content">
+                  <p >Tag</p>
+                  <a href="/tag/{{item}}">{{item}}</a>
+                </div>
+              </span>
             {% endfor  %}
-          </ul>
-        {% endif  %}
-        {% if cols  %}
-        <h4>Types:</h4>
-        <ul>
-          {% for item in cols  %}
-          <li>{{item}}</li>
+            {% endif  %}
+            {% if gals  %}
+            {% for item in gals  %}
+            <span class="item">
+              <div class="content">
+                <p >Gallery</p>
+                <a href="gallery/{{item}}">{{item}}</a>
+              </div>
+            </span>
           {% endfor  %}
-        </ul>
-      {% endif  %}
+          {% endif  %}
+          {% if cols  %}
+          {% for item in cols  %}
+          <span class="item">
+            <div class="content">
+              <p>Types</p>
+              <a href="/{{item}}">{{item}}</a>
+            </div>
+          </span>
+        {% endfor  %}
+        {% endif  %}
+        </div>
+        </div>
           {% include side.html  %}
         </side>
         <!-- end sidebar -->

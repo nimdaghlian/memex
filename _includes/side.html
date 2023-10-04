@@ -3,8 +3,8 @@
 
         <h5 class="page-status">Status: </h5>
         <div>
-          {% if page.status != ""  %}
-            {{ page.status | capitalize }} <br>
+          {% if page.status  %}
+            {{ page.status | capitalize }}<br>
           {% endif  %}
           {% if page.type != 'pages' %}
           <time class="page_hilight" datetime="{{ page.last_modified_at | date_to_xmlschema }}">

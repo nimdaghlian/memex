@@ -11,26 +11,15 @@
             "id": "aa132038d01b930d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/always-have-still-do/always-have-still-do-060323-5.jpeg"
-              }
-            }
-          },
-          {
-            "id": "1055473da8c17ad3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/meta/Development Log.md",
+                "file": "_notes/meta/About.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/meta/Development Log.md",
+                "file": "_notes/meta/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,24 +135,29 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "1055473da8c17ad3",
+  "active": "aa132038d01b930d",
   "lastOpenFiles": [
+    "_includes/tagcloud.html",
+    "_includes/catcloud.html",
+    "_site/site-index.json",
+    "_site/feed.xml",
+    "assets/always-have-still-do/always-have-still-do-060323-5.jpeg",
+    "_notes/meta/About.md",
+    "galleries.md",
+    "_includes/tag-list.html",
+    "_includes/category-list.html",
+    "media.md",
+    "_notes/meta/What Is a Memex.md",
+    "_notes/meta/About Gardening This Garden.md",
+    "_notes/meta/Development Log.md",
+    "_layouts/category.html",
+    "_site/everything.xml",
     "_site/posts.html",
     "posts.md",
     "_site/galleries.html",
-    "galleries.md",
     "_site/media.html",
-    "media.md",
-    "_site/notes.html",
     "_site/notes.md",
     "notes.md",
-    "_site/category/people/index.html",
-    "_site/category/people",
-    "_site/category/media/index.html",
-    "_site/category/media",
-    "_site/category/image/index.html",
-    "_site/category/gallery/index.html",
-    "_site/category/friends/index.html",
     "_cat-pages/people.md",
     "_cat-pages/media.md",
     "_cat-pages/image.md",
@@ -182,17 +176,12 @@
     "_site/cache/resize/1ac58d7816d58336aeac41963b564c2c_90x90.jpeg",
     "_site/cache/resize/e286e965d1e2e4ef7ab01ec062b33710_90x90.jpeg",
     "_site/cache/resize/1281a3253968081db256a6760e47cda6_90x90.jpeg",
-    "_site/cache/resize/3f20f496a2e48a6bf09f4df2f122ca55_90x90.jpeg",
     "index.md",
     "_tag-pages/shows.md",
     "_tag-pages/painting.md",
     "_tag-pages/octothorpes.md",
     "_tag-pages/nationale.md",
     "_tag-pages/meta.md",
-    "_tag-pages/memorial.md",
-    "_tag-pages/memex.md",
-    "_tag-pages/friend.md",
-    "_tag-pages/fren.md",
-    "_tag-pages/cozyweb.md"
+    "_tag-pages/memorial.md"
   ]
 }

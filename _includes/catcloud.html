@@ -1,0 +1,5 @@
+<div class="ui compact wrapping spaced buttons">
+    {% for cat in site.cat-pages %}
+      <a class="ui tertiary button" style="color: {{page.color}};" href="{{cat.url}}">{{cat.title}}</a>
+    {% endfor %}
+</div>

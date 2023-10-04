@@ -111,7 +111,7 @@ gal.each do |galitem|
         # TODO check against a set of file extensions and label appropriately
         # This would be on the way to making a more generic "media collection" utility
         # so you'd want your template to detect the asset type / assign different template (less pref)
-        file.puts "categories: media image"
+        file.puts "categories: image"
         file.puts "gallery: #{name_slug}"
         # NOTE this is pretty jekyll specific, but specifying a permalink means that you could
         file.puts "permalink: /media/#{name_slug}/#{fileslug}"

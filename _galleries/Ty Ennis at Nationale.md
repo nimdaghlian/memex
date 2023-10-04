@@ -2,7 +2,7 @@
 title: Ty Ennis at Nationale
 gallery: ty-ennis-at-nationale
 status: fresh
-categories: collection gallery
+categories: gallery
 layout: gallery
 color: rebeccapurple
 tags: art shows

@@ -74,6 +74,6 @@ Jekyll::Hooks.register :documents, :post_write do |doc|
   end
 
   # Save the Atom feed to a file named 'feed.xml' in the root directory
-  File.write(File.join(doc.site.dest, 'everything.xml'), atom_feed.target!)
+  File.write(File.join(doc.site.dest, 'feed.xml'), atom_feed.target!)
 end
 

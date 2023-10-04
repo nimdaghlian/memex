@@ -1,0 +1,5 @@
+<div class="ui compact wrapping spaced buttons">
+    {% for tag in site.tag-pages %}
+      <a class="ui tertiary button" style="color: {{page.color}};" href="{{tag.url}}">{{tag.title}}</a>
+    {% endfor %}
+</div>

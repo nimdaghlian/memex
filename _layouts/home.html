@@ -4,8 +4,8 @@
   <body class="home">
     <div class="ui container">
       {% include nav.html  %}
-      <div class="site-description ui grid">
-        <div class="ui six wide column">
+      <div class="site-description ui grid stackable">
+        <div class="ui ten wide column">
           <h1>{{ page.title }}</h1>
           {{ content }}    
         </div>
@@ -69,14 +69,20 @@
       </side>
       <div class="ui four wide column">
         <h4 class="ui header">About this site</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique. Pellentesque pharetra vehicula ante, sed aliquam nibh condimentum ut. Morbi sapien sapien, convallis vitae aliquet eu, tempor nec purus. Quisque at dui quis turpis tempus facilisis non eget arcu. Cras rhoncus tincidunt lorem id pharetra. Morbi dignissim purus nec lacus convallis pretium.</p>
+        <p>{% assign aboutpage = site.notes | where: "title", "About"  %}
+          {% for about in aboutpage  %}
+          {{ about.excerpt }}
+          <a href="{{ about.url }}">More about this site...</a>
+          {% endfor  %}
+        </p>
+
       </div>
       <div class="ui four wide column">
-        <h4 class="ui header">Types
+        <h4 class="ui header">Types of Things
         </h4>
           <div class="ui basic segments">
           {% for collection in site.collections %}
-          {% if collection.label != "cat-pages" and collection.label !="posts"   %}
+          {% if collection.label !="cat-pages" and collection.label !="tag-pages" and collection.label !="posts"   %}
           <div class="ui segment">
              <a href="/{{collection.label}}"><h4>{{collection.label}}</h4></a>
           </div>
@@ -85,17 +91,17 @@
         </div>
       </div>
       <div class="ui four wide column">
-        <h4 class="ui header">Categories</h4>
+        <h4 class="ui header">Categories of Things</h4>
           <div class="ui basic segments">
           {% for cat in site.cat-pages %}
           <div class="ui segment">
-            <a href="{{cat.url}}"<h4>{{cat.title}}</h4></a>
+            <a href="{{cat.url}}"><h4>{{cat.title}}</h4></a>
           </div>
           {% endfor %}
         </div>
       </div>
     <div class="ui four wide column">
-      <h4 class="ui header">Tags</h4>
+      <h4 class="ui header">Tags on Things</h4>
       <div class="ui basic segments">
           {% for tag in site.tag-pages %}
             <a class="mini ui button basic" style="color: {{page.color}}; border: 1px solid {{page.color}};" href="{{tag.url}}">{{tag.title}}</a>
