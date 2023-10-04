@@ -83,30 +83,18 @@
           <div class="ui basic segments">
           {% for collection in site.collections %}
           {% if collection.label !="cat-pages" and collection.label !="tag-pages" and collection.label !="posts"   %}
-          <div class="ui segment">
-             <a href="/{{collection.label}}"><h4>{{collection.label}}</h4></a>
-          </div>
+             <a class="ui tertiary button" href="/{{collection.label}}"><h4>{{collection.label}}</h4></a>
           {% endif  %}
           {% endfor %}
         </div>
       </div>
       <div class="ui four wide column">
         <h4 class="ui header">Categories of Things</h4>
-          <div class="ui basic segments">
-          {% for cat in site.cat-pages %}
-          <div class="ui segment">
-            <a href="{{cat.url}}"><h4>{{cat.title}}</h4></a>
-          </div>
-          {% endfor %}
-        </div>
+        {% include catcloud.html  %}
       </div>
     <div class="ui four wide column">
       <h4 class="ui header">Tags on Things</h4>
-      <div class="ui basic segments">
-          {% for tag in site.tag-pages %}
-            <a class="mini ui button basic" style="color: {{page.color}}; border: 1px solid {{page.color}};" href="{{tag.url}}">{{tag.title}}</a>
-          {% endfor %}
-      </div>
+      {% include tagcloud.html  %}
     </div>
       </main>
       <footer>{% include footer.html %}</footer>

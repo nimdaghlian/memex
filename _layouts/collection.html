@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
+{% include floopdashes.html stroke = page.color  %}
+{% include page_hilight.html hilight = page.color parent="body" %}
   <content class="ui twelve wide column grid stackable gallery collection-page">
       <!-- descriptive header for gallery -->
       <div class="ui one column grid">
         <h1 class="page_hilight">{{ page.title }}</h1>
 
-        <div class="ui one column description">
+        <div class="ui one column description" style="border-bottom-color: {{page.color}} ;">
           {{ content }}
           <div class="buttons-container one column">
 
@@ -43,8 +45,8 @@ layout: default
       </div>
   </content>
         <!-- sidebar -->
-        <side class="ui four wide column">
-          <div class="overlay">
+        <side class="ui four wide column flooped">
+          <div class="overlay page_hilight">
 
           <h5>Collection of: </h5>
 
@@ -52,8 +54,8 @@ layout: default
 
                 {% if cats  %}
                 {% for item in cats  %}
-                <span class="item">
-                  <div class="content">
+                <span class="item page_hilight">
+                  <div class="content page_hilight">
                     <p>Category</p>
                     <a href="/category/{{item}}">{{item}}</a>
                   </div>
@@ -62,9 +64,9 @@ layout: default
               {% endif  %}
               {% if tags  %}
               {% for item in tags  %}
-              <span class="item">
-                <div class="content">
-                  <p >Tag</p>
+              <span class="item page_hilight">
+                <div class="content page_hilight">
+                  <p>Tag</p>
                   <a href="/tag/{{item}}">{{item}}</a>
                 </div>
               </span>
@@ -72,7 +74,7 @@ layout: default
             {% endif  %}
             {% if gals  %}
             {% for item in gals  %}
-            <span class="item">
+            <span class="item page_hilight">
               <div class="content">
                 <p >Gallery</p>
                 <a href="gallery/{{item}}">{{item}}</a>
@@ -82,7 +84,7 @@ layout: default
           {% endif  %}
           {% if cols  %}
           {% for item in cols  %}
-          <span class="item">
+          <span class="item page_hilight">
             <div class="content">
               <p>Types</p>
               <a href="/{{item}}">{{item}}</a>

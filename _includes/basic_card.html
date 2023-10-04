@@ -1,4 +1,4 @@
-<div class="card block {% for cat in post.categories  %} {{cat}}{% endfor  %}" >
+<div class="card block {% for cat in post.categories  %} {{cat}}{% endfor  %}{% for tag in post.tags  %} {{tag}}{% endfor  %}" >
     <div class="card-header page_hilight_bg">
       <div class="desaturate page_hilight">
         {% if post.date  %}
