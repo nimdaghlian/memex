@@ -29,6 +29,12 @@ tag_index_dir: _tag-pages
 cat_index_layout: category
 cat_index_dir: /_cat-pages
 
+defaults:
+  -
+    scope:
+      path: "_notes"
+    values:
+      layout: note
 
 
 
@@ -49,7 +55,7 @@ collections:
     output: true
     permalink: /category/:name/
 feed:
-  disable_in_development: false
+  disable_in_development: true
   path: feeds/updates.atom
   tags:
     path: "feeds/tag/"
@@ -64,9 +70,12 @@ galleries:
   - name: "Pika's Place"
     directory: "pikas-place"
     tags: ["art", "memorial"]
-  - name: "Ty Ennis at Nationale"
-    directory: "ty-ennis"
+  - name: "Innerbloom"
+    directory: "innerbloom"
     tags: ["art", "nationale"]
   - name: "They Always Have and Still Do"
     directory: "always-have-still-do"
     tags: ["art", "nationale"]
+  - name: "Notes in General"
+    directory: "notes"
+    tags: ["mulch", "rando"]

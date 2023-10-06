@@ -1,46 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <body class="home">
+  {% include floopdashes.html stroke = page.color  %}
+  {% include page_hilight.html hilight = page.color parent="body" %}  <body class="home">
+    {% include nav.html  %}
+
     <div class="ui container">
-      {% include nav.html  %}
-      <div class="site-description ui grid stackable">
+      <div class="site-description ui grid stackable page_hilight">
         <div class="ui ten wide column">
           <h1>{{ page.title }}</h1>
           {{ content }}    
         </div>
       </div>
-      <main class="ui two column grid stackable">
+      <main class="ui two column grid stackable flooped page_hilight" style="margin: 40px -7px; padding: 20px;">
         <content class="ui ten wide column">
           <!-- end excerpt -->
           {% assign galleries = site.galleries | sort: 'date' | reverse  %}
-          <div class="ui basic segment">
-            {% for post in galleries  limit:1 %}
-            {% assign recentgal = post.gallery  %}
-            <h2>
-              <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{ post.title}}</a>
-            </h2>
-
-          {% endfor  %}
-          {% assign rightgal = site.media | where: "gallery", recentgal  %}
-          {% for media in rightgal limit:1   %}
-          <div class="card block" >
-            <div class="card-header page_hilight_bg">
-              <div class="desaturate page_hilight">
-                {% if postDate  %}
-                <span class="date">
-                  <small>{{ postDate | date: "%B %-d, %Y" }}</small>
-                </span>
-                {% endif  %}
-              </div>
-            </div>
+            <div class="card block" >
+              {% for post in galleries  limit:1 %}
+              {% assign recentgal = post.gallery  %}
+                <h2>{{ post.title}}</h2>
+              {% endfor  %}
+              {% assign rightgal = site.media | where: "gallery", recentgal  %}
+              {% for media in rightgal limit:1   %}
             <div class="content">
               <div class="content" style="background-image: url({{ media.image | resize: '400>x400'}}); margin: auto; height: 415px; background-repeat: no-repeat; background-position: center; background-size: cover;">
-              <a href="{{ media.url }}?gallery={{media.url}}" title="{{ media.title }}" style="width: 100%; height: 415px; display: block;"></a>
+              <hr>
+                <a href="/gallery/{{media.gallery}}" title="{{ media.title }}" style="width: 100%; height: 415px; display: block;"></a>
               </div>
-              <h3>
+              <small>
                 <a href="{{ media.url }}?gallery={{media.url}}" title="{{ media.title }}" class="card-link page_hilight">{{ media.title }}</a>
-              </h3>
+              </small>
                   {% if postExcerpt  %}
                     <div>
                       {{ postExcerpt | truncatewords: 25 }}
@@ -49,15 +39,12 @@
                 </div>
           </div>
           {% endfor  %}
-
-
-        </div>
         </content>
-        <side class="ui six wide column">
-          <div class="ui piled segment">
-            <h2>Recent Notes</h2>
+        <div class="ui six wide column">
+            <div class="card block">
+            <h2>Featured Notes</h2>
             {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
-            {% for note in sorted_notes limit:3 %}
+            {% for note in sorted_notes limit:4 %}
             <div class="ui vertical segment">
               <a href="{{note.url}}"><h4>{{note.title }}</h4></a>
               <div class="excerpt">
@@ -65,10 +52,14 @@
               </div>
             </div>
             {% endfor %}
+            </div>
           </div>
-      </side>
+        </div>
+      </main>
+      <main class="ui container grid stackable page_hilight">
+
       <div class="ui four wide column">
-        <h4 class="ui header">About this site</h4>
+        <h4 class="ui header page_hilight">About this site</h4>
         <p>{% assign aboutpage = site.notes | where: "title", "About"  %}
           {% for about in aboutpage  %}
           {{ about.excerpt }}
@@ -78,22 +69,22 @@
 
       </div>
       <div class="ui four wide column">
-        <h4 class="ui header">Types of Things
+        <h4 class="ui header page_hilight">Types of Things
         </h4>
           <div class="ui basic segments">
           {% for collection in site.collections %}
           {% if collection.label !="cat-pages" and collection.label !="tag-pages" and collection.label !="posts"   %}
-             <a class="ui tertiary button" href="/{{collection.label}}"><h4>{{collection.label}}</h4></a>
+             <a class="ui tertiary button" style="color: {{page.color}};" href="/{{collection.label}}"><h4>{{collection.label}}</h4></a>
           {% endif  %}
           {% endfor %}
         </div>
       </div>
       <div class="ui four wide column">
-        <h4 class="ui header">Categories of Things</h4>
+        <h4 class="ui header page_hilight">Categories of Things</h4>
         {% include catcloud.html  %}
       </div>
     <div class="ui four wide column">
-      <h4 class="ui header">Tags on Things</h4>
+      <h4 class="ui header page_hilight">Tags on Things</h4>
       {% include tagcloud.html  %}
     </div>
       </main>

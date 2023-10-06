@@ -87,8 +87,8 @@ gal.each do |galitem|
       thisdate = extract_date(f, date_regex) if date.nil?
       # set format
       if !thisdate.nil?
-        date_object = Date.strptime(thisdate, "%m%d%y")
-        thisdate = date_object.strftime("%Y-%m-%d")
+          date_object = Date.strptime(thisdate, "%m%d%y")
+          thisdate = date_object.strftime("%Y-%m-%d")
       else
       # set date as dateadded if there are no other sources for it
       thisdate = dateadded
@@ -118,7 +118,6 @@ gal.each do |galitem|
     		file.puts "layout: asset"
     		file.puts "tags: #{gal_tags}"
     		file.puts "--- \n"
-        file.puts "[[#{gal_name}]]"
     		file.close
 
         # TODO output a json / yaml file that indexes all media files for pagination, indexing

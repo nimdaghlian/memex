@@ -3,9 +3,10 @@ title: How This Memex Started
 layout: note
 tags:
   - meta
+date: 2023-09-27
 ---
 
-> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started
+> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.
 
 ## How I Started this Garden
 
@@ -15,15 +16,12 @@ No digital garden is complete without a good pile of notes about digital gardens
 
 Less than a month since reading this bittersweet thread 👇 from my friend [[Ryan]], who was, like, *there* when the web cut its own bangs for the first time, I've not only started a digital garden, I've extended its features and roped at least [[Evan|one friend]] into making [his own](https://evans-thoughts-garden.onrender.com).
 
-[![[ryan-tweet-lost-web.png]]](https://twitter.com/sixfoot6/status/1506011362249437190
-)
+![Tweet from twitter user @sixfoot6 reading "i barely think about the web we lost anymore tbh"](/assets/notes/ryan-tweet-lost-web.png)
 
 
+A little ways down that [thread](https://twitter.com/sixfoot6/status/1506011362249437190), someone mentions digital gardening.
 
-A little ways down that thread, someone mentions digital gardening.
-
-![[original-digital-garden-tweet.png]]
-https://twitter.com/Weegee/status/1506016809790554113
+![A tweet from @sixfoot6 reading "the nostalgia and look backwards weren't taking me far, and faded. and none of the forward-looking discord something something web3 something personal blogs are back something something threads are really lighting me up either we're just here now." replied to by @Weegee saying "I Hold on to people. Though I have been investigating digital gardens with remind me of the old web in a good way. Enjoyed it so far."](/assets/notes/original-digital-garden-tweet.png)
 
 
 It was a term I'd heard before, but there was something about the specificity of how he said it that got me digging. You can see most of what I found and read at [[Digital Gardens]] and [[cozyweb]].

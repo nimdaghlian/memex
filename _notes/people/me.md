@@ -6,7 +6,7 @@ Hi I'm [Ním](http://nimdaghlian.com).
 
 I tend this [[metagardening|garden]].
 
-I wrote [[The Conceptual Labor Book|Conceptual Labor.]]
+I wrote [[../books/The Conceptual Labor Book|Conceptual Labor.]]
 
 <!-- end excerpt -->
 

@@ -4,7 +4,7 @@ tags:
   - books
 ---
 
-Walking up to [[Martha]]'s recent [[art show]] at Mother Foucault's, I saw [*Patterns of Intention*](https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/) in the window. They're distressingly good at putting books I want in the window -- I think 90% of the books I've bought there have come from the window. Or maybe I'm just a lazy browser and need to literally see it from the street to pay attention.
+Walking up to [[Martha]]'s recent art show at [[Mother Foucault's]], I saw [*Patterns of Intention*](https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/) in the window. They're distressingly good at putting books I want in the window -- I think 90% of the books I've bought there have come from the window. Or maybe I'm just a lazy browser and need to literally see it from the street to pay attention.
 
 At the moment, I'm still trying to figure out why and where from I know this book. I might have cited it before, or seen it cited, or something. Baxandall has certainly come up before. TBH I'm kind of hoping that I actually don't have a good reason and it was just one of those [[Slow Motion Bullseyes]] 
 

@@ -25,10 +25,14 @@ body {
   }
 }
 
+a {
+  color: inherit;
+  text-decoration: underline solid 1px;
+}
 
 a:hover {
-  text-decoration: underline solid 2px;
-  text-underline-offset: 4px;
+  color: inherit;
+  text-decoration: underline wavy 1px;
 }
 
 time {
@@ -87,6 +91,10 @@ h6 {
 
 nav {
   margin: 1em 0 3em;
+  a {
+    text-decoration: none;
+    
+  }
 }
 
 #notes-entry-container {
