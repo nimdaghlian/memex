@@ -1,4 +1,6 @@
 ---
+layout: note
+title: Garden of Bloggy
 ---
 
 ## Do you require more slow internet browsing? 

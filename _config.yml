@@ -9,7 +9,7 @@ github_username:  nimdaghlian
 
 
 # Build settings
-
+incremental: true
 permalink: /:slug
 
 exclude:
@@ -79,3 +79,6 @@ galleries:
   - name: "Notes in General"
     directory: "notes"
     tags: ["mulch", "rando"]
+  - name: "EXPOCHGO"
+    directory: "EXPOCHGO"
+    tags: ["art", "times"]
