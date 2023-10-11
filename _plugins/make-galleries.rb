@@ -14,6 +14,7 @@ image_location = "/assets/"
 notes_location = "_notes/"
 gallery_notes = "_galleries/"
 collection_name = "_media/"
+
 date_regex = /(\d{6})(?:-\d+)?\.[^.]+\z/
 
 def extract_date(filename, regex)
@@ -63,9 +64,9 @@ gal.each do |galitem|
       newindex.puts "gallery: #{name_slug}"
       # TODO think about other statuses, what to use them for
       newindex.puts "status: fresh"
-      newindex.puts "categories: collection gallery"
+      newindex.puts "categories: album"
       # TODO allow layout string to be set from config
-      newindex.puts "layout: gallery"
+      # newindex.puts "layout: gallery"
       newindex.puts "--- \n"
       end
     else
@@ -76,53 +77,91 @@ gal.each do |galitem|
     if !File.exist?(output_location)
       Dir.mkdir(output_location)
      end
-    Dir.glob(['*.{jpg,jpeg,tiff,png,gif}'], base: files_location) do |f|
-    
-      ## Date Handling ##
-    
-      # If file name has an expected date pattern, set that as the date
-      # only run if no date has been manually set from config
-      # TODO allow regex to be set from config
 
-      thisdate = extract_date(f, date_regex) if date.nil?
-      # set format
-      if !thisdate.nil?
-          date_object = Date.strptime(thisdate, "%m%d%y")
-          thisdate = date_object.strftime("%Y-%m-%d")
+
+    # TODO possibly set these from config too, but ¯\_(ツ)_/¯
+    # File types to match and how to categorize them
+    file_types = {
+      'jpg' => 'image',
+      'jpeg' => 'image',
+      'tiff' => 'image',
+      'png' => 'image',
+      'gif' => 'image',
+      'mp4' => 'video',
+      'webm' => 'video',
+      'mp3' => 'audio',
+      'wav' => 'audio',
+      'mpeg' => 'audio',
+      'ogg' => 'audio'
+    }
+
+    accepted_extensions = file_types.keys.join(',')
+
+    Dir.glob(['*.{'+ accepted_extensions +'}'], base: files_location) do |f|
+      extension = File.extname(f).downcase.tr(".","")
+      file_type = file_types[extension]
+      if file_type
+
+        ## Date Handling ##
+      
+        # If file name has an expected date pattern, set that as the date
+        # only run if no date has been manually set from config
+        # TODO allow regex to be set from config
+
+        thisdate = extract_date(f, date_regex) if config["parse_date"]
+
+        # set format
+        if !thisdate.nil?
+            date_object = Date.strptime(thisdate, "%m%d%y")
+            thisdate = date_object.strftime("%Y-%m-%d")
+        else
+        # set date as dateadded if there are no other sources for it
+        thisdate = dateadded
+        end
+        fileslug = f.to_slug.sub(/-\Z/,"")
+        filename = "#{output_location}#{fileslug}.md"
+
+        # TODO config flag to overwrite 
+        if File.exist?(filename)
+          next
+          
+        else
+          file = File.new(filename, "w+")
+          file.puts "---"
+          file.puts "title: #{f}"
+          file.puts "date: #{thisdate}"
+          file.puts "dateadded: #{dateadded}"
+          file.puts "asset: #{image_location}#{gal_dir}/#{f}"
+          if file_type == "video" || file_type == "audio"
+          file.puts "encoding: #{extension}"
+          end
+          if file_type == "image"
+          file.puts "image: #{image_location}#{gal_dir}/#{f}"
+          end
+          # TODO check against a set of file extensions and label appropriately
+          # This would be on the way to making a more generic "media collection" utility
+          # so you'd want your template to detect the asset type / assign different template (less pref)
+          file.puts "categories: #{file_type}"
+          file.puts "gallery: #{name_slug}"
+          # NOTE this is pretty jekyll specific, but specifying a permalink means that you could
+          file.puts "permalink: /media/#{name_slug}/#{fileslug}"
+          file.puts "layout: asset"
+          file.puts "tags: #{gal_tags}"
+          file.puts "--- \n"
+          file.close
+
+          # TODO output a json / yaml file that indexes all media files for pagination, indexing
+          # TODO figure out the actual right time and place to do this. seems like a separate plugin
+        end
+
       else
-      # set date as dateadded if there are no other sources for it
-      thisdate = dateadded
+        puts "#{f} has an unsupported extension."
       end
-      fileslug = f.to_slug.sub(/-\Z/,"")
-      filename = "#{output_location}#{fileslug}.md"
+    end
 
-      # TODO flag to overwrite 
-      if File.exist?(filename)
-  			next
-    	  
-      else
-    		file = File.new(filename, "w+")
-    		file.puts "---"
-    		file.puts "title: #{f}"
-    		file.puts "date: #{thisdate}"
-    		file.puts "dateadded: #{dateadded}"
-    		file.puts "asset: #{image_location}#{gal_dir}/#{f}"
-    		file.puts "image: #{image_location}#{gal_dir}/#{f}"
-        # TODO check against a set of file extensions and label appropriately
-        # This would be on the way to making a more generic "media collection" utility
-        # so you'd want your template to detect the asset type / assign different template (less pref)
-        file.puts "categories: image"
-        file.puts "gallery: #{name_slug}"
-        # NOTE this is pretty jekyll specific, but specifying a permalink means that you could
-        file.puts "permalink: /media/#{name_slug}/#{fileslug}"
-    		file.puts "layout: asset"
-    		file.puts "tags: #{gal_tags}"
-    		file.puts "--- \n"
-    		file.close
 
-        # TODO output a json / yaml file that indexes all media files for pagination, indexing
-        # TODO figure out the actual right time and place to do this. seems like a separate plugin
-    	end
+    Dir.glob(['*.{jpg,jpeg,tiff,png,gif,mov,mp3,mp4,wav,mpeg,aiff,webm,avi}'], base: files_location) do |f|
+    
 
     end
 

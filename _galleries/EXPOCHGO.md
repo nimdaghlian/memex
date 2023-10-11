@@ -2,7 +2,7 @@
 title: EXPOCHGO
 gallery: expochgo
 status: fresh
-categories: collection gallery
+categories: album
 layout: gallery
 --- 
 

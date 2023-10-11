@@ -35,7 +35,10 @@ defaults:
       path: "_notes"
     values:
       layout: note
-
+    scope:
+      path: "_galleries"
+    values:
+      layout: gallery
 
 
 collections:
@@ -82,3 +85,7 @@ galleries:
   - name: "EXPOCHGO"
     directory: "EXPOCHGO"
     tags: ["art", "times"]
+    parse_date: true
+  - name: "mixtest"
+    directory: "mixtest"
+    tags: ["art", "memorial"]

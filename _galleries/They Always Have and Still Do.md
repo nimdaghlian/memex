@@ -2,7 +2,7 @@
 title: They Always Have and Still Do
 gallery: they-always-have-and-still-do
 status: fresh
-categories: collection gallery
+categories: album
 layout: gallery
 color: goldenrod
 tags: ["art", "painting"]

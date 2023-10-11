@@ -7,7 +7,20 @@ layout: default
   </div>
 
   <div id="notes-entry-container">
-        <img src="{{page.image}}">
+
+    {% if page.categories contains "image" %}
+      <img src="{{ page.asset }}" alt="Image">
+    {% elsif page.categories contains "audio" %}
+      <audio controls>
+        <source src="{{ page.asset }}" type="audio/{{ page.encoding }}">
+        Your browser does not support the audio element.
+      </audio>
+    {% elsif page.categories contains "video" %}
+      <video controls>
+        <source src="{{ page.asset }}" type="video/{{ page.encoding }}">
+        Your browser does not support the video element.
+      </video>
+      {% endif %}
 
     <side style="font-size: 0.9em">
     <h1>{{ page.title }}</h1>

@@ -3,7 +3,7 @@ layout: default
 ---
   <content class="ui sixteen wide column grid stackable gallery tag-page">
       <!-- descriptive header for gallery -->
-      <div class="ui one column grid">
+      <div class="ui one column">
         <h1 class="page_hilight">{{ page.title }}</h1>
 
         <div class="ui one column description">
@@ -18,7 +18,7 @@ layout: default
 
 
               <!-- listing of gallery contents -->
-        <div class="one column">
+        <div class="ui one column">
           <div class="ui cards grid four column stackable">
             {% assign thetag = page.title  %}
             {% assign docs = site.documents | sort: 'date' | reverse  %}

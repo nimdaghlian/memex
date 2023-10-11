@@ -2,7 +2,7 @@
 title: Innerbloom
 gallery: innerbloom
 status: fresh
-categories: gallery
+categories: album
 layout: gallery
 --- 
 

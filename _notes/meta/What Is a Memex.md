@@ -23,6 +23,7 @@ The core idea here is to make a sort of mental storehouse, made as digitally sus
 
 
 - [About the original essay that coined the term](https://en.wikipedia.org/wiki/As_We_May_Think)
+- [Another, shorter good essay about memexes](https://srconstantin.posthaven.com/how-to-make-a-memex)
 - [A visualization of what one could be](https://www.youtube.com/watch?v=c539cK58ees)
 - Carl Diehl's [Cracked Memex](https://www.electronicelsewhere.com/cracked)
 - [marginalia's memex is not there anymore but they had one](https://www.marginalia.nu/log/80-rip-memex/)
