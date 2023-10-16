@@ -27,12 +27,16 @@ body {
 
 a {
   color: inherit;
-  text-decoration: underline solid 1px;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
   color: inherit;
-  text-decoration: underline wavy 1px;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1px;
 }
 
 time {
@@ -98,22 +102,17 @@ nav {
 }
 
 #notes-entry-container {
-  display: grid;
-  grid-gap: 2em;
-  grid-template-areas:
-    "content"
-    "side";
-
-  @media (min-width: 700px) {
-    grid-template-columns: 3fr 1fr;
-    grid-template-areas: "content side";
-  }
+ margin-top: 20px;
+ font-size: 1.2rem;
 }
 
 .backlink-box {
-  background: $color-box-background;
+  // background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
+  a {
+    font-weight: bold;
+  }
 }
 
 code {

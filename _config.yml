@@ -9,8 +9,9 @@ github_username:  nimdaghlian
 
 
 # Build settings
-incremental: true
-permalink: /:slug
+incremental: false
+permalink: pretty
+
 
 exclude:
   - _includes/notes_graph.json
@@ -35,6 +36,7 @@ defaults:
       path: "_notes"
     values:
       layout: note
+  -
     scope:
       path: "_galleries"
     values:
@@ -58,10 +60,8 @@ collections:
     output: true
     permalink: /category/:name/
 feed:
-  disable_in_development: true
-  path: feeds/updates.atom
-  tags:
-    path: "feeds/tag/"
+  disable_in_development: false
+  path: feed/posts.atom
   collections:
       - notes
       - media
@@ -86,6 +86,4 @@ galleries:
     directory: "EXPOCHGO"
     tags: ["art", "times"]
     parse_date: true
-  - name: "mixtest"
-    directory: "mixtest"
-    tags: ["art", "memorial"]
+

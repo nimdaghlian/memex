@@ -13,12 +13,23 @@ tags:
 
 
 
+**Sept - Oct**
+
+- cleaned up a lot of content
+- added a lot of content
+- added support for video and audio assets in media
+- lots of style nits
+- refined auto-tagging
+- refined gallery creation
+- made collections templates
+- improved, expanded feeds
+- launched!
 
 
 **Aug - Sept 2023**
 
 - started filling up Memex
-- launched on [mmmx.cloud](https://www.mmmx.cloud/)
+- soft launched on [mmmx.cloud](https://www.mmmx.cloud/)
 - Began Big Table, integrated with memex
 - Porting content from garden.nimdaghlian.com to mememx
 - added categories

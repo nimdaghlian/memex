@@ -7,6 +7,5 @@ John James made [this bench](https://www.instagram.com/p/CcdmrXkv--S/) look hell
 
 He's in the bottom left corner of this drawing I made of us [[goodboiz]].
 
-![drawing of four guys on a zoom call](/images/Pasted image 20220418231606.png)
-
+![A pencil drawing of four guys in a grid from a Zoom call during the pandemic](/assets/notes/goodboiz.png)
 He printed the covers for [[../books/The Conceptual Labor Book|my book]].

@@ -24,7 +24,7 @@
 
       {% if page.backlinks.size > 0 %}
       <h5>Links to this page: </h5>
-      <div>
+      <div class="backlink-box">
         {% for backlink in page.backlinks %}
           <a class="internal-link page_hilight" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
           <p>{{ backlink.excerpt | strip_html | truncatewords: 10 | remove: "[]" }}</p>

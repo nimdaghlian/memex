@@ -5,4 +5,6 @@ layout: note
 
 [get lost in her garden](http://athousandcirclets.garden)
 
-and [subscribe](https://buttondown.email/martha) to her very good newsletter the [[Grapefruits Sometimes Art Email]]
+Here she is at [[Mother Foucault's]]
+
+![A beautiful young woman dressed like a traditional jester in a handmade outfit reading a book in the philosophy section of a bookstore](/assets/notes/marfool.png)

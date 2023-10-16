@@ -6,7 +6,7 @@ tagmatch:
   - meta
 color: blueviolet
 ---
-<em class="page_hilight">MMMX•<i class="las la-cloud page_hilight"></i></em>, pronounced "mem ex dot cloud" is my semi-public [memex](/what-is-a-memex). It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 [Ním](https://nimdaghlian.com)
+<em class="page_hilight">MMMX.<i class="las la-cloud page_hilight"></i></em>, pronounced "mem ex dot cloud" is my semi-public [memex](/what-is-a-memex). It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 [Ním](/me)
 
 
 ## Browse
@@ -37,3 +37,4 @@ It's always growing, but in all directions at once. My newsletter, Big Table, fe
 ## More
 
 This page is a [collection](/category/collection) of notes related to this site or memexes in general, so if you're still curious, there's more to read below and when I add something else relevant it'll show up here too.
+

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/books/The Conceptual Labor Book.md",
+                "file": "_notes/people/Martha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d38b49adfaf161e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/meta/Colophon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/books/The Conceptual Labor Book.md",
+                "file": "_notes/meta/Colophon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,53 +149,53 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "d086f0ad4804c4cb",
+  "active": "9d38b49adfaf161e",
   "lastOpenFiles": [
-    "_site/media/mixtest/snowchorus-wav.html",
-    "_site/media/mixtest/p6230145-jpg.html",
-    "_site/media/mixtest/p6230144-jpg.html",
-    "_site/media/mixtest/p6230143-jpg.html",
-    "_site/media/mixtest/p6150094-jpg.html",
-    "_site/feed.xml",
-    "_site/site-index.json",
-    "_site/media/mixtest/img-7459-1-mp4.html",
-    "_site/media/mixtest",
-    "_site/assets/mixtest/IMG_7459-1.mp4",
+    "_site/colophon/index.html",
+    "_site/colophon",
+    "_site/technical-specs/index.html",
+    "_site/technical-specs",
+    "_notes/meta/Welcome.md",
+    "_notes/meta/Colophon.md",
+    "_notes/meta/About.md",
+    "_site/how-this-memex-started/index.html",
+    "_site/how-this-memex-started",
+    "_notes/meta/How This Memex Started.md",
+    "_site/welcome/index.html",
+    "_site/welcome",
+    "_notes/people/Martha.md",
+    "_posts/2023-10-15-welcome.md",
+    "_site/media/notes-in-general/marfool-png.html",
+    "_site/assets/notes/marfool.png",
+    "assets/notes/marfool.png",
+    "_media/notes/marfool-png.md",
+    "_site/media/notes-in-general/pasted-image-20231015195036-png.html",
+    "_site/cache/resize/4b82c529110cbc7c2c3d8dbd6db283bb_90x90.png",
+    "_site/cache/resize/4b82c529110cbc7c2c3d8dbd6db283bb_400x400.png",
+    "cache/resize/4b82c529110cbc7c2c3d8dbd6db283bb_90x90.png",
+    "cache/resize/4b82c529110cbc7c2c3d8dbd6db283bb_400x400.png",
+    "_site/assets/notes/Pasted image 20231015195036.png",
+    "_media/notes/pasted-image-20231015195036-png.md",
+    "_notes/people/goodboiz.md",
+    "_notes/people/Nik.md",
+    "_notes/people/Evan.md",
+    "_notes/people/John James.md",
+    "_notes/people/Clamber.md",
+    "todo.md",
+    "_notes/people/me.md",
+    "_site/media/notes-in-general/clamber-jpg.html",
+    "_site/cache/resize/b2b03273eb42202d5063034897f3e24c_90x90.jpg",
+    "_site/cache/resize/b2b03273eb42202d5063034897f3e24c_400x400.jpg",
+    "cache/resize/b2b03273eb42202d5063034897f3e24c_90x90.jpg",
+    "_media/notes/clamber-jpg.md",
+    "_media/notes/goodboiz-png.md",
+    "_notes/people/Abe.md",
+    "_notes/people/Aaron.md",
+    "feeds.md",
+    "_notes/books/The Conceptual Labor Book.md",
     "_media/mixtest/snowchorus-wav.md",
     "_media/mixtest/p6230145-jpg.md",
     "_media/mixtest/p6230144-jpg.md",
-    "_media/mixtest/p6230143-jpg.md",
-    "_media/mixtest/p6150094-jpg.md",
-    "_media/mixtest/img-7459-1-mp4.md",
-    "_media/mixtest",
-    "_media/mixtest/img-7459-mov.md",
-    "_site/cache/resize/73cd72c2c9eb15ec413f9ea7e46ef186_800x800.png",
-    "_site/cache/resize/d3b7f9262e03a24994cab66f5d9d7d40_90x90.JPG",
-    "_site/cache/resize/d3b7f9262e03a24994cab66f5d9d7d40_400x400.JPG",
-    "_site/cache/resize/bacac10098c3dee03d4a084a5d0fa2c3_90x90.JPG",
-    "_site/cache/resize/bacac10098c3dee03d4a084a5d0fa2c3_400x400.JPG",
-    "_site/cache/resize/73cd72c2c9eb15ec413f9ea7e46ef186_400x400.png",
-    "_site/cache/resize/4af6699dca1aa7fdf728382a2e572693_90x90.JPG",
-    "_site/cache/resize/4af6699dca1aa7fdf728382a2e572693_400x400.JPG",
-    "_site/cache/resize/1fdca0c316d34537fccb8a9233a10a0c_90x90.JPG",
-    "_site/cache/resize/1fdca0c316d34537fccb8a9233a10a0c_400x400.JPG",
-    "_cat-pages/video.md",
-    "_cat-pages/audio.md",
-    "_galleries/mixtest.md",
-    "_cat-pages/album.md",
-    "_tag-pages/cozyweb.md",
-    "_notes/meta/What Is a Memex.md",
-    "_notes/meta/What I Want to Store in My Memex.md",
-    "_notes/Garden of Blogs.md",
-    "_tag-pages/times.md",
-    "_media/EXPOCHGO/expochgo-041122-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041122-4-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041122-3-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041122-2-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041122-1-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041022-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041022-99-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041022-98-jpeg.md",
-    "_media/EXPOCHGO/expochgo-041022-97-jpeg.md"
+    "_media/mixtest/p6230143-jpg.md"
   ]
 }

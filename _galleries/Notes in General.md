@@ -5,4 +5,3 @@ status: fresh
 categories: collection
 layout: gallery
 --- 
-

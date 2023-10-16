@@ -6,21 +6,23 @@ layout: default
   <div>
   </div>
 
-  <div id="notes-entry-container">
-
-    {% if page.categories contains "image" %}
+  <div id="notes-entry-container" class="ui container stackable">
+    <div class="ui twelve wide column">
+      {% if page.categories contains "image" %}
       <img src="{{ page.asset }}" alt="Image">
     {% elsif page.categories contains "audio" %}
-      <audio controls>
+      <audio controls width="600">
         <source src="{{ page.asset }}" type="audio/{{ page.encoding }}">
         Your browser does not support the audio element.
       </audio>
     {% elsif page.categories contains "video" %}
-      <video controls>
+      <video controls width="600">
         <source src="{{ page.asset }}" type="video/{{ page.encoding }}">
         Your browser does not support the video element.
       </video>
       {% endif %}
+    </div>
+
 
     <side style="font-size: 0.9em">
     <h1>{{ page.title }}</h1>

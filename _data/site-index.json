@@ -21,7 +21,7 @@
         "excerpt": "<h2 id=\"do-you-require-more-slow-internet-browsing\">Do you require more slow internet browsing?</h2>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/patterns-of-intention/",
@@ -50,31 +50,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
-  },
-  {
-    "id": "/about-gardening-this-garden/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "05-Oct-23",
-    "title": "How This Memex Started",
-    "layout": "note",
-    "tags": [
-      "meta"
-    ],
-    "date": "2023-09-27 00:00:00 -0700",
-    "slug": "About Gardening This Garden",
-    "ext": ".md",
-    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
-    "backlink_index": [
-      {
-        "title": "Stumbled into a webring",
-        "url": "/stumbled-into-a-webring/",
-        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
-      }
-    ]
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/stumbled-into-a-webring/",
@@ -102,7 +78,8 @@
     "categories": [
 
     ],
-    "last_modified_at": "05-Oct-23",
+    "last_modified_at": "11-Oct-23",
+    "layout": "note",
     "title": "The Conceptual Labor Book",
     "tags": [
       "books",
@@ -110,15 +87,20 @@
     ],
     "slug": "The Conceptual Labor Book",
     "ext": ".md",
-    "excerpt": "<table>\n  <tbody>\n    <tr>\n      <td>This is the Conceptual Labor [[books</td>\n      <td>book]] that I wrote.</td>\n    </tr>\n  </tbody>\n</table>\n",
+    "excerpt": "<p>This is the Conceptual Labor book that I wrote.</p>\n",
     "backlink_index": [
+      {
+        "title": "Nik Wise",
+        "url": "/nik/",
+        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
+      },
       {
         "title": "Mind Things",
         "url": "/mind-things/",
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/about/",
@@ -127,8 +109,8 @@
 
     ],
     "last_modified_at": "04-Oct-23",
-    "title": "About",
     "layout": "collection",
+    "title": "About",
     "tagmatch": [
       "memex",
       "meta"
@@ -139,11 +121,35 @@
     "tags": [
 
     ],
-    "excerpt": "<p><em class=\"page_hilight\">MMMX•<i class=\"las la-cloud page_hilight\"></i></em>, pronounced “mem ex dot cloud” is my semi-public <a href=\"/what-is-a-memex\">memex</a>. It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 <a href=\"https://nimdaghlian.com\">Ním</a></p>\n",
+    "excerpt": "<p><em class=\"page_hilight\">MMMX.<i class=\"las la-cloud page_hilight\"></i></em>, pronounced “mem ex dot cloud” is my semi-public <a href=\"/what-is-a-memex\">memex</a>. It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 <a href=\"/me\">Ním</a></p>\n",
+    "backlink_index": [
+      {
+        "title": "Welcome",
+        "url": "/welcome/",
+        "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
+      }
+    ],
+    "date": "2023-10-15 20:40:08 -0700"
+  },
+  {
+    "id": "/colophon/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "tags": [
+      "meta"
+    ],
+    "title": "Colophon",
+    "slug": "Colophon",
+    "ext": ".md",
+    "excerpt": "<p>Built in <a href=\"https://jekyllrb.com/\">Jekyll</a>.</p>\n",
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/development-log/",
@@ -152,8 +158,8 @@
 
     ],
     "last_modified_at": "27-Sep-23",
-    "title": "Development Log",
     "layout": "note",
+    "title": "Development Log",
     "tags": [
       "meta"
     ],
@@ -163,11 +169,55 @@
     "backlink_index": [
       {
         "title": "How This Memex Started",
-        "url": "/about-gardening-this-garden/",
+        "url": "/how-this-memex-started/",
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
+  },
+  {
+    "id": "/how-this-memex-started/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "04-Oct-23",
+    "layout": "note",
+    "title": "How This Memex Started",
+    "tags": [
+      "meta"
+    ],
+    "date": "2023-09-27 00:00:00 -0700",
+    "slug": "How This Memex Started",
+    "ext": ".md",
+    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
+    "backlink_index": [
+      {
+        "title": "Stumbled into a webring",
+        "url": "/stumbled-into-a-webring/",
+        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "/welcome/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "date": "2023-10-15 00:00:00 -0700",
+    "tags": [
+      "meta"
+    ],
+    "title": "Welcome",
+    "slug": "Welcome",
+    "ext": ".md",
+    "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/what-i-want-to-store-in-my-memex/",
@@ -189,7 +239,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/what-is-a-memex/",
@@ -197,7 +247,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "03-Oct-23",
+    "last_modified_at": "11-Oct-23",
     "layout": "note",
     "tags": [
       "meta",
@@ -210,7 +260,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/aaron/",
@@ -220,13 +270,14 @@
       "friends"
     ],
     "last_modified_at": "29-Sep-23",
+    "layout": "note",
     "title": "Aaron",
     "slug": "Aaron",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a>and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n",
+    "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a> and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n",
     "backlink_index": [
       {
         "title": "Andrea",
@@ -234,7 +285,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/abe/",
@@ -243,6 +294,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Abe Ingle",
     "tags": [
       "fren",
@@ -250,20 +302,15 @@
     ],
     "slug": "Abe",
     "ext": ".md",
-    "excerpt": "<p>Abe loves fun and a bad cat named Baxter.</p>\n",
+    "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n",
     "backlink_index": [
-      {
-        "title": "Me",
-        "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
-      },
       {
         "title": "Synthesizers",
         "url": "/synthesizers/",
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/andrea/",
@@ -272,6 +319,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Andrea",
     "slug": "Andrea",
     "ext": ".md",
@@ -283,10 +331,10 @@
       {
         "title": "Aaron",
         "url": "/aaron/",
-        "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a>and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
+        "excerpt": "<p>Andrea is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a> and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/clamber/",
@@ -295,6 +343,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Clamber",
     "tags": [
       "fren",
@@ -302,7 +351,7 @@
     ],
     "slug": "Clamber",
     "ext": ".md",
-    "excerpt": "<p><img src=\"/images/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n",
+    "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n",
     "backlink_index": [
       {
         "title": "What i want to store in my memex",
@@ -315,17 +364,12 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       },
       {
-        "title": "Me",
-        "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
-      },
-      {
         "title": "Adventures of A & N",
         "url": "/adventures-of-a-n/",
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/evan/",
@@ -334,6 +378,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Evan",
     "tags": [
       "fren",
@@ -345,21 +390,16 @@
     "backlink_index": [
       {
         "title": "How This Memex Started",
-        "url": "/about-gardening-this-garden/",
+        "url": "/how-this-memex-started/",
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       },
       {
         "title": "Goodboiz.md",
         "url": "/goodboiz/",
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
-      },
-      {
-        "title": "Me",
-        "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/john-james/",
@@ -368,6 +408,7 @@
 
     ],
     "last_modified_at": "05-Oct-23",
+    "layout": "note",
     "title": "John James",
     "slug": "John James",
     "ext": ".md",
@@ -380,14 +421,9 @@
         "title": "Goodboiz.md",
         "url": "/goodboiz/",
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
-      },
-      {
-        "title": "Me",
-        "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/jon/",
@@ -396,6 +432,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Mumonkan",
     "tags": [
       "friend",
@@ -411,17 +448,12 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       },
       {
-        "title": "Me",
-        "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
-      },
-      {
         "title": "Worker's tap",
         "url": "/worker-s-tap/",
         "excerpt": "<p><a href=\"https://workerstap.com/\">The Worker’s Tap</a> is basically our extra living room. It’s a worker-owned anarchist socialist lefty everything bar run by and frequented by the nicest people. We’ve played DnD there about a million times. They let me have my birthday there, and when [[Mykle]] and [[Jon]] and I got stuck in the middle of the World Naked Bike Ride by Michael’s Italian Beef*, they let me come in and order a beer as long as I had “something covering my lower half.”</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/lucy/",
@@ -442,7 +474,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/martha/",
@@ -451,8 +483,8 @@
 
     ],
     "last_modified_at": "17-Sep-23",
-    "title": "💖Martha💖",
     "layout": "note",
+    "title": "💖Martha💖",
     "slug": "Martha",
     "ext": ".md",
     "tags": [
@@ -467,7 +499,7 @@
       },
       {
         "title": "How This Memex Started",
-        "url": "/about-gardening-this-garden/",
+        "url": "/how-this-memex-started/",
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       },
       {
@@ -478,7 +510,7 @@
       {
         "title": "Me",
         "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
+        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.\nI made this memex.\nI’m married to [[Martha]]\nOur cat is named <a href=\"https://www.instagram.com/frankensteinminidisc/\">Frankenstein Minidisc</a></p>\n"
       },
       {
         "title": "Amy bay at nationale",
@@ -496,7 +528,7 @@
         "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/nik/",
@@ -505,6 +537,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Nik Wise",
     "slug": "Nik",
     "ext": ".md",
@@ -529,17 +562,12 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       },
       {
-        "title": "Me",
-        "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
-      },
-      {
         "title": "octothorpethoughts",
         "url": "/octothorpethoughts/",
         "excerpt": "<p>I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/ryan/",
@@ -548,6 +576,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Ryan Gantz",
     "slug": "Ryan",
     "ext": ".md",
@@ -558,16 +587,11 @@
     "backlink_index": [
       {
         "title": "How This Memex Started",
-        "url": "/about-gardening-this-garden/",
+        "url": "/how-this-memex-started/",
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
-      },
-      {
-        "title": "Me",
-        "url": "/me/",
-        "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -576,6 +600,7 @@
       "people"
     ],
     "last_modified_at": "29-Sep-23",
+    "layout": "note",
     "title": "Spencer Chang",
     "slug": "Spencer Chang",
     "ext": ".md",
@@ -586,7 +611,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -595,6 +620,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Goodboiz.md",
     "slug": "goodboiz",
     "ext": ".md",
@@ -619,7 +645,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/me/",
@@ -628,13 +654,14 @@
 
     ],
     "last_modified_at": "05-Oct-23",
+    "layout": "note",
     "title": "Me",
     "slug": "me",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.</p>\n",
+    "excerpt": "<p>Hi I’m <a href=\"http://nimdaghlian.com\">Ním</a>.\nI made this memex.\nI’m married to [[Martha]]\nOur cat is named <a href=\"https://www.instagram.com/frankensteinminidisc/\">Frankenstein Minidisc</a></p>\n",
     "backlink_index": [
       {
         "title": "Goodboiz.md",
@@ -647,7 +674,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -671,7 +698,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -693,9 +720,14 @@
         "title": "Patterns of intention",
         "url": "/patterns-of-intention/",
         "excerpt": "<p>Walking up to [[Martha]]’s recent art show at [[Mother Foucault’s]], I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+      },
+      {
+        "title": "💖Martha💖",
+        "url": "/martha/",
+        "excerpt": "<p><a href=\"http://athousandcirclets.garden\">get lost in her garden</a></p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -715,7 +747,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/research-club/",
@@ -724,6 +756,7 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Research club",
     "slug": "Research Club",
     "ext": ".md",
@@ -734,7 +767,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/octothorpethoughts/",
@@ -743,12 +776,12 @@
 
     ],
     "last_modified_at": "27-Sep-23",
+    "layout": "note",
     "tags": [
       "octothorpes",
       "cozyweb"
     ],
     "title": "octothorpethoughts",
-    "layout": "note",
     "poster": "",
     "slug": "octothorpethoughts",
     "ext": ".md",
@@ -756,38 +789,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
-  },
-  {
-    "id": "/testcollection/",
-    "draft": false,
-    "categories": [
-      "collection"
-    ],
-    "last_modified_at": "03-Oct-23",
-    "title": "test collection",
-    "layout": "collection",
-    "category": "collection",
-    "galmatch": [
-      "pikas-place"
-    ],
-    "tagmatch": [
-      "memex"
-    ],
-    "catmatch": [
-      "people",
-      "friends"
-    ],
-    "slug": "testcollection",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "<p>asdfdas</p>\n",
-    "backlink_index": [
-
-    ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/ada-s-three-kinds-of-things/",
@@ -845,6 +847,7 @@
       "things"
     ],
     "last_modified_at": "05-Oct-23",
+    "layout": "note",
     "title": "Mind Things",
     "date": "2023-10-04 00:00:00 -0700",
     "slug": "Mind Things",
@@ -883,7 +886,7 @@
         "excerpt": "<p>Walking up to [[Martha]]’s recent art show at [[Mother Foucault’s]], I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/synthesizers/",
@@ -904,10 +907,10 @@
       {
         "title": "Abe Ingle",
         "url": "/abe/",
-        "excerpt": "<p>Abe loves fun and a bad cat named Baxter.</p>\n"
+        "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/urs/",
@@ -931,7 +934,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/wushi",
@@ -952,7 +955,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -961,11 +964,11 @@
 
     ],
     "last_modified_at": "17-Sep-23",
+    "layout": "note",
     "title": "Adventures of A & N",
     "tags": [
 
     ],
-    "layout": "note",
     "slug": "Adventures of A & N",
     "ext": ".md",
     "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n",
@@ -973,10 +976,10 @@
       {
         "title": "Clamber",
         "url": "/clamber/",
-        "excerpt": "<p><img src=\"/images/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
+        "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -1000,7 +1003,7 @@
         "excerpt": "<p>Walking up to [[Martha]]’s recent art show at [[Mother Foucault’s]], I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/media/pikas-place/pikas-place011519-jpeg",
@@ -8135,51 +8138,25 @@
     ]
   },
   {
-    "id": "/media/mixtest/img-7459-1-mp4",
-    "draft": false,
-    "categories": [
-      "video"
-    ],
-    "last_modified_at": "11-Oct-23",
-    "title": "IMG_7459-1.mp4",
-    "date": "2023-10-11 15:37:27 -0700",
-    "dateadded": "2023-10-11 15:37:27 -0700",
-    "asset": "/assets/mixtest/IMG_7459-1.mp4",
-    "encoding": "mp4",
-    "gallery": "mixtest",
-    "permalink": "/media/mixtest/img-7459-1-mp4",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "memorial"
-    ],
-    "slug": "img-7459-1-mp4",
-    "ext": ".md",
-    "excerpt": "\n",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/mixtest/p6150094-jpg",
+    "id": "/media/notes-in-general/goodboiz-png",
     "draft": false,
     "categories": [
       "image"
     ],
-    "last_modified_at": "11-Oct-23",
-    "title": "P6150094.JPG",
-    "date": "2023-10-11 15:37:27 -0700",
-    "dateadded": "2023-10-11 15:37:27 -0700",
-    "asset": "/assets/mixtest/P6150094.JPG",
-    "image": "/assets/mixtest/P6150094.JPG",
-    "gallery": "mixtest",
-    "permalink": "/media/mixtest/p6150094-jpg",
+    "last_modified_at": "15-Oct-23",
+    "title": "goodboiz.png",
+    "date": "2023-10-15 19:31:07 -0700",
+    "dateadded": "2023-10-15 19:31:07 -0700",
+    "asset": "/assets/notes/goodboiz.png",
+    "image": "/assets/notes/goodboiz.png",
+    "gallery": "notes-in-general",
+    "permalink": "/media/notes-in-general/goodboiz-png",
     "layout": "asset",
     "tags": [
-      "art",
-      "memorial"
+      "mulch",
+      "rando"
     ],
-    "slug": "p6150094-jpg",
+    "slug": "goodboiz-png",
     "ext": ".md",
     "excerpt": "\n",
     "backlink_index": [
@@ -8187,25 +8164,25 @@
     ]
   },
   {
-    "id": "/media/mixtest/p6230143-jpg",
+    "id": "/media/notes-in-general/clamber-jpg",
     "draft": false,
     "categories": [
       "image"
     ],
-    "last_modified_at": "11-Oct-23",
-    "title": "P6230143.JPG",
-    "date": "2023-10-11 15:37:27 -0700",
-    "dateadded": "2023-10-11 15:37:27 -0700",
-    "asset": "/assets/mixtest/P6230143.JPG",
-    "image": "/assets/mixtest/P6230143.JPG",
-    "gallery": "mixtest",
-    "permalink": "/media/mixtest/p6230143-jpg",
+    "last_modified_at": "15-Oct-23",
+    "title": "clamber.jpg",
+    "date": "2023-10-15 19:31:17 -0700",
+    "dateadded": "2023-10-15 19:31:17 -0700",
+    "asset": "/assets/notes/clamber.jpg",
+    "image": "/assets/notes/clamber.jpg",
+    "gallery": "notes-in-general",
+    "permalink": "/media/notes-in-general/clamber-jpg",
     "layout": "asset",
     "tags": [
-      "art",
-      "memorial"
+      "mulch",
+      "rando"
     ],
-    "slug": "p6230143-jpg",
+    "slug": "clamber-jpg",
     "ext": ".md",
     "excerpt": "\n",
     "backlink_index": [
@@ -8213,77 +8190,25 @@
     ]
   },
   {
-    "id": "/media/mixtest/p6230144-jpg",
+    "id": "/media/notes-in-general/marfool-png",
     "draft": false,
     "categories": [
       "image"
     ],
-    "last_modified_at": "11-Oct-23",
-    "title": "P6230144.JPG",
-    "date": "2023-10-11 15:37:27 -0700",
-    "dateadded": "2023-10-11 15:37:27 -0700",
-    "asset": "/assets/mixtest/P6230144.JPG",
-    "image": "/assets/mixtest/P6230144.JPG",
-    "gallery": "mixtest",
-    "permalink": "/media/mixtest/p6230144-jpg",
+    "last_modified_at": "15-Oct-23",
+    "title": "marfool.png",
+    "date": "2023-10-15 19:51:14 -0700",
+    "dateadded": "2023-10-15 19:51:14 -0700",
+    "asset": "/assets/notes/marfool.png",
+    "image": "/assets/notes/marfool.png",
+    "gallery": "notes-in-general",
+    "permalink": "/media/notes-in-general/marfool-png",
     "layout": "asset",
     "tags": [
-      "art",
-      "memorial"
+      "mulch",
+      "rando"
     ],
-    "slug": "p6230144-jpg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/mixtest/p6230145-jpg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "11-Oct-23",
-    "title": "P6230145.JPG",
-    "date": "2023-10-11 15:37:27 -0700",
-    "dateadded": "2023-10-11 15:37:27 -0700",
-    "asset": "/assets/mixtest/P6230145.JPG",
-    "image": "/assets/mixtest/P6230145.JPG",
-    "gallery": "mixtest",
-    "permalink": "/media/mixtest/p6230145-jpg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "memorial"
-    ],
-    "slug": "p6230145-jpg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/mixtest/snowchorus-wav",
-    "draft": false,
-    "categories": [
-      "audio"
-    ],
-    "last_modified_at": "11-Oct-23",
-    "title": "snowchorus.wav",
-    "date": "2023-10-11 15:37:27 -0700",
-    "dateadded": "2023-10-11 15:37:27 -0700",
-    "asset": "/assets/mixtest/snowchorus.wav",
-    "encoding": "wav",
-    "gallery": "mixtest",
-    "permalink": "/media/mixtest/snowchorus-wav",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "memorial"
-    ],
-    "slug": "snowchorus-wav",
+    "slug": "marfool-png",
     "ext": ".md",
     "excerpt": "\n",
     "backlink_index": [
@@ -8296,7 +8221,7 @@
     "categories": [
       "album"
     ],
-    "last_modified_at": "05-Oct-23",
+    "last_modified_at": "11-Oct-23",
     "layout": "gallery",
     "title": "EXPOCHGO",
     "gallery": "expochgo",
@@ -8310,7 +8235,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/gallery/innerbloom/",
@@ -8318,7 +8243,7 @@
     "categories": [
       "album"
     ],
-    "last_modified_at": "05-Oct-23",
+    "last_modified_at": "11-Oct-23",
     "layout": "gallery",
     "title": "Innerbloom",
     "gallery": "innerbloom",
@@ -8332,7 +8257,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/gallery/notes-in-general/",
@@ -8340,7 +8265,7 @@
     "categories": [
       "collection"
     ],
-    "last_modified_at": "05-Oct-23",
+    "last_modified_at": "11-Oct-23",
     "layout": "gallery",
     "title": "Notes in General",
     "gallery": "notes-in-general",
@@ -8354,7 +8279,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/gallery/pika-s-place/",
@@ -8362,7 +8287,7 @@
     "categories": [
       "album"
     ],
-    "last_modified_at": "17-Sep-23",
+    "last_modified_at": "11-Oct-23",
     "layout": "gallery",
     "title": "Pika's Place",
     "gallery": "pikas-place",
@@ -8380,7 +8305,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/gallery/they-always-have-and-still-do/",
@@ -8388,7 +8313,7 @@
     "categories": [
       "album"
     ],
-    "last_modified_at": "27-Sep-23",
+    "last_modified_at": "11-Oct-23",
     "layout": "gallery",
     "title": "They Always Have and Still Do",
     "gallery": "they-always-have-and-still-do",
@@ -8408,29 +8333,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
-  },
-  {
-    "id": "/gallery/mixtest/",
-    "draft": false,
-    "categories": [
-      "album"
-    ],
-    "last_modified_at": "11-Oct-23",
-    "layout": "gallery",
-    "title": "mixtest",
-    "gallery": "mixtest",
-    "status": "fresh",
-    "slug": "mixtest",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. Proin vel lacus mattis libero varius iaculis. Morbi rutrum porta tristique.</p>\n",
-    "backlink_index": [
-
-    ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/art/",
@@ -8450,7 +8353,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/books/",
@@ -8468,13 +8371,9 @@
     ],
     "excerpt": "\n",
     "backlink_index": [
-      {
-        "title": "The Conceptual Labor Book",
-        "url": "/the-conceptual-labor-book/",
-        "excerpt": "<table>\n  <tbody>\n    <tr>\n      <td>This is the Conceptual Labor [[books</td>\n      <td>book]] that I wrote.</td>\n    </tr>\n  </tbody>\n</table>\n"
-      }
+
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/conceptual-labor/",
@@ -8494,7 +8393,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/cozyweb/",
@@ -8514,7 +8413,7 @@
     "backlink_index": [
       {
         "title": "How This Memex Started",
-        "url": "/about-gardening-this-garden/",
+        "url": "/how-this-memex-started/",
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       },
       {
@@ -8523,7 +8422,7 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       }
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/fren/",
@@ -8543,7 +8442,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/friend/",
@@ -8563,7 +8462,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/memex/",
@@ -8583,7 +8482,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/memorial/",
@@ -8603,7 +8502,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/meta/",
@@ -8623,7 +8522,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/mulch/",
@@ -8643,7 +8542,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/nationale/",
@@ -8663,7 +8562,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/octothorpes/",
@@ -8683,7 +8582,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/painting/",
@@ -8703,7 +8602,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/rando/",
@@ -8723,7 +8622,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/tag/times/",
@@ -8743,7 +8642,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/album/",
@@ -8763,7 +8662,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/audio/",
@@ -8783,7 +8682,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/collection/",
@@ -8803,7 +8702,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/friends/",
@@ -8823,7 +8722,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/gallery/",
@@ -8843,7 +8742,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/image/",
@@ -8863,7 +8762,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/media/",
@@ -8883,7 +8782,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/people/",
@@ -8903,7 +8802,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/things/",
@@ -8923,7 +8822,7 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   },
   {
     "id": "/category/video/",
@@ -8943,6 +8842,6 @@
     "backlink_index": [
 
     ],
-    "date": "2023-10-11 15:38:11 -0700"
+    "date": "2023-10-15 20:40:08 -0700"
   }
 ]

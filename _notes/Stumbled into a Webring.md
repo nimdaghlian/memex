@@ -19,5 +19,5 @@ It's moments like these that remind me that maybe my first thought when I find l
 
 Like, ok I just went back to those links turns out I'm looking at the blog of one of the bigger proponents of modern [webrings](https://billhunt.dev/blog/2022/12/30/bringing-webrings-back/)!
 
-This is like the time I started writing about why I was making a digital garden and ended up discovering the gemini protocol >> [[About Gardening This Garden]]
+This is like the time I started writing about why I was making a digital garden and ended up discovering the gemini protocol >> [[How This Memex Started]]
 
