@@ -60,7 +60,7 @@ collections:
     output: true
     permalink: /category/:name/
 feed:
-  disable_in_development: false
+  disable_in_development: true
   path: feed/posts.atom
   collections:
       - notes

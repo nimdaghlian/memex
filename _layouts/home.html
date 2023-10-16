@@ -6,13 +6,8 @@
     {% include nav.html  %}
 
     <div class="ui container">
-      <div class="site-description ui grid stackable page_hilight">
-        <div class="ui ten wide column">
-          <h1>{{ page.title }}</h1>
-          {{ content }}    
-        </div>
-      </div>
-      <main class="ui two column grid stackable flooped page_hilight" style="margin: 40px -7px; padding: 20px;">
+
+      <main class="ui two column grid stackable flooped page_hilight" style="margin: 40px -7px; padding: 20px 20px 5rem 20px;">
         <content class="ui ten wide column">
           <!-- end excerpt -->
           {% assign galleries = site.galleries | sort: 'date' | reverse  %}
@@ -45,7 +40,11 @@
           {% endfor  %}
         </content>
         <div class="ui six wide column">
-            <div class="card block">
+            <div class="card block fixed" style="color: red;">
+              <h1>{{ page.title }}</h1>
+              {{ content }}
+            </div>
+            <div class="card block fixed">
             <h2>Featured Notes</h2>
             {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
             {% for note in sorted_notes limit:4 %}
@@ -60,40 +59,8 @@
           </div>
         </div>
       </main>
-      <main class="ui container grid stackable page_hilight">
-
-      <div class="ui four wide column">
-        {% assign aboutpage = site.notes | where: "title", "About"  %}
-          {% for about in aboutpage  %}
-        <h4 class="ui header page_hilight"><a href="{{ about.url}}">About this site</a></h4>
-        <p>
-          {{ about.excerpt }}
-          <a href="{{ about.url }}">More about this site...</a>
-        </p>
-        {% endfor  %}
-      </div>
-      <div class="ui four wide column">
-        <h4 class="ui header page_hilight">Types of Things
-        </h4>
-          <div class="ui basic segments">
-          {% for collection in site.collections %}
-          {% if collection.label !="cat-pages" and collection.label !="tag-pages" and collection.label !="posts"   %}
-             <a class="ui tertiary button" style="color: {{page.color}};" href="/{{collection.label}}"><h4>{{collection.label}}</h4></a>
-          {% endif  %}
-          {% endfor %}
-        </div>
-      </div>
-      <div class="ui four wide column">
-        <h4 class="ui header page_hilight">Categories of Things</h4>
-        {% include catcloud.html  %}
-      </div>
-    <div class="ui four wide column">
-      <h4 class="ui header page_hilight">Tags on Things</h4>
-      {% include tagcloud.html  %}
     </div>
-      </main>
-      <footer>{% include footer.html %}</footer>
-    </div>
+    {% include footer.html  %}
 
   </body>
 </html>

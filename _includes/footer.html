@@ -1,2 +1,31 @@
-
-<footer></footer>
+<footer class="ui container grid stackable page_hilight">
+    <div class="ui four wide column">
+      {% assign aboutpage = site.notes | where: "title", "About"  %}
+        {% for about in aboutpage  %}
+      <h4 class="ui header page_hilight"><a href="{{ about.url}}">About this site</a></h4>
+      <p>
+        {{ about.excerpt }}
+        <a href="{{ about.url }}">More about this site...</a>
+      </p>
+      {% endfor  %}
+    </div>
+    <div class="ui four wide column">
+      <h4 class="ui header page_hilight">Types of Things
+      </h4>
+        <div class="ui basic segments">
+        {% for collection in site.collections %}
+        {% if collection.label !="cat-pages" and collection.label !="tag-pages" and collection.label !="posts"   %}
+          <a class="ui tertiary button" style="color: {{page.color}};" href="/{{collection.label}}">{{collection.label}}</a>
+        {% endif  %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class="ui four wide column">
+      <h4 class="ui header page_hilight">Categories of Things</h4>
+      {% include catcloud.html  %}
+    </div>
+  <div class="ui four wide column">
+    <h4 class="ui header page_hilight">Tags on Things</h4>
+    {% include tagcloud.html  %}
+  </div>
+  </footer>
