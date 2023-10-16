@@ -1,6 +1,10 @@
 ---
 layout: note
 homepage: https://lucybellwood.com/
+categories:
+  - people
+tags:
+  - friend
 ---
 [Lucy](https://lucybellwood.com/) is well-known as a natural force of positive energy. We sat next to each other at a button-making workshop at XOXO, talked about iPad screen protectors, and then later she friggin looked up conceptual labor from my actual paper business card, read it, and mentioned it on her blog! That's someone who does their research! 
 

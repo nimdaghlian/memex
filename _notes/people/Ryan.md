@@ -1,5 +1,9 @@
 ---
 title: Ryan Gantz
+categories:
+  - people
+tags:
+  - friend
 ---
 
 Ryan is as nice as he is tall, which is "very!"

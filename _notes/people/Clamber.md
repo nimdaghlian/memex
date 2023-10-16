@@ -1,6 +1,9 @@
 ---
 title: Clamber
-tags: ["fren", "friend"]
+categories:
+  - people
+tags:
+  - friend
 ---
 
 ![A person laughing in a bucket hat in a crayfish restaurant.](/assets/notes/clamber.jpg)

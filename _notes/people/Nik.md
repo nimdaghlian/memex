@@ -1,5 +1,9 @@
 ---
 title: Nik Wise
+categories:
+  - people
+tags:
+  - friend
 ---
 
 Nik made a [garden](https://garden.nikolas.ws) at the same time I started getting into this.

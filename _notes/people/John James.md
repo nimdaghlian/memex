@@ -1,5 +1,9 @@
 ---
 title: John James
+categories:
+  - people
+tags:
+  - friend
 ---
 
 John James made [this bench](https://www.instagram.com/p/CcdmrXkv--S/) look hella better

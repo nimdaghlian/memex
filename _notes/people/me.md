@@ -1,5 +1,7 @@
 ---
 title: Me
+categories:
+  - people
 ---
 
 Hi I'm [Ním](http://nimdaghlian.com).

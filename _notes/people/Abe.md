@@ -1,6 +1,8 @@
 ---
 title: Abe Ingle
-tags: ["fren", "friend"]
+tags:
+  - friend
+categories: people
 ---
 
 Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.

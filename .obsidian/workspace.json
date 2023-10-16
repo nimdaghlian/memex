@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/meta/Colophon.md",
+                "file": "_notes/people/Andrea.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/meta/Colophon.md",
+                "file": "_notes/people/Andrea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,13 +151,15 @@
   },
   "active": "9d38b49adfaf161e",
   "lastOpenFiles": [
+    "_notes/people/Abe.md",
+    "_notes/people/Aaron.md",
+    "_notes/meta/Colophon.md",
     "_site/site-index.json",
     "_site/colophon/index.html",
     "_site/colophon",
     "_site/technical-specs/index.html",
     "_site/technical-specs",
     "_notes/meta/Welcome.md",
-    "_notes/meta/Colophon.md",
     "_notes/meta/About.md",
     "_site/how-this-memex-started/index.html",
     "_site/how-this-memex-started",
@@ -170,7 +172,6 @@
     "_site/assets/notes/marfool.png",
     "assets/notes/marfool.png",
     "_media/notes/marfool-png.md",
-    "_site/media/notes-in-general/pasted-image-20231015195036-png.html",
     "_site/cache/resize/4b82c529110cbc7c2c3d8dbd6db283bb_90x90.png",
     "_site/cache/resize/4b82c529110cbc7c2c3d8dbd6db283bb_400x400.png",
     "cache/resize/4b82c529110cbc7c2c3d8dbd6db283bb_90x90.png",
@@ -189,8 +190,6 @@
     "cache/resize/b2b03273eb42202d5063034897f3e24c_90x90.jpg",
     "_media/notes/clamber-jpg.md",
     "_media/notes/goodboiz-png.md",
-    "_notes/people/Abe.md",
-    "_notes/people/Aaron.md",
     "feeds.md",
     "_notes/books/The Conceptual Labor Book.md",
     "_media/mixtest/snowchorus-wav.md",

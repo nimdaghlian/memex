@@ -1,6 +1,9 @@
 ---
 title: Evan
-tags: ["fren", "friend"]
+categories:
+  - people
+tags:
+  - friend
 ---
 
 Follow Evan's pursuits at his [digital garden](https://evans-thoughts-garden.onrender.com).

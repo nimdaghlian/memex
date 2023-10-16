@@ -1,6 +1,10 @@
 ---
 title: 💖Martha💖
 layout: note
+categories:
+  - people
+tags:
+  - friend
 ---
 
 [get lost in her garden](http://athousandcirclets.garden)

@@ -1,5 +1,9 @@
 ---
 title: Goodboiz.md
+categories:
+  - people
+tags:
+  - friend
 ---
 
 They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]
