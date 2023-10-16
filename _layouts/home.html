@@ -14,7 +14,7 @@
             <div class="card block" >
               {% for post in galleries  limit:1 %}
               {% assign recentgal = post.gallery  %}
-                <h2>{{ post.title}}</h2>
+                <h2>Featured album: {{ post.title}}</h2>
               {% endfor  %}
               {% assign rightgal = site.media | where: "gallery", recentgal  %}
               {% for media in rightgal limit:1   %}
@@ -46,12 +46,12 @@
             </div>
             <div class="card block fixed">
             <h2>Featured Notes</h2>
-            {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+            {% assign sorted_notes = site.documents | where: 'featured', 'home' | sort: 'date' | reverse  %}
             {% for note in sorted_notes limit:4 %}
             <div class="ui vertical segment">
               <a href="{{note.url}}"><h4>{{note.title }}</h4></a>
               <div class="excerpt">
-                {{ note.excerpt }}
+                {{ note.excerpt | truncatewords: 15 }}
               </div>
             </div>
             {% endfor %}
