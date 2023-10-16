@@ -3,8 +3,8 @@ title: How This Memex Started
 layout: note
 tags:
   - meta
+  - featured
 date: 2023-09-27
-featured: home
 ---
 
 > This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.

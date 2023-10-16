@@ -46,7 +46,7 @@
             </div>
             <div class="card block fixed">
             <h2>Featured Notes</h2>
-            {% assign sorted_notes = site.documents | where: 'featured', 'home' | sort: 'date' | reverse  %}
+            {% assign sorted_notes = site.documents | where: 'tags', 'featured' | sort: 'date' | reverse  %}
             {% for note in sorted_notes limit:4 %}
             <div class="ui vertical segment">
               <a href="{{note.url}}"><h4>{{note.title }}</h4></a>

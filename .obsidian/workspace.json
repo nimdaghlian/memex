@@ -151,6 +151,9 @@
   },
   "active": "9d38b49adfaf161e",
   "lastOpenFiles": [
+    "_site/tag/featured/index.html",
+    "_site/tag/featured",
+    "_tag-pages/featured.md",
     "_notes/people/Abe.md",
     "_notes/people/Aaron.md",
     "_notes/meta/Colophon.md",
@@ -168,7 +171,6 @@
     "_site/welcome",
     "_notes/people/Martha.md",
     "_posts/2023-10-15-welcome.md",
-    "_site/media/notes-in-general/marfool-png.html",
     "_site/assets/notes/marfool.png",
     "assets/notes/marfool.png",
     "_media/notes/marfool-png.md",
@@ -194,7 +196,6 @@
     "_notes/books/The Conceptual Labor Book.md",
     "_media/mixtest/snowchorus-wav.md",
     "_media/mixtest/p6230145-jpg.md",
-    "_media/mixtest/p6230144-jpg.md",
-    "_media/mixtest/p6230143-jpg.md"
+    "_media/mixtest/p6230144-jpg.md"
   ]
 }
