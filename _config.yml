@@ -4,7 +4,7 @@ email: nimdaghlian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Ním's Memex
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mmmmx.cloud" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nimdaghlian
 
 

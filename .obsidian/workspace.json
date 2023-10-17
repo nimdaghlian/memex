@@ -138,6 +138,7 @@
   },
   "active": "d086f0ad4804c4cb",
   "lastOpenFiles": [
+    "_site/site-index.json",
     "_galleries/They Always Have and Still Do.md",
     "_notes/people/Martha.md",
     "_media/wife-bag/tusker-bottlecap-with-andes-mint-wrapper-jpeg.md",
@@ -150,7 +151,6 @@
     "_notes/people/Abe.md",
     "_notes/people/Aaron.md",
     "_notes/meta/Colophon.md",
-    "_site/site-index.json",
     "_site/colophon/index.html",
     "_site/colophon",
     "_site/technical-specs/index.html",
@@ -182,7 +182,6 @@
     "_site/cache/resize/b2b03273eb42202d5063034897f3e24c_400x400.jpg",
     "_media/notes/clamber-jpg.md",
     "_media/notes/goodboiz-png.md",
-    "feeds.md",
-    "_notes/books/The Conceptual Labor Book.md"
+    "feeds.md"
   ]
 }
