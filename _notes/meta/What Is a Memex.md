@@ -15,7 +15,7 @@ It's an early vision of how information technology could expand the human memory
 
 Instead of getting that, we live in a world of Zunes (the GoBots of iPods), Vine (the Hydrox of TikToks), Threads (the Zunes of Twitters), and X (The Chris Gaines of actual Twitter).
 
-So, at various points, people, myself included, keep trying to build memexes or things like memexes or just some way to feel like there's a [space for your brain on the internet](cozyweb).
+So, at various points, people, myself included, keep trying to build memexes or things like memexes or just some way to feel like there's a [space for your brain on the internet](https://pinboard.in/u:nimdaghlian/t:cozyweb/).
 
 The core idea here is to make a sort of mental storehouse, made as digitally sustainable as possible -- built on open source standards and software, simple enough that I can just get it out the door and use it, but with of and resistant to being remotely shut off by a billionaire.
 
