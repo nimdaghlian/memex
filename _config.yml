@@ -86,4 +86,6 @@ galleries:
     directory: "EXPOCHGO"
     tags: ["art", "times"]
     parse_date: true
-
+  - name: "Everything in My Wife's Bag Two Days After We Got Married"
+    directory: "wife-bag"
+    tags: ["life", "things"]

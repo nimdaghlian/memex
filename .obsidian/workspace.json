@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/people/Martha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d38b49adfaf161e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/people/Andrea.md",
+                "file": "_galleries/Innerbloom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/people/Andrea.md",
+                "file": "_galleries/Innerbloom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +136,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9d38b49adfaf161e",
+  "active": "d086f0ad4804c4cb",
   "lastOpenFiles": [
+    "_galleries/They Always Have and Still Do.md",
+    "_notes/people/Martha.md",
+    "_media/wife-bag/tusker-bottlecap-with-andes-mint-wrapper-jpeg.md",
+    "_media/wife-bag/tusker-bottlecap-jpeg.md",
+    "assets/wife-bag/tusker-bottlecap-with-andes-mint-wrapper.jpeg",
+    "_notes/people/Andrea.md",
     "_site/tag/featured/index.html",
     "_site/tag/featured",
     "_tag-pages/featured.md",
@@ -168,8 +161,6 @@
     "_site/how-this-memex-started",
     "_notes/meta/How This Memex Started.md",
     "_site/welcome/index.html",
-    "_site/welcome",
-    "_notes/people/Martha.md",
     "_posts/2023-10-15-welcome.md",
     "_site/assets/notes/marfool.png",
     "assets/notes/marfool.png",
@@ -189,13 +180,9 @@
     "_notes/people/me.md",
     "_site/cache/resize/b2b03273eb42202d5063034897f3e24c_90x90.jpg",
     "_site/cache/resize/b2b03273eb42202d5063034897f3e24c_400x400.jpg",
-    "cache/resize/b2b03273eb42202d5063034897f3e24c_90x90.jpg",
     "_media/notes/clamber-jpg.md",
     "_media/notes/goodboiz-png.md",
     "feeds.md",
-    "_notes/books/The Conceptual Labor Book.md",
-    "_media/mixtest/snowchorus-wav.md",
-    "_media/mixtest/p6230145-jpg.md",
-    "_media/mixtest/p6230144-jpg.md"
+    "_notes/books/The Conceptual Labor Book.md"
   ]
 }

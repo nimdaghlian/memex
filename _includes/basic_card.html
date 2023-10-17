@@ -1,4 +1,4 @@
-<div class="card block {% for cat in post.categories  %} {{cat}}{% endfor  %}{% for tag in post.tags  %} {{tag}}{% endfor  %}" >
+<div class="card block {% for cat in post.categories  %} {{cat | slugify }}{% endfor  %}{% for tag in post.tags  %} {{tag | slugify }}{% endfor  %}" >
     <div class="card-header page_hilight_bg">
       <div class="desaturate page_hilight">
         {% if post.date  %}
@@ -15,7 +15,7 @@
       </div>
        {% endif  %} 
        <div class="title"> 
-        <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="card-link page_hilight">{{ post.title }}</a>
+        <a href="{{ post.url }}" title="{{ post.title }}" class="card-link page_hilight">{{ post.title }}</a>
        </div>
        {% if include.excerpt == "true"  %}
         {% if post.excerpt != ""  %}
