@@ -27,7 +27,7 @@ You can browse by tag too:
 
 ## Follow
 
-It's always growing, but in all directions at once. My newsletter, Big Table, features recent highlights. I have a few RSS feeds you can follow:
+It's always growing, but in all directions at once. My *soon to launch* newsletter, Big Table, ~~~features~~~ will feature recent highlights. I have a few RSS feeds you can follow:
 
 - [notes](/feeds/notes.xml)
 - [media](/feeds/media.xml)
