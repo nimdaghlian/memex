@@ -5,9 +5,11 @@
   {% include page_hilight.html hilight = page.color parent="body" %}  <body class="home">
     {% include nav.html  %}
 
+
+
     <div class="ui container">
 
-      <main class="ui two column grid stackable flooped page_hilight" style="margin: 40px -7px; padding: 20px 20px 5rem 20px;">
+      <main class="ui two column grid stackable flooped page_hilight" style="margin: 40px -7px; padding: 20px 20px 5rem 20px; background-size: 3%; transition: background-size 2s ease;">
         <content class="ui ten wide column">
           <!-- end excerpt -->
           {% assign galleries = site.galleries | sort: 'date' | reverse  %}
@@ -64,8 +66,18 @@
 
   </body>
 </html>
-
-    
-  </div>
-</article>
-
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const floopedElements = document.querySelectorAll(".flooped");
+  
+    // Function to change the background-size property
+    function changeBackgroundSize() {
+      floopedElements.forEach(function (element) {
+        element.style.backgroundSize = "54%";
+      });
+    }
+  
+    // Call the changeBackgroundSize function when the page is loaded
+    changeBackgroundSize();
+  });
+</script>

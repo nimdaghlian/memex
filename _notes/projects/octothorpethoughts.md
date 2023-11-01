@@ -146,4 +146,9 @@ If the `mode` is set to `read-write` a sync request can be sent with an `overwri
 The `feed` request will create an rss/xml/whatever feed based on request parameters or `server` defaults when sent. 
 
 > Example: Nik and Nim create a shared, private `server` that they both `sync` their notes to. They don't feel like creating a website, but they want to share what they're working on. So they set a public endpoint for `feed?authors=Nik-nim&format=rss-rdf` that allows anyone to subscribe via RSS. Of course, the feed includes well-formed `document records` by default, so anyone running their own `server` locally can easily `transform` that feed into any format they want.
-> 
+
+## 10.28.23
+
+Finally reading my paper copy of Literary Machines properly after showing the memex to my sister.
+
+misread the instructions on how to navigate the book as having multiple levels of significant underlining. as in a double or single underline have distinct meaning. maybe octothorpe notation is a double underline?

@@ -1,0 +1,6 @@
+---
+link: https://behavioralscientist.org/time-confetti-and-the-broken-promise-of-leisure/
+---
+>> Technology saves us time, but it also takes it away. This is known as the [_autonomy paradox_](https://dspace.mit.edu/handle/1721.1/112333). We adopt mobile technologies to gain autonomy over when and how long we work, yet, ironically, we end up working all the time. Long blocks of free time we used to enjoy are now interrupted constantly by our smart watches, phones, tablets, and laptops.
+
+>> This situation taxes us cognitively, and [fragments our leisure time](https://www.sciencedirect.com/science/article/abs/pii/S0022103117301737) in a way that makes it hard to use this time for something that will relieve stress or make us happy. I (and other researchers) call this phenomenon _time confetti_ (a term coined by [Brigid Schulte](http://www.brigidschulte.com/books/overhelmed/)), which amounts to little bits of seconds and minutes lost to unproductive multitasking. Each bit alone seems not very bad. Collectively, though, all that confetti adds up to something more pernicious than you might expect.

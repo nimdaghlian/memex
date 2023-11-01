@@ -89,3 +89,11 @@ galleries:
   - name: "Everything in My Wife's Bag Two Days After We Got Married"
     directory: "wife-bag"
     tags: ["life", "things"]
+  - name: "Genre Painting Reference"
+    directory: "genre-paintings"
+    tags:
+      - art
+      - painting
+      - sources
+      - steen
+    parse_date: true

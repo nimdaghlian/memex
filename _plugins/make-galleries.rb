@@ -143,7 +143,8 @@ gal.each do |galitem|
           # so you'd want your template to detect the asset type / assign different template (less pref)
           file.puts "categories: #{file_type}"
           file.puts "gallery: #{name_slug}"
-          # NOTE this is pretty jekyll specific, but specifying a permalink means that you could
+          # NOTE this is pretty jekyll specific but specifying a permalink is pretty handy
+          # TODO however it doesn't work with subdirectories yet as it allows for naming separate from directory name 
           file.puts "permalink: /media/#{name_slug}/#{fileslug}"
           file.puts "layout: asset"
           file.puts "tags: #{gal_tags}"
