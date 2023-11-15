@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/meta/How This Memex Started.md",
+                "file": "_galleries/Pika's Place.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/meta/How This Memex Started.md",
+                "file": "_galleries/Pika's Place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +138,14 @@
   },
   "active": "53936071410e31e9",
   "lastOpenFiles": [
+    "_notes/Stumbled into a Webring.md",
+    "_notes/meta/How This Memex Started.md",
+    "_site/site-index.json",
+    "_site/gallery/everything-in-my-wifes-bag-two-days-after-we-got-married.html",
     "_notes/meta/About.md",
     "_notes/meta/Welcome.md",
     "_notes/meta/What I Want to Store in My Memex.md",
     "_notes/meta/What Is a Memex.md",
-    "_notes/meta/How This Memex Started.md",
     "assets/notes/pirages-old-seal-text.jpeg",
     "assets/notes/pirages-old-seal.jpeg",
     "_notes/things/Urs.md",
@@ -155,7 +158,6 @@
     "_site/media/notes-in-general/pirages-old-seal-jpeg.html",
     "_site/media/notes-in-general/pirages-old-seal-in-hand-jpeg.html",
     "_site/media/notes-in-general/pirages-old-seal-full-jpeg.html",
-    "_site/site-index.json",
     "_site/media/notes-in-general/pirages-old-seal-2-jpeg.html",
     "_site/media/notes-in-general/pirages-horse-anatomy-jpeg.html",
     "_site/the-old-seal/index.html",
@@ -175,14 +177,12 @@
     "assets/notes/ryan-tweet-lost-web.png",
     "assets/notes/pirages-horse-anatomy.jpeg",
     "_notes/texts/Warpaint No. 1.md",
-    "_notes/objects",
     "_media/notes/warpaint-no-1-jpeg.md",
     "_cat-pages/texts.md",
     "_tag-pages/steen.md",
     "2023-11-15.md",
     "_notes/research/Time Confetti and The Broken Promise of Leisure.md",
     "_notes/things/Bread Times.md",
-    "_media/notes/martha-bao-jpg.md",
-    "_notes/The Bun Boys.md"
+    "_media/notes/martha-bao-jpg.md"
   ]
 }
