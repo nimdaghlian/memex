@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/research/Time Confetti and The Broken Promise of Leisure.md",
+                "file": "_notes/texts/Warpaint No. 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/research/Time Confetti and The Broken Promise of Leisure.md",
+                "file": "_notes/texts/Warpaint No. 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,12 @@
   },
   "active": "d086f0ad4804c4cb",
   "lastOpenFiles": [
+    "assets/notes/warpaint-no-1.jpeg",
+    "assets/notes/1IMG_3563.jpeg",
+    "2023-11-15.md",
+    "_notes/texts/Warpaint No. 1.md",
+    "_notes/research/Time Confetti and The Broken Promise of Leisure.md",
+    "_notes/texts",
     "_site/gallery/pikas-place.html",
     "_site/site-index.json",
     "_notes/things/Bread Times.md",
@@ -156,12 +162,9 @@
     "_site/tag/words",
     "_site/tag/mind-things/index.html",
     "_site/tag/mind-things",
-    "_site/tag/hummingbirds/index.html",
-    "_site/tag/hummingbirds",
     "_site/cache/resize/74405e34caa0090e8144c2bcbc75fe48_90x90.jpg",
     "_site/cache/resize/74405e34caa0090e8144c2bcbc75fe48_400x400.jpg",
     "cache/resize/74405e34caa0090e8144c2bcbc75fe48_90x90.jpg",
-    "cache/resize/74405e34caa0090e8144c2bcbc75fe48_400x400.jpg",
     "_media/notes/kirsty-joe-jpg.md",
     "_tag-pages/words.md",
     "_tag-pages/mind-things.md",
@@ -180,9 +183,6 @@
     "_media/genre-paintings/img-1871-jpeg.md",
     "_media/genre-paintings/img-1848-jpeg.md",
     "_media/genre-paintings/img-1847-jpeg.md",
-    "_media/genre-paintings/img-1846-jpeg.md",
-    "_media/genre-paintings/img-1844-jpeg.md",
-    "_media/genre-paintings/img-1843-jpeg.md",
-    "_media/genre-paintings/img-1842-jpeg.md"
+    "_media/genre-paintings/img-1846-jpeg.md"
   ]
 }
