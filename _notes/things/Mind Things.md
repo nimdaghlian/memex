@@ -2,6 +2,8 @@
 title: Mind Things
 date: 2023-10-04
 categories: things
+tags:
+  - mind-things
 ---
 A Mind Thing is something you reach for in your mind as part of how you understand the world. If it's all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.
 

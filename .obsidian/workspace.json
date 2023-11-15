@@ -4,38 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d5f0845d68e976c6",
+        "id": "52a6ead613bdb7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "d086f0ad4804c4cb",
+            "id": "53936071410e31e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/objects/The Old Seal.md",
+                "file": "_notes/meta/How This Memex Started.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9b39a857460e415e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/notes/pirages-old-seal.jpeg"
-              }
-            }
-          },
-          {
-            "id": "b9d43c02cabdf47a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/notes/pirages-old-seal-text.jpeg"
               }
             }
           }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/objects/The Old Seal.md",
+                "file": "_notes/meta/How This Memex Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +136,21 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "d086f0ad4804c4cb",
+  "active": "53936071410e31e9",
   "lastOpenFiles": [
+    "_notes/meta/About.md",
+    "_notes/meta/Welcome.md",
+    "_notes/meta/What I Want to Store in My Memex.md",
+    "_notes/meta/What Is a Memex.md",
+    "_notes/meta/How This Memex Started.md",
+    "assets/notes/pirages-old-seal-text.jpeg",
+    "assets/notes/pirages-old-seal.jpeg",
+    "_notes/things/Urs.md",
+    "_notes/things/Slow Motion Bullseyes.md",
+    "_notes/things/Mind Things.md",
+    "_notes/things/Ada's three kinds of things.md",
+    "_notes/things/Brain Mulch.md",
+    "_notes/objects/The Old Seal.md",
     "_site/media/notes-in-general/pirages-old-seal-text-jpeg.html",
     "_site/media/notes-in-general/pirages-old-seal-jpeg.html",
     "_site/media/notes-in-general/pirages-old-seal-in-hand-jpeg.html",
@@ -179,14 +172,10 @@
     "_media/notes/pirages-old-seal-2-jpeg.md",
     "_media/notes/pirages-old-seal-jpeg.md",
     "_media/notes/pirages-old-seal-text-jpeg.md",
-    "assets/notes/pirages-old-seal-text.jpeg",
     "assets/notes/ryan-tweet-lost-web.png",
-    "assets/notes/pirages-old-seal.jpeg",
-    "_notes/objects/The Old Seal.md",
     "assets/notes/pirages-horse-anatomy.jpeg",
     "_notes/texts/Warpaint No. 1.md",
     "_notes/objects",
-    "_site/category/texts/index.html",
     "_media/notes/warpaint-no-1-jpeg.md",
     "_cat-pages/texts.md",
     "_tag-pages/steen.md",
@@ -194,15 +183,6 @@
     "_notes/research/Time Confetti and The Broken Promise of Leisure.md",
     "_notes/things/Bread Times.md",
     "_media/notes/martha-bao-jpg.md",
-    "_notes/The Bun Boys.md",
-    "_media/notes/kirsty-joe-jpg.md",
-    "_tag-pages/words.md",
-    "_tag-pages/mind-things.md",
-    "_tag-pages/hummingbirds.md",
-    "_notes/The Bao Boys.md",
-    "_notes/The Bun Family.md",
-    "_notes/The Paddleboat Family.md",
-    "_notes/people/Carl Diehl.md",
-    "_notes/meta/What Is a Memex.md"
+    "_notes/The Bun Boys.md"
   ]
 }

@@ -3,6 +3,7 @@ layout: note
 date: 2023-10-04
 tags:
   - books
+  - mind-things
 category: things
 title: Ada's three kinds of things
 ---

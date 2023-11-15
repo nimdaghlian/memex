@@ -1,7 +1,8 @@
 ---
 layout: note
 date: 2023-10-04
-tags: 
+tags:
+  - mind-things
 title: Brain Mulch
 categories: things
 featured: home

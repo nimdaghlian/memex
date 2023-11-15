@@ -1,5 +1,7 @@
 ---
 layout: note
+tags:
+  - mind-things
 ---
 
 Urs or "an Ur" is my term for the basic, underlying format of how you conceive of anything. The language your brain uses. The quanta of thought.

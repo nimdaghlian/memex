@@ -1,7 +1,8 @@
 ---
 layout: note
 tags:
-    - featured
+  - featured
+  - mind-things
 date: 2023-09-27
 ---
 
