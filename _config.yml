@@ -9,7 +9,7 @@ github_username:  nimdaghlian
 
 
 # Build settings
-incremental: false
+incremental: true
 permalink: pretty
 
 
@@ -95,5 +95,3 @@ galleries:
       - art
       - painting
       - sources
-      - steen
-    parse_date: true
