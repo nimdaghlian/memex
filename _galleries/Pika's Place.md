@@ -1,6 +1,7 @@
 ---
 title: Pika's Place
 gallery: pikas-place
+permalink: /gallery/pikas-place
 categories: album
 layout: gallery
 color: dimgrey

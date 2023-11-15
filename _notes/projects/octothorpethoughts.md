@@ -5,6 +5,7 @@ layout: note
 poster: ''
 
 ---
+SHRUGGIE 
 I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a [much prettier pile](https://garden.nikolas.ws/thinking-about-octothorpes/).
 
 
