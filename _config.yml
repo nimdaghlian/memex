@@ -9,7 +9,7 @@ github_username:  nimdaghlian
 
 
 # Build settings
-incremental: true
+incremental: false
 permalink: pretty
 
 

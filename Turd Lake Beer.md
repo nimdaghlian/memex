@@ -1,0 +1,3 @@
+![[Pasted image 20231119122046.png]]This is a really good rice Lager that [[Andrea]] made. It's not really called Turd Lake beer. The logo is a grain of rice, but I was asked what the logo looked like without context and I said a lake, but our friend Chris Spencer said it looked like a turd. 
+
+I should stress the beer is really good, and it fermented in her gazebo. It doesn't deserve to be called Turd Lake.

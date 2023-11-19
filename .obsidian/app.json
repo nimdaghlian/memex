@@ -6,7 +6,7 @@
   "attachmentFolderPath": "assets/notes",
   "newFileLocation": "folder",
   "newFileFolderPath": "Drafts",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "userIgnoreFilters": [
     "_plugins/",
     "_site/",

@@ -19,29 +19,30 @@ layout: default
 * [x] make a decision about tags / terms
 * [x] draw a line on how much to develop on Jekyll before reevaluating platforms
 * [ ] ~~~make a make-collection plugin for notes, etc~~~ took care of with templates
-* [ ] make a simple all-content index
+* [x] make a simple all-content index
 * [x] post!
 * [ ] ~~auto-convert short obsidian image tags?~~~ nah
 * [ ] backlinks should be able to read normal links, not just double brackets
+* [ ] categories based on subfolders
+* [ ] tag and category removal utility
 
 ---
 ## Launch nits and notes
 
 ---
 
-* [ ] text decoration on links in home page footer
-* [ ] maybe make footer version for whole site?
+* [x] text decoration on links in home page footer
+* [x] maybe make footer version for whole site?
 * [x] leaf should link to /notes
-* [ ] mobile friendly wrapper for audio/video players on asset layout -- still need, did basic sizing
+* [x] mobile friendly wrapper for audio/video players on asset layout -- still need, did basic sizing
 * [x] what happened to all-site feed?
 * [x] are default layouts not working??
-* [ ] Update / fill out links from Mind Things
+* [x] Update / fill out links from Mind Things
 * [x] Make a /feed page for now
 * [x] remove duplicate last-updated
 * [ ] look into behavior of last-updated
-* [ ] Add note for Carl
+* [x] Add note for Carl
 * [x] differentiate titles in backlinks
 * [ ] update /me
 * [ ] title slugs replace `'` with `-`
 * [ ] would be nice to have a youtube embed option, but maybe punt if you're not going to make docs for links
-* [ ] 
