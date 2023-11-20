@@ -1,3 +1,7 @@
+---
+layout: note
+---
+
 ![[Pasted image 20231119122046.png]]
 
 This was an amazing Rice Lager that [[Andrea]] made. I think it was accidentally a steam beer, which are usually ales, but this was a lager somehow. It brewed at a very high temperature in her gazebo and turned out great.

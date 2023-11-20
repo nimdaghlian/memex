@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turd Lake Beer.md",
+                "file": "_notes/things/The Sweet Potato.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turd Lake Beer.md",
+                "file": "_notes/things/The Sweet Potato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,11 @@
   },
   "active": "53936071410e31e9",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_site/turd-lake-beer/index.html",
+    "_site/turd-lake-beer",
+    "Turd Lake Beer.md",
+    "_notes/things/Turd Lake Beer.md",
     "_site/media/notes-in-general/pasted-image-20231119122046-png.html",
     "_site/cache/resize/a2ae502a3ee1f9cb40c81976ccf52382_90x90.png",
     "_site/cache/resize/a2ae502a3ee1f9cb40c81976ccf52382_400x400.png",
@@ -161,9 +166,6 @@
     "_media/notes/img-2973-jpeg.md",
     "_site/category/objects/index.html",
     "_site/category/objects",
-    "_site/tag/neighborhood/index.html",
-    "_site/tag/neighborhood",
-    "_site/site-index.json",
     "_site/Turd Lake Beer.md",
     "_cat-pages/objects.md",
     "_tag-pages/neighborhood.md",
@@ -172,7 +174,6 @@
     "_notes/objects/The Sweet Potato.md",
     "todo.md",
     "_notes/people/Andrea.md",
-    "Turd Lake Beer.md",
     "_galleries/Pika's Place.md",
     "_notes/Stumbled into a Webring.md",
     "_notes/meta/How This Memex Started.md",
@@ -182,7 +183,6 @@
     "_notes/meta/What Is a Memex.md",
     "_notes/things/Urs.md",
     "_notes/things/Slow Motion Bullseyes.md",
-    "_notes/things/Mind Things.md",
-    "_notes/things/Ada's three kinds of things.md"
+    "_notes/things/Mind Things.md"
   ]
 }
