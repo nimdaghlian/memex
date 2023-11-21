@@ -11,11 +11,9 @@
             "id": "53936071410e31e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_notes/things/The Sweet Potato.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/notes/tlb-correction.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/things/The Sweet Potato.md",
+                "file": "assets/notes/tlb-correction.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +136,13 @@
   },
   "active": "53936071410e31e9",
   "lastOpenFiles": [
+    "_notes/things/Turd Lake Beer.md",
+    "assets/notes/tlb-correction.png",
+    "_notes/things/The Sweet Potato.md",
     "_site/site-index.json",
     "_site/turd-lake-beer/index.html",
     "_site/turd-lake-beer",
     "Turd Lake Beer.md",
-    "_notes/things/Turd Lake Beer.md",
     "_site/media/notes-in-general/pasted-image-20231119122046-png.html",
     "_site/cache/resize/a2ae502a3ee1f9cb40c81976ccf52382_90x90.png",
     "_site/cache/resize/a2ae502a3ee1f9cb40c81976ccf52382_400x400.png",
@@ -155,17 +155,14 @@
     "_site/assets/notes/IMG_5547.heic",
     "assets/notes/redacted.heic",
     "assets/notes/IMG_5547.heic",
-    "_notes/things/The Sweet Potato.md",
     "_notes/people/Aaron.md",
     "_site/media/notes-in-general/the-sweet-potato-aug-6-2023-jpeg.html",
     "_site/cache/resize/3d55e57059419c964cf4c6bd330888ff_90x90.jpeg",
     "_site/cache/resize/3d55e57059419c964cf4c6bd330888ff_400x400.jpeg",
     "_site/assets/notes/the-sweet-potato-aug-6-2023.jpeg",
-    "cache/resize/3d55e57059419c964cf4c6bd330888ff_90x90.jpeg",
     "_media/notes/the-sweet-potato-aug-6-2023-jpeg.md",
     "_media/notes/img-2973-jpeg.md",
     "_site/category/objects/index.html",
-    "_site/category/objects",
     "_site/Turd Lake Beer.md",
     "_cat-pages/objects.md",
     "_tag-pages/neighborhood.md",
