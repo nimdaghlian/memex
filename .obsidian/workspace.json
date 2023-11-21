@@ -11,9 +11,11 @@
             "id": "53936071410e31e9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/notes/tlb-correction.png"
+                "file": "_notes/things/Turd Lake Beer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/notes/tlb-correction.png",
+                "file": "_notes/things/Turd Lake Beer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +138,8 @@
   },
   "active": "53936071410e31e9",
   "lastOpenFiles": [
-    "_notes/things/Turd Lake Beer.md",
     "assets/notes/tlb-correction.png",
+    "_notes/things/Turd Lake Beer.md",
     "_notes/things/The Sweet Potato.md",
     "_site/site-index.json",
     "_site/turd-lake-beer/index.html",

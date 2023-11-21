@@ -10,4 +10,4 @@ It's not really called Turd Lake, but she sent me a picture of the logo, which i
 
 I should stress the beer is really good, and it fermented in her gazebo. It doesn't deserve to be called Turd Lake.
 
-![[tlb-correction.png]]
+![a text message saying that our friend chris only worried a small part of the logo would make people think it was a turd](/assets/notes/tlb-correction.png)
