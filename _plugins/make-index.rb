@@ -13,7 +13,6 @@ Jekyll::Hooks.register :documents, :post_write do |doc|
 
     # Exclude the 'backlinks' key from the document.data hash
     document_data = document.data.reject { |key, _value| key == 'backlinks' }
-
     # Add the front matter data to the document hash
     document_hash.merge!(document.data)
 
