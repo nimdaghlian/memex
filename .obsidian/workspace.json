@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/things/The Street Potato.md",
+                "file": "_notes/people/Jane Zemel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/things/The Street Potato.md",
+                "file": "_notes/people/Jane Zemel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -138,6 +140,11 @@
   },
   "active": "53936071410e31e9",
   "lastOpenFiles": [
+    "_notes/people/Carl Diehl.md",
+    "_notes/people/Jane Zemel.md",
+    "_notes/projects/octothorpethoughts.md",
+    "_notes/texts/Warpaint No. 1.md",
+    "_notes/things/The Street Potato.md",
     "_site/site-index.json",
     "_plugins/add_raw_markdown.rb",
     "_site/media/notes-in-general/tlb-correction-png.html",
@@ -151,7 +158,6 @@
     "_site/Untitled.md",
     "_media/notes/tlb-correction-png.md",
     "Untitled.md",
-    "_notes/things/The Street Potato.md",
     "assets/notes/the-sweet-potato-aug-6-2023.jpeg",
     "_notes/things/Turd Lake Beer.md",
     "assets/notes/tlb-correction.png",
@@ -165,7 +171,6 @@
     "_media/notes/pasted-image-20231119122046-png.md",
     "_site/assets/notes/redacted.heic",
     "_site/assets/notes/IMG_5547.heic",
-    "assets/notes/redacted.heic",
     "_notes/people/Aaron.md",
     "_media/notes/the-sweet-potato-aug-6-2023-jpeg.md",
     "_media/notes/img-2973-jpeg.md",
@@ -180,9 +185,6 @@
     "_galleries/Pika's Place.md",
     "_notes/Stumbled into a Webring.md",
     "_notes/meta/How This Memex Started.md",
-    "_notes/meta/About.md",
-    "_notes/meta/Welcome.md",
-    "_notes/meta/What I Want to Store in My Memex.md",
-    "_notes/meta/What Is a Memex.md"
+    "_notes/meta/About.md"
   ]
 }
