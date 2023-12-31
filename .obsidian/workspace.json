@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/people/Jane Zemel.md",
+                "file": "_notes/people/Jon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/people/Jane Zemel.md",
+                "file": "_notes/people/Jon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +140,8 @@
   },
   "active": "53936071410e31e9",
   "lastOpenFiles": [
-    "_notes/people/Carl Diehl.md",
     "_notes/people/Jane Zemel.md",
+    "_notes/people/Carl Diehl.md",
     "_notes/projects/octothorpethoughts.md",
     "_notes/texts/Warpaint No. 1.md",
     "_notes/things/The Street Potato.md",

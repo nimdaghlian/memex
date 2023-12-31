@@ -1,9 +1,8 @@
 ---
 title: Mumonkan
-categories:
+category:
   - people
-tags:
-  - friend
+tags: []
 ---
 
 Invented the term "hypolink"
