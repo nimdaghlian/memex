@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/times/Interdependence Day.md",
+                "file": "_notes/things/Urs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/times/Interdependence Day.md",
+                "file": "_notes/things/Urs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +140,20 @@
   },
   "active": "ea5d9ea86f37223d",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_site/assets/id-papercuts/id-011524.jpg",
+    "_media/id-papercuts/id-011524-jpg.md",
+    "assets/id-papercuts/id-011524.jpg",
+    "_notes/things/wushi.md",
+    "_site/tag/interdependence/index.html",
+    "_site/tag/interdependence",
+    "_site/tag/day/index.html",
+    "_site/tag/day",
+    "_tag-pages/interdependence.md",
+    "_tag-pages/day.md",
+    "_notes/times/Interdependence Day.md",
     "assets/notes/Pasted image 20231119122046.png",
     "_site/media/notes-in-general/bloggygarden-png.html",
-    "_site/site-index.json",
     "_site/cache/resize/b7848b5461416d0e9b85b6f077bdbf4e_90x90.png",
     "_site/cache/resize/b7848b5461416d0e9b85b6f077bdbf4e_400x400.png",
     "_site/assets/notes/bloggygarden.png",
@@ -152,10 +163,8 @@
     "assets/notes/goodboiz.png",
     "_notes/projects/The Garden of Blogs.md",
     "_media/notes/bloggygarden-png.md",
-    "assets/notes/bloggygarden.png",
     "_site/the-garden-of-blogs/index.html",
     "_site/the-garden-of-blogs",
-    "_site/assets/notes/Pasted image 20240116012758.png",
     "_media/notes/pasted-image-20240116012758-png.md",
     "_media/id-papercuts/id-011521-jpg.md",
     "_media/id-papercuts/id-011520-jpg.md",
@@ -167,23 +176,14 @@
     "_site/tag/music/index.html",
     "_site/tag/music",
     "_tag-pages/music.md",
-    "_site/media/notes-in-general/sotrt-v1-cover-jpg.html",
-    "_site/media/notes-in-general/sotrt-pile-jpg.html",
     "_notes/projects/Sounds of the Record Tree.md",
-    "_site/sounds-of-the-record-tree/index.html",
-    "_site/sounds-of-the-record-tree",
     "_media/notes/sotrt-pile-jpg.md",
     "_media/notes/sotrt-v1-cover-jpg.md",
     "_media/id-papercuts/id-011524-jpeg.md",
     "media.md",
-    "_notes/times/Interdependence Day.md",
-    "_notes/things/wushi.md",
     "_notes/people/Jon.md",
     "_notes/people/Jane Zemel.md",
     "_notes/people/Carl Diehl.md",
-    "_notes/projects/octothorpethoughts.md",
-    "_notes/texts/Warpaint No. 1.md",
-    "_notes/things/The Street Potato.md",
-    "_site/Untitled.md"
+    "_notes/projects/octothorpethoughts.md"
   ]
 }
