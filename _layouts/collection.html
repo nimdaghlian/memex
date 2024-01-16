@@ -10,12 +10,14 @@ layout: default
 
         <div class="ui one column description" style="color: {{page.color}} ;">
           {{ content }}
-          <div class="buttons-container one column">
+          {% if page.filters != "none" %}
 
+          <div class="buttons-container one column">
             <h2><i class="las la-filter page_hilight"></i></h2>
-        
             <!-- Buttons will be added here dynamically -->
           </div>
+          {% endif %}
+
         </div>
 
 
@@ -33,10 +35,15 @@ layout: default
             {% assign istag = post.tags | array_contains: tags  %}
             {% assign isgal = post.gallery | array_contains: gals  %}
             {% assign iscol = post.collection | array_contains: cols  %}
-          
-            {% if iscat or istag or isgal or iscol %}
+            {% if page.url != post.url %}
+              {% if iscat or istag or isgal or iscol %}
+                {% if page.style == "gallery" %}
+                  {% include basic_image_card.html  %}
+                {% else %}
                   {% include basic_card.html  %}
+                {% endif %}
               {% endif  %}
+            {% endif %}
             {% endfor  %}
         </div>
         </div>
@@ -98,6 +105,6 @@ layout: default
         </side>
         <!-- end sidebar -->
  
-
+{% if page.filters != "none" %}
     {% include listfilter.html  %}
-
+{% endif %}

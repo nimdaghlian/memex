@@ -1,6 +1,6 @@
 ---
 title: The Conceptual Labor Book
-tags: [["books", "conceptual labor"]]
+tags: ["books", "conceptual labor"]
 ---
 
 This is the Conceptual Labor book that I wrote.

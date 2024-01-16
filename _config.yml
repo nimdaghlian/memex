@@ -9,7 +9,8 @@ github_username:  nimdaghlian
 
 
 # Build settings
-incremental: true
+# incremental: true
+
 permalink: pretty
 
 
@@ -26,6 +27,7 @@ safe: false
 
 tag_index_layout: tag
 tag_index_dir: _tag-pages
+permalink: pretty
 
 cat_index_layout: category
 cat_index_dir: /_cat-pages
@@ -95,3 +97,10 @@ galleries:
       - art
       - painting
       - sources
+  - name: "Interdependence Day Papercuts"
+    directory: "id-papercuts"
+    tags:
+      - art
+      - "interdependence day"
+      - traditions
+    parse_date: true
