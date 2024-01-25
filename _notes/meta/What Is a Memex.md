@@ -27,3 +27,5 @@ The core idea here is to make a sort of mental storehouse, made as digitally sus
 - [A visualization of what one could be](https://www.youtube.com/watch?v=c539cK58ees)
 - Carl Diehl's [Cracked Memex](https://www.electronicelsewhere.com/cracked)
 - [marginalia's memex is not there anymore but they had one](https://www.marginalia.nu/log/80-rip-memex/)
+- [The Garden and the Stream: a technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+

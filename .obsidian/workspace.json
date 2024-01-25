@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/things/Urs.md",
+                "file": "_notes/meta/What Is a Memex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/things/Urs.md",
+                "file": "_notes/meta/What Is a Memex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "ea5d9ea86f37223d",
   "lastOpenFiles": [
+    "_notes/things/Urs.md",
     "assets/fallen-trees/belmont-is-closed.jpeg",
     "assets/fallen-trees",
     "_site/media/interdependence-day-papercuts/id-011524-jpg.html",
@@ -163,7 +164,6 @@
     "_site/media/notes-in-general/bloggygarden-png.html",
     "_site/cache/resize/b7848b5461416d0e9b85b6f077bdbf4e_90x90.png",
     "_site/cache/resize/b7848b5461416d0e9b85b6f077bdbf4e_400x400.png",
-    "_site/assets/notes/bloggygarden.png",
     "_notes/projects/The Garden of Blogs.md",
     "_media/notes/bloggygarden-png.md",
     "_site/the-garden-of-blogs/index.html",
