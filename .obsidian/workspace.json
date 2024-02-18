@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/stuff/Thinkpad X220 aka Screb.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/stuff/Thinkpad X220 aka Screb.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,24 @@
   },
   "active": "ea5d9ea86f37223d",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_site/assets/coffee-we-like/heart-daysi_munoz-honduras-washed.jpeg",
+    "_galleries/Coffee We Like.md",
+    "_tag-pages/coffee.md",
+    "_tag-pages/archives.md",
+    "_notes/stuff/Thinkpad X220 aka Screb.md",
+    "assets/coffee-we-like/heart-daysi_munoz-honduras-washed.jpeg",
+    "_site/assets/wine-we-like/IMG_1633 copy.jpeg",
+    "_site/assets/wine-we-like/IMG_1633 copy 2.jpeg",
+    "_site/assets/wine-we-like/IMG_0683 copy.jpeg",
+    "assets/wine-we-like/IMG_1633 copy 2.jpeg",
+    "assets/wine-we-like/IMG_1633 copy.jpeg",
+    "assets/wine-we-like/IMG_0683 copy.jpeg",
+    "_site/assets/wine-we-like/IMG_3108.jpeg",
+    "_site/assets/wine-we-like/IMG_2598.jpeg",
+    "_site/assets/wine-we-like",
+    "assets/wine-we-like",
+    "assets/untitled folder",
     "_site/tag/neibhborhood/index.html",
     "_site/tag/neibhborhood",
     "_tag-pages/neibhborhood.md",
@@ -147,21 +165,6 @@
     "_site/media/coffee-we-like/roseline-fruitcake-kenya-ethiopia-jpeg.html",
     "_site/media/coffee-we-like/roeseline-ethiopia-washed-jpeg.html",
     "_site/media/coffee-we-like/pxp-wush-wush-ethiopia-natural-jpeg.html",
-    "_site/media/coffee-we-like/pxp-teipc-mexico-natural-anaerobic-jpeg.html",
-    "_site/media/coffee-we-like/pxp-pnicaragua-natural-jpeg.html",
-    "_site/media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg.html",
-    "_site/media/coffee-we-like/hyperion-guava-banana-columbia-natural-anerobic-jpeg.html",
-    "_site/media/coffee-we-like/hyperion-edgar-urena-costa-rica-natural-jpeg.html",
-    "_site/assets/coffee-we-like/roseline-nenesebo_refisa-ethiopia-washed.jpeg",
-    "_site/assets/coffee-we-like/roseline-fruitcake-kenya_ethiopia.jpeg",
-    "_site/assets/coffee-we-like/roeseline-ethiopia-washed.jpeg",
-    "_site/assets/coffee-we-like/pxp-wush-wush-ethiopia-natural.jpeg",
-    "_site/assets/coffee-we-like/pxp-teipc-mexico-natural_anaerobic.jpeg",
-    "_site/assets/coffee-we-like/pxp-pnicaragua-natural.jpeg",
-    "_site/assets/coffee-we-like/pxp-guji-ethiopia-natural.jpeg",
-    "_site/assets/coffee-we-like/hyperion-guava_banana-columbia-natural_anerobic.jpeg",
-    "_site/assets/coffee-we-like/hyperion-edgar_urena-costa_rica-natural.jpeg",
-    "_site/assets/coffee-we-like/heart_nyawira_aa-kenya-washed.jpeg",
     "_media/coffee-we-like/heart-danche-ethiopia-washed-jpeg.md",
     "_media/coffee-we-like/roseline-nenesebo-refisa-ethiopia-washed-jpeg.md",
     "_media/coffee-we-like/roseline-fruitcake-kenya-ethiopia-jpeg.md",
@@ -181,10 +184,6 @@
     "_media/coffee-we-like/brandywine-las-lajas-costa-rica-natural-jpeg.md",
     "_media/coffee-we-like/brandywine-guji-ethiopia-washed-jpeg.md",
     "_media/coffee-we-like/astro-nansebo-bulga-ethiopia-jpeg.md",
-    "_tag-pages/coffee.md",
-    "_tag-pages/archives.md",
-    "_galleries/Coffee We Like.md",
-    "_media/coffee-we-like/img-3446-jpeg.md",
-    "_media/coffee-we-like/img-3445-jpeg.md"
+    "_media/coffee-we-like/img-3446-jpeg.md"
   ]
 }

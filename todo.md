@@ -46,3 +46,4 @@ layout: default
 * [ ] update /me
 * [ ] title slugs replace `'` with `-`
 * [ ] would be nice to have a youtube embed option, but maybe punt if you're not going to make docs for links
+* [ ] add force-rebuild flag to make galleries to deal with changing asset names
