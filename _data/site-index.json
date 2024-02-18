@@ -27,7 +27,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/the-paddleboat-family/",
@@ -93,25 +93,25 @@
     ]
   },
   {
-    "id": "/stumbled-into-a-webring/",
+    "id": "/untitled/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "15-Oct-23",
+    "last_modified_at": "16-Feb-24",
     "layout": "note",
-    "date": "2023-10-04 00:00:00 -0700",
-    "tags": [
-      "cozyweb"
-    ],
-    "title": "Stumbled into a webring",
-    "slug": "Stumbled into a Webring",
+    "title": "Untitled",
+    "slug": "Untitled",
     "ext": ".md",
-    "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n",
-    "raw_markdown": "Ok, so maybe the old, small web has some juice left in it.\n\nHere I am writing a short essay about why I'm building a memex in 2023, and the enshittification of search engines made it very hard to find the [popular essay](https://runyourown.social/) that inspired me to start a private social network in the pandemic. I know I bookmarked it, I vaguely remember the name of the (seemingly awesome) [person that wrote it](https://friend.camp/@darius), but mostly the colors not the words of his name. Searching confronted me with the ongoing enshittification of search at the moment -- even Duck Duck Go was brimming with chum and generative clickbait-feeling stuff about boosting brand engagement. I almost gave up but the last result on the page of one search, as I was clicking away from it, had a name on it that tripped a sub-verbal set of associations that made me click through, and I found myself looking at this:\n\n![Screenshot of Bill Hunt's blog](/assets/notes/bill-hunt-blog.png)\nNot only was it the right link, it was on a... regular personal website but it looked basically like what I thought all websites should look like 20 years ago (and tbh still do), built with thing I currently prefer to make websites with.\n\nAnd, uhh, it's part of a...webring? [The Public Interest Tech Webring](https://pitwebring.billhunt.dev/)?\n\nIt's moments like these that remind me that maybe my first thought when I find little patches of thriving native plants in the corners of Online monoculture shouldn't be \"how long until this disappears?\" and instead just enjoy the clicking.\n\nLike, ok I just went back to those links turns out I'm looking at the blog of one of the bigger proponents of modern [webrings](https://billhunt.dev/blog/2022/12/30/bringing-webrings-back/)!\n\nThis is like the time I started writing about why I was making a digital garden and ended up discovering the gemini protocol >> [[How This Memex Started]]\n\n",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "raw_markdown": "",
     "backlink_index": [
 
-    ]
+    ],
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/the-conceptual-labor-book/",
@@ -142,7 +142,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/about/",
@@ -172,7 +172,7 @@
         "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/colophon/",
@@ -193,7 +193,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/development-log/",
@@ -218,55 +218,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
-  },
-  {
-    "id": "/how-this-memex-started/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "title": "How This Memex Started",
-    "tags": [
-      "meta",
-      "featured"
-    ],
-    "date": "2023-09-27 00:00:00 -0700",
-    "slug": "How This Memex Started",
-    "ext": ".md",
-    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
-    "raw_markdown": "> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.\n\n## How I Started this Garden\n\n4.18.22\n\nNo digital garden is complete without a good pile of notes about digital gardens themselves!\n\nLess than a month since reading this bittersweet thread 👇 from my friend [[Ryan]], who was, like, *there* when the web cut its own bangs for the first time, I've not only started a digital garden, I've extended its features and roped at least [[Evan|one friend]] into making [his own](https://evans-thoughts-garden.onrender.com).\n\n![Tweet from twitter user @sixfoot6 reading \"i barely think about the web we lost anymore tbh\"](/assets/notes/ryan-tweet-lost-web.png)\n\n\nA little ways down that [thread](https://twitter.com/sixfoot6/status/1506011362249437190), someone mentions digital gardening.\n\n![A tweet from @sixfoot6 reading \"the nostalgia and look backwards weren't taking me far, and faded. and none of the forward-looking discord something something web3 something personal blogs are back something something threads are really lighting me up either we're just here now.\" replied to by @Weegee saying \"I Hold on to people. Though I have been investigating digital gardens with remind me of the old web in a good way. Enjoyed it so far.\"](/assets/notes/original-digital-garden-tweet.png)\n\n\nIt was a term I'd heard before, but there was something about the specificity of how he said it that got me digging. You can see most of what I found and read at [[Digital Gardens]] and [[cozyweb]].\n\nIt was timely, because just a few days prior I had lucked into an actual evening of *web browsing* thanks to the excellent [random button on Marginalia search](https://search.marginalia.nu/explore/random).\n\n> Appropriately enough when I went to go get that link, I discovered that Marginalia has a [memex](https://memex.marginalia.nu), a central reference of one of the [instigating texts of the current movement of digital gardens](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/).\n\n> and holy shit they have a... [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))? [site](https://proxy.vulpes.one/gemini/marginalia.nu/)?\n> wow... brand new thing learned while writing this. this nerdrabbithole keeps getting deeper.\n\nLike Ryan and his friends in that thread, I've been casting about for ghosts of an internet time that I probably don't even remember correctly. Not just for nostalgia, though... for the reasons it was good in the first place. And I'm coming out of a five / ten year [writing project](https://conceptuallabor.com) with a pile of research and a great hunger for lighter, looser writing and free-association. This is its own rabbithole, and it's getting a little late, so in the discursive, anti-completist nature of digital gardens, I'll put a pin in this and come back to it. In any case I was hella primed to find out about this [whole pattern](https://conceptuallabor.com/blog/writing-tools-1) or writing and making websites.\n\n### This Garden's Harvests\n\nThat said, I am so far much more interested in the website-making rather than note-taking parts of digital gardens. That's reflected in my modifications thusfar to the really excellent [digital garden Jekyll template I'm using](https://github.com/maximevaillancourt/digital-garden-jekyll-template).\n\n#### I'm importing RSS feeds\n\nPinboard is totally central to my use of the internet. But, as the author of the Memex points out, we store much more information than we retrieve. I've wanted a better way to view and interact with my bookmarks and research for a long time.\n\nSo I banged together a [little ruby script](https://github.com/nimwunnan/digital-garden-jekyll-template/blob/master/getfeeds.rb) that does the following\n\n* turns entries from an RSS feed into markdown files in the collection `_feeds`\n* adds useful frontmatter such as tags and a default template\n* creates a `note` for every `tag` and `bucket` specified\n\t* for pinboard feeds, it includes the tags from pinboard for each item\n* adds backlinks to `feed` page content to their corresponding `bucket` note\n\n> I'd like to release this as an actual jekyll plugin. It needs some work first, and I'm not usually a ruby developer, but ruby's friendly enough. Anyway, I have to take a break from working *on* this garden to putting things *in* it, so stay tuned for that.\n\nSo far the external sites I've imported are:\n\n* [[astronomy-picture-of-the-day]]\n* [[public-domain-review]]\n* [[the-morning-news]]\n* and [[Martha]]'s excellent [[Grapefruits Sometimes Art Email]]\n\n~~and you can find allllll my bookmarks in the [[bookmarks]] bucket.\n~~\nBookmarks removed after the advent of  [bloggy.garden](https://bloggy.garden)\n### I made some new templates\n\nVery quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Martha|Martha]] a garden of emoji plants. They're evident in the above links.\n\n1.15.23\n\n### New Garden of Blogs\n\nMoved feeds to [bloggy.garden](https://bloggy.garden). Made sense to make it it's own thing -- definitely still interested in the idea of pulling external content into the garden, but not as much as a browser / reader.",
-    "backlink_index": [
-      {
-        "title": "Stumbled into a webring",
-        "url": "/stumbled-into-a-webring/",
-        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "/welcome/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "date": "2023-10-15 00:00:00 -0700",
-    "tags": [
-      "meta",
-      "featured"
-    ],
-    "title": "Welcome",
-    "slug": "Welcome",
-    "ext": ".md",
-    "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n",
-    "raw_markdown": "Welcome to my Memex! This is very much an ongoing project of [digital gardening](/how-this-memex-started), with much still [to-do](/todo) , but I'm pushing \"go\" on this today, calling it done enough to be the thing that it was supposed to be.\n\nSee [[About]] for more about what it is, why I'm doing it, and what's on it. You could dive right with every [note](/notes) or every [image](/category/image).\n\n💕 -- [Ním](/me)\n\n",
-    "backlink_index": [
-
-    ]
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/what-i-want-to-store-in-my-memex/",
@@ -289,7 +241,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/what-is-a-memex/",
@@ -297,7 +249,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "17-Oct-23",
+    "last_modified_at": "24-Jan-24",
     "layout": "note",
     "tags": [
       "meta",
@@ -307,11 +259,11 @@
     "slug": "What Is a Memex",
     "ext": ".md",
     "excerpt": "<p>“Memex” is a portmanteau of “memory” and  “index,” coined by Vannevar Bush in his essay <a href=\"https://archive.org/details/as-we-may-think/page/n1/mode/2up\">As We May Think.</a> It was an idea far ahead of its time for a system “<a href=\"https://www.wordnik.com/words/memex\">that would permit a researcher to follow and annotate topics of interest, analogous to later hypertext technologies.”</a> It sounds like a personal database, but it was supposed to be more than that – an extension of an individual’s memory and curiosity that was designed not just to store information, but to help them recall and link things they stored in a meaningful way.</p>\n\n<p>It’s an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.</p>\n",
-    "raw_markdown": "\"Memex\" is a portmanteau of \"memory\" and  \"index,\" coined by Vannevar Bush in his essay [As We May Think.](https://archive.org/details/as-we-may-think/page/n1/mode/2up) It was an idea far ahead of its time for a system \"[that would permit a researcher to follow and annotate topics of interest, analogous to later hypertext technologies.\"](https://www.wordnik.com/words/memex) It sounds like a personal database, but it was supposed to be more than that -- an extension of an individual's memory and curiosity that was designed not just to store information, but to help them recall and link things they stored in a meaningful way.\n \nIt's an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.\n\nInstead of getting that, we live in a world of Zunes (the GoBots of iPods), Vine (the Hydrox of TikToks), Threads (the Zunes of Twitters), and X (The Chris Gaines of actual Twitter).\n\nSo, at various points, people, myself included, keep trying to build memexes or things like memexes or just some way to feel like there's a [space for your brain on the internet](https://pinboard.in/u:nimdaghlian/t:cozyweb/).\n\nThe core idea here is to make a sort of mental storehouse, made as digitally sustainable as possible -- built on open source standards and software, simple enough that I can just get it out the door and use it, but with of and resistant to being remotely shut off by a billionaire.\n\n### Links about memexes or the like\n\n\n- [About the original essay that coined the term](https://en.wikipedia.org/wiki/As_We_May_Think)\n- [Another, shorter good essay about memexes](https://srconstantin.posthaven.com/how-to-make-a-memex)\n- [A visualization of what one could be](https://www.youtube.com/watch?v=c539cK58ees)\n- Carl Diehl's [Cracked Memex](https://www.electronicelsewhere.com/cracked)\n- [marginalia's memex is not there anymore but they had one](https://www.marginalia.nu/log/80-rip-memex/)\n",
+    "raw_markdown": "\"Memex\" is a portmanteau of \"memory\" and  \"index,\" coined by Vannevar Bush in his essay [As We May Think.](https://archive.org/details/as-we-may-think/page/n1/mode/2up) It was an idea far ahead of its time for a system \"[that would permit a researcher to follow and annotate topics of interest, analogous to later hypertext technologies.\"](https://www.wordnik.com/words/memex) It sounds like a personal database, but it was supposed to be more than that -- an extension of an individual's memory and curiosity that was designed not just to store information, but to help them recall and link things they stored in a meaningful way.\n \nIt's an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.\n\nInstead of getting that, we live in a world of Zunes (the GoBots of iPods), Vine (the Hydrox of TikToks), Threads (the Zunes of Twitters), and X (The Chris Gaines of actual Twitter).\n\nSo, at various points, people, myself included, keep trying to build memexes or things like memexes or just some way to feel like there's a [space for your brain on the internet](https://pinboard.in/u:nimdaghlian/t:cozyweb/).\n\nThe core idea here is to make a sort of mental storehouse, made as digitally sustainable as possible -- built on open source standards and software, simple enough that I can just get it out the door and use it, but with of and resistant to being remotely shut off by a billionaire.\n\n### Links about memexes or the like\n\n\n- [About the original essay that coined the term](https://en.wikipedia.org/wiki/As_We_May_Think)\n- [Another, shorter good essay about memexes](https://srconstantin.posthaven.com/how-to-make-a-memex)\n- [A visualization of what one could be](https://www.youtube.com/watch?v=c539cK58ees)\n- Carl Diehl's [Cracked Memex](https://www.electronicelsewhere.com/cracked)\n- [marginalia's memex is not there anymore but they had one](https://www.marginalia.nu/log/80-rip-memex/)\n- [The Garden and the Stream: a technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)\n\n",
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/aaron/",
@@ -336,7 +288,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/abe/",
@@ -361,7 +313,7 @@
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/andrea/",
@@ -396,7 +348,122 @@
         "excerpt": "<p><img src=\"/assets/notes/Pasted%20image%2020231119122046.png\" alt=\"A hand holding a cool beer bottle with a logo that looks like both a turd and a lake and a grain of rice\" /></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
+  },
+  {
+    "id": "/sounds-of-the-record-tree/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Jan-24",
+    "layout": "note",
+    "image": "/assets/notes/sotrt-v1-cover.jpg",
+    "date": "2022-01-15 00:00:00 -0800",
+    "tags": [
+      "interdependence day",
+      "music"
+    ],
+    "title": "Sounds of the record tree",
+    "slug": "Sounds of the Record Tree",
+    "ext": ".md",
+    "excerpt": "<p>In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree – the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.</p>\n",
+    "raw_markdown": "In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree -- the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.\n\n![A pile of records at the base of a tree](/assets/notes/sotrt-pile.jpg)\n\n### Sounds of the Record Tree: Vol 1\n\n![Cover for the Sounds of the Record Tree Volume 1 mixtape drawn by Martha Daghlian](/assets/notes/sotrt-v1-cover.jpg)\n\n\nThis is the first mixtape I have made to highlight the gems that reward those who will dig through the Record Tree's sundry produce. Given the (growing) stack of sometimes-muddy records I have brought home from it, it won't be the last. Cover by [Martha](http://athousandcirclets.garden).\n\n<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1380229834&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>\n\n<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/nim-daghlian\" title=\"Municipal Xylophone\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Municipal Xylophone</a> · <a href=\"https://soundcloud.com/nim-daghlian/sets/sotrt-1\" title=\"Sounds of the Record Tree - Vol. 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Sounds of the Record Tree - Vol. 1</a></div>\n\n\n*Track list:*\n\n### Side A\n\n1.\tJayne Kennedy -- Love Your Body Intro\n2.\tSteeleye Span -- A Calling-on Song\n3.\tCuppa Joe -- Love Peace Anarchy Infinity / Archipeligo\n4.\tDionne Warwick -- Track of the Cat\n5.\tBossa Nova -- I Dream of Jeanie\n6.\tMarilyn Martin -- Night Moves\n7.\tBob Gibson -- Celebrated Skier\n8.\tCarol Hensel's Dancersize -- I Will Survive\n\n### Side B\n\n1.\tDisneyland Chilling Thrilling Sounds of the Haunted House -- A Very Long Fuse\n2.\tI want to do it with you -- Pointer Sisters\n3.\tRalph Carmichael -- All My Life\n4.\tCrystal Gayle -- Why Have You Left the One You Left Me For\n5.\tDiana Ross and the Supremes -- Reflections\n6.\tJohnny Cash -- Get Rhythm\n7.\tScarlatti: Sonata in G Major, L 209/K .455 from the Well Tempered Synthesizer by Wendy Carlos\n8.\tThe Surfmen -- Fire Goddess\n9.\tKiss Me -- Terri Lawrence Total Reconstrution by Lenny Bertoldo from Dance Series Issue 50 (For Professional DJs only)\n10.\tPorter Wagoner -- I've Enjoyed As Much of This As I Can Stand\n11. (hidden)\tRuvin / Halfin / Irving / Sherian -- You're a Pink Toothbrush\n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/the-garden-of-blogs/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Jan-24",
+    "layout": "note",
+    "date": "2023-01-15 00:00:00 -0800",
+    "tags": [
+      "interdependence day",
+      "cozyweb"
+    ],
+    "image": "/assets/notes/bloggygarden.png",
+    "title": "The garden of blogs",
+    "slug": "The Garden of Blogs",
+    "ext": ".md",
+    "excerpt": "<p><a href=\"https://bloggy.garden\"><img src=\"/assets/notes/bloggygarden.png\" alt=\"screenshot of bloggy.garden\" /></a></p>\n",
+    "raw_markdown": "[![screenshot of bloggy.garden](/assets/notes/bloggygarden.png)](https://bloggy.garden)\n\nA bunch of blog feeds, rendered as a garden.\n\nI made this for the [[Interdependence Day]] gift for 2023.",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/how-this-memex-started/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "title": "How This Memex Started",
+    "tags": [
+      "meta",
+      "featured"
+    ],
+    "date": "2023-09-27 00:00:00 -0700",
+    "slug": "How This Memex Started",
+    "ext": ".md",
+    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
+    "raw_markdown": "> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.\n\n## How I Started this Garden\n\n4.18.22\n\nNo digital garden is complete without a good pile of notes about digital gardens themselves!\n\nLess than a month since reading this bittersweet thread 👇 from my friend [[Ryan]], who was, like, *there* when the web cut its own bangs for the first time, I've not only started a digital garden, I've extended its features and roped at least [[Evan|one friend]] into making [his own](https://evans-thoughts-garden.onrender.com).\n\n![Tweet from twitter user @sixfoot6 reading \"i barely think about the web we lost anymore tbh\"](/assets/notes/ryan-tweet-lost-web.png)\n\n\nA little ways down that [thread](https://twitter.com/sixfoot6/status/1506011362249437190), someone mentions digital gardening.\n\n![A tweet from @sixfoot6 reading \"the nostalgia and look backwards weren't taking me far, and faded. and none of the forward-looking discord something something web3 something personal blogs are back something something threads are really lighting me up either we're just here now.\" replied to by @Weegee saying \"I Hold on to people. Though I have been investigating digital gardens with remind me of the old web in a good way. Enjoyed it so far.\"](/assets/notes/original-digital-garden-tweet.png)\n\n\nIt was a term I'd heard before, but there was something about the specificity of how he said it that got me digging. You can see most of what I found and read at [[Digital Gardens]] and [[cozyweb]].\n\nIt was timely, because just a few days prior I had lucked into an actual evening of *web browsing* thanks to the excellent [random button on Marginalia search](https://search.marginalia.nu/explore/random).\n\n> Appropriately enough when I went to go get that link, I discovered that Marginalia has a [memex](https://memex.marginalia.nu), a central reference of one of the [instigating texts of the current movement of digital gardens](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/).\n\n> and holy shit they have a... [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))? [site](https://proxy.vulpes.one/gemini/marginalia.nu/)?\n> wow... brand new thing learned while writing this. this nerdrabbithole keeps getting deeper.\n\nLike Ryan and his friends in that thread, I've been casting about for ghosts of an internet time that I probably don't even remember correctly. Not just for nostalgia, though... for the reasons it was good in the first place. And I'm coming out of a five / ten year [writing project](https://conceptuallabor.com) with a pile of research and a great hunger for lighter, looser writing and free-association. This is its own rabbithole, and it's getting a little late, so in the discursive, anti-completist nature of digital gardens, I'll put a pin in this and come back to it. In any case I was hella primed to find out about this [whole pattern](https://conceptuallabor.com/blog/writing-tools-1) or writing and making websites.\n\n### This Garden's Harvests\n\nThat said, I am so far much more interested in the website-making rather than note-taking parts of digital gardens. That's reflected in my modifications thusfar to the really excellent [digital garden Jekyll template I'm using](https://github.com/maximevaillancourt/digital-garden-jekyll-template).\n\n#### I'm importing RSS feeds\n\nPinboard is totally central to my use of the internet. But, as the author of the Memex points out, we store much more information than we retrieve. I've wanted a better way to view and interact with my bookmarks and research for a long time.\n\nSo I banged together a [little ruby script](https://github.com/nimwunnan/digital-garden-jekyll-template/blob/master/getfeeds.rb) that does the following\n\n* turns entries from an RSS feed into markdown files in the collection `_feeds`\n* adds useful frontmatter such as tags and a default template\n* creates a `note` for every `tag` and `bucket` specified\n\t* for pinboard feeds, it includes the tags from pinboard for each item\n* adds backlinks to `feed` page content to their corresponding `bucket` note\n\n> I'd like to release this as an actual jekyll plugin. It needs some work first, and I'm not usually a ruby developer, but ruby's friendly enough. Anyway, I have to take a break from working *on* this garden to putting things *in* it, so stay tuned for that.\n\nSo far the external sites I've imported are:\n\n* [[astronomy-picture-of-the-day]]\n* [[public-domain-review]]\n* [[the-morning-news]]\n* and [[Martha]]'s excellent [[Grapefruits Sometimes Art Email]]\n\n~~and you can find allllll my bookmarks in the [[bookmarks]] bucket.\n~~\nBookmarks removed after the advent of  [bloggy.garden](https://bloggy.garden)\n### I made some new templates\n\nVery quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Martha|Martha]] a garden of emoji plants. They're evident in the above links.\n\n1.15.23\n\n### New Garden of Blogs\n\nMoved feeds to [bloggy.garden](https://bloggy.garden). Made sense to make it it's own thing -- definitely still interested in the idea of pulling external content into the garden, but not as much as a browser / reader.",
+    "backlink_index": [
+      {
+        "title": "Stumbled into a webring",
+        "url": "/stumbled-into-a-webring/",
+        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "/stumbled-into-a-webring/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "date": "2023-10-04 00:00:00 -0700",
+    "tags": [
+      "cozyweb"
+    ],
+    "title": "Stumbled into a webring",
+    "slug": "Stumbled into a Webring",
+    "ext": ".md",
+    "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n",
+    "raw_markdown": "Ok, so maybe the old, small web has some juice left in it.\n\nHere I am writing a short essay about why I'm building a memex in 2023, and the enshittification of search engines made it very hard to find the [popular essay](https://runyourown.social/) that inspired me to start a private social network in the pandemic. I know I bookmarked it, I vaguely remember the name of the (seemingly awesome) [person that wrote it](https://friend.camp/@darius), but mostly the colors not the words of his name. Searching confronted me with the ongoing enshittification of search at the moment -- even Duck Duck Go was brimming with chum and generative clickbait-feeling stuff about boosting brand engagement. I almost gave up but the last result on the page of one search, as I was clicking away from it, had a name on it that tripped a sub-verbal set of associations that made me click through, and I found myself looking at this:\n\n![Screenshot of Bill Hunt's blog](/assets/notes/bill-hunt-blog.png)\nNot only was it the right link, it was on a... regular personal website but it looked basically like what I thought all websites should look like 20 years ago (and tbh still do), built with thing I currently prefer to make websites with.\n\nAnd, uhh, it's part of a...webring? [The Public Interest Tech Webring](https://pitwebring.billhunt.dev/)?\n\nIt's moments like these that remind me that maybe my first thought when I find little patches of thriving native plants in the corners of Online monoculture shouldn't be \"how long until this disappears?\" and instead just enjoy the clicking.\n\nLike, ok I just went back to those links turns out I'm looking at the blog of one of the bigger proponents of modern [webrings](https://billhunt.dev/blog/2022/12/30/bringing-webrings-back/)!\n\nThis is like the time I started writing about why I was making a digital garden and ended up discovering the gemini protocol >> [[How This Memex Started]]\n\n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/welcome/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "date": "2023-10-15 00:00:00 -0700",
+    "tags": [
+      "meta",
+      "featured"
+    ],
+    "title": "Welcome",
+    "slug": "Welcome",
+    "ext": ".md",
+    "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n",
+    "raw_markdown": "Welcome to my Memex! This is very much an ongoing project of [digital gardening](/how-this-memex-started), with much still [to-do](/todo) , but I'm pushing \"go\" on this today, calling it done enough to be the thing that it was supposed to be.\n\nSee [[About]] for more about what it is, why I'm doing it, and what's on it. You could dive right with every [note](/notes) or every [image](/category/image).\n\n💕 -- [Ním](/me)\n\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/carl-diehl/",
@@ -453,7 +520,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/evan/",
@@ -483,7 +550,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/jane-zemel/",
@@ -505,7 +572,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/john-james/",
@@ -530,7 +597,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/jon/",
@@ -563,7 +630,7 @@
         "excerpt": "<p><a href=\"https://workerstap.com/\">The Worker’s Tap</a> is basically our extra living room. It’s a worker-owned anarchist socialist lefty everything bar run by and frequented by the nicest people. We’ve played DnD there about a million times. They let me have my birthday there, and when [[Mykle]] and [[Jon]] and I got stuck in the middle of the World Naked Bike Ride by Michael’s Italian Beef*, they let me come in and order a beer as long as I had “something covering my lower half.”</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/lucy/",
@@ -585,7 +652,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/martha/",
@@ -615,14 +682,14 @@
         "excerpt": "<p>Something incredible has happened in the short two weeks since I posted about the hummingbird family that lives in our courtyard, [[The Paddleboat Family.]]</p>\n"
       },
       {
-        "title": "How This Memex Started",
-        "url": "/how-this-memex-started/",
-        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
-      },
-      {
         "title": "What i want to store in my memex",
         "url": "/what-i-want-to-store-in-my-memex/",
         "excerpt": "<h1 id=\"brain-mulch-and-mind-things\">Brain Mulch and Mind Things</h1>\n"
+      },
+      {
+        "title": "How This Memex Started",
+        "url": "/how-this-memex-started/",
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       },
       {
         "title": "Jane zemel",
@@ -670,7 +737,7 @@
         "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/nik/",
@@ -710,7 +777,7 @@
         "excerpt": "<p>SHRUGGIE \nI had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/ryan/",
@@ -735,7 +802,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/spencer-chang/",
@@ -756,7 +823,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/goodboiz/",
@@ -791,7 +858,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/me/",
@@ -821,7 +888,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/dawn-treader-books/",
@@ -846,7 +913,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/mother-foucault-s/",
@@ -876,7 +943,7 @@
         "excerpt": "<p><a href=\"http://athousandcirclets.garden\">get lost in her garden</a></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/worker-s-tap/",
@@ -901,7 +968,7 @@
         "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/research-club/",
@@ -922,53 +989,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
-  },
-  {
-    "id": "/sounds-of-the-record-tree/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Jan-24",
-    "layout": "note",
-    "image": "/assets/notes/sotrt-v1-cover.jpg",
-    "date": "2022-01-15 00:00:00 -0800",
-    "tags": [
-      "interdependence day",
-      "music"
-    ],
-    "title": "Sounds of the record tree",
-    "slug": "Sounds of the Record Tree",
-    "ext": ".md",
-    "excerpt": "<p>In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree – the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.</p>\n",
-    "raw_markdown": "In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree -- the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.\n\n![A pile of records at the base of a tree](/assets/notes/sotrt-pile.jpg)\n\n### Sounds of the Record Tree: Vol 1\n\n![Cover for the Sounds of the Record Tree Volume 1 mixtape drawn by Martha Daghlian](/assets/notes/sotrt-v1-cover.jpg)\n\n\nThis is the first mixtape I have made to highlight the gems that reward those who will dig through the Record Tree's sundry produce. Given the (growing) stack of sometimes-muddy records I have brought home from it, it won't be the last. Cover by [Martha](http://athousandcirclets.garden).\n\n<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1380229834&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>\n\n<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/nim-daghlian\" title=\"Municipal Xylophone\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Municipal Xylophone</a> · <a href=\"https://soundcloud.com/nim-daghlian/sets/sotrt-1\" title=\"Sounds of the Record Tree - Vol. 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Sounds of the Record Tree - Vol. 1</a></div>\n\n\n*Track list:*\n\n### Side A\n\n1.\tJayne Kennedy -- Love Your Body Intro\n2.\tSteeleye Span -- A Calling-on Song\n3.\tCuppa Joe -- Love Peace Anarchy Infinity / Archipeligo\n4.\tDionne Warwick -- Track of the Cat\n5.\tBossa Nova -- I Dream of Jeanie\n6.\tMarilyn Martin -- Night Moves\n7.\tBob Gibson -- Celebrated Skier\n8.\tCarol Hensel's Dancersize -- I Will Survive\n\n### Side B\n\n1.\tDisneyland Chilling Thrilling Sounds of the Haunted House -- A Very Long Fuse\n2.\tI want to do it with you -- Pointer Sisters\n3.\tRalph Carmichael -- All My Life\n4.\tCrystal Gayle -- Why Have You Left the One You Left Me For\n5.\tDiana Ross and the Supremes -- Reflections\n6.\tJohnny Cash -- Get Rhythm\n7.\tScarlatti: Sonata in G Major, L 209/K .455 from the Well Tempered Synthesizer by Wendy Carlos\n8.\tThe Surfmen -- Fire Goddess\n9.\tKiss Me -- Terri Lawrence Total Reconstrution by Lenny Bertoldo from Dance Series Issue 50 (For Professional DJs only)\n10.\tPorter Wagoner -- I've Enjoyed As Much of This As I Can Stand\n11. (hidden)\tRuvin / Halfin / Irving / Sherian -- You're a Pink Toothbrush\n",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/the-garden-of-blogs/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Jan-24",
-    "layout": "note",
-    "date": "2023-01-15 00:00:00 -0800",
-    "tags": [
-      "interdependence day",
-      "cozyweb"
-    ],
-    "image": "/assets/notes/bloggygarden.png",
-    "title": "The garden of blogs",
-    "slug": "The Garden of Blogs",
-    "ext": ".md",
-    "excerpt": "<p><a href=\"https://bloggy.garden\"><img src=\"/assets/notes/bloggygarden.png\" alt=\"screenshot of bloggy.garden\" /></a></p>\n",
-    "raw_markdown": "[![screenshot of bloggy.garden](/assets/notes/bloggygarden.png)](https://bloggy.garden)\n\nA bunch of blog feeds, rendered as a garden.\n\nI made this for the [[Interdependence Day]] gift for 2023.",
-    "backlink_index": [
-
-    ]
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/octothorpethoughts/",
@@ -991,7 +1012,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/time-confetti-and-the-broken-promise-of-leisure/",
@@ -1013,7 +1034,28 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
+  },
+  {
+    "id": "/thinkpad-x220-aka-screb/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Feb-24",
+    "layout": "note",
+    "title": "Thinkpad x220 aka screb",
+    "slug": "Thinkpad X220 aka Screb",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>I’m typing this in 2024 on a 2011 Lenovo Thinkpad x220, and it’s pretty fun. I have it because of an x200 I got to use on a long trip on the Siberian Express that my sister took me on in 2013. My first laptop ever was a cheap-and-old-even-at-the-time Thinkpad that I got in 2000 mainly so I could write whatever it was that I was writing at the age of 20 on my lunchbreak at work (because, you know, files mostly existed in a physical locations then so I needed a way to bring them with me). I remembered it fondly, so when I needed a computer that could keep me reasonably connected with work but also get crushed by a train without it being a big problem, I went for a ~$200 x200. It was honestly pretty usable!</p>\n",
+    "raw_markdown": "I'm typing this in 2024 on a 2011 Lenovo Thinkpad x220, and it's pretty fun. I have it because of an x200 I got to use on a long trip on the Siberian Express that my sister took me on in 2013. My first laptop ever was a cheap-and-old-even-at-the-time Thinkpad that I got in 2000 mainly so I could write whatever it was that I was writing at the age of 20 on my lunchbreak at work (because, you know, files mostly existed in a physical locations then so I needed a way to bring them with me). I remembered it fondly, so when I needed a computer that could keep me reasonably connected with work but also get crushed by a train without it being a big problem, I went for a ~$200 x200. It was honestly pretty usable!\n\nThen, around 2020, I was in one of those situations with an internet service provider that involves hours of unpaid work to prove that they're gaslighting you, and I had to find a device that plugged directly into ethernet, and, lo, there was my old x200. \n\nTwo remarkable things came out of this. One, a laptop running Linux that had been powered down for six years went through about 20 minutes of software updates and was good as new. Two, I saved my studio from burning down because its aftermarket battery was growing an enormous bubble and if I hadn't dug that laptop out of storage it probably would have exploded soon thereafter.\n\nSo that's good.\n\nI ended up selling that and getting the just-better-enough x220, and did a decent amount of actual freelance work and writing on it. It's definitely a better typewriter than development machine, which is mostly what I use it for now.\n\nBut it's excellent at that! I had been running Kubuntu on it, which had some nice quality of life things, but I could _not_ get the power management under control. It regularly got hot enough to be uncomfortable on an actual human lap (mine), though the overheating vintage electronics smell the fan blew out was oddly nostalgic and pleasant.\n\nI recently scrubbed it and installed Mint, which seems to have solved the problem. I get a few hours out of it, and it stays quiet and cool.\n\nAt the moment, all it has is Obsidian, Dropbox, Firefox, and an email client on it and that's _delightful._\n\nNo notifications, *very* comfortable keyboard, dedicated keys for page up/down and browse back/forward, and a little light in the lid that shines down on the keyboard. [And the weird nub mouse thing](https://xkcd.com/243/).\n\nThis is one of those devices that has developed an intense and dedicated following -- you can buy an _x330_ now, which is not a model that was ever issued. Modders have put together an impressive suite of hacks and upgrades to make their own, new beast. As far as I ever got sucked in was installing an mSata hard drive to dual boot Windows and then modifying the BIOS to run some containerized client software -- which I am glad not to be doing anymore. [Some guy once called it the Toyota Corolla of laptops](https://maximevaillancourt.com/blog/why-i-use-a-thinkpad-x220-in-2021), and I agree. Wait, that's not just some guy, that's Maxime Vaillancourt, _the guy_ who wrote the Digital Garden Theme that I used as a starting point to build this memex! Clearly only geniuses use this laptop.\n\nMainly, I like it as a calm, solid feeling device that lets me do a few, focused things and doesn't interrupt me when I do.\n\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/warpaint-no-1/",
@@ -1037,7 +1079,28 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
+  },
+  {
+    "id": "/workflow-rennovation-2024/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Feb-24",
+    "layout": "note",
+    "title": "Workflow rennovation 2024",
+    "slug": "Workflow Rennovation 2024",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<ul>\n  <li>last year’s thing</li>\n  <li>why</li>\n  <li>this year’s thing\n    <ul>\n      <li>more cards</li>\n      <li>more cards coming off the board</li>\n      <li>backlogs that are backlogs, not crammed inboxes</li>\n    </ul>\n  </li>\n  <li>maybe something on being behind</li>\n</ul>\n",
+    "raw_markdown": "- last year's thing\n- why\n- this year's thing\n\t- more cards\n\t- more cards coming off the board\n\t- backlogs that are backlogs, not crammed inboxes\n- maybe something on being behind\n\n## 2023's thing\n\nI did a major review / overhaul of how I was working on projects across the board winter / spring (mud season?) last year, both out of necessity and a conscious decision to try to find some footing after a year full of big shifts and changes. I was just calling it Get Set Up. That period lasted longer than I thought it would because we had to move art studios after ours got broken into multiple times in the spring, shortly after I thought I had finished my Getting Set Up. Besides all that, and partially because of it, I was in a strange and uncomfortable state with most of my projects. Like many people, my career momentum got disrupted at the start of the pandemic, but I managed to finish a few major projects in 2021/2022. But then everything got busy and chaotic and that was also most of the juice I had in me at the time, it seemed. So 2023's goal was to get all the plates spinning again, settle in to new habits and spaces and make sense of / clear out the remaining projects I had carried over from 2022/2023.\n\nMy most visible way of doing that was to put up a corkboard -- three small corkboards actually -- to track high-er level goals through out the year across various types of work. I wrote them on blue index cards and gave myself gold stars for working on them when I remembered to.\n\nThis is definitely more formal than I usual work, especially since it covered my art and music practices, but I felt like I needed it.\n\nOverall, I have to admit that it was pretty effective, in a way that didn't feel like too much extra work, even though it does feel a little... intense? dorky? not sure. Even so, I'm on board to keep it going, but I want to improve it for this year.\n\n## New flow for 2024\n\n### Vibes to improve\n\n- I got enough plates spinning that my head started to spin a little too. \n- Starting energy is different than continuing energy, and I need to make the shift. \n- Also, I'm working in multiple tracks that are the kind of thing that any one of them are deep enough for people to dedicate all of their time and energy to. Trying to do hard things in each can create some accumulating brain strain. There are healthier ways of recognizing and accepting this that I'd like to keep in front of me.\n- I'm not working at the same level across the board, so I'm also trying to balance my time and attention between what really deserves it and what just seems fun and cool at the moment.\n- I'm feeling too old to just be fuckin around on stuff. I spent most of my 30s cooking some big projects, and I'd like them to get out there.\n\n\n\n\nNew flow:\n\nput do-able goals cards on right hand corkboard at start of week\n\nassign yourself time to work on them during the week\n\ninbox only for short term goals\n\nin-flight needs a rethink, specific duration maybe\n\neverything else is a project backlog\n\nyou should be doing more concrete context switching, driven by goals or immediate tasks. ie looking at a card or a short term task, and then opening the project to see specifics, closing it when you move on to something else.",
+    "backlink_index": [
+
+    ],
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/wushi",
@@ -1232,7 +1295,7 @@
         "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/the-old-seal/",
@@ -1278,7 +1341,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/urs/",
@@ -1303,7 +1366,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -1328,7 +1391,7 @@
         "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -1358,7 +1421,7 @@
         "excerpt": "<p><a href=\"https://www.nationale.us/amy-bay-they-always-have-and-still-do-2023\">June 2–July 9, 2023 at Nationale</a></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/interdependence-day/",
@@ -1398,7 +1461,7 @@
         "excerpt": "<p>Since 2015, I’ve made a papercut based on the Polish tradition of Wiczynanki for [[Interdependence Day]].</p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/media/interdependence-day-papercuts/id-011515-jpg",
@@ -9641,1543 +9704,6 @@
     ]
   },
   {
-    "id": "/media/genre-painting-reference/img-1742-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1742.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1742.jpeg",
-    "image": "/assets/genre-paintings/IMG_1742.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1742-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1742-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1743-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1743.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1743.jpeg",
-    "image": "/assets/genre-paintings/IMG_1743.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1743-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1743-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1746-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1746.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1746.jpeg",
-    "image": "/assets/genre-paintings/IMG_1746.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1746-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1746-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1747-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1747.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1747.jpeg",
-    "image": "/assets/genre-paintings/IMG_1747.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1747-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1747-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1748-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1748.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1748.jpeg",
-    "image": "/assets/genre-paintings/IMG_1748.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1748-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1748-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1750-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1750.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1750.jpeg",
-    "image": "/assets/genre-paintings/IMG_1750.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1750-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1750-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1751-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1751.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1751.jpeg",
-    "image": "/assets/genre-paintings/IMG_1751.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1751-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1751-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1753-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1753.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1753.jpeg",
-    "image": "/assets/genre-paintings/IMG_1753.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1753-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1753-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1754-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1754.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1754.jpeg",
-    "image": "/assets/genre-paintings/IMG_1754.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1754-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1754-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1755-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1755.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1755.jpeg",
-    "image": "/assets/genre-paintings/IMG_1755.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1755-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1755-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1758-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1758.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1758.jpeg",
-    "image": "/assets/genre-paintings/IMG_1758.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1758-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1758-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1759-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1759.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1759.jpeg",
-    "image": "/assets/genre-paintings/IMG_1759.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1759-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1759-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1761-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1761.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1761.jpeg",
-    "image": "/assets/genre-paintings/IMG_1761.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1761-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1761-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1764-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1764.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1764.jpeg",
-    "image": "/assets/genre-paintings/IMG_1764.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1764-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1764-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1764-jpg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1764.jpg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1764.jpg",
-    "image": "/assets/genre-paintings/IMG_1764.jpg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1764-jpg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1764-jpg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1766-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1766.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1766.jpeg",
-    "image": "/assets/genre-paintings/IMG_1766.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1766-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1766-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1767-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1767.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1767.jpeg",
-    "image": "/assets/genre-paintings/IMG_1767.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1767-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1767-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1768-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1768.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1768.jpeg",
-    "image": "/assets/genre-paintings/IMG_1768.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1768-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1768-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1769-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1769.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1769.jpeg",
-    "image": "/assets/genre-paintings/IMG_1769.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1769-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1769-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1772-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1772.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1772.jpeg",
-    "image": "/assets/genre-paintings/IMG_1772.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1772-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1772-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1774-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1774.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1774.jpeg",
-    "image": "/assets/genre-paintings/IMG_1774.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1774-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1774-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1775-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1775.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1775.jpeg",
-    "image": "/assets/genre-paintings/IMG_1775.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1775-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1775-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1777-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1777.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1777.jpeg",
-    "image": "/assets/genre-paintings/IMG_1777.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1777-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1777-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1778-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1778.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1778.jpeg",
-    "image": "/assets/genre-paintings/IMG_1778.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1778-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1778-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1780-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1780.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1780.jpeg",
-    "image": "/assets/genre-paintings/IMG_1780.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1780-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1780-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1781-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1781.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1781.jpeg",
-    "image": "/assets/genre-paintings/IMG_1781.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1781-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1781-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1783-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1783.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1783.jpeg",
-    "image": "/assets/genre-paintings/IMG_1783.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1783-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1783-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1784-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1784.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1784.jpeg",
-    "image": "/assets/genre-paintings/IMG_1784.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1784-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1784-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1785-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1785.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1785.jpeg",
-    "image": "/assets/genre-paintings/IMG_1785.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1785-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1785-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1786-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1786.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1786.jpeg",
-    "image": "/assets/genre-paintings/IMG_1786.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1786-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1786-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1787-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1787.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1787.jpeg",
-    "image": "/assets/genre-paintings/IMG_1787.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1787-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1787-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1788-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1788.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1788.jpeg",
-    "image": "/assets/genre-paintings/IMG_1788.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1788-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1788-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1788-jpg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1788.JPG",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1788.JPG",
-    "image": "/assets/genre-paintings/IMG_1788.JPG",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1788-jpg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1788-jpg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1789-jpg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1789.JPG",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1789.JPG",
-    "image": "/assets/genre-paintings/IMG_1789.JPG",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1789-jpg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1789-jpg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1790-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1790.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1790.jpeg",
-    "image": "/assets/genre-paintings/IMG_1790.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1790-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1790-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1791-jpg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1791.JPG",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1791.JPG",
-    "image": "/assets/genre-paintings/IMG_1791.JPG",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1791-jpg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1791-jpg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1811-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1811.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1811.jpeg",
-    "image": "/assets/genre-paintings/IMG_1811.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1811-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1811-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1812-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1812.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1812.jpeg",
-    "image": "/assets/genre-paintings/IMG_1812.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1812-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1812-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1813-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1813.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1813.jpeg",
-    "image": "/assets/genre-paintings/IMG_1813.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1813-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1813-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1814-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1814.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1814.jpeg",
-    "image": "/assets/genre-paintings/IMG_1814.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1814-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1814-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1815-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1815.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1815.jpeg",
-    "image": "/assets/genre-paintings/IMG_1815.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1815-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1815-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1825-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1825.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1825.jpeg",
-    "image": "/assets/genre-paintings/IMG_1825.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1825-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1825-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1841-jpg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1841.JPG",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1841.JPG",
-    "image": "/assets/genre-paintings/IMG_1841.JPG",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1841-jpg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1841-jpg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1842-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1842.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1842.jpeg",
-    "image": "/assets/genre-paintings/IMG_1842.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1842-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1842-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1843-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1843.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1843.jpeg",
-    "image": "/assets/genre-paintings/IMG_1843.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1843-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1843-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1844-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1844.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1844.jpeg",
-    "image": "/assets/genre-paintings/IMG_1844.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1844-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1844-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1846-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1846.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1846.jpeg",
-    "image": "/assets/genre-paintings/IMG_1846.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1846-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1846-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1847-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1847.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1847.jpeg",
-    "image": "/assets/genre-paintings/IMG_1847.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1847-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1847-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1848-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1848.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1848.jpeg",
-    "image": "/assets/genre-paintings/IMG_1848.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1848-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1848-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-1871-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_1871.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_1871.jpeg",
-    "image": "/assets/genre-paintings/IMG_1871.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-1871-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-1871-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/img-2803-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "IMG_2803.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/IMG_2803.jpeg",
-    "image": "/assets/genre-paintings/IMG_2803.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/img-2803-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "img-2803-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-2-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "Nicolas Regnier carival reveler 2.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/Nicolas Regnier carival reveler 2.jpeg",
-    "image": "/assets/genre-paintings/Nicolas Regnier carival reveler 2.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-2-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "nicolas-regnier-carival-reveler-2-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-jpeg",
-    "draft": false,
-    "categories": [
-      "image"
-    ],
-    "last_modified_at": "31-Oct-23",
-    "title": "Nicolas Regnier carival reveler.jpeg",
-    "date": "2023-10-31 19:51:28 -0700",
-    "dateadded": "2023-10-31 19:51:28 -0700",
-    "asset": "/assets/genre-paintings/Nicolas Regnier carival reveler.jpeg",
-    "image": "/assets/genre-paintings/Nicolas Regnier carival reveler.jpeg",
-    "gallery": "genre-painting-reference",
-    "permalink": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-jpeg",
-    "layout": "asset",
-    "tags": [
-      "art",
-      "painting",
-      "sources",
-      "steen"
-    ],
-    "slug": "nicolas-regnier-carival-reveler-jpeg",
-    "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ]
-  },
-  {
     "id": "/media/notes-in-general/kirsty-joe-jpg",
     "draft": false,
     "categories": [
@@ -11507,7 +10033,7 @@
     "categories": [
       "image"
     ],
-    "last_modified_at": "16-Jan-24",
+    "last_modified_at": "16-Feb-24",
     "title": "2024 Rocks",
     "date": "2024-01-15 09:43:05 -0800",
     "dateadded": "2024-01-15 09:43:05 -0800",
@@ -11523,8 +10049,8 @@
     ],
     "slug": "id-011524-jpg",
     "ext": ".md",
-    "excerpt": "\n",
-    "raw_markdown": "",
+    "excerpt": "<p><strong>About this year’s design</strong></p>\n",
+    "raw_markdown": "**About this year's design**\n\nI (and I suspect many of you) have a small drawer full of rocks that I picked up because they [caught my eye](https://www.theonion.com/rock-looked-way-cooler-wet-1846863122) when I was somewhere I really enjoyed being -- a hike, or a seashore, or a special time and place. Each one at the moment seemed so remarkable and sharply in focus that I knew I would always remember the moment I got it whenever I picked it up again. Why blemish the experience with taking out my phone to get picture of it in its environment?\n\nSo, yeah, of course I don't remember where most of these rocks are from. But I love them! I remember many places they *could* be from, and trying to remember is pretty fun. \n\nI have added them to the paper cut so *you too* can imagine where this cool rock came from, remembering times you too might have seen a cool rock.\n\nSome rocks I *can* account for, though. The rocks in the corner are smoky quartz, given to us by a friend's mom (who also makes [tinctures](https://www.tinctureoftimellc.com/) after our studio got broken into multiple times last year. She said we should put one in each corner of our new studio for protection. Not sure if it's working, but [no break-ins so far](https://www.youtube.com/watch?v=xSVqLHghLpw).\n\nOtherwise, I've gone a little more traditional than usual with this cut. It's based on the \"woodland\" style wycinanki. While researching it, I learned that one of the original ways wycinanki were displayed were to paste them up all over your cottage. \n\nThe two trees in the design are based off two amazing trees that, until recently, lived in our neighborhood. The snowstorm we just had in Portland had some high winds, and we lost a bunch of trees. One was an enormous tree that towered over Belmont Street, and another was a gorgeous willow in the Lone Fir Cemetery.\n\nThe two cats at the bottom are our two cats, [Frankenstein and Elvira](https://www.instagram.com/frankensteinandelvira/). Are they playing or fighting? Yes.\n\nAs ever, I hope to be better at correspondence this year. To that end I started a newsletter, [Big Table](https://buttondown.email/nim/archive/). If you're getting this, I have probably forcibly signed you up for it, but it goes to spam a lot so perhaps this is all news to you.\n\nHere's hoping this finds you well and that your year will, in fact, rock.\n\nhearts for eyes emoji,\n\nn",
     "backlink_index": [
 
     ]
@@ -11611,6 +10137,2029 @@
     ]
   },
   {
+    "id": "/media/genre-painting-reference/img-1742-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1742.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1742.jpeg",
+    "image": "/assets/genre-paintings/IMG_1742.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1742-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1742-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1743-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1743.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1743.jpeg",
+    "image": "/assets/genre-paintings/IMG_1743.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1743-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1743-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1746-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1746.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1746.jpeg",
+    "image": "/assets/genre-paintings/IMG_1746.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1746-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1746-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1747-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1747.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1747.jpeg",
+    "image": "/assets/genre-paintings/IMG_1747.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1747-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1747-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1748-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1748.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1748.jpeg",
+    "image": "/assets/genre-paintings/IMG_1748.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1748-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1748-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1750-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1750.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1750.jpeg",
+    "image": "/assets/genre-paintings/IMG_1750.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1750-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1750-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1751-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1751.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1751.jpeg",
+    "image": "/assets/genre-paintings/IMG_1751.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1751-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1751-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1753-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1753.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1753.jpeg",
+    "image": "/assets/genre-paintings/IMG_1753.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1753-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1753-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1754-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1754.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1754.jpeg",
+    "image": "/assets/genre-paintings/IMG_1754.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1754-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1754-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1755-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1755.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1755.jpeg",
+    "image": "/assets/genre-paintings/IMG_1755.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1755-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1755-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1758-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1758.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1758.jpeg",
+    "image": "/assets/genre-paintings/IMG_1758.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1758-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1758-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1759-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1759.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1759.jpeg",
+    "image": "/assets/genre-paintings/IMG_1759.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1759-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1759-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1761-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1761.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1761.jpeg",
+    "image": "/assets/genre-paintings/IMG_1761.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1761-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1761-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1764-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1764.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1764.jpeg",
+    "image": "/assets/genre-paintings/IMG_1764.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1764-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1764-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1764-jpg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1764.jpg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1764.jpg",
+    "image": "/assets/genre-paintings/IMG_1764.jpg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1764-jpg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1764-jpg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1766-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1766.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1766.jpeg",
+    "image": "/assets/genre-paintings/IMG_1766.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1766-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1766-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1767-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1767.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1767.jpeg",
+    "image": "/assets/genre-paintings/IMG_1767.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1767-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1767-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1768-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1768.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1768.jpeg",
+    "image": "/assets/genre-paintings/IMG_1768.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1768-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1768-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1769-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1769.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1769.jpeg",
+    "image": "/assets/genre-paintings/IMG_1769.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1769-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1769-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1772-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1772.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1772.jpeg",
+    "image": "/assets/genre-paintings/IMG_1772.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1772-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1772-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1774-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1774.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1774.jpeg",
+    "image": "/assets/genre-paintings/IMG_1774.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1774-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1774-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1775-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1775.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1775.jpeg",
+    "image": "/assets/genre-paintings/IMG_1775.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1775-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1775-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1777-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1777.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1777.jpeg",
+    "image": "/assets/genre-paintings/IMG_1777.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1777-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1777-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1778-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1778.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1778.jpeg",
+    "image": "/assets/genre-paintings/IMG_1778.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1778-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1778-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1780-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1780.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1780.jpeg",
+    "image": "/assets/genre-paintings/IMG_1780.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1780-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1780-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1781-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1781.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1781.jpeg",
+    "image": "/assets/genre-paintings/IMG_1781.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1781-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1781-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1783-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1783.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1783.jpeg",
+    "image": "/assets/genre-paintings/IMG_1783.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1783-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1783-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1784-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1784.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1784.jpeg",
+    "image": "/assets/genre-paintings/IMG_1784.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1784-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1784-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1785-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1785.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1785.jpeg",
+    "image": "/assets/genre-paintings/IMG_1785.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1785-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1785-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1786-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1786.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1786.jpeg",
+    "image": "/assets/genre-paintings/IMG_1786.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1786-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1786-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1787-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1787.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1787.jpeg",
+    "image": "/assets/genre-paintings/IMG_1787.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1787-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1787-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1788-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1788.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1788.jpeg",
+    "image": "/assets/genre-paintings/IMG_1788.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1788-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1788-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1788-jpg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1788.JPG",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1788.JPG",
+    "image": "/assets/genre-paintings/IMG_1788.JPG",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1788-jpg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1788-jpg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1789-jpg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1789.JPG",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1789.JPG",
+    "image": "/assets/genre-paintings/IMG_1789.JPG",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1789-jpg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1789-jpg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1790-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1790.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1790.jpeg",
+    "image": "/assets/genre-paintings/IMG_1790.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1790-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1790-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1791-jpg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1791.JPG",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1791.JPG",
+    "image": "/assets/genre-paintings/IMG_1791.JPG",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1791-jpg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1791-jpg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1811-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1811.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1811.jpeg",
+    "image": "/assets/genre-paintings/IMG_1811.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1811-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1811-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1812-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1812.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1812.jpeg",
+    "image": "/assets/genre-paintings/IMG_1812.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1812-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1812-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1813-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1813.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1813.jpeg",
+    "image": "/assets/genre-paintings/IMG_1813.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1813-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1813-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1814-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1814.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1814.jpeg",
+    "image": "/assets/genre-paintings/IMG_1814.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1814-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1814-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1815-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1815.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1815.jpeg",
+    "image": "/assets/genre-paintings/IMG_1815.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1815-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1815-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1825-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1825.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1825.jpeg",
+    "image": "/assets/genre-paintings/IMG_1825.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1825-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1825-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1841-jpg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1841.JPG",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1841.JPG",
+    "image": "/assets/genre-paintings/IMG_1841.JPG",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1841-jpg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1841-jpg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1842-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1842.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1842.jpeg",
+    "image": "/assets/genre-paintings/IMG_1842.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1842-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1842-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1843-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1843.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1843.jpeg",
+    "image": "/assets/genre-paintings/IMG_1843.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1843-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1843-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1844-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1844.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1844.jpeg",
+    "image": "/assets/genre-paintings/IMG_1844.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1844-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1844-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1846-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1846.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1846.jpeg",
+    "image": "/assets/genre-paintings/IMG_1846.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1846-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1846-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1847-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1847.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1847.jpeg",
+    "image": "/assets/genre-paintings/IMG_1847.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1847-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1847-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1848-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1848.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1848.jpeg",
+    "image": "/assets/genre-paintings/IMG_1848.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1848-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1848-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-1871-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_1871.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_1871.jpeg",
+    "image": "/assets/genre-paintings/IMG_1871.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-1871-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-1871-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/img-2803-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "IMG_2803.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/IMG_2803.jpeg",
+    "image": "/assets/genre-paintings/IMG_2803.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/img-2803-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "img-2803-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-2-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "Nicolas Regnier carival reveler 2.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/Nicolas Regnier carival reveler 2.jpeg",
+    "image": "/assets/genre-paintings/Nicolas Regnier carival reveler 2.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-2-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "nicolas-regnier-carival-reveler-2-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "16-Feb-24",
+    "title": "Nicolas Regnier carival reveler.jpeg",
+    "date": "2024-02-16 22:55:02 -0800",
+    "dateadded": "2024-02-16 22:55:02 -0800",
+    "asset": "/assets/genre-paintings/Nicolas Regnier carival reveler.jpeg",
+    "image": "/assets/genre-paintings/Nicolas Regnier carival reveler.jpeg",
+    "gallery": "genre-painting-reference",
+    "permalink": "/media/genre-painting-reference/nicolas-regnier-carival-reveler-jpeg",
+    "layout": "asset",
+    "tags": [
+      "art",
+      "painting",
+      "sources"
+    ],
+    "slug": "nicolas-regnier-carival-reveler-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/astro-nansebo-bulga-ethiopia-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "Astro Coffee - Nansebo Bulga, Ethiopia",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/astro-nansebo_bulga-ethiopia.jpeg",
+    "image": "/assets/coffee-we-like/astro-nansebo_bulga-ethiopia.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/astro-nansebo-bulga-ethiopia-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "astro-nansebo-bulga-ethiopia-jpeg",
+    "ext": ".md",
+    "excerpt": "<p>Holy crap this was good. I’ve only been to Astro in Detroit a few times, but each time they have a roast that’s unforgettable. Is it boring that every time I go to Detroit now I want to go to Astro?</p>\n",
+    "raw_markdown": "Holy crap this was good. I've only been to Astro in Detroit a few times, but each time they have a roast that's unforgettable. Is it boring that every time I go to Detroit now I want to go to Astro?",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/brandywine-guji-ethiopia-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "brandywine-guji-ethiopia-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/brandywine-guji-ethiopia-washed.jpeg",
+    "image": "/assets/coffee-we-like/brandywine-guji-ethiopia-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/brandywine-guji-ethiopia-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "brandywine-guji-ethiopia-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/brandywine-las-lajas-costa-rica-natural-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "brandywine-las_lajas-costa_rica-natural.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/brandywine-las_lajas-costa_rica-natural.jpeg",
+    "image": "/assets/coffee-we-like/brandywine-las_lajas-costa_rica-natural.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/brandywine-las-lajas-costa-rica-natural-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "brandywine-las-lajas-costa-rica-natural-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/brandywine-parainema-honduras-natural-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "brandywine-parainema-honduras-natural.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/brandywine-parainema-honduras-natural.jpeg",
+    "image": "/assets/coffee-we-like/brandywine-parainema-honduras-natural.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/brandywine-parainema-honduras-natural-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "brandywine-parainema-honduras-natural-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/george-howell-daterra-sun-drop-brazil-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "george_howell-daterra_sun_drop-brazil.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/george_howell-daterra_sun_drop-brazil.jpeg",
+    "image": "/assets/coffee-we-like/george_howell-daterra_sun_drop-brazil.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/george-howell-daterra-sun-drop-brazil-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "george-howell-daterra-sun-drop-brazil-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/heart-danche-ethiopia-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "heart-danche-ethiopia-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/heart-danche-ethiopia-washed.jpeg",
+    "image": "/assets/coffee-we-like/heart-danche-ethiopia-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/heart-danche-ethiopia-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "heart-danche-ethiopia-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/heart-daysi-munoz-honduras-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "heart-daysi_muñoz-honduras-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/heart-daysi_muñoz-honduras-washed.jpeg",
+    "image": "/assets/coffee-we-like/heart-daysi_muñoz-honduras-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/heart-daysi-munoz-honduras-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "heart-daysi-munoz-honduras-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/heart-debaye-ethiopia-hambela-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "heart-debaye-ethiopia-hambela-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/heart-debaye-ethiopia-hambela-washed.jpeg",
+    "image": "/assets/coffee-we-like/heart-debaye-ethiopia-hambela-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/heart-debaye-ethiopia-hambela-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "heart-debaye-ethiopia-hambela-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/heart-nyawira-aa-kenya-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "heart_nyawira_aa-kenya-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/heart_nyawira_aa-kenya-washed.jpeg",
+    "image": "/assets/coffee-we-like/heart_nyawira_aa-kenya-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/heart-nyawira-aa-kenya-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "heart-nyawira-aa-kenya-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/heart-worka-sakaro-ethiopia-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "heart-worka-sakaro-ethiopia-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/heart-worka-sakaro-ethiopia-washed.jpeg",
+    "image": "/assets/coffee-we-like/heart-worka-sakaro-ethiopia-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/heart-worka-sakaro-ethiopia-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "heart-worka-sakaro-ethiopia-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/hyperion-edgar-urena-costa-rica-natural-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "hyperion-edgar_urena-costa_rica-natural.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/hyperion-edgar_urena-costa_rica-natural.jpeg",
+    "image": "/assets/coffee-we-like/hyperion-edgar_urena-costa_rica-natural.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/hyperion-edgar-urena-costa-rica-natural-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "hyperion-edgar-urena-costa-rica-natural-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/hyperion-guava-banana-columbia-natural-anerobic-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "hyperion-guava_banana-columbia-natural_anerobic.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/hyperion-guava_banana-columbia-natural_anerobic.jpeg",
+    "image": "/assets/coffee-we-like/hyperion-guava_banana-columbia-natural_anerobic.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/hyperion-guava-banana-columbia-natural-anerobic-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "hyperion-guava-banana-columbia-natural-anerobic-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "Push Pull - Guji, Ethiopia, natural process",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/pxp-guji-ethiopia-natural.jpeg",
+    "image": "/assets/coffee-we-like/pxp-guji-ethiopia-natural.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives",
+      "neibhborhood"
+    ],
+    "slug": "pxp-guji-ethiopia-natural-jpeg",
+    "ext": ".md",
+    "excerpt": "<p>Push x Pull does increadible natural coffee. They always have excellent Ethiopian coffee. This is, like, the best of both of them. So good, drip, pourover, or espresso.</p>\n",
+    "raw_markdown": "Push x Pull does increadible natural coffee. They always have excellent Ethiopian coffee. This is, like, the best of both of them. So good, drip, pourover, or espresso.",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/pxp-pnicaragua-natural-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "Push x Pull Nicaragua Natural Process",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/pxp-pnicaragua-natural.jpeg",
+    "image": "/assets/coffee-we-like/pxp-pnicaragua-natural.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/pxp-pnicaragua-natural-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives",
+      "neighborhood"
+    ],
+    "slug": "pxp-pnicaragua-natural-jpeg",
+    "ext": ".md",
+    "excerpt": "<p>These beans were enormous, but also very light! We were warned to doublecheck when grinding, because they would just jump all over the place and not get into the burrs, and that is exactly what happened. Also very good coffee, but quite strange!</p>\n",
+    "raw_markdown": "These beans were enormous, but also very light! We were warned to doublecheck when grinding, because they would just jump all over the place and not get into the burrs, and that is exactly what happened. Also very good coffee, but quite strange!",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/pxp-teipc-mexico-natural-anaerobic-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "pxp-teipc-mexico-natural_anaerobic.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/pxp-teipc-mexico-natural_anaerobic.jpeg",
+    "image": "/assets/coffee-we-like/pxp-teipc-mexico-natural_anaerobic.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/pxp-teipc-mexico-natural-anaerobic-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "pxp-teipc-mexico-natural-anaerobic-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/pxp-wush-wush-ethiopia-natural-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "pxp-wush-wush-ethiopia-natural.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/pxp-wush-wush-ethiopia-natural.jpeg",
+    "image": "/assets/coffee-we-like/pxp-wush-wush-ethiopia-natural.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/pxp-wush-wush-ethiopia-natural-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "pxp-wush-wush-ethiopia-natural-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/roeseline-ethiopia-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "roeseline-ethiopia-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/roeseline-ethiopia-washed.jpeg",
+    "image": "/assets/coffee-we-like/roeseline-ethiopia-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/roeseline-ethiopia-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "roeseline-ethiopia-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/roseline-fruitcake-kenya-ethiopia-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "Roseline - Fruitcake, 50% Kenya, 50% Ethiopia",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/roseline-fruitcake-kenya_ethiopia.jpeg",
+    "image": "/assets/coffee-we-like/roseline-fruitcake-kenya_ethiopia.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/roseline-fruitcake-kenya-ethiopia-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives",
+      "neighborhood"
+    ],
+    "slug": "roseline-fruitcake-kenya-ethiopia-jpeg",
+    "ext": ".md",
+    "excerpt": "<p>This is a seasonal blend from Roseline, which is nice to look forward to. They really nail a combination of fruitness and warmth that makes it great for the chilly holiday times.</p>\n",
+    "raw_markdown": "This is a seasonal blend from Roseline, which is nice to look forward to. They really nail a combination of fruitness and warmth that makes it great for the chilly holiday times.\n\n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/media/coffee-we-like/roseline-nenesebo-refisa-ethiopia-washed-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "title": "roseline-nenesebo_refisa-ethiopia-washed.jpeg",
+    "date": "2024-02-18 14:11:32 -0800",
+    "dateadded": "2024-02-18 14:11:32 -0800",
+    "asset": "/assets/coffee-we-like/roseline-nenesebo_refisa-ethiopia-washed.jpeg",
+    "image": "/assets/coffee-we-like/roseline-nenesebo_refisa-ethiopia-washed.jpeg",
+    "gallery": "coffee-we-like",
+    "permalink": "/media/coffee-we-like/roseline-nenesebo-refisa-ethiopia-washed-jpeg",
+    "layout": "asset",
+    "tags": [
+      "coffee",
+      "archives"
+    ],
+    "slug": "roseline-nenesebo-refisa-ethiopia-washed-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/gallery/coffee-we-like/",
+    "draft": false,
+    "categories": [
+      "album"
+    ],
+    "last_modified_at": "18-Feb-24",
+    "layout": "gallery",
+    "title": "Coffee We Like",
+    "gallery": "coffee-we-like",
+    "status": "fresh",
+    "slug": "Coffee We Like",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ],
+    "date": "2024-02-18 14:20:42 -0800"
+  },
+  {
     "id": "/gallery/expochgo/",
     "draft": false,
     "categories": [
@@ -11631,7 +12180,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/gallery/everything-in-my-wifes-bag-two-days-after-we-got-married",
@@ -11656,7 +12205,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/gallery/genre-painting-reference/",
@@ -11679,7 +12228,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/gallery/innerbloom/",
@@ -11704,7 +12253,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/gallery/interdependence-day-papercuts/",
@@ -11728,7 +12277,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/gallery/notes-in-general/",
@@ -11751,7 +12300,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/gallery/pikas-place",
@@ -11810,7 +12359,28 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
+  },
+  {
+    "id": "/tag/archives/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "18-Feb-24",
+    "layout": "tag",
+    "title": "archives",
+    "slug": "archives",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ],
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/art/",
@@ -11831,7 +12401,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/books/",
@@ -11852,7 +12422,28 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
+  },
+  {
+    "id": "/tag/coffee/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "18-Feb-24",
+    "layout": "tag",
+    "title": "coffee",
+    "slug": "coffee",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ],
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/conceptual-labor/",
@@ -11873,7 +12464,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/cozyweb/",
@@ -11903,7 +12494,7 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       }
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/featured/",
@@ -11924,7 +12515,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/friend/",
@@ -11945,7 +12536,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/hummingbirds/",
@@ -11966,7 +12557,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/interdependence-day/",
@@ -11987,7 +12578,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/life/",
@@ -12008,7 +12599,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/memex/",
@@ -12029,7 +12620,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/memorial/",
@@ -12050,7 +12641,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/meta/",
@@ -12071,7 +12662,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/mind-things/",
@@ -12092,7 +12683,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/mulch/",
@@ -12113,7 +12704,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/music/",
@@ -12134,7 +12725,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/nationale/",
@@ -12155,7 +12746,28 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
+  },
+  {
+    "id": "/tag/neibhborhood/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "18-Feb-24",
+    "layout": "tag",
+    "title": "neibhborhood",
+    "slug": "neibhborhood",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ],
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/neighborhood/",
@@ -12176,7 +12788,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/octothorpes/",
@@ -12197,7 +12809,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/painting/",
@@ -12218,7 +12830,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/rando/",
@@ -12239,7 +12851,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/sources/",
@@ -12247,7 +12859,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "31-Oct-23",
+    "last_modified_at": "16-Feb-24",
     "layout": "tag",
     "title": "sources",
     "slug": "sources",
@@ -12260,28 +12872,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
-  },
-  {
-    "id": "/tag/steen/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "15-Nov-23",
-    "layout": "tag",
-    "title": "steen",
-    "slug": "steen",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/things/",
@@ -12302,7 +12893,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/times/",
@@ -12323,7 +12914,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/traditions/",
@@ -12344,7 +12935,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/tag/words/",
@@ -12365,7 +12956,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/album/",
@@ -12386,7 +12977,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/audio/",
@@ -12407,7 +12998,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/collection/",
@@ -12428,7 +13019,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/image/",
@@ -12449,7 +13040,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/media/",
@@ -12470,7 +13061,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/objects/",
@@ -12491,7 +13082,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/people/",
@@ -12512,7 +13103,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/texts/",
@@ -12533,7 +13124,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/things/",
@@ -12554,7 +13145,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   },
   {
     "id": "/category/video/",
@@ -12575,6 +13166,6 @@
     "backlink_index": [
 
     ],
-    "date": "2024-01-16 09:58:16 -0800"
+    "date": "2024-02-18 14:20:42 -0800"
   }
 ]
