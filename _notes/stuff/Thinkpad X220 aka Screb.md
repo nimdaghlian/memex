@@ -1,8 +1,13 @@
 ---
 layout: note
+tags:
+  - stuff
+  - issue-3
+image: /assets/notes/screb.jpeg
 ---
+![A Thinkpad X220 laptop on a table with an espresso next to it outside on a city street](/assets/notes/screb.jpeg)
 
-I'm typing this in 2024 on a 2011 Lenovo Thinkpad x220, and it's pretty fun. I have it because of an x200 I got to use on a long trip on the Siberian Express that my sister took me on in 2013. My first laptop ever was a cheap-and-old-even-at-the-time Thinkpad that I got in 2000 mainly so I could write whatever it was that I was writing at the age of 20 on my lunchbreak at work (because, you know, files mostly existed in a physical locations then so I needed a way to bring them with me). I remembered it fondly, so when I needed a computer that could keep me reasonably connected with work but also get crushed by a train without it being a big problem, I went for a ~$200 x200. It was honestly pretty usable!
+I'm typing this in 2024 on a 2011 Lenovo Thinkpad x220 named Screb, and it's pretty fun. I have it because of an x200 I got to use on a long trip on the Siberian Express that my sister took me on in 2013. My first laptop ever was a cheap-and-old-even-at-the-time Thinkpad that I got in 2000 mainly so I could write whatever it was that I was writing at the age of 20 on my lunchbreak at work (because, you know, files mostly existed in a physical locations then so I needed a way to bring them with me). I remembered it fondly, so when I needed a computer that could keep me reasonably connected with work but also get crushed by a train without it being a big problem, I went for a ~$200 x200. It was honestly pretty usable!
 
 Then, around 2020, I was in one of those situations with an internet service provider that involves hours of unpaid work to prove that they're gaslighting you, and I had to find a device that plugged directly into ethernet, and, lo, there was my old x200. 
 
