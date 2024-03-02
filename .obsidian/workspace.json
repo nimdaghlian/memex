@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_galleries/Coffee We Like.md",
+                "file": "_notes/texts/Workflow Rennovation 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_galleries/Coffee We Like.md",
+                "file": "_notes/texts/Workflow Rennovation 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +140,21 @@
   },
   "active": "ea5d9ea86f37223d",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_site/category/words/index.html",
+    "_site/category/words",
+    "_site/tinstac/index.html",
+    "_site/tinstac",
+    "_cat-pages/words.md",
+    "_notes/words/tinstac.md",
+    "_notes/words",
+    "_site/gallery/coffee-we-like/index.html",
+    "_site/gallery/coffee-we-like",
+    "_galleries/Coffee We Like.md",
     "_site/cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
     "cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
     "_media/id-papercuts/id-011515-jpg.md",
     "_galleries/Interdependence Day Papercuts.md",
-    "_galleries/Coffee We Like.md",
     "_site/cache/resize/508e367c831a5ad0fa8df783092cc468_800x800.jpeg",
     "cache/resize/508e367c831a5ad0fa8df783092cc468_800x800.jpeg",
     "_galleries/They Always Have and Still Do.md",
@@ -152,20 +162,12 @@
     "_site/tag/issue-3/index.html",
     "_site/tag/issue-3",
     "_site/tag/good-cups/index.html",
-    "_site/tag/good-cups",
-    "_site/media/notes-in-general/stirrup-cup-jpeg.html",
-    "_site/media/notes-in-general/slice-of-life-mug-side-jpeg.html",
-    "_site/media/notes-in-general/slice-of-life-mug-jpeg.html",
-    "_site/media/notes-in-general/sidetable-5-jpeg.html",
-    "_site/media/notes-in-general/sidetable-4-jpeg.html",
-    "_site/media/notes-in-general/sidetable-3-jpeg.html",
     "_site/cache/resize/9116719f44903e1cb3c6719a4147b0e2_90x90.jpeg",
     "_site/cache/resize/ec08b8276c6d3b364de445bd0b9bdf7a_90x90.jpeg",
     "_site/cache/resize/d214495dbf0f11f4943221af09efa92a_90x90.jpeg",
     "_site/cache/resize/be861b950fce01143d78e50064cb6497_90x90.jpeg",
     "_site/cache/resize/42650e7d218a08f5d6df368da5d72913_90x90.jpeg",
     "_site/cache/resize/256c7a9af9b0f7e6681938290d888fbf_90x90.jpeg",
-    "_site/cache/resize/d320619cd1d8e391fc0ffb9b57d86000_90x90.jpeg",
     "_media/notes/lamp97-jpeg.md",
     "_media/notes/sidetable-2-jpeg.md",
     "_media/notes/sidetable-3-jpeg.md",
@@ -183,8 +185,6 @@
     "_tag-pages/issue-3.md",
     "_tag-pages/good-cups.md",
     "_notes/stuff/Thinkpad X220 aka Screb.md",
-    "_notes/stuff/The Side Table.md",
-    "_notes/stuff/Stirrup Cup.md",
-    "_notes/stuff/Magic Masala Chips.md"
+    "_notes/stuff/The Side Table.md"
   ]
 }

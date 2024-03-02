@@ -7,7 +7,7 @@ layout: default
   </div>
 
   <div id="notes-entry-container" class="ui container grid stackable">
-    <div class="ui twelve wide column">
+    <div class="ui eleven wide column">
       {% if page.categories contains "image" %}
       <img src="{{ page.asset }}" alt="Image">
     {% elsif page.categories contains "audio" %}
@@ -24,13 +24,13 @@ layout: default
     </div>
 
 
-    <side style="font-size: 0.7em" class="ui four wide column">
+    <side style="font-size: 0.7em" class="ui five wide column">
     <h1>{{ page.title }}</h1>
-      <content>
+      <div>
         {{ content }}
 <!-- end excerpt -->
 
-      </content>
+      </div>
       {% if page.gallery %}
       <h4 class="block"><a href="/gallery/{{ page.gallery}}">Original Gallery</a></h4>
       {% endif %}
