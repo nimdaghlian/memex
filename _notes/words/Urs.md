@@ -2,6 +2,9 @@
 layout: note
 tags:
   - mind-things
+category: words
+definition: "The basic, underlying format of how you conceive of anything. The language your brain uses. The quanta of thought."
+author: Nim
 ---
 
 Urs or "an Ur" is my term for the basic, underlying format of how you conceive of anything. The language your brain uses. The quanta of thought.

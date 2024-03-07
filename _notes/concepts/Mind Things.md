@@ -1,7 +1,7 @@
 ---
 title: Mind Things
 date: 2023-10-04
-categories: things
+categories: concepts
 tags:
   - mind-things
 ---

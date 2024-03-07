@@ -4,6 +4,8 @@ tags:
   - stuff
   - issue-3
 image: /assets/notes/screb.jpeg
+category: objects
+
 ---
 ![A Thinkpad X220 laptop on a table with an espresso next to it outside on a city street](/assets/notes/screb.jpeg)
 

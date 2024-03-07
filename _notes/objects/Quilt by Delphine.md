@@ -4,6 +4,8 @@ tags:
   - art
   - issue-3
 image: /assets/notes/delphines-blanket.jpeg
+category: objects
+
 ---
 
 ![Delphine's Quilt](/assets/notes/delphines-blanket.jpeg)

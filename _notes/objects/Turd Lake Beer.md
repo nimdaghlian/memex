@@ -1,5 +1,7 @@
 ---
 layout: note
+tag: stuff
+category: objects
 ---
 
 ![A hand holding a cool beer bottle with a logo that looks like both a turd and a lake and a grain of rice](/assets/notes/Pasted%20image%2020231119122046.png)

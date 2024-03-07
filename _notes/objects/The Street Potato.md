@@ -2,7 +2,7 @@
 title: The Street Potato
 tags:
   - neighborhood
-category: things
+category: objects
 date: 2023-08-06
 ---
 

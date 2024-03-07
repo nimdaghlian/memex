@@ -2,6 +2,7 @@
 tags:
   - stuff
   - issue-3
+category: objects
 ---
 My dear and amazing friend [[Vee]] sent me a wadded-up, 1/3-full bag of [Magic Masala](https://gandhifood.com/products/lays-indias-magic-masala-52g-1-pack) flavor Lays. We have an ongoing chip and snack discourse. I once sent them a single chip and single animal cracker in a custom made cardboard sleeve. They also were responsible for the Chip Bar at my wedding. Apparently the experience of eating these chips was too intense to keep to themselves, and before the bag was finished they crammed them into an envelope and sent them to me. I *treasure* my friends. What follows is the review I sent by text upon receiving the package:
 

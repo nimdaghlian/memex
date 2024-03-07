@@ -3,6 +3,8 @@ tags:
   - stuff
   - issue-3
 image: /assets/notes/my-remote.jpeg
+category: objects
+
 ---
 ![A handmade remote that looks like garbage you'd want to throw away](/assets/notes/my-remote.jpeg)
 

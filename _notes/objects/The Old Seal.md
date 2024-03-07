@@ -2,6 +2,7 @@
 date: 2023-11-15
 tags:
   - books
+category: objects
 ---
 
 Last time Martha and I visited our dear friends Phil and Ellen and got to see [Phil's amazing collection of books](https://www.pirages.com/), an unusual item stuck out. It was a very intact royal order and wax seal from **1275.** As in the thirteenth century. It's "not very interesting" to collectors because it comes from [Phillip II, Duke of Savor](https://en.wikipedia.org/wiki/Philip_II%2C_Duke_of_Savoy), who was only duke for about a year.

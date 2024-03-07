@@ -4,6 +4,8 @@ tags:
   - good-cups
   - issue-3
 image: /assets/notes/slice-of-life-mug-side.jpeg
+category: objects
+
 ---
 ![A big mug](/assets/notes/slice-of-life-mug.jpeg)
 

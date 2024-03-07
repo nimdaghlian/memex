@@ -1,7 +1,6 @@
 ---
 date: 2023-11-04
 tags:
-  - words
   - mind-things
 ---
 Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of _times_. I think this was before we lived together, and _one_ of us was harshly shaming the _other_ after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.

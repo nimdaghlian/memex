@@ -4,6 +4,8 @@ tags:
   - good-cups
   - issue-3
 image: /assets/notes/stirrup-cup.jpeg
+category: objects
+
 ---
 ![A strange black cup with an iron elephant upside down at the bottom](/assets/notes/stirrup-cup.jpeg)
 
