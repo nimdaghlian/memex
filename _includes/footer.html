@@ -18,13 +18,12 @@
           <a class="ui tertiary button" style="color: {{page.color}};" href="/{{collection.label}}">{{collection.label}}</a>
         {% endif  %}
         {% endfor %}
+        <h4 class="ui header page_hilight">Categories of Things</h4>
+        {% include catcloud.html  %}
+
       </div>
     </div>
-    <div class="ui four wide column">
-      <h4 class="ui header page_hilight">Categories of Things</h4>
-      {% include catcloud.html  %}
-    </div>
-  <div class="ui four wide column">
+    <div class="ui eight wide column">
     <h4 class="ui header page_hilight">Tags on Things</h4>
     {% include tagcloud.html  %}
   </div>
