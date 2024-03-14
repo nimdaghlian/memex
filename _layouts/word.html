@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="ui ten wide column">
+  <div>
+    <h1>{{ page.title }}</h1>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      <h2>Definition:</h2>
+      <br>
+      <blockquote>{{ page.definition }}</blockquote>
+      <hr>
+      {{ content }}
+    </content>
+  </div>
+  </article>
+  <side style="font-size: 0.9em;" class="ui five wide column">
+    {% include side.html  %}     
+</side>
+
+

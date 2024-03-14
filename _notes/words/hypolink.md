@@ -1,4 +1,5 @@
 ---
+layout: word
 categories: words
 author: Jon
 definition: "an association that either makes sense at first but not after thinking about it, or one that doesn't make sense at first but kinda feels right after you sit with it."

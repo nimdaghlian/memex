@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: word
 category: words
 author: Jon
 definition: "Acronym meaning There Is No Such Thing as Coincidence"

@@ -1,5 +1,29 @@
 [
   {
+    "id": "/lucys-eggs",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "11-Feb-24",
+    "layout": "note",
+    "tags": [
+      "recipes",
+      "mind-things"
+    ],
+    "link": "https://stone-soup.ghost.io/making-a-home-of-each-other/?utm_source=lucybellwood&utm_medium=email&utm_campaign=summer-bottleship-1122",
+    "permalink": "lucys-eggs",
+    "title": "Lucy's eggs",
+    "slug": "Lucy's Eggs",
+    "ext": ".md",
+    "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n",
+    "raw_markdown": "[[Lucy]] wrote about a [Real](/adas-three-kinds-of-things) [Mind Thing](/mind-things) of hers, [The Eggs](https://stone-soup.ghost.io/making-a-home-of-each-other/), for a very cool project called the [Personal Canons Cookbook.](https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/)\n\nThis is such a lovely tale of friendship, more-than-friendship, shared meals, invented meals, and cohabitation in the most two-small-bears-in-a-den sort of way. Do read Lucy's tale. \nShe says you can get the original recipe [here](https://cooking.nytimes.com/recipes/1021034-chile-oil-fried-eggs-with-greens-and-yogurt).\n\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-03-13 23:19:53 -0700"
+  },
+  {
     "id": "/patterns-of-intention/",
     "draft": false,
     "categories": [
@@ -27,7 +51,38 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
+  },
+  {
+    "id": "/the-conceptual-labor-book/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "14-Jan-24",
+    "layout": "note",
+    "title": "The Conceptual Labor Book",
+    "tags": [
+      "books",
+      "conceptual labor"
+    ],
+    "slug": "The Conceptual Labor Book",
+    "ext": ".md",
+    "excerpt": "<p>This is the Conceptual Labor book that I wrote.</p>\n",
+    "raw_markdown": "This is the Conceptual Labor book that I wrote.\n\n[![A stack of books with the title Conceptual Labor](https://conceptuallabor.com/images/book-stack.jpg)](https://conceptuallabor.com/book)\n\n\n\n",
+    "backlink_index": [
+      {
+        "title": "Mind Things",
+        "url": "/mind-things/",
+        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
+      },
+      {
+        "title": "Nik Wise",
+        "url": "/nik/",
+        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
+      }
+    ],
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/wushi",
@@ -115,37 +170,6 @@
     ]
   },
   {
-    "id": "/the-conceptual-labor-book/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "14-Jan-24",
-    "layout": "note",
-    "title": "The Conceptual Labor Book",
-    "tags": [
-      "books",
-      "conceptual labor"
-    ],
-    "slug": "The Conceptual Labor Book",
-    "ext": ".md",
-    "excerpt": "<p>This is the Conceptual Labor book that I wrote.</p>\n",
-    "raw_markdown": "This is the Conceptual Labor book that I wrote.\n\n[![A stack of books with the title Conceptual Labor](https://conceptuallabor.com/images/book-stack.jpg)](https://conceptuallabor.com/book)\n\n\n\n",
-    "backlink_index": [
-      {
-        "title": "Mind Things",
-        "url": "/mind-things/",
-        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
-      },
-      {
-        "title": "Nik Wise",
-        "url": "/nik/",
-        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
-      }
-    ],
-    "date": "2024-03-08 12:23:47 -0800"
-  },
-  {
     "id": "/slow-motion-bullseyes/",
     "draft": false,
     "categories": [
@@ -219,7 +243,7 @@
     ]
   },
   {
-    "id": "/ada-s-three-kinds-of-things/",
+    "id": "/adas-three-kinds-of-things",
     "draft": false,
     "categories": [
       "concepts"
@@ -232,12 +256,18 @@
       "mind-things"
     ],
     "category": "concepts",
+    "permalink": "adas-three-kinds-of-things",
     "title": "Ada's three kinds of things",
     "slug": "Ada's three kinds of things",
     "ext": ".md",
     "excerpt": "<blockquote>\n  <p>Children of her type contrive the purest philosophies. Ada had worked out her own little system. Hardly a week had elapsed since Van’s arrival when he was found worthy of being initiated in her web of wisdom. An individual’s life consisted of certain classified things: “real things” which were unfrequent and priceless, simply “things” which formed the routine stuff of life; and “ghost things,” also called “fogs,” such as fever, toothache, dreadful disappointments, and death. Three or more things occurring at the same time formed a “tower,” or, if they came in immediate succession, they made a “bridge.” “Real towers” and “real bridges” were the joys of life, and when the towers came in a series, one experienced supreme rapture; it almost never happened, though. In some circumstances, in a certain light, a neutral “thing” might look or even actually become “real” or else, conversely, it might coagulate into a fetid “fog.”</p>\n</blockquote>\n",
     "raw_markdown": "> Children of her type contrive the purest philosophies. Ada had worked out her own little system. Hardly a week had elapsed since Van’s arrival when he was found worthy of being initiated in her web of wisdom. An individual’s life consisted of certain classified things: “real things” which were unfrequent and priceless, simply “things” which formed the routine stuff of life; and “ghost things,” also called “fogs,” such as fever, toothache, dreadful disappointments, and death. Three or more things occurring at the same time formed a “tower,” or, if they came in immediate succession, they made a “bridge.” “Real towers” and “real bridges” were the joys of life, and when the towers came in a series, one experienced supreme rapture; it almost never happened, though. In some circumstances, in a certain light, a neutral “thing” might look or even actually become “real” or else, conversely, it might coagulate into a fetid “fog.”\n\nThis is from Nabokov's *Ada or Ardor*.\n\nWhile searching for this, I discovered the [blog of an English-Italian poet](https://sidewaysstation.com) that includes him reading his ode to [Italian baristas](https://sidewaysstation.com/2012/10/28/baristi-ditalia-re-post/), which then led me to the [Annotated Ada](https://www.ada.auckland.ac.nz/).\n",
     "backlink_index": [
+      {
+        "title": "Lucy's eggs",
+        "url": "/lucys-eggs",
+        "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
+      },
       {
         "title": "Mind Things",
         "url": "/mind-things/",
@@ -324,7 +354,7 @@
         "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/colophon/",
@@ -345,7 +375,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/development-log/",
@@ -370,7 +400,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/welcome/",
@@ -436,7 +466,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/what-is-a-memex/",
@@ -458,7 +488,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/magic-masala-chips/",
@@ -481,7 +511,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/quilt-by-delphine/",
@@ -506,7 +536,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/slice-of-life-mug/",
@@ -531,7 +561,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/stirrup-cup/",
@@ -556,7 +586,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/synthesizers/",
@@ -581,29 +611,7 @@
         "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
-  },
-  {
-    "id": "/the-street-potato/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "title": "The Street Potato",
-    "tags": [
-      "neighborhood"
-    ],
-    "category": "objects",
-    "date": "2023-08-06 00:00:00 -0700",
-    "slug": "The Street Potato",
-    "ext": ".md",
-    "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n",
-    "raw_markdown": "![A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.](/assets/notes/the-sweet-potato-aug-6-2023.jpeg)\n> The Street Potato as of August 6, 2023\n\nMartha and I were at the [[Worker's Tap]] with [[Andrea]] talking about the micro-neighborhood of the four square blocks that encompass the Tap, her house, and our place. I mentioned The Street Potato in that way you remove detail when talking about something that has an extensive entry in your brain but you are talking to someone who might not know what you're talking about or possibly think you're somewhat crazy if you talked about it in the detail you think of it. To be clear -- I *knew* Andrea would be down with it, but didn't want to assume she had noticed it.\n\n\"Oh you mean the one up on Ankeny??\"\n\nYeah, she had noticed it.\n\nInstantly, all three of us dropped our filters and started comparing notes about the life of The Street Potato in full detail.\n\nThe Street Potato lives (died?) on a short block lined by two generic, new-construction apartment buildings. The building to the north has a half-block-long garage door and a bunch of balconies full of stuff but never people. The smaller building to the south has a row of street-level windows, most of which have a cat or evidence of a cat in them. On the sidewalk in front of the row of cat windows, some time in the early spring -- possibly even the late winter -- a large, apparently-cooked sweet potato appeared on the sidewalk. At least half of it was somewhat *in* the sidewalk -- stomped or splattered into the concrete such that The Street Potato was not about to roll away. Since then, it appears to have taken up permanent residence in that spot.\n\n\n### My theory of The Street Potato\n\n\n**I think it was thrown or otherwise ejected from a window**\n\nEvidence:\n- I believe about 75% of it flattened upon contact with the sidewalk.\n- The force to de-cohere so much of a good-sized sweet potato requires more acceleration than it would get by simply being dropped from the carrying height of an average adult.\n- It landed about ten feet from the building, farther than it would have if it simply fell.\n- This also means it was probably fully cooked.\n\n**It embodies the universe's infinite capacity for change.**\n\n- As *I* recall, it started out as recognizable sweet potato, sticking out of the sidewalk like it had clipped through it in a video game.\n- Someone stepped on it within the first few weeks of its life on the sidewalk.\n\t- This means they were probably looking at a cute cat in the window, or the abject  emptiness of the giant garage door.\n- Since being stepped on, it has been functionally two-dimensional.\n- It is at least 4 months old.\n\t- I am writing this in August. It was definitely there in April. I don't know what this means.\n\n[[Martha]] has a different theory -- the potato fell from a bag while being carried to or from some sort of dinner function, and the potato-dropper immediately slipped in the potato, grinding it into the sidewalk, perhaps with the classic slapstick slipping-on-a-banana pratfall.\n\n",
-    "backlink_index": [
-
-    ]
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/the-old-seal/",
@@ -649,7 +657,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/the-side-table/",
@@ -673,7 +681,29 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
+  },
+  {
+    "id": "/the-street-potato/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "title": "The Street Potato",
+    "tags": [
+      "neighborhood"
+    ],
+    "category": "objects",
+    "date": "2023-08-06 00:00:00 -0700",
+    "slug": "The Street Potato",
+    "ext": ".md",
+    "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n",
+    "raw_markdown": "![A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.](/assets/notes/the-sweet-potato-aug-6-2023.jpeg)\n> The Street Potato as of August 6, 2023\n\nMartha and I were at the [[Worker's Tap]] with [[Andrea]] talking about the micro-neighborhood of the four square blocks that encompass the Tap, her house, and our place. I mentioned The Street Potato in that way you remove detail when talking about something that has an extensive entry in your brain but you are talking to someone who might not know what you're talking about or possibly think you're somewhat crazy if you talked about it in the detail you think of it. To be clear -- I *knew* Andrea would be down with it, but didn't want to assume she had noticed it.\n\n\"Oh you mean the one up on Ankeny??\"\n\nYeah, she had noticed it.\n\nInstantly, all three of us dropped our filters and started comparing notes about the life of The Street Potato in full detail.\n\nThe Street Potato lives (died?) on a short block lined by two generic, new-construction apartment buildings. The building to the north has a half-block-long garage door and a bunch of balconies full of stuff but never people. The smaller building to the south has a row of street-level windows, most of which have a cat or evidence of a cat in them. On the sidewalk in front of the row of cat windows, some time in the early spring -- possibly even the late winter -- a large, apparently-cooked sweet potato appeared on the sidewalk. At least half of it was somewhat *in* the sidewalk -- stomped or splattered into the concrete such that The Street Potato was not about to roll away. Since then, it appears to have taken up permanent residence in that spot.\n\n\n### My theory of The Street Potato\n\n\n**I think it was thrown or otherwise ejected from a window**\n\nEvidence:\n- I believe about 75% of it flattened upon contact with the sidewalk.\n- The force to de-cohere so much of a good-sized sweet potato requires more acceleration than it would get by simply being dropped from the carrying height of an average adult.\n- It landed about ten feet from the building, farther than it would have if it simply fell.\n- This also means it was probably fully cooked.\n\n**It embodies the universe's infinite capacity for change.**\n\n- As *I* recall, it started out as recognizable sweet potato, sticking out of the sidewalk like it had clipped through it in a video game.\n- Someone stepped on it within the first few weeks of its life on the sidewalk.\n\t- This means they were probably looking at a cute cat in the window, or the abject  emptiness of the giant garage door.\n- Since being stepped on, it has been functionally two-dimensional.\n- It is at least 4 months old.\n\t- I am writing this in August. It was definitely there in April. I don't know what this means.\n\n[[Martha]] has a different theory -- the potato fell from a bag while being carried to or from some sort of dinner function, and the potato-dropper immediately slipped in the potato, grinding it into the sidewalk, perhaps with the classic slapstick slipping-on-a-banana pratfall.\n\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/thinkpad-x220-aka-screb/",
@@ -697,7 +727,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/turd-lake-beer/",
@@ -724,7 +754,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/aaron/",
@@ -749,7 +779,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/abe/",
@@ -774,7 +804,7 @@
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/andrea/",
@@ -809,7 +839,29 @@
         "excerpt": "<p>Aaron is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a> and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
+  },
+  {
+    "id": "/carl-diehl/",
+    "draft": false,
+    "categories": [
+      "people"
+    ],
+    "last_modified_at": "14-Jan-24",
+    "layout": "note",
+    "date": "2023-11-05 00:00:00 -0700",
+    "website": "https://www.electronicelsewhere.com/",
+    "title": "Carl diehl",
+    "slug": "Carl Diehl",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Carl is a man of many talents and neologisms. He made a <a href=\"https://www.electronicelsewhere.com/cracked\">somewhat cracked memex</a> He’s related to the great magician <a href=\"https://www.electronicelsewhere.com/mornings-of-the-magician\">Dorny</a>. His son Wolf drew a portrait of Frankie.</p>\n",
+    "raw_markdown": "Carl is a man of many talents and neologisms. He made a [somewhat cracked memex](https://www.electronicelsewhere.com/cracked) He's related to the great magician [Dorny](https://www.electronicelsewhere.com/mornings-of-the-magician). His son Wolf drew a portrait of Frankie.",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/clamber/",
@@ -844,7 +896,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/evan/",
@@ -874,7 +926,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/jane-zemel/",
@@ -896,7 +948,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/john-james/",
@@ -921,7 +973,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/jon/",
@@ -969,7 +1021,7 @@
         "excerpt": "<p>T.I.N.S.T.A.C. stands for There Is No Such Thing as Coincidence, coined by [[Jon]], because life, well, it be that way.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/lucy/",
@@ -989,9 +1041,13 @@
     "excerpt": "<p><a href=\"https://lucybellwood.com/\">Lucy</a> is well-known as a natural force of positive energy. We sat next to each other at a button-making workshop at XOXO, talked about iPad screen protectors, and then later she friggin looked up conceptual labor from my actual paper business card, read it, and mentioned it on her blog! That’s someone who does their research!</p>\n",
     "raw_markdown": "[Lucy](https://lucybellwood.com/) is well-known as a natural force of positive energy. We sat next to each other at a button-making workshop at XOXO, talked about iPad screen protectors, and then later she friggin looked up conceptual labor from my actual paper business card, read it, and mentioned it on her blog! That's someone who does their research! \n\nWe've been friends ever since our first breathless mindmeld about the nature of creative work being curious pens and papers blah blah blah. We once had a long phone call while I hung out in the middle of a big rope playground structure, which is kind of how I think about the space where our conversations happen. Lucy is great.",
     "backlink_index": [
-
+      {
+        "title": "Lucy's eggs",
+        "url": "/lucys-eggs",
+        "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
+      }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/martha/",
@@ -1076,7 +1132,7 @@
         "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/nik/",
@@ -1116,7 +1172,7 @@
         "excerpt": "<p>SHRUGGIE \nI had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/ryan/",
@@ -1141,7 +1197,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -1162,7 +1218,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -1197,7 +1253,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/me/",
@@ -1227,7 +1283,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -1252,7 +1308,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -1282,7 +1338,7 @@
         "excerpt": "<p><a href=\"http://athousandcirclets.garden\">get lost in her garden</a></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -1307,7 +1363,7 @@
         "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/research-club/",
@@ -1328,7 +1384,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/sounds-of-the-record-tree/",
@@ -1377,28 +1433,6 @@
     ]
   },
   {
-    "id": "/carl-diehl/",
-    "draft": false,
-    "categories": [
-      "people"
-    ],
-    "last_modified_at": "14-Jan-24",
-    "layout": "note",
-    "date": "2023-11-05 00:00:00 -0700",
-    "website": "https://www.electronicelsewhere.com/",
-    "title": "Carl diehl",
-    "slug": "Carl Diehl",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "<p>Carl is a man of many talents and neologisms. He made a <a href=\"https://www.electronicelsewhere.com/cracked\">somewhat cracked memex</a> He’s related to the great magician <a href=\"https://www.electronicelsewhere.com/mornings-of-the-magician\">Dorny</a>. His son Wolf drew a portrait of Frankie.</p>\n",
-    "raw_markdown": "Carl is a man of many talents and neologisms. He made a [somewhat cracked memex](https://www.electronicelsewhere.com/cracked) He's related to the great magician [Dorny](https://www.electronicelsewhere.com/mornings-of-the-magician). His son Wolf drew a portrait of Frankie.",
-    "backlink_index": [
-
-    ]
-  },
-  {
     "id": "/octothorpethoughts/",
     "draft": false,
     "categories": [
@@ -1419,7 +1453,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/time-confetti-and-the-broken-promise-of-leisure/",
@@ -1441,7 +1475,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/warpaint-no-1/",
@@ -1465,7 +1499,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/workflow-rennovation-2024/",
@@ -1486,7 +1520,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -1511,7 +1545,7 @@
         "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -1541,7 +1575,7 @@
         "excerpt": "<p><a href=\"https://www.nationale.us/amy-bay-they-always-have-and-still-do-2023\">June 2–July 9, 2023 at Nationale</a></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/interdependence-day/",
@@ -1581,7 +1615,7 @@
         "excerpt": "<p>Since 2015, I’ve made a papercut based on the Polish tradition of Wiczynanki for [[Interdependence Day]].</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/infobahn/",
@@ -1589,8 +1623,8 @@
     "categories": [
       "words"
     ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
+    "last_modified_at": "13-Mar-24",
+    "layout": "word",
     "author": "Nim",
     "definition": "A cooler way to say 'the Information Superhighway'",
     "title": "Infobahn",
@@ -1599,12 +1633,12 @@
     "tags": [
 
     ],
-    "excerpt": "<p>This is just a cooler way to say “the Information Superhighway.”</p>\n",
-    "raw_markdown": "This is just a cooler way to say \"the Information Superhighway.\"\n\nYou can only get [[internet+]] on the Infobahn.\n",
+    "excerpt": "<p>You can only get [[internet+]] on the Infobahn.</p>\n",
+    "raw_markdown": "You can only get [[internet+]] on the Infobahn.\n",
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/urs/",
@@ -1612,8 +1646,8 @@
     "categories": [
       "words"
     ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
+    "last_modified_at": "13-Mar-24",
+    "layout": "word",
     "tags": [
       "mind-things"
     ],
@@ -1623,8 +1657,8 @@
     "title": "Urs",
     "slug": "Urs",
     "ext": ".md",
-    "excerpt": "<p>Urs or “an Ur” is my term for the basic, underlying format of how you conceive of anything. The language your brain uses. The quanta of thought.</p>\n",
-    "raw_markdown": "Urs or \"an Ur\" is my term for the basic, underlying format of how you conceive of anything. The language your brain uses. The quanta of thought.\n\n### Some analogies\n\nIn computer science, the idea of a \"[word](<https://en.wikipedia.org/wiki/Word_(computer_architecture)>)\" is defined as \"he natural unit of data used by a particular [processor](https://en.wikipedia.org/wiki/Central_processing_unit \"Central processing unit\") design\". So that's one way to think about it.\n\nOr you could think of it as a more fine-grained version of \"vibes,\" one that has specific meaning to you even if you can't articulate it.",
+    "excerpt": "<h3 id=\"some-analogies\">Some analogies</h3>\n",
+    "raw_markdown": "### Some analogies\n\nIn computer science, the idea of a \"[word](<https://en.wikipedia.org/wiki/Word_(computer_architecture)>)\" is defined as \"the natural unit of data used by a particular [processor](https://en.wikipedia.org/wiki/Central_processing_unit \"Central processing unit\") design\". So that's one way to think about it.\n\nOr you could think of it as a more fine-grained version of \"vibes,\" one that has specific meaning to you even if you can't articulate it.",
     "backlink_index": [
       {
         "title": "Mind Things",
@@ -1632,7 +1666,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/hypolink/",
@@ -1640,8 +1674,8 @@
     "categories": [
       "words"
     ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
+    "last_modified_at": "13-Mar-24",
+    "layout": "word",
     "author": "Jon",
     "definition": "an association that either makes sense at first but not after thinking about it, or one that doesn't make sense at first but kinda feels right after you sit with it.",
     "title": "Hypolink",
@@ -1655,7 +1689,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/internet-plus/",
@@ -1663,8 +1697,8 @@
     "categories": [
       "words"
     ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
+    "last_modified_at": "13-Mar-24",
+    "layout": "word",
     "title": "internet+",
     "category": "words",
     "author": "Jon",
@@ -1680,10 +1714,34 @@
       {
         "title": "Infobahn",
         "url": "/infobahn/",
-        "excerpt": "<p>This is just a cooler way to say “the Information Superhighway.”</p>\n"
+        "excerpt": "<p>You can only get [[internet+]] on the Infobahn.</p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
+  },
+  {
+    "id": "/prunty/",
+    "draft": false,
+    "categories": [
+      "words"
+    ],
+    "last_modified_at": "13-Mar-24",
+    "layout": "word",
+    "category": "words",
+    "author": "Jon",
+    "definition": "Undefinable. Pruntiness can only be demonstrated, as it is a particular way of being. It combines aspects of sassiness, pride, feeling-one's-self, smallness and/or roundness, ungovernableness, and mischief.",
+    "title": "Prunty",
+    "slug": "prunty",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>To see a creature be truly prunty, watch a cat steal food without consequence and trot away from the scene of their crime with the food in their mouth, knowing no one can catch them.</p>\n",
+    "raw_markdown": "To see a creature be truly prunty, watch a cat steal food without consequence and trot away from the scene of their crime with the food in their mouth, knowing no one can catch them.\n\n### Exhibit A\n\n![An animation of a cat carrying a small toy mouse in her mouth, pruntily](/assets/notes/prunty.gif)\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tinstac/",
@@ -1691,8 +1749,8 @@
     "categories": [
       "words"
     ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
+    "last_modified_at": "13-Mar-24",
+    "layout": "word",
     "category": "words",
     "author": "Jon",
     "definition": "Acronym meaning There Is No Such Thing as Coincidence",
@@ -1707,7 +1765,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/media/interdependence-day-papercuts/id-011515-jpg",
@@ -12767,6 +12825,33 @@
     ]
   },
   {
+    "id": "/media/notes-in-general/prunty-gif",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "13-Mar-24",
+    "title": "prunty.gif",
+    "date": "2024-03-13 17:44:47 -0700",
+    "dateadded": "2024-03-13 17:44:47 -0700",
+    "asset": "/assets/notes/prunty.gif",
+    "image": "/assets/notes/prunty.gif",
+    "gallery": "notes-in-general",
+    "permalink": "/media/notes-in-general/prunty-gif",
+    "layout": "asset",
+    "tags": [
+      "mulch",
+      "rando"
+    ],
+    "slug": "prunty-gif",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
     "id": "/gallery/expochgo/",
     "draft": false,
     "categories": [
@@ -12787,7 +12872,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/gallery/everything-in-my-wifes-bag-two-days-after-we-got-married",
@@ -12812,7 +12897,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/gallery/genre-painting-reference/",
@@ -12835,7 +12920,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/gallery/innerbloom/",
@@ -12860,7 +12945,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/gallery/interdependence-day-papercuts/",
@@ -12884,7 +12969,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/gallery/notes-in-general/",
@@ -12907,7 +12992,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/gallery/pikas-place",
@@ -12989,7 +13074,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/archives/",
@@ -13010,7 +13095,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/art/",
@@ -13031,7 +13116,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/books/",
@@ -13052,7 +13137,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/coffee/",
@@ -13073,7 +13158,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/conceptual-labor/",
@@ -13094,7 +13179,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/cozyweb/",
@@ -13124,7 +13209,7 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       }
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/featured/",
@@ -13145,7 +13230,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/friend/",
@@ -13166,7 +13251,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/good-cups/",
@@ -13187,7 +13272,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/hummingbirds/",
@@ -13208,7 +13293,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/interdependence-day/",
@@ -13229,7 +13314,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/issue-3/",
@@ -13250,7 +13335,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/life/",
@@ -13271,7 +13356,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/memex/",
@@ -13292,7 +13377,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/memorial/",
@@ -13313,7 +13398,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/meta/",
@@ -13334,7 +13419,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/mind-things/",
@@ -13355,7 +13440,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/mulch/",
@@ -13376,7 +13461,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/music/",
@@ -13397,7 +13482,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/nationale/",
@@ -13418,7 +13503,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/neibhborhood/",
@@ -13439,7 +13524,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/neighborhood/",
@@ -13460,7 +13545,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/octothorpes/",
@@ -13481,7 +13566,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/painting/",
@@ -13502,7 +13587,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/rando/",
@@ -13523,7 +13608,28 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
+  },
+  {
+    "id": "/tag/recipes/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "13-Mar-24",
+    "layout": "tag",
+    "title": "recipes",
+    "slug": "recipes",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ],
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/sources/",
@@ -13544,7 +13650,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/stuff/",
@@ -13565,7 +13671,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/times/",
@@ -13586,7 +13692,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/tag/traditions/",
@@ -13607,28 +13713,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
-  },
-  {
-    "id": "/tag/words/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "14-Jan-24",
-    "layout": "tag",
-    "title": "words",
-    "slug": "words",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "\n",
-    "raw_markdown": "",
-    "backlink_index": [
-
-    ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/album/",
@@ -13649,7 +13734,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/audio/",
@@ -13670,7 +13755,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/collection/",
@@ -13691,7 +13776,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/concepts/",
@@ -13712,7 +13797,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/image/",
@@ -13733,7 +13818,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/media/",
@@ -13754,7 +13839,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/objects/",
@@ -13775,7 +13860,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/people/",
@@ -13796,7 +13881,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/texts/",
@@ -13817,7 +13902,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/video/",
@@ -13838,7 +13923,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   },
   {
     "id": "/category/words/",
@@ -13859,6 +13944,6 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-08 12:23:47 -0800"
+    "date": "2024-03-13 23:19:53 -0700"
   }
 ]

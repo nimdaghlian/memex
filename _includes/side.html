@@ -12,7 +12,14 @@
           </time>
           {% endif %}
         </div>
-
+        {% if page.categories.size >0  %}
+        <h5>Categories: </h5>
+        <div class="ui compact wrapping spaced buttons">
+          {% for cat in page.categories %}
+            <a class="ui tertiary button" style="color: {{page.color}};" href="/category/{{cat}}">{{cat}}</a>
+          {% endfor %}
+      </div>
+        {% endif %}
       {% if page.tags.size >0  %}
         <h5>Tags: </h5>
         <div>

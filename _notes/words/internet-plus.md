@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: word
 title: internet+
 category: words
 author: Jon

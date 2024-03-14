@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1abfabf584e6658",
+        "id": "5ee74b675c8930ef",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5d9ea86f37223d",
+            "id": "027c3d232e6eb431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/texts/Workflow Rennovation 2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/texts/Workflow Rennovation 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,14 +133,35 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ea5d9ea86f37223d",
+  "active": "027c3d232e6eb431",
   "lastOpenFiles": [
+    "_site/adas-three-kinds-of-things.html",
+    "_notes/Lucy's Eggs.md",
+    "_site/lucys-eggs.html",
+    "_site/urs/index.html",
+    "_site/urs",
+    "_site/tag/recipes/index.html",
+    "_site/tag/recipes",
+    "_site/tag/friendthing/index.html",
+    "_site/tag/friendthing",
+    "_notes/words/prunty.md",
+    "_site/lucy-s-eggs/index.html",
+    "_site/lucy-s-eggs",
+    "_tag-pages/recipes.md",
+    "_tag-pages/friendthing.md",
     "_site/site-index.json",
-    "_site/category/concepts/index.html",
-    "_site/category/concepts",
+    "_site/cache/resize/4e0530b395c4e3d4f9ad00879b59b39b_90x90.gif",
+    "_site/cache/resize/4e0530b395c4e3d4f9ad00879b59b39b_400x400.gif",
+    "cache/resize/4e0530b395c4e3d4f9ad00879b59b39b_90x90.gif",
+    "cache/resize/4e0530b395c4e3d4f9ad00879b59b39b_400x400.gif",
+    "_site/assets/notes/prunty.gif",
+    "_media/notes/prunty-gif.md",
+    "assets/notes/prunty.gif",
+    "assets/notes/IMG_4150-ezgif.com-resize.gif",
+    "_notes/words/internet-plus.md",
+    "_notes/texts/Workflow Rennovation 2024.md",
+    "_notes/words/p.md",
     "_cat-pages/concepts.md",
-    "_site/tag/words/index.html",
-    "_site/tag/words",
     "_notes/objects/Turd Lake Beer.md",
     "_notes/objects/Thinkpad X220 aka Screb.md",
     "_notes/objects/The Side Table.md",
@@ -162,29 +178,8 @@
     "_notes/concepts/Turd Lake Beer.md",
     "_notes/concepts/The Street Potato.md",
     "_notes/concepts/The Old Seal.md",
-    "_notes/concepts/Synthesizers.md",
-    "_notes/concepts/Slow Motion Bullseyes.md",
-    "_notes/concepts/Mind Things.md",
-    "_notes/concepts/Bread Times.md",
-    "_notes/concepts/Brain Mulch.md",
-    "_notes/concepts/Ada's three kinds of things.md",
-    "_notes/concepts",
-    "_notes/words/Urs.md",
-    "_site/internet-plus/index.html",
-    "_site/internet-plus",
-    "_site/hypolink/index.html",
-    "_site/hypolink",
-    "_site/infobahn/index.html",
-    "_notes/words/internet-plus.md",
     "_site/cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
     "cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
-    "_site/cache/resize/508e367c831a5ad0fa8df783092cc468_800x800.jpeg",
-    "cache/resize/508e367c831a5ad0fa8df783092cc468_800x800.jpeg",
-    "_site/cache/resize/9116719f44903e1cb3c6719a4147b0e2_90x90.jpeg",
-    "_site/cache/resize/ec08b8276c6d3b364de445bd0b9bdf7a_90x90.jpeg",
-    "_site/cache/resize/d214495dbf0f11f4943221af09efa92a_90x90.jpeg",
-    "_site/cache/resize/be861b950fce01143d78e50064cb6497_90x90.jpeg",
-    "_site/cache/resize/42650e7d218a08f5d6df368da5d72913_90x90.jpeg",
-    "_site/cache/resize/256c7a9af9b0f7e6681938290d888fbf_90x90.jpeg"
+    "_site/cache/resize/508e367c831a5ad0fa8df783092cc468_800x800.jpeg"
   ]
 }
