@@ -21,7 +21,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/patterns-of-intention/",
@@ -51,7 +51,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/the-conceptual-labor-book/",
@@ -82,7 +82,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/wushi",
@@ -337,7 +337,7 @@
     "slug": "The Mole Diagram",
     "ext": ".md",
     "excerpt": "<p>Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you’re-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but <a href=\"https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do\">The Thing I was Trying to Do</a> seemed to pop up in all those realms.</p>\n",
-    "raw_markdown": "Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you're-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but [The Thing I was Trying to Do](https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do) seemed to pop up in all those realms.\n\nSo in the dream, I drew a diagram on the wall of my studio to explain what I was trying to say to Greg.\n\n> mole diagram\n\nThe idea was that for each thing you get interested in, you start digging down as you get further and further into it. But the tunnels aren't perfectly straight, and sometimes you get into something deep enough that it intersects with another tunnel by surprise, and you get a cave-in where a big shared conceptual space opens up. You're painting with paint but you realize you could do the same thing with thread. You develop a studio practice, but it turns out the mental state and the sensitivity you need there is also what you need when you practice Taiji. That kind of thing.\n\nAt the time, my big complaint was that there's certain levels, like a waterline, that if you dig past them everyone down there expects a certain fluency and commitment to whatever that particular tunnel is about. If you're down that far in a couple subjects without making connections, you have a really long mental journey when you're switching between disciplines. You gotta go all the way up one tunnel, across, and back down. I remember really feeling a palpable sense of disorientation going from long days in my studio to learning basic programming concepts and even just learning how to survive sitting in front of the computer for hours at a time.\n\nAnyway, when I got to the studio that day I told Greg about the dream, and then I drew the diagram on the wall, and he totally got it. That was satisfying.\n\n",
+    "raw_markdown": "Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you're-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but [The Thing I was Trying to Do](https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do) seemed to pop up in all those realms.\n\nSo in the dream, I drew a diagram on the wall of my studio to explain what I was trying to say to Greg.\n\n![A drawing of a cross section of the ground showing multiple tunnels coming down from the surface, branching off, joining, and then branching off again.](/assets/notes/mole-diagram.jpeg)\n\nThe idea was that for each thing you get interested in, you start digging down as you get further and further into it. But the tunnels aren't perfectly straight, and sometimes you get into something deep enough that it intersects with another tunnel by surprise, and you get a cave-in where a big shared conceptual space opens up. You're painting with paint but you realize you could do the same thing with thread. You develop a studio practice, but it turns out the mental state and the sensitivity you need there is also what you need when you practice Taiji. That kind of thing.\n\nAt the time, my big complaint was that there's certain levels, like a waterline, that if you dig past them everyone down there expects a certain fluency and commitment to whatever that particular tunnel is about. If you're down that far in a couple subjects without making connections, you have a really long mental journey when you're switching between disciplines. You gotta go all the way up one tunnel, across, and back down. I remember really feeling a palpable sense of disorientation going from long days in my studio to learning basic programming concepts and even just learning how to survive sitting in front of the computer for hours at a time.\n\nAnyway, when I got to the studio that day I told Greg about the dream, and then I drew the diagram on the wall, and he totally got it. That was satisfying.\n\n",
     "backlink_index": [
       {
         "title": "Mind Things",
@@ -345,7 +345,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/about/",
@@ -375,7 +375,7 @@
         "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/colophon/",
@@ -396,7 +396,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/development-log/",
@@ -421,7 +421,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/how-this-memex-started/",
@@ -492,7 +492,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/what-is-a-memex/",
@@ -514,7 +514,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/magic-masala-chips/",
@@ -537,7 +537,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/quilt-by-delphine/",
@@ -562,7 +562,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/slice-of-life-mug/",
@@ -587,7 +587,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/stirrup-cup/",
@@ -612,7 +612,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/synthesizers/",
@@ -637,7 +637,7 @@
         "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/the-old-seal/",
@@ -683,7 +683,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/the-side-table/",
@@ -707,7 +707,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/the-street-potato/",
@@ -753,7 +753,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/turd-lake-beer/",
@@ -780,7 +780,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/aaron/",
@@ -805,7 +805,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/abe/",
@@ -830,7 +830,7 @@
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/andrea/",
@@ -865,7 +865,7 @@
         "excerpt": "<p>Aaron is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a> and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/carl-diehl/",
@@ -922,7 +922,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/evan/",
@@ -952,7 +952,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/jane-zemel/",
@@ -974,7 +974,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/john-james/",
@@ -999,7 +999,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/jon/",
@@ -1047,7 +1047,7 @@
         "excerpt": "<p>T.I.N.S.T.A.C. stands for There Is No Such Thing as Coincidence, coined by [[Jon]], because life, well, it be that way.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/lucy/",
@@ -1073,7 +1073,7 @@
         "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/martha/",
@@ -1158,7 +1158,7 @@
         "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/nik/",
@@ -1198,7 +1198,7 @@
         "excerpt": "<p>SHRUGGIE \nI had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a <a href=\"https://garden.nikolas.ws/thinking-about-octothorpes/\">much prettier pile</a>.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/ryan/",
@@ -1223,7 +1223,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -1244,7 +1244,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -1279,7 +1279,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/me/",
@@ -1309,7 +1309,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -1334,7 +1334,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -1369,7 +1369,7 @@
         "excerpt": "<p>This is a brief walkthrough of my paintings and drawings in the first show of Grapefruits gallery in the rare book room of [[Mother Foucault’s]].</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -1394,7 +1394,7 @@
         "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/research-club/",
@@ -1415,7 +1415,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/sounds-of-the-record-tree/",
@@ -1484,7 +1484,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/time-confetti-and-the-broken-promise-of-leisure/",
@@ -1506,7 +1506,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/warpaint-no-1/",
@@ -1530,7 +1530,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/workflow-rennovation-2024/",
@@ -1551,7 +1551,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -1576,7 +1576,7 @@
         "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -1606,7 +1606,7 @@
         "excerpt": "<p><a href=\"https://www.nationale.us/amy-bay-they-always-have-and-still-do-2023\">June 2–July 9, 2023 at Nationale</a></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/interdependence-day/",
@@ -1646,7 +1646,7 @@
         "excerpt": "<p>Since 2015, I’ve made a papercut based on the Polish tradition of Wiczynanki for [[Interdependence Day]].</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/infobahn/",
@@ -1669,7 +1669,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/urs/",
@@ -1697,7 +1697,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/hypolink/",
@@ -1720,7 +1720,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/internet-plus/",
@@ -1748,7 +1748,7 @@
         "excerpt": "<p>You can only get [[internet+]] on the Infobahn.</p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/prunty/",
@@ -1772,7 +1772,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tinstac/",
@@ -1796,7 +1796,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/media/interdependence-day-papercuts/id-011515-jpg",
@@ -12910,6 +12910,33 @@
     ]
   },
   {
+    "id": "/media/notes-in-general/mole-diagram-jpeg",
+    "draft": false,
+    "categories": [
+      "image"
+    ],
+    "last_modified_at": "15-Mar-24",
+    "title": "mole-diagram.jpeg",
+    "date": "2024-03-15 13:08:19 -0700",
+    "dateadded": "2024-03-15 13:08:19 -0700",
+    "asset": "/assets/notes/mole-diagram.jpeg",
+    "image": "/assets/notes/mole-diagram.jpeg",
+    "gallery": "notes-in-general",
+    "permalink": "/media/notes-in-general/mole-diagram-jpeg",
+    "layout": "asset",
+    "tags": [
+      "mulch",
+      "rando"
+    ],
+    "slug": "mole-diagram-jpeg",
+    "ext": ".md",
+    "excerpt": "\n",
+    "raw_markdown": "",
+    "backlink_index": [
+
+    ]
+  },
+  {
     "id": "/gallery/expochgo/",
     "draft": false,
     "categories": [
@@ -12930,7 +12957,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/gallery/everything-in-my-wifes-bag-two-days-after-we-got-married",
@@ -12955,7 +12982,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/gallery/genre-painting-reference/",
@@ -12978,7 +13005,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/gallery/innerbloom/",
@@ -13003,7 +13030,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/gallery/interdependence-day-papercuts/",
@@ -13027,7 +13054,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/gallery/notes-in-general/",
@@ -13050,7 +13077,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/gallery/pikas-place",
@@ -13132,7 +13159,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/archives/",
@@ -13153,7 +13180,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/art/",
@@ -13174,7 +13201,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/books/",
@@ -13195,7 +13222,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/coffee/",
@@ -13216,7 +13243,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/conceptual-labor/",
@@ -13237,7 +13264,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/cozyweb/",
@@ -13267,7 +13294,7 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       }
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/featured/",
@@ -13288,7 +13315,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/friend/",
@@ -13309,7 +13336,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/good-cups/",
@@ -13330,7 +13357,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/hummingbirds/",
@@ -13351,7 +13378,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/interdependence-day/",
@@ -13372,7 +13399,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/issue-3/",
@@ -13393,7 +13420,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/life/",
@@ -13414,7 +13441,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/memex/",
@@ -13435,7 +13462,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/memorial/",
@@ -13456,7 +13483,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/meta/",
@@ -13477,7 +13504,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/mind-things/",
@@ -13498,7 +13525,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/mulch/",
@@ -13519,7 +13546,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/music/",
@@ -13540,7 +13567,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/nationale/",
@@ -13561,7 +13588,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/neibhborhood/",
@@ -13582,7 +13609,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/neighborhood/",
@@ -13603,7 +13630,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/octothorpes/",
@@ -13624,7 +13651,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/painting/",
@@ -13645,7 +13672,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/rando/",
@@ -13666,7 +13693,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/recipes/",
@@ -13687,7 +13714,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/sources/",
@@ -13708,7 +13735,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/stuff/",
@@ -13729,7 +13756,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/times/",
@@ -13750,7 +13777,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/tag/traditions/",
@@ -13771,7 +13798,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/album/",
@@ -13792,7 +13819,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/audio/",
@@ -13813,7 +13840,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/collection/",
@@ -13834,7 +13861,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/concepts/",
@@ -13855,7 +13882,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/image/",
@@ -13876,7 +13903,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/media/",
@@ -13897,7 +13924,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/objects/",
@@ -13918,7 +13945,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/people/",
@@ -13939,7 +13966,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/texts/",
@@ -13960,7 +13987,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/video/",
@@ -13981,7 +14008,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   },
   {
     "id": "/category/words/",
@@ -14002,6 +14029,6 @@
     "backlink_index": [
 
     ],
-    "date": "2024-03-15 13:08:10 -0700"
+    "date": "2024-03-15 13:34:56 -0700"
   }
 ]
