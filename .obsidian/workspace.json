@@ -11,8 +11,12 @@
             "id": "027c3d232e6eb431",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/concepts/The Mole Diagram.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/concepts/The Mole Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +140,11 @@
   },
   "active": "027c3d232e6eb431",
   "lastOpenFiles": [
+    "_site/the-mole-diagram/index.html",
+    "_site/the-mole-diagram",
+    "_cat-pages/words.md",
+    "_notes/concepts/The Mole Diagram.md",
+    "_notes/places/Mother Foucault's.md",
     "_site/media/notes-in-general/redescriptions-walkthrough-mp4.html",
     "_site/assets/notes/redescriptions-walkthrough.mp4",
     "_media/notes/redescriptions-walkthrough-mp4.md",
@@ -145,8 +155,6 @@
     "assets/notes/redescriptions-walkthrough-1.mov.sb-4f6f523f-cZRA05",
     "assets/notes/redescriptions-walkthrough-1.mov",
     "_site/assets/notes/redescriptions-walkthrough.mov",
-    "assets/notes/redescriptions-walkthrough.mov",
-    "_site/assets/notes/IMG_4036.mov",
     "_notes/Lucy's Eggs.md",
     "_notes/words/prunty.md",
     "_tag-pages/recipes.md",
@@ -175,9 +183,6 @@
     "_notes/stuff/Turd Lake Beer.md",
     "_notes/objects/Synthesizers.md",
     "_notes/objects/The Old Seal.md",
-    "_notes/concepts/wushi.md",
-    "_notes/concepts/Turd Lake Beer.md",
-    "_notes/concepts/The Street Potato.md",
     "_site/cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
     "cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
     "_site/cache/resize/508e367c831a5ad0fa8df783092cc468_800x800.jpeg"
