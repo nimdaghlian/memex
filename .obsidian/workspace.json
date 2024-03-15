@@ -140,6 +140,12 @@
   },
   "active": "027c3d232e6eb431",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_site/assets/notes/mole-diagram.jpeg",
+    "_media/notes/mole-diagram-jpeg.md",
+    "assets/notes/mole-diagram.jpeg",
+    "assets/mole-diagram.jpeg",
+    "_media/notes/mole-diagram.jpeg",
     "_site/the-mole-diagram/index.html",
     "_site/the-mole-diagram",
     "_cat-pages/words.md",
@@ -149,12 +155,10 @@
     "_site/assets/notes/redescriptions-walkthrough.mp4",
     "_media/notes/redescriptions-walkthrough-mp4.md",
     "assets/notes/redescriptions-walkthrough.mp4",
-    "_site/site-index.json",
     "_site/assets/notes/redescriptions-walkthrough-1.mov",
     "assets/notes/redescriptions-walkthrough-1.mov.sb-4f6f523f-WuyNUk-otherTracks.mov",
     "assets/notes/redescriptions-walkthrough-1.mov.sb-4f6f523f-cZRA05",
     "assets/notes/redescriptions-walkthrough-1.mov",
-    "_site/assets/notes/redescriptions-walkthrough.mov",
     "_notes/Lucy's Eggs.md",
     "_notes/words/prunty.md",
     "_tag-pages/recipes.md",
@@ -166,7 +170,6 @@
     "_site/assets/notes/prunty.gif",
     "_media/notes/prunty-gif.md",
     "assets/notes/prunty.gif",
-    "assets/notes/IMG_4150-ezgif.com-resize.gif",
     "_notes/words/internet-plus.md",
     "_notes/texts/Workflow Rennovation 2024.md",
     "_notes/words/p.md",
@@ -181,10 +184,6 @@
     "_notes/objects/Magic Masala Chips.md",
     "_notes/objects/The Street Potato.md",
     "_notes/stuff/Turd Lake Beer.md",
-    "_notes/objects/Synthesizers.md",
-    "_notes/objects/The Old Seal.md",
-    "_site/cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
-    "cache/resize/4fe3a761dfe6eb05198e93d284e5d1b6_800x800.jpeg",
-    "_site/cache/resize/508e367c831a5ad0fa8df783092cc468_800x800.jpeg"
+    "_notes/objects/Synthesizers.md"
   ]
 }
