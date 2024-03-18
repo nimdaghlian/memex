@@ -12,7 +12,7 @@
       <main class="ui two column grid stackable flooped page_hilight" style="margin: 40px -7px; padding: 20px 20px 5rem 20px; background-size: 3%; transition: background-size 2s ease;">
         <content class="ui ten wide column">
           <!-- end excerpt -->
-          {% assign galleries = site.galleries | sort: 'date' | reverse  %}
+          {% assign galleries = site.galleries | sort: 'date'  %}
             <div class="card block" >
               {% for post in galleries  limit:1 %}
               {% assign recentgal = post.gallery  %}
