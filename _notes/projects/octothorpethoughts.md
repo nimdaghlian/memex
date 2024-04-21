@@ -160,4 +160,4 @@ Finally reading my paper copy of Literary Machines properly after showing the me
 
 misread the instructions on how to navigate the book as having multiple levels of significant underlining. as in a double or single underline have distinct meaning. maybe octothorpe notation is a double underline?
 
-[#cozyweb]: https://octothorp.es/~/cozyWeb?/tag/cozyweb
+[#cozyweb]: https://octothorp.es/~/cozyWeb?/=tag/cozyweb
