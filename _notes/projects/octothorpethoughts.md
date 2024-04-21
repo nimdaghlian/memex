@@ -5,7 +5,13 @@ layout: note
 poster: ''
 
 ---
-SHRUGGIE 
+
+DOES THIS WORK [cozyweb][#cozyweb]???
+
+---
+
+SHRUGGIE
+
 I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a [much prettier pile](https://garden.nikolas.ws/thinking-about-octothorpes/).
 
 
@@ -153,3 +159,5 @@ The `feed` request will create an rss/xml/whatever feed based on request paramet
 Finally reading my paper copy of Literary Machines properly after showing the memex to my sister.
 
 misread the instructions on how to navigate the book as having multiple levels of significant underlining. as in a double or single underline have distinct meaning. maybe octothorpe notation is a double underline?
+
+[#cozyweb]: https://octothorp.es/~/cozyWeb?/tag/cozyweb
