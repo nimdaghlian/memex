@@ -1,0 +1,27 @@
+---
+layout: note
+---
+
+{% for feed_entry in site.data.feeds %}
+  {% assign feed_name = feed_entry[0] %}
+  {% assign feed_data = feed_entry[1] %}
+  <article class="ui ten wide column">
+
+ 
+  <h2>{{ feed_name }}</h2>
+  <p>Octothorpe: {{ feed_data['tag'] }}</p>
+  <ul>
+    {% for item in feed_data['items'] %}
+      <li>
+        <a href="{{ item['link'] }}">{{ item['link'] }}</a>
+        {% if item['description'] %}
+        <p>{{ item['description'] }}</p>
+        {% endif %}
+        <octo-thorpe href="{{ item['link'] }}">{{ feed_data['tag'] }}</octo-thorpe>
+        
+      </li>
+    {% endfor %}
+    </ul>
+    </article>
+
+{% endfor %}
