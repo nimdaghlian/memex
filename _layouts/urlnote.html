@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="ui ten wide column">
+  <div>
+    <h1>{{ page.title }}</h1>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      <div class='feed-link'>
+        <h3>Originating URL</h3>
+        <a href="{{ page.url}}">{{ page.url}}</a>
+      </div>
+      {{ content }}
+    </content>
+  </div>
+  </article>
+  <side style="font-size: 0.9em;" class="ui five wide column">
+    <octo-thorpe href="{{ page.url}}">{{ page.tags }}</octo-thorpe>
+    {% include side.html  %}     
+</side>
+
+

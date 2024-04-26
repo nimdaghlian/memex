@@ -21,7 +21,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/patterns-of-intention/",
@@ -51,7 +51,86 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/the-conceptual-labor-book/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Jan-24",
+    "layout": "note",
+    "title": "The Conceptual Labor Book",
+    "tags": [
+      "books",
+      "conceptual labor"
+    ],
+    "slug": "The Conceptual Labor Book",
+    "ext": ".md",
+    "excerpt": "<p>This is the Conceptual Labor book that I wrote.</p>\n",
+    "raw_markdown": "This is the Conceptual Labor book that I wrote.\n\n[![A stack of books with the title Conceptual Labor](https://conceptuallabor.com/images/book-stack.jpg)](https://conceptuallabor.com/book)\n\n\n\n",
+    "backlink_index": [
+      {
+        "title": "Mind Things",
+        "url": "/mind-things/",
+        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
+      },
+      {
+        "title": "Nik Wise",
+        "url": "/nik/",
+        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
+      }
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/the-mole-diagram/",
+    "draft": false,
+    "categories": [
+      "concepts"
+    ],
+    "last_modified_at": "15-Mar-24",
+    "layout": "note",
+    "tags": [
+      "mind-things"
+    ],
+    "category": "concepts",
+    "title": "The mole diagram",
+    "slug": "The Mole Diagram",
+    "ext": ".md",
+    "excerpt": "<p>Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you’re-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but <a href=\"https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do\">The Thing I was Trying to Do</a> seemed to pop up in all those realms.</p>\n",
+    "raw_markdown": "Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you're-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but [The Thing I was Trying to Do](https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do) seemed to pop up in all those realms.\n\nSo in the dream, I drew a diagram on the wall of my studio to explain what I was trying to say to Greg.\n\n![A drawing of a cross section of the ground showing multiple tunnels coming down from the surface, branching off, joining, and then branching off again.](/assets/notes/mole-diagram.jpeg)\n\nThe idea was that for each thing you get interested in, you start digging down as you get further and further into it. But the tunnels aren't perfectly straight, and sometimes you get into something deep enough that it intersects with another tunnel by surprise, and you get a cave-in where a big shared conceptual space opens up. You're painting with paint but you realize you could do the same thing with thread. You develop a studio practice, but it turns out the mental state and the sensitivity you need there is also what you need when you practice Taiji. That kind of thing.\n\nAt the time, my big complaint was that there's certain levels, like a waterline, that if you dig past them everyone down there expects a certain fluency and commitment to whatever that particular tunnel is about. If you're down that far in a couple subjects without making connections, you have a really long mental journey when you're switching between disciplines. You gotta go all the way up one tunnel, across, and back down. I remember really feeling a palpable sense of disorientation going from long days in my studio to learning basic programming concepts and even just learning how to survive sitting in front of the computer for hours at a time.\n\nAnyway, when I got to the studio that day I told Greg about the dream, and then I drew the diagram on the wall, and he totally got it. That was satisfying.\n\n",
+    "backlink_index": [
+      {
+        "title": "Mind Things",
+        "url": "/mind-things/",
+        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
+      }
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/wushi",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "title": "Wushi",
+    "permalink": "/wushi",
+    "tags": [
+      "interdependence day"
+    ],
+    "date": "2013-01-15 00:00:00 -0800",
+    "slug": "wushi",
+    "ext": ".md",
+    "excerpt": "<p>Lacking by the elegance and refinement of sushi, free of the “good recipes” of tapas, and void of the cachet of nouvelle-cuisine, Wushi is distinguished from other small-plate traditions by placing priority on the question “what do I want to put in my mouth” rather than the question “what should I put in my mouth”.</p>\n",
+    "raw_markdown": "Lacking by the elegance and refinement of sushi, free of the \"good recipes\" of tapas, and void of the cachet of nouvelle-cuisine, Wushi is distinguished from other small-plate traditions by placing priority on the question “what do I want to put in my mouth” rather than the question “what should I put in my mouth”.  \n\nAccommodating all traditions, ingredients, and opinions of what is edible, Wushi is founded **4 Basic principles** which are applied to a system of classification for maximum tastiness results. \n\nI originally made this up for [[Interdependence Day]], but it has lived on in many forms.\n \n## The Principles of Wushi\n\n\n\n1. Take food you like\n2. Put it on top of, or inside, other food you like\n3. If possible, include something that could make it taste weird, but ends up making it taste awesome.\n4. Make it bite-sized, for optimal sharing and ballistics.\n\n## The System of Wushi\n\nFood and food-like items are divided into the following categories\n\n* Headliner\n* Ballast\n* Pizzazz\n* The Snug\n* The Plank\n* The Smooth\n* The Sauce\n* Sprinkles\n\n\n\n\n---\n\n## Headliner\n\n\nSubstantial, flavorful items \n\n### Sushi equivalent\n\nfish\t\n\t\n### Basic\n\n\nWild mushrooms, bacon, Marinated tofu\n\n### Advanced \n \n\nmini-pizzas, snails, cactus\n\n### Adventurous\n\n\nbar soap\n\n\n\n---\n\n## Ballast\n\n\nSubstantial but blander than the Headliner. \n\n### Sushi equivalent\nRice\n\n### Basic\n\nRice, potatoes\n\n### Advanced \n \nBrioche, marshmallows\n\n### Adventurous\n\nMatchbox cars\n\n\n---\n\n## Pizzazz\n\n\nSpicy, tangy, or ummami-ful stuff, often dipped-in or added-on\n\n### Sushi equivalent\nwasabi, pickled ginger, etc.\n\n### Basic\n\nMustard, hot peppers, lemon, horseradish, olives\n\n### Advanced \n \nbalsamic vinegar, dried cherries, whisky\n\n### Adventurous\n\nbleach\n\n\n---\n\n## The Snug\n\n\nSheet-food or pocket-food that you wrap around the other stuff\n\n### Sushi equivalent\nNigiri\n\n### Basic\n\nTortillas, chard leaves, crepes \n\n### Advanced \n \nBean paste, bubblegum, grape leaves\n\n### Adventurous\n\nHairnets\n\n---\n\n## The Plank\n\n\nFlat and sturdy food onto which you can pile everything else\n\n### Sushi equivalent\n?\n\n### Basic\n\nCrackers, chips\n\n### Advanced \n \nPop-tarts, hard cheese\n\n### Adventurous\n\ncardboard\n\n---\n\n## The Smooth\n\n\nFat = flavor\n\n### Sushi equivalent\n\nCream cheese*, creamy scallop, avocado\n\n### Basic\n\n\ngoat cheese, silken tofu, yogurt\n\n### Advanced \n \napple butter, spray cheese, lard\n\n### Adventurous\n\nwheat paste\n\n---\n\n## Sprinkles\n\n\nExtra-tasty bits to sprinkle on top\n\n### Sushi equivalent\nRoe, onion slices\n\n### Basic\n\ncrushed nuts, actual sprinkles, salt, blue cheese crumbles\n\n### Advanced \n \nBrewer’s yeast, pop-rocks\n\n### Adventurous\n\nGlitter\n\n---\n\n## The Sauce\n\n\nSelf-explanatory. Infinite possibilities.\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/the-paddleboat-family/",
@@ -117,56 +196,1099 @@
     ]
   },
   {
-    "id": "/stumbled-into-a-webring/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "15-Oct-23",
-    "layout": "note",
-    "date": "2023-10-04 00:00:00 -0700",
-    "tags": [
-      "cozyweb"
-    ],
-    "title": "Stumbled into a webring",
-    "slug": "Stumbled into a Webring",
-    "ext": ".md",
-    "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n",
-    "raw_markdown": "Ok, so maybe the old, small web has some juice left in it.\n\nHere I am writing a short essay about why I'm building a memex in 2023, and the enshittification of search engines made it very hard to find the [popular essay](https://runyourown.social/) that inspired me to start a private social network in the pandemic. I know I bookmarked it, I vaguely remember the name of the (seemingly awesome) [person that wrote it](https://friend.camp/@darius), but mostly the colors not the words of his name. Searching confronted me with the ongoing enshittification of search at the moment -- even Duck Duck Go was brimming with chum and generative clickbait-feeling stuff about boosting brand engagement. I almost gave up but the last result on the page of one search, as I was clicking away from it, had a name on it that tripped a sub-verbal set of associations that made me click through, and I found myself looking at this:\n\n![Screenshot of Bill Hunt's blog](/assets/notes/bill-hunt-blog.png)\nNot only was it the right link, it was on a... regular personal website but it looked basically like what I thought all websites should look like 20 years ago (and tbh still do), built with thing I currently prefer to make websites with.\n\nAnd, uhh, it's part of a...webring? [The Public Interest Tech Webring](https://pitwebring.billhunt.dev/)?\n\nIt's moments like these that remind me that maybe my first thought when I find little patches of thriving native plants in the corners of Online monoculture shouldn't be \"how long until this disappears?\" and instead just enjoy the clicking.\n\nLike, ok I just went back to those links turns out I'm looking at the blog of one of the bigger proponents of modern [webrings](https://billhunt.dev/blog/2022/12/30/bringing-webrings-back/)!\n\nThis is like the time I started writing about why I was making a digital garden and ended up discovering the gemini protocol >> [[How This Memex Started]]\n\n",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/the-conceptual-labor-book/",
+    "id": "/sounds-of-the-record-tree/",
     "draft": false,
     "categories": [
 
     ],
     "last_modified_at": "16-Jan-24",
     "layout": "note",
-    "title": "The Conceptual Labor Book",
+    "image": "/assets/notes/sotrt-v1-cover.jpg",
+    "date": "2022-01-15 00:00:00 -0800",
     "tags": [
-      "books",
-      "conceptual labor"
+      "interdependence day",
+      "music"
     ],
-    "slug": "The Conceptual Labor Book",
+    "title": "Sounds of the record tree",
+    "slug": "Sounds of the Record Tree",
     "ext": ".md",
-    "excerpt": "<p>This is the Conceptual Labor book that I wrote.</p>\n",
-    "raw_markdown": "This is the Conceptual Labor book that I wrote.\n\n[![A stack of books with the title Conceptual Labor](https://conceptuallabor.com/images/book-stack.jpg)](https://conceptuallabor.com/book)\n\n\n\n",
+    "excerpt": "<p>In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree – the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.</p>\n",
+    "raw_markdown": "In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree -- the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.\n\n![A pile of records at the base of a tree](/assets/notes/sotrt-pile.jpg)\n\n### Sounds of the Record Tree: Vol 1\n\n![Cover for the Sounds of the Record Tree Volume 1 mixtape drawn by Martha Daghlian](/assets/notes/sotrt-v1-cover.jpg)\n\n\nThis is the first mixtape I have made to highlight the gems that reward those who will dig through the Record Tree's sundry produce. Given the (growing) stack of sometimes-muddy records I have brought home from it, it won't be the last. Cover by [Martha](http://athousandcirclets.garden).\n\n<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1380229834&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>\n\n<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/nim-daghlian\" title=\"Municipal Xylophone\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Municipal Xylophone</a> · <a href=\"https://soundcloud.com/nim-daghlian/sets/sotrt-1\" title=\"Sounds of the Record Tree - Vol. 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Sounds of the Record Tree - Vol. 1</a></div>\n\n\n*Track list:*\n\n### Side A\n\n1.\tJayne Kennedy -- Love Your Body Intro\n2.\tSteeleye Span -- A Calling-on Song\n3.\tCuppa Joe -- Love Peace Anarchy Infinity / Archipeligo\n4.\tDionne Warwick -- Track of the Cat\n5.\tBossa Nova -- I Dream of Jeanie\n6.\tMarilyn Martin -- Night Moves\n7.\tBob Gibson -- Celebrated Skier\n8.\tCarol Hensel's Dancersize -- I Will Survive\n\n### Side B\n\n1.\tDisneyland Chilling Thrilling Sounds of the Haunted House -- A Very Long Fuse\n2.\tI want to do it with you -- Pointer Sisters\n3.\tRalph Carmichael -- All My Life\n4.\tCrystal Gayle -- Why Have You Left the One You Left Me For\n5.\tDiana Ross and the Supremes -- Reflections\n6.\tJohnny Cash -- Get Rhythm\n7.\tScarlatti: Sonata in G Major, L 209/K .455 from the Well Tempered Synthesizer by Wendy Carlos\n8.\tThe Surfmen -- Fire Goddess\n9.\tKiss Me -- Terri Lawrence Total Reconstrution by Lenny Bertoldo from Dance Series Issue 50 (For Professional DJs only)\n10.\tPorter Wagoner -- I've Enjoyed As Much of This As I Can Stand\n11. (hidden)\tRuvin / Halfin / Irving / Sherian -- You're a Pink Toothbrush\n",
     "backlink_index": [
-      {
-        "title": "Mind Things",
-        "url": "/mind-things/",
-        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
-      },
-      {
-        "title": "Nik Wise",
-        "url": "/nik/",
-        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
-      }
+
+    ]
+  },
+  {
+    "id": "/xxiivv-paper-computing/",
+    "draft": false,
+    "categories": [
+
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "XXIIVV — paper computing\n",
+    "date": "2022-04-14 09:20:05 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://wiki.xxiivv.com/site/paper_computing.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "xxiivv-paper-computing",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/100r-uxn/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "100R — uxn\n",
+    "date": "2022-04-14 09:20:14 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://100r.co/site/uxn.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "100r-uxn",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/xxiivv-macintosh/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "XXIIVV — macintosh\n",
+    "date": "2022-04-14 09:20:27 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://wiki.xxiivv.com/site/macintosh.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "xxiivv-macintosh",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/xxiivv-hundred-rabbits/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "XXIIVV — hundred rabbits\n",
+    "date": "2022-04-14 09:20:43 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://wiki.xxiivv.com/site/hundred_rabbits.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "xxiivv-hundred-rabbits",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/webring/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Webring\n",
+    "date": "2022-04-14 09:22:00 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://webring.xxiivv.com/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "webring",
+    "ext": ".md",
+    "excerpt": "<p>Web ring of the charcoalgreyweb. (Not as dark as the darkweb, and much more stylish)&gt;\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "Web ring of the charcoalgreyweb. (Not as dark as the darkweb, and much more stylish)>\r\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/on-the-cozy-web-who-are-you-alisa-wtf/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "On the cozy web, who are you? — alisa.wtf\n",
+    "date": "2022-04-17 09:24:22 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://alisa.wtf/cozy-web-identity",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "on-the-cozy-web-who-are-you-alisa-wtf",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/welcome-to-twtxt-twtxt-1-2-3-documentation/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Welcome to twtxt! — twtxt 1.2.3 documentation\n",
+    "date": "2022-04-18 12:21:09 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://twtxt.readthedocs.io/en/latest/index.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "welcome-to-twtxt-twtxt-1-2-3-documentation",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/happy-net-box-by-ben-brown/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Happy Net Box by Ben Brown\n",
+    "date": "2022-04-18 12:21:22 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://happynetbox.com/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "happy-net-box-by-ben-brown",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/maggie-appleton/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Maggie Appleton\n",
+    "date": "2022-04-18 12:24:52 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://maggieappleton.com/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "maggie-appleton",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/meta-alisa-wtf/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Meta — alisa.wtf\n",
+    "date": "2022-04-18 12:26:18 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://alisa.wtf/meta",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "meta-alisa-wtf",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/tilde-town/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "tilde.town\n",
+    "date": "2022-04-18 12:36:05 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "http://tilde.town/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "tilde-town",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/home-sweet-homepage/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "home sweet homepage\n",
+    "date": "2022-04-19 07:41:50 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://sailorhg.com/home_sweet_homepage/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "home-sweet-homepage",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/generating-a-gopher-site-with-hugo/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Generating a Gopher site with Hugo\n",
+    "date": "2022-04-22 19:45:47 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://jfm.carcosa.net/blog/computing/hugo-gopher/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "generating-a-gopher-site-with-hugo",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/project-gemini/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Project Gemini\n",
+    "date": "2022-04-22 19:56:24 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://gemini.circumlunar.space/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "project-gemini",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/toread-gemini-portal/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "[toread] Gemini Portal\n",
+    "date": "2022-04-22 20:10:05 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://portal.mozz.us/gemini/gemini.circumlunar.space/docs/faq.gmi",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "toread-gemini-portal",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/writing-command-line-apps-in-ruby-honeybadger-developer-blog/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Writing command-line apps in Ruby - Honeybadger Developer Blog\n",
+    "date": "2022-05-14 21:16:02 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.honeybadger.io/blog/writing-command-line-apps-in-ruby/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "writing-command-line-apps-in-ruby-honeybadger-developer-blog",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/linked-open-vocabularies/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Linked Open Vocabularies\n",
+    "date": "2022-05-19 14:13:00 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://lov.linkeddata.es/dataset/lov",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "linked-open-vocabularies",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/no-refunds-a-no-cash-value-a-no-bad-memories/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "NO REFUNDS | NO CASH VALUE | NO BAD MEMORIES\n",
+    "date": "2022-05-23 08:16:26 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.nobadmemories.com/blog",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "no-refunds-a-no-cash-value-a-no-bad-memories",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/adityaathalyeshite-the-little-static-shite-generator-from-shell/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "adityaathalye/shite: The little static shite generator from shell.\n",
+    "date": "2022-05-31 13:35:15 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://github.com/adityaathalye/shite",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "adityaathalyeshite-the-little-static-shite-generator-from-shell",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/simplifier/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Simplifier\n",
+    "date": "2022-06-24 12:32:32 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://simplifier.neocities.org/index.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "simplifier",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/ashido-dot-com/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "ASHIDO... DOT COM!!!\n",
+    "date": "2022-07-12 15:42:57 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "http://www.ashido.com/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "ashido-dot-com",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/gauntlets-microblog/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "gauntlet's microblog\n",
+    "date": "2022-07-12 15:54:41 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://gmb.21x2.net/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "gauntlets-microblog",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/toread-all-you-need-is-links-by-gordon-brander-subconscious/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "[toread] All you need is links - by Gordon Brander - Subconscious\n",
+    "date": "2022-07-12 15:58:18 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://subconscious.substack.com/p/all-you-need-is-links?s=r",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "toread-all-you-need-is-links-by-gordon-brander-subconscious",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/toread-on-the-building-of-software-and-websites-dorian-taylor/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "[toread] On the “Building” of Software and Websites — Dorian Taylor\n",
+    "date": "2022-10-06 17:11:11 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://doriantaylor.com/on-the-building-of-software-and-websites",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "toread-on-the-building-of-software-and-websites-dorian-taylor",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/the-future-of-blogging-a-koos-looijesteijn/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "The future of blogging | Koos Looijesteijn\n",
+    "date": "2022-12-26 13:46:04 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.kooslooijesteijn.net/blog/future-of-blogging",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "the-future-of-blogging-a-koos-looijesteijn",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/scripting-news-dev-notes-for-markdown-in-rss/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Scripting News: Dev notes for Markdown in RSS\n",
+    "date": "2022-12-26 13:53:29 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "scripting-news-dev-notes-for-markdown-in-rss",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/everest-pipkin/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Everest Pipkin\n",
+    "date": "2023-01-05 14:54:37 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://everest-pipkin.com/#",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "everest-pipkin",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/garlic-garden/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "🌿 garlic 🧄 garden 🌿\n",
+    "date": "2023-01-05 15:16:40 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://garlic.garden/onionring/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "garlic-garden",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/spencer-chang-on-twitter-tiny-social-networks-spotify-listening-activity-github-activity-guest-windows-on-httpst-cof47onviqqk-cursor-chat-httpst-coi6l1ajfdf2-youtube-comments-my-apt-pinboard-thinking-of-a-world-where-everyone-ca/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "spencer chang 🍃 on Twitter: \"tiny social networks - spotify listening activity - github activity - guest windows on https://t.co/f47oNVIqqK - cursor chat https://t.co/I6l1AjfDF2 - youtube comments - my apt pinboard thinking of a world where everyone ca\n",
+    "date": "2023-01-11 14:16:13 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://twitter.com/spencerc99/status/1612898710526251009",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "spencer-chang-on-twitter-tiny-social-networks-spotify-listening-activity-github-activity-guest-windows-on-httpst-cof47onviqqk-cursor-chat-httpst-coi6l1ajfdf2-youtube-comments-my-apt-pinboard-thinking-of-a-world-where-everyone-ca",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/github-jackyzha0cursor-chat-cursor-chat-a-la-figma-for-digital-co-existing-presence/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "GitHub - jackyzha0/cursor-chat: 💬 cursor chat à la Figma for digital co-existing + presence\n",
+    "date": "2023-01-25 12:04:18 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://github.com/jackyzha0/cursor-chat",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "github-jackyzha0cursor-chat-cursor-chat-a-la-figma-for-digital-co-existing-presence",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/toread-owl-2-web-ontology-language-primer-second-edition/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "[toread] OWL 2 Web Ontology Language Primer (Second Edition)\n",
+    "date": "2023-02-08 21:58:56 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.w3.org/TR/owl2-primer/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "toread-owl-2-web-ontology-language-primer-second-edition",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/toread-introduction-to-skos-dataversity/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "[toread] Introduction to: SKOS - DATAVERSITY\n",
+    "date": "2023-02-08 21:59:20 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.dataversity.net/introduction-to-skos/#",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "toread-introduction-to-skos-dataversity",
+    "ext": ".md",
+    "excerpt": "<p>SKOS Primer addresses these issues very well\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "SKOS Primer addresses these issues very well\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/toread-skos-simple-knowledge-organization-system-primer/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "[toread] SKOS Simple Knowledge Organization System Primer\n",
+    "date": "2023-02-08 21:59:35 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.w3.org/TR/skos-primer/#secskosowl",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "toread-skos-simple-knowledge-organization-system-primer",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/ruby-command-line-interface-gems-sitepoint/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Ruby Command Line Interface Gems — SitePoint\n",
+    "date": "2023-02-09 10:20:28 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.sitepoint.com/ruby-command-line-interface-gems/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "ruby-command-line-interface-gems-sitepoint",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/build-a-javascript-command-line-interface-cli-with-node-js-sitepoint/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Build a JavaScript Command Line Interface (CLI) with Node.js — SitePoint\n",
+    "date": "2023-02-09 10:22:54 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "build-a-javascript-command-line-interface-cli-with-node-js-sitepoint",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/sekund-io/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Sekund.io\n",
+    "date": "2023-02-11 18:19:50 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.sekund.io/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "sekund-io",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/toread-the-magic-of-small-databases/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "[toread] The Magic of Small Databases\n",
+    "date": "2023-02-13 17:48:43 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://tomcritchlow.com/2023/01/27/small-databases/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "toread-the-magic-of-small-databases",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/big-pipe-tracker-see-how-the-big-pipes-prevent-combined-sewer-overflows-a-portland-gov/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Big Pipe Tracker: See how the Big Pipes prevent combined sewer overflows | Portland.gov\n",
+    "date": "2023-03-13 15:42:21 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.portland.gov/bes/big-pipe-tracker",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "big-pipe-tracker-see-how-the-big-pipes-prevent-combined-sewer-overflows-a-portland-gov",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/www-toastermuseum-com-toaster-specials-unbelievable-expensive-toasters/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "www.toastermuseum.com - TOASTER SPECIALS - Unbelievable expensive toasters\n",
+    "date": "2023-08-04 12:57:59 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "http://toastermuseum.com/scripts/toasterspecials/spe_expensive01.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "www-toastermuseum-com-toaster-specials-unbelievable-expensive-toasters",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/the-street-potato/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "title": "The Street Potato",
+    "tags": [
+      "neighborhood"
+    ],
+    "category": "objects",
+    "date": "2023-08-06 00:00:00 -0700",
+    "slug": "The Street Potato",
+    "ext": ".md",
+    "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n",
+    "raw_markdown": "![A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.](/assets/notes/the-sweet-potato-aug-6-2023.jpeg)\n> The Street Potato as of August 6, 2023\n\nMartha and I were at the [[Worker's Tap]] with [[Andrea]] talking about the micro-neighborhood of the four square blocks that encompass the Tap, her house, and our place. I mentioned The Street Potato in that way you remove detail when talking about something that has an extensive entry in your brain but you are talking to someone who might not know what you're talking about or possibly think you're somewhat crazy if you talked about it in the detail you think of it. To be clear -- I *knew* Andrea would be down with it, but didn't want to assume she had noticed it.\n\n\"Oh you mean the one up on Ankeny??\"\n\nYeah, she had noticed it.\n\nInstantly, all three of us dropped our filters and started comparing notes about the life of The Street Potato in full detail.\n\nThe Street Potato lives (died?) on a short block lined by two generic, new-construction apartment buildings. The building to the north has a half-block-long garage door and a bunch of balconies full of stuff but never people. The smaller building to the south has a row of street-level windows, most of which have a cat or evidence of a cat in them. On the sidewalk in front of the row of cat windows, some time in the early spring -- possibly even the late winter -- a large, apparently-cooked sweet potato appeared on the sidewalk. At least half of it was somewhat *in* the sidewalk -- stomped or splattered into the concrete such that The Street Potato was not about to roll away. Since then, it appears to have taken up permanent residence in that spot.\n\n\n### My theory of The Street Potato\n\n\n**I think it was thrown or otherwise ejected from a window**\n\nEvidence:\n- I believe about 75% of it flattened upon contact with the sidewalk.\n- The force to de-cohere so much of a good-sized sweet potato requires more acceleration than it would get by simply being dropped from the carrying height of an average adult.\n- It landed about ten feet from the building, farther than it would have if it simply fell.\n- This also means it was probably fully cooked.\n\n**It embodies the universe's infinite capacity for change.**\n\n- As *I* recall, it started out as recognizable sweet potato, sticking out of the sidewalk like it had clipped through it in a video game.\n- Someone stepped on it within the first few weeks of its life on the sidewalk.\n\t- This means they were probably looking at a cute cat in the window, or the abject  emptiness of the giant garage door.\n- Since being stepped on, it has been functionally two-dimensional.\n- It is at least 4 months old.\n\t- I am writing this in August. It was definitely there in April. I don't know what this means.\n\n[[Martha]] has a different theory -- the potato fell from a bag while being carried to or from some sort of dinner function, and the potato-dropper immediately slipped in the potato, grinding it into the sidewalk, perhaps with the classic slapstick slipping-on-a-banana pratfall.\n\n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/liz-vitlin-lizs-childhood-computer-2003-2005-at-prairie-chicago-artist-writers/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Liz Vitlin “Liz’s Childhood Computer: 2003-2005” at Prairie – Chicago Artist Writers\n",
+    "date": "2023-09-01 13:03:02 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://chicagoartistwriters.com/lizs-childhood-computer-2003-2005-at-prairie/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "liz-vitlin-lizs-childhood-computer-2003-2005-at-prairie-chicago-artist-writers",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/an-off-ramp-from-the-digital-ikea-maze-marginalia-nu/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "An off-ramp from the digital IKEA maze @ marginalia.nu\n",
+    "date": "2023-09-08 21:03:33 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.marginalia.nu/log/79-ikea-offramp/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "an-off-ramp-from-the-digital-ikea-maze-marginalia-nu",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/shuttlecraft-run-your-own-social-media/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "SHUTTLECRAFT - Run your own social media\n",
+    "date": "2023-09-25 11:48:43 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://shuttlecraft.net/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "shuttlecraft-run-your-own-social-media",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/slow-motion-bullseyes/",
@@ -191,6 +1313,162 @@
         "title": "Patterns of intention",
         "url": "/patterns-of-intention/",
         "excerpt": "<p>Walking up to [[Martha]]’s recent art show at [[Mother Foucault’s]], I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "/about/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "18-Oct-23",
+    "layout": "collection",
+    "title": "About",
+    "tagmatch": [
+      "memex",
+      "meta"
+    ],
+    "color": "blueviolet",
+    "slug": "About",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p><em class=\"page_hilight\">MMMX.<i class=\"las la-cloud page_hilight\"></i></em>, pronounced “mem ex dot cloud” is my semi-public <a href=\"/what-is-a-memex\">memex</a>. It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 <a href=\"/me\">Ním</a></p>\n",
+    "raw_markdown": "<em class=\"page_hilight\">MMMX.<i class=\"las la-cloud page_hilight\"></i></em>, pronounced \"mem ex dot cloud\" is my semi-public [memex](/what-is-a-memex). It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 [Ním](/me)\n\n\n## Browse\n\nThere are a few types of things on here: \n\n- [Galleries](/galleries), which are collections of media\n- [Media](/media), which are descriptive pages for a single piece of media, like an image or an audio track\n- [Notes](/notes), which can be kinda anything they want\n\nThe things here tend to fall into categories. Here's a current list:\n{% include catcloud.html  %}\n\n<br>\n\nYou can browse by tag too:\n{% include tagcloud.html  %}\n\n## Follow\n\nIt's always growing, but in all directions at once. My *soon to launch* newsletter, Big Table, ~~~features~~~ will feature recent highlights. I have a few RSS feeds you can follow:\n\n- [notes](/feeds/notes.xml)\n- [media](/feeds/media.xml)\n- [galleries](/feeds/galleries.xml)\n- [everything](/feed.xml)\n\n## More\n\nThis page is a [collection](/category/collection) of notes related to this site or memexes in general, so if you're still curious, there's more to read below and when I add something else relevant it'll show up here too.\n\n",
+    "backlink_index": [
+      {
+        "title": "Welcome",
+        "url": "/welcome/",
+        "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
+      }
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/colophon/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "tags": [
+      "meta"
+    ],
+    "title": "Colophon",
+    "slug": "Colophon",
+    "ext": ".md",
+    "excerpt": "<p>Built in <a href=\"https://jekyllrb.com/\">Jekyll</a>.</p>\n",
+    "raw_markdown": "Built in [Jekyll](https://jekyllrb.com/).\n\nUsing [Fomantic-UI](https://fomantic-ui.com/) for most layout, and an adapted version of [blocks.css](https://thesephist.github.io/blocks.css/) for the blocky stuff.\n\nUsing the backlinks generator and note graph generator scripts from the [Digital Garden Template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) Jekyll theme.\n\nCustom plugins:\n\n- [make-galleries](https://github.com/nimwunnan/memex/blob/main/_plugins/make-galleries.rb) to convert directories of assets into notes, collected in a gallery page\n- [make-index](https://github.com/nimwunnan/memex/blob/main/_plugins/make-index.rb) to generate a json file of all documents and their metadata, mainly used for pagination now but with future dreams in minds\n- [auto-tag](https://github.com/nimwunnan/memex/blob/main/_plugins/auto-tag.rb) to deal with tags and categories the way I wanted to\n- [array-contains](https://github.com/nimwunnan/memex/blob/main/_plugins/array_contains.rb) because I somehow couldn't get equivalent behavior in liquid templating to work\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/development-log/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "title": "Development Log",
+    "tags": [
+      "meta"
+    ],
+    "slug": "Development Log",
+    "ext": ".md",
+    "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n",
+    "raw_markdown": "## Work 🪵\n\n\n\n\n\n**Sept - Oct**\n\n- cleaned up a lot of content\n- added a lot of content\n- added support for video and audio assets in media\n- lots of style nits\n- refined auto-tagging\n- refined gallery creation\n- made collections templates\n- improved, expanded feeds\n- launched!\n\n\n**Aug - Sept 2023**\n\n- started filling up Memex\n- soft launched on [mmmx.cloud](https://www.mmmx.cloud/)\n- Began Big Table, integrated with memex\n- Porting content from garden.nimdaghlian.com to mememx\n- added categories\n- re-integrated Backlinks from [digital-garden-template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)\n- thought way too much about categorization\n- added basic plugins to make index pages for all tags and categories\n- ~~made sync script to smooth out the workflow of writing in Obsidian and publishing in Jekyll -- should preserve backlinks and image links as long as I'm minimally mindful~~ \n[easier to do it manually right now](http://xkcd.com/1319/)\n\n**Spring - Summer 2023**\n\n- Worked on moving from the test garden to a permanent memex-style site.\n- Started fresh jekyll site outside of digital-garden-template\n- Converted getfeeds to a plugin\n- Refactored site to use Fomantic for most structure / styles\n- Added customized version of blocks.css \n- Made base gallery template\n- Wrote make-gallery plugin to generate galleries and asset notes from directories of assets\n- Wrote make-index plugin to generate site-index.json for dynamic pagination\n- Added image resizing plugin\n\n**Jan 2023**\n\n- Built [bloggy.garden](https://bloggy.garden) to be a dedicated site for feed reading.\n\n\n**Sept - Oct 2022**\n\nBuilt [getimgs.rb](https://github.com/thanims/digital-garden-jekyll-template/blob/master/getimgs.rb) to do something similar with directories of images:\n\n* define image groups in `_config.yml` like so\n\n```\ngalleries:\n  - name: \"Everything In My Wife's Bag Two Days After We Got Married\"\n    directory: \"wife-bag\"\n    tags: [\"drawing\", \"art\", \"Martha\"]\n```\n* run from root like `getfeeds.rb`\n* outputs .md files with boilerplate frontmatter in the `_galleries` collection for each image\n* makes notes for each gallery linked to their corresponding collections\n\nStarted work in earnest on a new visual theme. \n* layout [bucket-gallery](https://github.com/thanims/digital-garden-jekyll-template/blob/master/_layouts/bucket-gallery.html) establishes visual styles\n\t* text, background, highlight, border, and background svg color can be set by a single page var in frontmatter -- [[everything-in-my-wifes-bag-two-days-after-we-got-married|example]]\n*  Made a new version of the home page using plant sprites for notes and feeds\n\n**Mid-April 2022**\n\nBuilt [getfeeds.rb](https://github.com/thanims/digital-garden-jekyll-template/blob/master/getfeeds.rb) to create markdown files based on external RSS feeds with basic metadata. Script run manually while experimenting, not yet integrated with the Jekyll build process or plugin-ified yet. A lot of this was done on the Amtrak back from [[expoch-go-2022|Expo Chicago]]\n\n\n**Use**\n\nAdd feeds you want to import to `_config.yml`\n\n```\nfeeds:\n  - name: \"Astronomy Picture of the Day\"\n    feed: https://apod.nasa.gov/apod.rss\n    bucket: \"Astronomy Picture of the Day\"\n    tags: [\"space\", \"science\"]\n```\n\nRunning `ruby getfeeds.rb` from the root directory does the following:\n\n* puts feeds in their own collection: **_feeds**\n* That way they don’t spam the notes graph\n* It then makes _notes_ for every bucket and tag on any feed\n* This way you can see your buckets on the graph, and link to them\n* Those notes use the layouts **bucket-garden** or **tag-garden** (newly added) to list everything with that bucket or tag\n* Those layouts have been updated to also include notes, pages, and posts, should any be tagged or bucketed\n\nAlso set up a free, no-code deployment solution for my buddy Evan. [Foresty](https://forestry.io) to edit, [Render](https://render.com) to host, tracked on Github\n\nThis remains experimental given how much overhead it creates for site rendering. Very much thinking of creating a separate install just for feeds.",
+    "backlink_index": [
+      {
+        "title": "How This Memex Started",
+        "url": "/how-this-memex-started/",
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
+      }
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/how-this-memex-started/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "title": "How This Memex Started",
+    "tags": [
+      "meta",
+      "featured"
+    ],
+    "date": "2023-09-27 00:00:00 -0700",
+    "slug": "How This Memex Started",
+    "ext": ".md",
+    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
+    "raw_markdown": "> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.\n\n## How I Started this Garden\n\n4.18.22\n\nNo digital garden is complete without a good pile of notes about digital gardens themselves!\n\nLess than a month since reading this bittersweet thread 👇 from my friend [[Ryan]], who was, like, *there* when the web cut its own bangs for the first time, I've not only started a digital garden, I've extended its features and roped at least [[Evan|one friend]] into making [his own](https://evans-thoughts-garden.onrender.com).\n\n![Tweet from twitter user @sixfoot6 reading \"i barely think about the web we lost anymore tbh\"](/assets/notes/ryan-tweet-lost-web.png)\n\n\nA little ways down that [thread](https://twitter.com/sixfoot6/status/1506011362249437190), someone mentions digital gardening.\n\n![A tweet from @sixfoot6 reading \"the nostalgia and look backwards weren't taking me far, and faded. and none of the forward-looking discord something something web3 something personal blogs are back something something threads are really lighting me up either we're just here now.\" replied to by @Weegee saying \"I Hold on to people. Though I have been investigating digital gardens with remind me of the old web in a good way. Enjoyed it so far.\"](/assets/notes/original-digital-garden-tweet.png)\n\n\nIt was a term I'd heard before, but there was something about the specificity of how he said it that got me digging. You can see most of what I found and read at [[Digital Gardens]] and [[cozyweb]].\n\nIt was timely, because just a few days prior I had lucked into an actual evening of *web browsing* thanks to the excellent [random button on Marginalia search](https://search.marginalia.nu/explore/random).\n\n> Appropriately enough when I went to go get that link, I discovered that Marginalia has a [memex](https://memex.marginalia.nu), a central reference of one of the [instigating texts of the current movement of digital gardens](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/).\n\n> and holy shit they have a... [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))? [site](https://proxy.vulpes.one/gemini/marginalia.nu/)?\n> wow... brand new thing learned while writing this. this nerdrabbithole keeps getting deeper.\n\nLike Ryan and his friends in that thread, I've been casting about for ghosts of an internet time that I probably don't even remember correctly. Not just for nostalgia, though... for the reasons it was good in the first place. And I'm coming out of a five / ten year [writing project](https://conceptuallabor.com) with a pile of research and a great hunger for lighter, looser writing and free-association. This is its own rabbithole, and it's getting a little late, so in the discursive, anti-completist nature of digital gardens, I'll put a pin in this and come back to it. In any case I was hella primed to find out about this [whole pattern](https://conceptuallabor.com/blog/writing-tools-1) or writing and making websites.\n\n### This Garden's Harvests\n\nThat said, I am so far much more interested in the website-making rather than note-taking parts of digital gardens. That's reflected in my modifications thusfar to the really excellent [digital garden Jekyll template I'm using](https://github.com/maximevaillancourt/digital-garden-jekyll-template).\n\n#### I'm importing RSS feeds\n\nPinboard is totally central to my use of the internet. But, as the author of the Memex points out, we store much more information than we retrieve. I've wanted a better way to view and interact with my bookmarks and research for a long time.\n\nSo I banged together a [little ruby script](https://github.com/nimwunnan/digital-garden-jekyll-template/blob/master/getfeeds.rb) that does the following\n\n* turns entries from an RSS feed into markdown files in the collection `_feeds`\n* adds useful frontmatter such as tags and a default template\n* creates a `note` for every `tag` and `bucket` specified\n\t* for pinboard feeds, it includes the tags from pinboard for each item\n* adds backlinks to `feed` page content to their corresponding `bucket` note\n\n> I'd like to release this as an actual jekyll plugin. It needs some work first, and I'm not usually a ruby developer, but ruby's friendly enough. Anyway, I have to take a break from working *on* this garden to putting things *in* it, so stay tuned for that.\n\nSo far the external sites I've imported are:\n\n* [[astronomy-picture-of-the-day]]\n* [[public-domain-review]]\n* [[the-morning-news]]\n* and [[Martha]]'s excellent [[Grapefruits Sometimes Art Email]]\n\n~~and you can find allllll my bookmarks in the [[bookmarks]] bucket.\n~~\nBookmarks removed after the advent of  [bloggy.garden](https://bloggy.garden)\n### I made some new templates\n\nVery quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Martha|Martha]] a garden of emoji plants. They're evident in the above links.\n\n1.15.23\n\n### New Garden of Blogs\n\nMoved feeds to [bloggy.garden](https://bloggy.garden). Made sense to make it it's own thing -- definitely still interested in the idea of pulling external content into the garden, but not as much as a browser / reader.",
+    "backlink_index": [
+      {
+        "title": "Stumbled into a webring",
+        "url": "/stumbled-into-a-webring/",
+        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "/stumbled-into-a-webring/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "date": "2023-10-04 00:00:00 -0700",
+    "tags": [
+      "cozyweb"
+    ],
+    "title": "Stumbled into a webring",
+    "slug": "Stumbled into a Webring",
+    "ext": ".md",
+    "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n",
+    "raw_markdown": "Ok, so maybe the old, small web has some juice left in it.\n\nHere I am writing a short essay about why I'm building a memex in 2023, and the enshittification of search engines made it very hard to find the [popular essay](https://runyourown.social/) that inspired me to start a private social network in the pandemic. I know I bookmarked it, I vaguely remember the name of the (seemingly awesome) [person that wrote it](https://friend.camp/@darius), but mostly the colors not the words of his name. Searching confronted me with the ongoing enshittification of search at the moment -- even Duck Duck Go was brimming with chum and generative clickbait-feeling stuff about boosting brand engagement. I almost gave up but the last result on the page of one search, as I was clicking away from it, had a name on it that tripped a sub-verbal set of associations that made me click through, and I found myself looking at this:\n\n![Screenshot of Bill Hunt's blog](/assets/notes/bill-hunt-blog.png)\nNot only was it the right link, it was on a... regular personal website but it looked basically like what I thought all websites should look like 20 years ago (and tbh still do), built with thing I currently prefer to make websites with.\n\nAnd, uhh, it's part of a...webring? [The Public Interest Tech Webring](https://pitwebring.billhunt.dev/)?\n\nIt's moments like these that remind me that maybe my first thought when I find little patches of thriving native plants in the corners of Online monoculture shouldn't be \"how long until this disappears?\" and instead just enjoy the clicking.\n\nLike, ok I just went back to those links turns out I'm looking at the blog of one of the bigger proponents of modern [webrings](https://billhunt.dev/blog/2022/12/30/bringing-webrings-back/)!\n\nThis is like the time I started writing about why I was making a digital garden and ended up discovering the gemini protocol >> [[How This Memex Started]]\n\n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/adas-three-kinds-of-things",
+    "draft": false,
+    "categories": [
+      "concepts"
+    ],
+    "last_modified_at": "13-Mar-24",
+    "layout": "note",
+    "date": "2023-10-04 00:00:00 -0700",
+    "tags": [
+      "books",
+      "mind-things"
+    ],
+    "category": "concepts",
+    "permalink": "adas-three-kinds-of-things",
+    "title": "Ada's three kinds of things",
+    "slug": "Ada's three kinds of things",
+    "ext": ".md",
+    "excerpt": "<blockquote>\n  <p>Children of her type contrive the purest philosophies. Ada had worked out her own little system. Hardly a week had elapsed since Van’s arrival when he was found worthy of being initiated in her web of wisdom. An individual’s life consisted of certain classified things: “real things” which were unfrequent and priceless, simply “things” which formed the routine stuff of life; and “ghost things,” also called “fogs,” such as fever, toothache, dreadful disappointments, and death. Three or more things occurring at the same time formed a “tower,” or, if they came in immediate succession, they made a “bridge.” “Real towers” and “real bridges” were the joys of life, and when the towers came in a series, one experienced supreme rapture; it almost never happened, though. In some circumstances, in a certain light, a neutral “thing” might look or even actually become “real” or else, conversely, it might coagulate into a fetid “fog.”</p>\n</blockquote>\n",
+    "raw_markdown": "> Children of her type contrive the purest philosophies. Ada had worked out her own little system. Hardly a week had elapsed since Van’s arrival when he was found worthy of being initiated in her web of wisdom. An individual’s life consisted of certain classified things: “real things” which were unfrequent and priceless, simply “things” which formed the routine stuff of life; and “ghost things,” also called “fogs,” such as fever, toothache, dreadful disappointments, and death. Three or more things occurring at the same time formed a “tower,” or, if they came in immediate succession, they made a “bridge.” “Real towers” and “real bridges” were the joys of life, and when the towers came in a series, one experienced supreme rapture; it almost never happened, though. In some circumstances, in a certain light, a neutral “thing” might look or even actually become “real” or else, conversely, it might coagulate into a fetid “fog.”\n\nThis is from Nabokov's *Ada or Ardor*.\n\nWhile searching for this, I discovered the [blog of an English-Italian poet](https://sidewaysstation.com) that includes him reading his ode to [Italian baristas](https://sidewaysstation.com/2012/10/28/baristi-ditalia-re-post/), which then led me to the [Annotated Ada](https://www.ada.auckland.ac.nz/).\n",
+    "backlink_index": [
+      {
+        "title": "Lucy's eggs",
+        "url": "/lucys-eggs",
+        "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
+      },
+      {
+        "title": "Mind Things",
+        "url": "/mind-things/",
+        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ]
   },
@@ -246,207 +1524,103 @@
     ]
   },
   {
-    "id": "/the-mole-diagram/",
-    "draft": false,
-    "categories": [
-      "concepts"
-    ],
-    "last_modified_at": "15-Mar-24",
-    "layout": "note",
-    "tags": [
-      "mind-things"
-    ],
-    "category": "concepts",
-    "title": "The mole diagram",
-    "slug": "The Mole Diagram",
-    "ext": ".md",
-    "excerpt": "<p>Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you’re-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but <a href=\"https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do\">The Thing I was Trying to Do</a> seemed to pop up in all those realms.</p>\n",
-    "raw_markdown": "Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you're-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but [The Thing I was Trying to Do](https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do) seemed to pop up in all those realms.\n\nSo in the dream, I drew a diagram on the wall of my studio to explain what I was trying to say to Greg.\n\n![A drawing of a cross section of the ground showing multiple tunnels coming down from the surface, branching off, joining, and then branching off again.](/assets/notes/mole-diagram.jpeg)\n\nThe idea was that for each thing you get interested in, you start digging down as you get further and further into it. But the tunnels aren't perfectly straight, and sometimes you get into something deep enough that it intersects with another tunnel by surprise, and you get a cave-in where a big shared conceptual space opens up. You're painting with paint but you realize you could do the same thing with thread. You develop a studio practice, but it turns out the mental state and the sensitivity you need there is also what you need when you practice Taiji. That kind of thing.\n\nAt the time, my big complaint was that there's certain levels, like a waterline, that if you dig past them everyone down there expects a certain fluency and commitment to whatever that particular tunnel is about. If you're down that far in a couple subjects without making connections, you have a really long mental journey when you're switching between disciplines. You gotta go all the way up one tunnel, across, and back down. I remember really feeling a palpable sense of disorientation going from long days in my studio to learning basic programming concepts and even just learning how to survive sitting in front of the computer for hours at a time.\n\nAnyway, when I got to the studio that day I told Greg about the dream, and then I drew the diagram on the wall, and he totally got it. That was satisfying.\n\n",
-    "backlink_index": [
-      {
-        "title": "Mind Things",
-        "url": "/mind-things/",
-        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
-      }
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/wushi",
+    "id": "/welcome-bookwyrm/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "title": "Wushi",
-    "permalink": "/wushi",
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Welcome - BookWyrm\n",
+    "date": "2023-10-11 11:41:44 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://bookwyrm.social/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
     "tags": [
-      "interdependence day"
+      "cozyweb"
     ],
-    "date": "2013-01-15 00:00:00 -0800",
-    "slug": "wushi",
+    "slug": "welcome-bookwyrm",
     "ext": ".md",
-    "excerpt": "<p>Lacking by the elegance and refinement of sushi, free of the “good recipes” of tapas, and void of the cachet of nouvelle-cuisine, Wushi is distinguished from other small-plate traditions by placing priority on the question “what do I want to put in my mouth” rather than the question “what should I put in my mouth”.</p>\n",
-    "raw_markdown": "Lacking by the elegance and refinement of sushi, free of the \"good recipes\" of tapas, and void of the cachet of nouvelle-cuisine, Wushi is distinguished from other small-plate traditions by placing priority on the question “what do I want to put in my mouth” rather than the question “what should I put in my mouth”.  \n\nAccommodating all traditions, ingredients, and opinions of what is edible, Wushi is founded **4 Basic principles** which are applied to a system of classification for maximum tastiness results. \n\nI originally made this up for [[Interdependence Day]], but it has lived on in many forms.\n \n## The Principles of Wushi\n\n\n\n1. Take food you like\n2. Put it on top of, or inside, other food you like\n3. If possible, include something that could make it taste weird, but ends up making it taste awesome.\n4. Make it bite-sized, for optimal sharing and ballistics.\n\n## The System of Wushi\n\nFood and food-like items are divided into the following categories\n\n* Headliner\n* Ballast\n* Pizzazz\n* The Snug\n* The Plank\n* The Smooth\n* The Sauce\n* Sprinkles\n\n\n\n\n---\n\n## Headliner\n\n\nSubstantial, flavorful items \n\n### Sushi equivalent\n\nfish\t\n\t\n### Basic\n\n\nWild mushrooms, bacon, Marinated tofu\n\n### Advanced \n \n\nmini-pizzas, snails, cactus\n\n### Adventurous\n\n\nbar soap\n\n\n\n---\n\n## Ballast\n\n\nSubstantial but blander than the Headliner. \n\n### Sushi equivalent\nRice\n\n### Basic\n\nRice, potatoes\n\n### Advanced \n \nBrioche, marshmallows\n\n### Adventurous\n\nMatchbox cars\n\n\n---\n\n## Pizzazz\n\n\nSpicy, tangy, or ummami-ful stuff, often dipped-in or added-on\n\n### Sushi equivalent\nwasabi, pickled ginger, etc.\n\n### Basic\n\nMustard, hot peppers, lemon, horseradish, olives\n\n### Advanced \n \nbalsamic vinegar, dried cherries, whisky\n\n### Adventurous\n\nbleach\n\n\n---\n\n## The Snug\n\n\nSheet-food or pocket-food that you wrap around the other stuff\n\n### Sushi equivalent\nNigiri\n\n### Basic\n\nTortillas, chard leaves, crepes \n\n### Advanced \n \nBean paste, bubblegum, grape leaves\n\n### Adventurous\n\nHairnets\n\n---\n\n## The Plank\n\n\nFlat and sturdy food onto which you can pile everything else\n\n### Sushi equivalent\n?\n\n### Basic\n\nCrackers, chips\n\n### Advanced \n \nPop-tarts, hard cheese\n\n### Adventurous\n\ncardboard\n\n---\n\n## The Smooth\n\n\nFat = flavor\n\n### Sushi equivalent\n\nCream cheese*, creamy scallop, avocado\n\n### Basic\n\n\ngoat cheese, silken tofu, yogurt\n\n### Advanced \n \napple butter, spray cheese, lard\n\n### Adventurous\n\nwheat paste\n\n---\n\n## Sprinkles\n\n\nExtra-tasty bits to sprinkle on top\n\n### Sushi equivalent\nRoe, onion slices\n\n### Basic\n\ncrushed nuts, actual sprinkles, salt, blue cheese crumbles\n\n### Advanced \n \nBrewer’s yeast, pop-rocks\n\n### Adventurous\n\nGlitter\n\n---\n\n## The Sauce\n\n\nSelf-explanatory. Infinite possibilities.\n",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
     "backlink_index": [
 
     ]
   },
   {
-    "id": "/adas-three-kinds-of-things",
-    "draft": false,
-    "categories": [
-      "concepts"
-    ],
-    "last_modified_at": "13-Mar-24",
-    "layout": "note",
-    "date": "2023-10-04 00:00:00 -0700",
-    "tags": [
-      "books",
-      "mind-things"
-    ],
-    "category": "concepts",
-    "permalink": "adas-three-kinds-of-things",
-    "title": "Ada's three kinds of things",
-    "slug": "Ada's three kinds of things",
-    "ext": ".md",
-    "excerpt": "<blockquote>\n  <p>Children of her type contrive the purest philosophies. Ada had worked out her own little system. Hardly a week had elapsed since Van’s arrival when he was found worthy of being initiated in her web of wisdom. An individual’s life consisted of certain classified things: “real things” which were unfrequent and priceless, simply “things” which formed the routine stuff of life; and “ghost things,” also called “fogs,” such as fever, toothache, dreadful disappointments, and death. Three or more things occurring at the same time formed a “tower,” or, if they came in immediate succession, they made a “bridge.” “Real towers” and “real bridges” were the joys of life, and when the towers came in a series, one experienced supreme rapture; it almost never happened, though. In some circumstances, in a certain light, a neutral “thing” might look or even actually become “real” or else, conversely, it might coagulate into a fetid “fog.”</p>\n</blockquote>\n",
-    "raw_markdown": "> Children of her type contrive the purest philosophies. Ada had worked out her own little system. Hardly a week had elapsed since Van’s arrival when he was found worthy of being initiated in her web of wisdom. An individual’s life consisted of certain classified things: “real things” which were unfrequent and priceless, simply “things” which formed the routine stuff of life; and “ghost things,” also called “fogs,” such as fever, toothache, dreadful disappointments, and death. Three or more things occurring at the same time formed a “tower,” or, if they came in immediate succession, they made a “bridge.” “Real towers” and “real bridges” were the joys of life, and when the towers came in a series, one experienced supreme rapture; it almost never happened, though. In some circumstances, in a certain light, a neutral “thing” might look or even actually become “real” or else, conversely, it might coagulate into a fetid “fog.”\n\nThis is from Nabokov's *Ada or Ardor*.\n\nWhile searching for this, I discovered the [blog of an English-Italian poet](https://sidewaysstation.com) that includes him reading his ode to [Italian baristas](https://sidewaysstation.com/2012/10/28/baristi-ditalia-re-post/), which then led me to the [Annotated Ada](https://www.ada.auckland.ac.nz/).\n",
-    "backlink_index": [
-      {
-        "title": "Lucy's eggs",
-        "url": "/lucys-eggs",
-        "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
-      },
-      {
-        "title": "Mind Things",
-        "url": "/mind-things/",
-        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "/bread-times/",
+    "id": "/logloglog-5-by-michael-dean-deans-list/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "date": "2023-11-04 00:00:00 -0700",
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "logloglog #5 - by Michael Dean - Dean's List\n",
+    "date": "2023-10-14 17:24:13 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.michaeldean.site/p/logloglog-5",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
     "tags": [
-      "mind-things"
+      "cozyweb"
     ],
-    "title": "Bread times",
-    "slug": "Bread Times",
+    "slug": "logloglog-5-by-michael-dean-deans-list",
     "ext": ".md",
-    "excerpt": "<p>Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of <em>times</em>. I think this was before we lived together, and <em>one</em> of us was harshly shaming the <em>other</em> after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.</p>\n",
-    "raw_markdown": "Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of _times_. I think this was before we lived together, and _one_ of us was harshly shaming the _other_ after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.\n\nThe accused acknowledged the excess of this, but explained that, in a way, it's healthier. Because, though it was, objectively, a large quantity of refined carbs for one person to eat, it was fewer *bread times.*\n\nThe irony of this appeal is that it actually goes against the fully mature concept of *a time*. This was later acknowledged by the accused when he purchased a loaf of bread, which would provide more bread *times* over a smaller *quantity* of bread.\n\nSometimes you are hungry, and you need a certain amount of food. Sometimes you are in college, and you require a certain quantity of beer. But this is different than the desire for a *time.* The rise of high-quality non-alcoholic beverages is, I believe, and indicator of this. Sometimes -- often even -- you want a _beer time_ much more than you want a beer. Sometimes you want a snack _time_ more than you want a snack. Sometimes you want four times, but you are not hungry. That is ok. An awareness of _times_ as distinct from _amounts_ can liberate you from the tyranny of conventional consumption.",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
     "backlink_index": [
 
     ]
   },
   {
-    "id": "/about/",
+    "id": "/webcurios-131023-webcurios/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "18-Oct-23",
-    "layout": "collection",
-    "title": "About",
-    "tagmatch": [
-      "memex",
-      "meta"
-    ],
-    "color": "blueviolet",
-    "slug": "About",
-    "ext": ".md",
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Webcurios 13/10/23 – webcurios\n",
+    "date": "2023-10-14 17:24:22 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://webcurios.co.uk/webcurios-13-10-23/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
     "tags": [
-
+      "cozyweb"
     ],
-    "excerpt": "<p><em class=\"page_hilight\">MMMX.<i class=\"las la-cloud page_hilight\"></i></em>, pronounced “mem ex dot cloud” is my semi-public <a href=\"/what-is-a-memex\">memex</a>. It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 <a href=\"/me\">Ním</a></p>\n",
-    "raw_markdown": "<em class=\"page_hilight\">MMMX.<i class=\"las la-cloud page_hilight\"></i></em>, pronounced \"mem ex dot cloud\" is my semi-public [memex](/what-is-a-memex). It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 [Ním](/me)\n\n\n## Browse\n\nThere are a few types of things on here: \n\n- [Galleries](/galleries), which are collections of media\n- [Media](/media), which are descriptive pages for a single piece of media, like an image or an audio track\n- [Notes](/notes), which can be kinda anything they want\n\nThe things here tend to fall into categories. Here's a current list:\n{% include catcloud.html  %}\n\n<br>\n\nYou can browse by tag too:\n{% include tagcloud.html  %}\n\n## Follow\n\nIt's always growing, but in all directions at once. My *soon to launch* newsletter, Big Table, ~~~features~~~ will feature recent highlights. I have a few RSS feeds you can follow:\n\n- [notes](/feeds/notes.xml)\n- [media](/feeds/media.xml)\n- [galleries](/feeds/galleries.xml)\n- [everything](/feed.xml)\n\n## More\n\nThis page is a [collection](/category/collection) of notes related to this site or memexes in general, so if you're still curious, there's more to read below and when I add something else relevant it'll show up here too.\n\n",
+    "slug": "webcurios-131023-webcurios",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
     "backlink_index": [
-      {
-        "title": "Welcome",
-        "url": "/welcome/",
-        "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
-      }
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
+
+    ]
   },
   {
-    "id": "/colophon/",
+    "id": "/autobio/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "15-Oct-23",
-    "layout": "note",
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "autobio\n",
+    "date": "2023-10-14 17:24:46 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://links.net/vita/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
     "tags": [
-      "meta"
+      "cozyweb"
     ],
-    "title": "Colophon",
-    "slug": "Colophon",
+    "slug": "autobio",
     "ext": ".md",
-    "excerpt": "<p>Built in <a href=\"https://jekyllrb.com/\">Jekyll</a>.</p>\n",
-    "raw_markdown": "Built in [Jekyll](https://jekyllrb.com/).\n\nUsing [Fomantic-UI](https://fomantic-ui.com/) for most layout, and an adapted version of [blocks.css](https://thesephist.github.io/blocks.css/) for the blocky stuff.\n\nUsing the backlinks generator and note graph generator scripts from the [Digital Garden Template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) Jekyll theme.\n\nCustom plugins:\n\n- [make-galleries](https://github.com/nimwunnan/memex/blob/main/_plugins/make-galleries.rb) to convert directories of assets into notes, collected in a gallery page\n- [make-index](https://github.com/nimwunnan/memex/blob/main/_plugins/make-index.rb) to generate a json file of all documents and their metadata, mainly used for pagination now but with future dreams in minds\n- [auto-tag](https://github.com/nimwunnan/memex/blob/main/_plugins/auto-tag.rb) to deal with tags and categories the way I wanted to\n- [array-contains](https://github.com/nimwunnan/memex/blob/main/_plugins/array_contains.rb) because I somehow couldn't get equivalent behavior in liquid templating to work\n",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
     "backlink_index": [
 
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/development-log/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "15-Oct-23",
-    "layout": "note",
-    "title": "Development Log",
-    "tags": [
-      "meta"
-    ],
-    "slug": "Development Log",
-    "ext": ".md",
-    "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n",
-    "raw_markdown": "## Work 🪵\n\n\n\n\n\n**Sept - Oct**\n\n- cleaned up a lot of content\n- added a lot of content\n- added support for video and audio assets in media\n- lots of style nits\n- refined auto-tagging\n- refined gallery creation\n- made collections templates\n- improved, expanded feeds\n- launched!\n\n\n**Aug - Sept 2023**\n\n- started filling up Memex\n- soft launched on [mmmx.cloud](https://www.mmmx.cloud/)\n- Began Big Table, integrated with memex\n- Porting content from garden.nimdaghlian.com to mememx\n- added categories\n- re-integrated Backlinks from [digital-garden-template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)\n- thought way too much about categorization\n- added basic plugins to make index pages for all tags and categories\n- ~~made sync script to smooth out the workflow of writing in Obsidian and publishing in Jekyll -- should preserve backlinks and image links as long as I'm minimally mindful~~ \n[easier to do it manually right now](http://xkcd.com/1319/)\n\n**Spring - Summer 2023**\n\n- Worked on moving from the test garden to a permanent memex-style site.\n- Started fresh jekyll site outside of digital-garden-template\n- Converted getfeeds to a plugin\n- Refactored site to use Fomantic for most structure / styles\n- Added customized version of blocks.css \n- Made base gallery template\n- Wrote make-gallery plugin to generate galleries and asset notes from directories of assets\n- Wrote make-index plugin to generate site-index.json for dynamic pagination\n- Added image resizing plugin\n\n**Jan 2023**\n\n- Built [bloggy.garden](https://bloggy.garden) to be a dedicated site for feed reading.\n\n\n**Sept - Oct 2022**\n\nBuilt [getimgs.rb](https://github.com/thanims/digital-garden-jekyll-template/blob/master/getimgs.rb) to do something similar with directories of images:\n\n* define image groups in `_config.yml` like so\n\n```\ngalleries:\n  - name: \"Everything In My Wife's Bag Two Days After We Got Married\"\n    directory: \"wife-bag\"\n    tags: [\"drawing\", \"art\", \"Martha\"]\n```\n* run from root like `getfeeds.rb`\n* outputs .md files with boilerplate frontmatter in the `_galleries` collection for each image\n* makes notes for each gallery linked to their corresponding collections\n\nStarted work in earnest on a new visual theme. \n* layout [bucket-gallery](https://github.com/thanims/digital-garden-jekyll-template/blob/master/_layouts/bucket-gallery.html) establishes visual styles\n\t* text, background, highlight, border, and background svg color can be set by a single page var in frontmatter -- [[everything-in-my-wifes-bag-two-days-after-we-got-married|example]]\n*  Made a new version of the home page using plant sprites for notes and feeds\n\n**Mid-April 2022**\n\nBuilt [getfeeds.rb](https://github.com/thanims/digital-garden-jekyll-template/blob/master/getfeeds.rb) to create markdown files based on external RSS feeds with basic metadata. Script run manually while experimenting, not yet integrated with the Jekyll build process or plugin-ified yet. A lot of this was done on the Amtrak back from [[expoch-go-2022|Expo Chicago]]\n\n\n**Use**\n\nAdd feeds you want to import to `_config.yml`\n\n```\nfeeds:\n  - name: \"Astronomy Picture of the Day\"\n    feed: https://apod.nasa.gov/apod.rss\n    bucket: \"Astronomy Picture of the Day\"\n    tags: [\"space\", \"science\"]\n```\n\nRunning `ruby getfeeds.rb` from the root directory does the following:\n\n* puts feeds in their own collection: **_feeds**\n* That way they don’t spam the notes graph\n* It then makes _notes_ for every bucket and tag on any feed\n* This way you can see your buckets on the graph, and link to them\n* Those notes use the layouts **bucket-garden** or **tag-garden** (newly added) to list everything with that bucket or tag\n* Those layouts have been updated to also include notes, pages, and posts, should any be tagged or bucketed\n\nAlso set up a free, no-code deployment solution for my buddy Evan. [Foresty](https://forestry.io) to edit, [Render](https://render.com) to host, tracked on Github\n\nThis remains experimental given how much overhead it creates for site rendering. Very much thinking of creating a separate install just for feeds.",
-    "backlink_index": [
-      {
-        "title": "How This Memex Started",
-        "url": "/how-this-memex-started/",
-        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
-      }
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/how-this-memex-started/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "title": "How This Memex Started",
-    "tags": [
-      "meta",
-      "featured"
-    ],
-    "date": "2023-09-27 00:00:00 -0700",
-    "slug": "How This Memex Started",
-    "ext": ".md",
-    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
-    "raw_markdown": "> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.\n\n## How I Started this Garden\n\n4.18.22\n\nNo digital garden is complete without a good pile of notes about digital gardens themselves!\n\nLess than a month since reading this bittersweet thread 👇 from my friend [[Ryan]], who was, like, *there* when the web cut its own bangs for the first time, I've not only started a digital garden, I've extended its features and roped at least [[Evan|one friend]] into making [his own](https://evans-thoughts-garden.onrender.com).\n\n![Tweet from twitter user @sixfoot6 reading \"i barely think about the web we lost anymore tbh\"](/assets/notes/ryan-tweet-lost-web.png)\n\n\nA little ways down that [thread](https://twitter.com/sixfoot6/status/1506011362249437190), someone mentions digital gardening.\n\n![A tweet from @sixfoot6 reading \"the nostalgia and look backwards weren't taking me far, and faded. and none of the forward-looking discord something something web3 something personal blogs are back something something threads are really lighting me up either we're just here now.\" replied to by @Weegee saying \"I Hold on to people. Though I have been investigating digital gardens with remind me of the old web in a good way. Enjoyed it so far.\"](/assets/notes/original-digital-garden-tweet.png)\n\n\nIt was a term I'd heard before, but there was something about the specificity of how he said it that got me digging. You can see most of what I found and read at [[Digital Gardens]] and [[cozyweb]].\n\nIt was timely, because just a few days prior I had lucked into an actual evening of *web browsing* thanks to the excellent [random button on Marginalia search](https://search.marginalia.nu/explore/random).\n\n> Appropriately enough when I went to go get that link, I discovered that Marginalia has a [memex](https://memex.marginalia.nu), a central reference of one of the [instigating texts of the current movement of digital gardens](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/).\n\n> and holy shit they have a... [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))? [site](https://proxy.vulpes.one/gemini/marginalia.nu/)?\n> wow... brand new thing learned while writing this. this nerdrabbithole keeps getting deeper.\n\nLike Ryan and his friends in that thread, I've been casting about for ghosts of an internet time that I probably don't even remember correctly. Not just for nostalgia, though... for the reasons it was good in the first place. And I'm coming out of a five / ten year [writing project](https://conceptuallabor.com) with a pile of research and a great hunger for lighter, looser writing and free-association. This is its own rabbithole, and it's getting a little late, so in the discursive, anti-completist nature of digital gardens, I'll put a pin in this and come back to it. In any case I was hella primed to find out about this [whole pattern](https://conceptuallabor.com/blog/writing-tools-1) or writing and making websites.\n\n### This Garden's Harvests\n\nThat said, I am so far much more interested in the website-making rather than note-taking parts of digital gardens. That's reflected in my modifications thusfar to the really excellent [digital garden Jekyll template I'm using](https://github.com/maximevaillancourt/digital-garden-jekyll-template).\n\n#### I'm importing RSS feeds\n\nPinboard is totally central to my use of the internet. But, as the author of the Memex points out, we store much more information than we retrieve. I've wanted a better way to view and interact with my bookmarks and research for a long time.\n\nSo I banged together a [little ruby script](https://github.com/nimwunnan/digital-garden-jekyll-template/blob/master/getfeeds.rb) that does the following\n\n* turns entries from an RSS feed into markdown files in the collection `_feeds`\n* adds useful frontmatter such as tags and a default template\n* creates a `note` for every `tag` and `bucket` specified\n\t* for pinboard feeds, it includes the tags from pinboard for each item\n* adds backlinks to `feed` page content to their corresponding `bucket` note\n\n> I'd like to release this as an actual jekyll plugin. It needs some work first, and I'm not usually a ruby developer, but ruby's friendly enough. Anyway, I have to take a break from working *on* this garden to putting things *in* it, so stay tuned for that.\n\nSo far the external sites I've imported are:\n\n* [[astronomy-picture-of-the-day]]\n* [[public-domain-review]]\n* [[the-morning-news]]\n* and [[Martha]]'s excellent [[Grapefruits Sometimes Art Email]]\n\n~~and you can find allllll my bookmarks in the [[bookmarks]] bucket.\n~~\nBookmarks removed after the advent of  [bloggy.garden](https://bloggy.garden)\n### I made some new templates\n\nVery quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Martha|Martha]] a garden of emoji plants. They're evident in the above links.\n\n1.15.23\n\n### New Garden of Blogs\n\nMoved feeds to [bloggy.garden](https://bloggy.garden). Made sense to make it it's own thing -- definitely still interested in the idea of pulling external content into the garden, but not as much as a browser / reader.",
-    "backlink_index": [
-      {
-        "title": "Stumbled into a webring",
-        "url": "/stumbled-into-a-webring/",
-        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
-      }
     ]
   },
   {
@@ -472,172 +1646,72 @@
     ]
   },
   {
-    "id": "/what-i-want-to-store-in-my-memex/",
+    "id": "/patterns-for-personalwebsites/",
     "draft": false,
     "categories": [
 
     ],
-    "last_modified_at": "05-Oct-23",
-    "layout": "note",
-    "status": "very mulchy",
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Patterns for Personal Web Sites\n",
+    "date": "2023-11-01 23:24:27 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
     "tags": [
-      "meta",
-      "memex"
+      "cozyweb"
     ],
-    "title": "What i want to store in my memex",
-    "slug": "What I Want to Store in My Memex",
+    "slug": "patterns-for-personalwebsites",
     "ext": ".md",
-    "excerpt": "<h1 id=\"brain-mulch-and-mind-things\">Brain Mulch and Mind Things</h1>\n",
-    "raw_markdown": "# Brain Mulch and Mind Things\n\nIf only to be less confusing when I ramble about digital gardens and memexes and so on to [[Martha]], I've been trying to figure out a clear difference between the two ideas, or at least how I'm approaching them.\n\nDigital Gardening seems more geared towards [[Brain Mulch]] -- notes about stuff, bookmarks or saved thoughts or links, encouraged to build up, ferment, and grow into more thinglike-things, but remain content with the mulching process.\n\n### On \"knowledge management\"\n\n> One thing I learned trying that for a year is that the specter of PKM or \"personal knowledge management\" that looms over all these ideas makes me want to barf. The public-note-taking part of it feels performative and is a terrible fit for my existing, useful research processes. It feels more like Digital Monoculture Hydroponics instead of gardening, crammed into a pyramid scheme where everyone's just writing about how much more productive they are with their projects (which are mainly writing about how productive they are). Also, I swear there's a PKM-to-Jordan-Peterson pipeline. bah.\n\nThat said, by writing this I'm *currently* enjoying some new benefits of the idea of public note taking. I'm not super intent on other people reading this and caring, but the idea that they might feels like it's tightening up my thinking, like cooking a quick meal for another person instead of just your self. And my chain of messy, three-quarters-finished documents that I chucked into Garden 1.0 did help me figure some stuff out to get here. On the flip side, I can't ever see a benefit to making public the version of that I have for painting -- a sprawling, decade-old set of documents I just call \"Studio Journal.\"\n\n### A Goal:\n\nJust for me, I would love to connect everything I have that's *like* my studio journal, across the spectrum of private to public, so that I have the biggest pile of Brain Mulch I can make, and that it's easy to extract sharable Mind Things when they come up.\n\n## Puttin in mind things\n\nMany of the things that make me go \"I should put that in the memex\" are familiar entries in my brain, things I refer back to often. Decided to call these [[Mind Things]]. (I think Brain Mulch is where you can grow new Mind Things?) After enough years of changing devices or changing where I put things online the idea that there could be even semi-complete feeling, navigable *external* archive of the shelves and galleries in my brain that I consult in the studio or in conversation when I'm writing is, like, **the** main reason I'm building this. Jeez that would be nice.\n\nI think the sense that most options are built on damp sand, as it were, has prevented me from really ever using any platform to its fullest potential. I'm always impressed when someone can do that. Feels like [[Clamber]] has accomplished that. So I think I have *many* collections that are entirely in my head that *feel* like they're a real thing out in the world, but then I try to send my friends a link and the dream evaporates. (If any of you read that and were like \"yeah, me too\", *please do share!*)\n\n\n\n**An example:** For a long time I've had a notion of The Shelf -- the idea that everyone has a set of core texts that have shaped the way they see the world, or at the very least come up all the time. (The very first time I gassed myself up about making an imaginary digital space, it was entirely based on this idea. I essentially convinced myself in 2003-ish that if the world had access to a combination of Goodreads and Second Life, we would enter a new intellectual Rennaisance and I would definitely get a girlfriend who read a lot of books.)\n\n# Goalz n Hopez n Dreamz\n\na fully unexhaustive list\n\n### Art things\n\n- A record of art shows I've been to\n- Significant source material\n- Just, like, all my drawings, even if they're not part of major works\n- Major works, like, actually archivally-documented\n- Art writing\n\t- which overlaps with Let's Talk About Painting\n\t- which overlaps with Conceptual Labor\n- Works in progress archive\n- Materials & Methods archive\n\n### Nerd things\n\n- Reliable tools\n- Reliable ways\n- Compelling ideas\n- Project archive\n- The Shelf\n- Cited sources\n\n### Friend things\n- Every album book painting performance blog post piece of code sculpture project product achievement my friends have ever made. I love that shit.\n\t- The Friend Shelf -- I do have a collection of books published by friends\n- Mind Things from friends\n- Good Stories which must be preserved\n\n### Life things\n\n- The Neighborhood\n- Frankie\n- The Studio\n- The House\n- Archive of delights\n\t- coffees wines teas beers we liked\n- Moments!\n- Family heirlooms and Times\n\n### Mulches\n\n- Content mulch for Newsletter\n- Development mulch for this site and other sites\n- Private mulch pile linkable to Everything Else\n- Bookmarks / feeds archive\n\n\n\n\n",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
     "backlink_index": [
 
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
+    ]
   },
   {
-    "id": "/what-is-a-memex/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "24-Jan-24",
-    "layout": "note",
-    "tags": [
-      "meta",
-      "memex"
-    ],
-    "title": "What is a memex",
-    "slug": "What Is a Memex",
-    "ext": ".md",
-    "excerpt": "<p>“Memex” is a portmanteau of “memory” and  “index,” coined by Vannevar Bush in his essay <a href=\"https://archive.org/details/as-we-may-think/page/n1/mode/2up\">As We May Think.</a> It was an idea far ahead of its time for a system “<a href=\"https://www.wordnik.com/words/memex\">that would permit a researcher to follow and annotate topics of interest, analogous to later hypertext technologies.”</a> It sounds like a personal database, but it was supposed to be more than that – an extension of an individual’s memory and curiosity that was designed not just to store information, but to help them recall and link things they stored in a meaningful way.</p>\n\n<p>It’s an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.</p>\n",
-    "raw_markdown": "\"Memex\" is a portmanteau of \"memory\" and  \"index,\" coined by Vannevar Bush in his essay [As We May Think.](https://archive.org/details/as-we-may-think/page/n1/mode/2up) It was an idea far ahead of its time for a system \"[that would permit a researcher to follow and annotate topics of interest, analogous to later hypertext technologies.\"](https://www.wordnik.com/words/memex) It sounds like a personal database, but it was supposed to be more than that -- an extension of an individual's memory and curiosity that was designed not just to store information, but to help them recall and link things they stored in a meaningful way.\n \nIt's an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.\n\nInstead of getting that, we live in a world of Zunes (the GoBots of iPods), Vine (the Hydrox of TikToks), Threads (the Zunes of Twitters), and X (The Chris Gaines of actual Twitter).\n\nSo, at various points, people, myself included, keep trying to build memexes or things like memexes or just some way to feel like there's a [space for your brain on the internet](https://pinboard.in/u:nimdaghlian/t:cozyweb/).\n\nThe core idea here is to make a sort of mental storehouse, made as digitally sustainable as possible -- built on open source standards and software, simple enough that I can just get it out the door and use it, but with of and resistant to being remotely shut off by a billionaire.\n\n### Links about memexes or the like\n\n\n- [About the original essay that coined the term](https://en.wikipedia.org/wiki/As_We_May_Think)\n- [Another, shorter good essay about memexes](https://srconstantin.posthaven.com/how-to-make-a-memex)\n- [A visualization of what one could be](https://www.youtube.com/watch?v=c539cK58ees)\n- Carl Diehl's [Cracked Memex](https://www.electronicelsewhere.com/cracked)\n- [marginalia's memex is not there anymore but they had one](https://www.marginalia.nu/log/80-rip-memex/)\n- [The Garden and the Stream: a technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)\n\n",
-    "backlink_index": [
-
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/magic-masala-chips/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "tags": [
-      "stuff",
-      "issue-3"
-    ],
-    "category": "objects",
-    "title": "Magic masala chips",
-    "slug": "Magic Masala Chips",
-    "ext": ".md",
-    "excerpt": "<p>My dear and amazing friend [[Vee]] sent me a wadded-up, 1/3-full bag of <a href=\"https://gandhifood.com/products/lays-indias-magic-masala-52g-1-pack\">Magic Masala</a> flavor Lays. We have an ongoing chip and snack discourse. I once sent them a single chip and single animal cracker in a custom made cardboard sleeve. They also were responsible for the Chip Bar at my wedding. Apparently the experience of eating these chips was too intense to keep to themselves, and before the bag was finished they crammed them into an envelope and sent them to me. I <em>treasure</em> my friends. What follows is the review I sent by text upon receiving the package:</p>\n",
-    "raw_markdown": "My dear and amazing friend [[Vee]] sent me a wadded-up, 1/3-full bag of [Magic Masala](https://gandhifood.com/products/lays-indias-magic-masala-52g-1-pack) flavor Lays. We have an ongoing chip and snack discourse. I once sent them a single chip and single animal cracker in a custom made cardboard sleeve. They also were responsible for the Chip Bar at my wedding. Apparently the experience of eating these chips was too intense to keep to themselves, and before the bag was finished they crammed them into an envelope and sent them to me. I *treasure* my friends. What follows is the review I sent by text upon receiving the package:\n\nThe bilingual packaging leads me to believe that these are Canadian, which, after my first taste is no surprise. Whatever eldritch pact our neighbors to the north have made with Big Chip, it's worth it. They seem to have access to consistently more adventurous flavors of chip than us, and the mainstream popularity of All Dressed -- an obvious jumping-off point for Magic Masala -- indicates that some significant portion of Canadian society is willing to experience more than one flavor at a time. I imagine Canada would crumble without them.\n\nSpeaking of crumbles, the delivery method of this third of a bag of Magic was surprisingly workable -- many large, whole chips remained. Which is good, as the blast of flavor deserves whole-tongue contact. There was actual heat, a melange of the orange and red flavors that one can rely on All Dressed to provide, and then... something earthier. Something more. Grassy, almost a whiff of egg. One of the more complex chips I've had. A delight, and a welcome challenge.",
-    "backlink_index": [
-
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/quilt-by-delphine/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "tags": [
-      "stuff",
-      "art",
-      "issue-3"
-    ],
-    "image": "/assets/notes/delphines-blanket.jpeg",
-    "category": "objects",
-    "title": "Quilt by delphine",
-    "slug": "Quilt by Delphine",
-    "ext": ".md",
-    "excerpt": "<p><img src=\"/assets/notes/delphines-blanket.jpeg\" alt=\"Delphine's Quilt\" /></p>\n",
-    "raw_markdown": "![Delphine's Quilt](/assets/notes/delphines-blanket.jpeg)\n\n[[Delphine]] makes excellent clothing, including [conversational sweaters](https://www.instagram.com/p/C0R1ySDLscq/). She gave us this beautiful quilt, made with offcuts from many of her clothings, for our wedding. It was quite a surprise and one of our favorite presents. We were told that there was one patch that was JNCOs and tried very hard to find it but eventually had to ask for the answer. It was this one -- the stipe of denim in the middle there.\n![The Part that is made from JNCOs](/assets/notes/JNCO-patch.jpeg)\n",
-    "backlink_index": [
-
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/slice-of-life-mug/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "tags": [
-      "stuff",
-      "good-cups",
-      "issue-3"
-    ],
-    "image": "/assets/notes/slice-of-life-mug-side.jpeg",
-    "category": "objects",
-    "title": "Slice of life mug",
-    "slug": "Slice of Life Mug",
-    "ext": ".md",
-    "excerpt": "<p><img src=\"/assets/notes/slice-of-life-mug.jpeg\" alt=\"A big mug\" /></p>\n",
-    "raw_markdown": "![A big mug](/assets/notes/slice-of-life-mug.jpeg)\n\n\n![The side of a weird big mug that defies description](/assets/notes/slice-of-life-mug-side.jpeg)\n\nMartha got this for me at Memory Den for Christmas. I really don't know how to describe it. It's the size of our smaller cat.",
-    "backlink_index": [
-
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/stirrup-cup/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "tags": [
-      "stuff",
-      "good-cups",
-      "issue-3"
-    ],
-    "image": "/assets/notes/stirrup-cup.jpeg",
-    "category": "objects",
-    "title": "Stirrup cup",
-    "slug": "Stirrup Cup",
-    "ext": ".md",
-    "excerpt": "<p><img src=\"/assets/notes/stirrup-cup.jpeg\" alt=\"A strange black cup with an iron elephant upside down at the bottom\" /></p>\n",
-    "raw_markdown": "![A strange black cup with an iron elephant upside down at the bottom](/assets/notes/stirrup-cup.jpeg)\n\n\n\nI got this at Tip Top Vintage. It's what's known as a \"[stirrup cup](https://en.wikipedia.org/wiki/Stirrup_cup).\" The base is an iron elephant head and the rest is black glass, making it really quite heavy. It's great for drinking scotch whisky and plotting the overthrow of nations.",
-    "backlink_index": [
-
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/synthesizers/",
+    "id": "/bread-times/",
     "draft": false,
     "categories": [
 
     ],
     "last_modified_at": "06-Mar-24",
     "layout": "note",
-    "title": "Synthesizers",
-    "slug": "Synthesizers",
+    "date": "2023-11-04 00:00:00 -0700",
+    "tags": [
+      "mind-things"
+    ],
+    "title": "Bread times",
+    "slug": "Bread Times",
+    "ext": ".md",
+    "excerpt": "<p>Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of <em>times</em>. I think this was before we lived together, and <em>one</em> of us was harshly shaming the <em>other</em> after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.</p>\n",
+    "raw_markdown": "Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of _times_. I think this was before we lived together, and _one_ of us was harshly shaming the _other_ after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.\n\nThe accused acknowledged the excess of this, but explained that, in a way, it's healthier. Because, though it was, objectively, a large quantity of refined carbs for one person to eat, it was fewer *bread times.*\n\nThe irony of this appeal is that it actually goes against the fully mature concept of *a time*. This was later acknowledged by the accused when he purchased a loaf of bread, which would provide more bread *times* over a smaller *quantity* of bread.\n\nSometimes you are hungry, and you need a certain amount of food. Sometimes you are in college, and you require a certain quantity of beer. But this is different than the desire for a *time.* The rise of high-quality non-alcoholic beverages is, I believe, and indicator of this. Sometimes -- often even -- you want a _beer time_ much more than you want a beer. Sometimes you want a snack _time_ more than you want a snack. Sometimes you want four times, but you are not hungry. That is ok. An awareness of _times_ as distinct from _amounts_ can liberate you from the tyranny of conventional consumption.",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/carl-diehl/",
+    "draft": false,
+    "categories": [
+      "people"
+    ],
+    "last_modified_at": "30-Dec-23",
+    "layout": "note",
+    "date": "2023-11-05 00:00:00 -0700",
+    "website": "https://www.electronicelsewhere.com/",
+    "title": "Carl diehl",
+    "slug": "Carl Diehl",
     "ext": ".md",
     "tags": [
 
     ],
-    "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n",
-    "raw_markdown": "[[Abe]] made this dope thing recently:\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-kCxNmH4PJ8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nI want a [Striso](https://www.striso.org)\n\n2023 Update: I have a Striso",
+    "excerpt": "<p>Carl is a man of many talents and neologisms. He made a <a href=\"https://www.electronicelsewhere.com/cracked\">somewhat cracked memex</a> He’s related to the great magician <a href=\"https://www.electronicelsewhere.com/mornings-of-the-magician\">Dorny</a>. His son Wolf drew a portrait of Frankie.</p>\n",
+    "raw_markdown": "Carl is a man of many talents and neologisms. He made a [somewhat cracked memex](https://www.electronicelsewhere.com/cracked) He's related to the great magician [Dorny](https://www.electronicelsewhere.com/mornings-of-the-magician). His son Wolf drew a portrait of Frankie.",
     "backlink_index": [
-      {
-        "title": "Abe Ingle",
-        "url": "/abe/",
-        "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
-      }
-    ],
-    "date": "2024-04-25 15:21:34 -0700"
+
+    ]
   },
   {
     "id": "/the-old-seal/",
@@ -662,6 +1736,375 @@
     ]
   },
   {
+    "id": "/the-yesterweb-reclaiming-the-internet/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "The Yesterweb - Reclaiming the Internet\n",
+    "date": "2024-01-31 20:54:25 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://yesterweb.org/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "the-yesterweb-reclaiming-the-internet",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/harper-reeds-tilde-club/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Harper Reed's tilde.club\n",
+    "date": "2024-01-31 20:55:56 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://tilde.club/~harper/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "harper-reeds-tilde-club",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/sadgrl-online/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "sadgrl.online\n",
+    "date": "2024-01-31 20:56:04 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://sadgrl.online/cyberspace/webrings",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "sadgrl-online",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/introducing-quotebacks/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Introducing Quotebacks\n",
+    "date": "2024-01-31 21:20:01 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://subpixel.space/entries/introducing-quotebacks/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "introducing-quotebacks",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/an-updated-academic-workflow-zotero-obsidian-a-by-alexandra-phelan-a-medium/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "An Updated Academic Workflow: Zotero & Obsidian | by Alexandra Phelan | Medium\n",
+    "date": "2024-01-31 21:36:00 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "an-updated-academic-workflow-zotero-obsidian-a-by-alexandra-phelan-a-medium",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/wherever-you-get-your-podcasts-is-a-radical-statement-anil-dash/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "“Wherever you get your podcasts” is a radical statement - Anil Dash\n",
+    "date": "2024-02-14 12:23:04 -0800",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "wherever-you-get-your-podcasts-is-a-radical-statement-anil-dash",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/notes-roland",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "Notes From Roland Crosby\n",
+    "permalink": "notes-roland",
+    "date": "2024-03-25 11:09:28 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://notes.rolandcrosby.com/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "notes",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/we-need-to-rewild-the-internet/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "26-Apr-24",
+    "layout": "urlnote",
+    "title": "We Need To Rewild The Internet\n",
+    "date": "2024-04-18 09:18:00 -0700",
+    "dateadded": "2024-04-26 13:02:51 -0700",
+    "link": "https://www.noemamag.com/we-need-to-rewild-the-internet/",
+    "feed-slug": "",
+    "feed-name": "Cozyweb Bookmarks",
+    "tags": [
+      "cozyweb"
+    ],
+    "slug": "we-need-to-rewild-the-internet",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/what-i-want-to-store-in-my-memex/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "05-Oct-23",
+    "layout": "note",
+    "status": "very mulchy",
+    "tags": [
+      "meta",
+      "memex"
+    ],
+    "title": "What i want to store in my memex",
+    "slug": "What I Want to Store in My Memex",
+    "ext": ".md",
+    "excerpt": "<h1 id=\"brain-mulch-and-mind-things\">Brain Mulch and Mind Things</h1>\n",
+    "raw_markdown": "# Brain Mulch and Mind Things\n\nIf only to be less confusing when I ramble about digital gardens and memexes and so on to [[Martha]], I've been trying to figure out a clear difference between the two ideas, or at least how I'm approaching them.\n\nDigital Gardening seems more geared towards [[Brain Mulch]] -- notes about stuff, bookmarks or saved thoughts or links, encouraged to build up, ferment, and grow into more thinglike-things, but remain content with the mulching process.\n\n### On \"knowledge management\"\n\n> One thing I learned trying that for a year is that the specter of PKM or \"personal knowledge management\" that looms over all these ideas makes me want to barf. The public-note-taking part of it feels performative and is a terrible fit for my existing, useful research processes. It feels more like Digital Monoculture Hydroponics instead of gardening, crammed into a pyramid scheme where everyone's just writing about how much more productive they are with their projects (which are mainly writing about how productive they are). Also, I swear there's a PKM-to-Jordan-Peterson pipeline. bah.\n\nThat said, by writing this I'm *currently* enjoying some new benefits of the idea of public note taking. I'm not super intent on other people reading this and caring, but the idea that they might feels like it's tightening up my thinking, like cooking a quick meal for another person instead of just your self. And my chain of messy, three-quarters-finished documents that I chucked into Garden 1.0 did help me figure some stuff out to get here. On the flip side, I can't ever see a benefit to making public the version of that I have for painting -- a sprawling, decade-old set of documents I just call \"Studio Journal.\"\n\n### A Goal:\n\nJust for me, I would love to connect everything I have that's *like* my studio journal, across the spectrum of private to public, so that I have the biggest pile of Brain Mulch I can make, and that it's easy to extract sharable Mind Things when they come up.\n\n## Puttin in mind things\n\nMany of the things that make me go \"I should put that in the memex\" are familiar entries in my brain, things I refer back to often. Decided to call these [[Mind Things]]. (I think Brain Mulch is where you can grow new Mind Things?) After enough years of changing devices or changing where I put things online the idea that there could be even semi-complete feeling, navigable *external* archive of the shelves and galleries in my brain that I consult in the studio or in conversation when I'm writing is, like, **the** main reason I'm building this. Jeez that would be nice.\n\nI think the sense that most options are built on damp sand, as it were, has prevented me from really ever using any platform to its fullest potential. I'm always impressed when someone can do that. Feels like [[Clamber]] has accomplished that. So I think I have *many* collections that are entirely in my head that *feel* like they're a real thing out in the world, but then I try to send my friends a link and the dream evaporates. (If any of you read that and were like \"yeah, me too\", *please do share!*)\n\n\n\n**An example:** For a long time I've had a notion of The Shelf -- the idea that everyone has a set of core texts that have shaped the way they see the world, or at the very least come up all the time. (The very first time I gassed myself up about making an imaginary digital space, it was entirely based on this idea. I essentially convinced myself in 2003-ish that if the world had access to a combination of Goodreads and Second Life, we would enter a new intellectual Rennaisance and I would definitely get a girlfriend who read a lot of books.)\n\n# Goalz n Hopez n Dreamz\n\na fully unexhaustive list\n\n### Art things\n\n- A record of art shows I've been to\n- Significant source material\n- Just, like, all my drawings, even if they're not part of major works\n- Major works, like, actually archivally-documented\n- Art writing\n\t- which overlaps with Let's Talk About Painting\n\t- which overlaps with Conceptual Labor\n- Works in progress archive\n- Materials & Methods archive\n\n### Nerd things\n\n- Reliable tools\n- Reliable ways\n- Compelling ideas\n- Project archive\n- The Shelf\n- Cited sources\n\n### Friend things\n- Every album book painting performance blog post piece of code sculpture project product achievement my friends have ever made. I love that shit.\n\t- The Friend Shelf -- I do have a collection of books published by friends\n- Mind Things from friends\n- Good Stories which must be preserved\n\n### Life things\n\n- The Neighborhood\n- Frankie\n- The Studio\n- The House\n- Archive of delights\n\t- coffees wines teas beers we liked\n- Moments!\n- Family heirlooms and Times\n\n### Mulches\n\n- Content mulch for Newsletter\n- Development mulch for this site and other sites\n- Private mulch pile linkable to Everything Else\n- Bookmarks / feeds archive\n\n\n\n\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/what-is-a-memex/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "24-Jan-24",
+    "layout": "note",
+    "tags": [
+      "meta",
+      "memex"
+    ],
+    "title": "What is a memex",
+    "slug": "What Is a Memex",
+    "ext": ".md",
+    "excerpt": "<p>“Memex” is a portmanteau of “memory” and  “index,” coined by Vannevar Bush in his essay <a href=\"https://archive.org/details/as-we-may-think/page/n1/mode/2up\">As We May Think.</a> It was an idea far ahead of its time for a system “<a href=\"https://www.wordnik.com/words/memex\">that would permit a researcher to follow and annotate topics of interest, analogous to later hypertext technologies.”</a> It sounds like a personal database, but it was supposed to be more than that – an extension of an individual’s memory and curiosity that was designed not just to store information, but to help them recall and link things they stored in a meaningful way.</p>\n\n<p>It’s an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.</p>\n",
+    "raw_markdown": "\"Memex\" is a portmanteau of \"memory\" and  \"index,\" coined by Vannevar Bush in his essay [As We May Think.](https://archive.org/details/as-we-may-think/page/n1/mode/2up) It was an idea far ahead of its time for a system \"[that would permit a researcher to follow and annotate topics of interest, analogous to later hypertext technologies.\"](https://www.wordnik.com/words/memex) It sounds like a personal database, but it was supposed to be more than that -- an extension of an individual's memory and curiosity that was designed not just to store information, but to help them recall and link things they stored in a meaningful way.\n \nIt's an early vision of how information technology could expand the human memory and serve its curiosity and inquiry.\n\nInstead of getting that, we live in a world of Zunes (the GoBots of iPods), Vine (the Hydrox of TikToks), Threads (the Zunes of Twitters), and X (The Chris Gaines of actual Twitter).\n\nSo, at various points, people, myself included, keep trying to build memexes or things like memexes or just some way to feel like there's a [space for your brain on the internet](https://pinboard.in/u:nimdaghlian/t:cozyweb/).\n\nThe core idea here is to make a sort of mental storehouse, made as digitally sustainable as possible -- built on open source standards and software, simple enough that I can just get it out the door and use it, but with of and resistant to being remotely shut off by a billionaire.\n\n### Links about memexes or the like\n\n\n- [About the original essay that coined the term](https://en.wikipedia.org/wiki/As_We_May_Think)\n- [Another, shorter good essay about memexes](https://srconstantin.posthaven.com/how-to-make-a-memex)\n- [A visualization of what one could be](https://www.youtube.com/watch?v=c539cK58ees)\n- Carl Diehl's [Cracked Memex](https://www.electronicelsewhere.com/cracked)\n- [marginalia's memex is not there anymore but they had one](https://www.marginalia.nu/log/80-rip-memex/)\n- [The Garden and the Stream: a technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)\n\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/magic-masala-chips/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "tags": [
+      "stuff",
+      "issue-3"
+    ],
+    "category": "objects",
+    "title": "Magic masala chips",
+    "slug": "Magic Masala Chips",
+    "ext": ".md",
+    "excerpt": "<p>My dear and amazing friend [[Vee]] sent me a wadded-up, 1/3-full bag of <a href=\"https://gandhifood.com/products/lays-indias-magic-masala-52g-1-pack\">Magic Masala</a> flavor Lays. We have an ongoing chip and snack discourse. I once sent them a single chip and single animal cracker in a custom made cardboard sleeve. They also were responsible for the Chip Bar at my wedding. Apparently the experience of eating these chips was too intense to keep to themselves, and before the bag was finished they crammed them into an envelope and sent them to me. I <em>treasure</em> my friends. What follows is the review I sent by text upon receiving the package:</p>\n",
+    "raw_markdown": "My dear and amazing friend [[Vee]] sent me a wadded-up, 1/3-full bag of [Magic Masala](https://gandhifood.com/products/lays-indias-magic-masala-52g-1-pack) flavor Lays. We have an ongoing chip and snack discourse. I once sent them a single chip and single animal cracker in a custom made cardboard sleeve. They also were responsible for the Chip Bar at my wedding. Apparently the experience of eating these chips was too intense to keep to themselves, and before the bag was finished they crammed them into an envelope and sent them to me. I *treasure* my friends. What follows is the review I sent by text upon receiving the package:\n\nThe bilingual packaging leads me to believe that these are Canadian, which, after my first taste is no surprise. Whatever eldritch pact our neighbors to the north have made with Big Chip, it's worth it. They seem to have access to consistently more adventurous flavors of chip than us, and the mainstream popularity of All Dressed -- an obvious jumping-off point for Magic Masala -- indicates that some significant portion of Canadian society is willing to experience more than one flavor at a time. I imagine Canada would crumble without them.\n\nSpeaking of crumbles, the delivery method of this third of a bag of Magic was surprisingly workable -- many large, whole chips remained. Which is good, as the blast of flavor deserves whole-tongue contact. There was actual heat, a melange of the orange and red flavors that one can rely on All Dressed to provide, and then... something earthier. Something more. Grassy, almost a whiff of egg. One of the more complex chips I've had. A delight, and a welcome challenge.",
+    "backlink_index": [
+
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/quilt-by-delphine/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "tags": [
+      "stuff",
+      "art",
+      "issue-3"
+    ],
+    "image": "/assets/notes/delphines-blanket.jpeg",
+    "category": "objects",
+    "title": "Quilt by delphine",
+    "slug": "Quilt by Delphine",
+    "ext": ".md",
+    "excerpt": "<p><img src=\"/assets/notes/delphines-blanket.jpeg\" alt=\"Delphine's Quilt\" /></p>\n",
+    "raw_markdown": "![Delphine's Quilt](/assets/notes/delphines-blanket.jpeg)\n\n[[Delphine]] makes excellent clothing, including [conversational sweaters](https://www.instagram.com/p/C0R1ySDLscq/). She gave us this beautiful quilt, made with offcuts from many of her clothings, for our wedding. It was quite a surprise and one of our favorite presents. We were told that there was one patch that was JNCOs and tried very hard to find it but eventually had to ask for the answer. It was this one -- the stipe of denim in the middle there.\n![The Part that is made from JNCOs](/assets/notes/JNCO-patch.jpeg)\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/slice-of-life-mug/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "tags": [
+      "stuff",
+      "good-cups",
+      "issue-3"
+    ],
+    "image": "/assets/notes/slice-of-life-mug-side.jpeg",
+    "category": "objects",
+    "title": "Slice of life mug",
+    "slug": "Slice of Life Mug",
+    "ext": ".md",
+    "excerpt": "<p><img src=\"/assets/notes/slice-of-life-mug.jpeg\" alt=\"A big mug\" /></p>\n",
+    "raw_markdown": "![A big mug](/assets/notes/slice-of-life-mug.jpeg)\n\n\n![The side of a weird big mug that defies description](/assets/notes/slice-of-life-mug-side.jpeg)\n\nMartha got this for me at Memory Den for Christmas. I really don't know how to describe it. It's the size of our smaller cat.",
+    "backlink_index": [
+
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/stirrup-cup/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "tags": [
+      "stuff",
+      "good-cups",
+      "issue-3"
+    ],
+    "image": "/assets/notes/stirrup-cup.jpeg",
+    "category": "objects",
+    "title": "Stirrup cup",
+    "slug": "Stirrup Cup",
+    "ext": ".md",
+    "excerpt": "<p><img src=\"/assets/notes/stirrup-cup.jpeg\" alt=\"A strange black cup with an iron elephant upside down at the bottom\" /></p>\n",
+    "raw_markdown": "![A strange black cup with an iron elephant upside down at the bottom](/assets/notes/stirrup-cup.jpeg)\n\n\n\nI got this at Tip Top Vintage. It's what's known as a \"[stirrup cup](https://en.wikipedia.org/wiki/Stirrup_cup).\" The base is an iron elephant head and the rest is black glass, making it really quite heavy. It's great for drinking scotch whisky and plotting the overthrow of nations.",
+    "backlink_index": [
+
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
+    "id": "/synthesizers/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "title": "Synthesizers",
+    "slug": "Synthesizers",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n",
+    "raw_markdown": "[[Abe]] made this dope thing recently:\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-kCxNmH4PJ8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nI want a [Striso](https://www.striso.org)\n\n2023 Update: I have a Striso",
+    "backlink_index": [
+      {
+        "title": "Abe Ingle",
+        "url": "/abe/",
+        "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
+      }
+    ],
+    "date": "2024-04-26 13:20:05 -0700"
+  },
+  {
     "id": "/the-remote/",
     "draft": false,
     "categories": [
@@ -683,7 +2126,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/the-side-table/",
@@ -707,29 +2150,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/the-street-potato/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "title": "The Street Potato",
-    "tags": [
-      "neighborhood"
-    ],
-    "category": "objects",
-    "date": "2023-08-06 00:00:00 -0700",
-    "slug": "The Street Potato",
-    "ext": ".md",
-    "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n",
-    "raw_markdown": "![A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.](/assets/notes/the-sweet-potato-aug-6-2023.jpeg)\n> The Street Potato as of August 6, 2023\n\nMartha and I were at the [[Worker's Tap]] with [[Andrea]] talking about the micro-neighborhood of the four square blocks that encompass the Tap, her house, and our place. I mentioned The Street Potato in that way you remove detail when talking about something that has an extensive entry in your brain but you are talking to someone who might not know what you're talking about or possibly think you're somewhat crazy if you talked about it in the detail you think of it. To be clear -- I *knew* Andrea would be down with it, but didn't want to assume she had noticed it.\n\n\"Oh you mean the one up on Ankeny??\"\n\nYeah, she had noticed it.\n\nInstantly, all three of us dropped our filters and started comparing notes about the life of The Street Potato in full detail.\n\nThe Street Potato lives (died?) on a short block lined by two generic, new-construction apartment buildings. The building to the north has a half-block-long garage door and a bunch of balconies full of stuff but never people. The smaller building to the south has a row of street-level windows, most of which have a cat or evidence of a cat in them. On the sidewalk in front of the row of cat windows, some time in the early spring -- possibly even the late winter -- a large, apparently-cooked sweet potato appeared on the sidewalk. At least half of it was somewhat *in* the sidewalk -- stomped or splattered into the concrete such that The Street Potato was not about to roll away. Since then, it appears to have taken up permanent residence in that spot.\n\n\n### My theory of The Street Potato\n\n\n**I think it was thrown or otherwise ejected from a window**\n\nEvidence:\n- I believe about 75% of it flattened upon contact with the sidewalk.\n- The force to de-cohere so much of a good-sized sweet potato requires more acceleration than it would get by simply being dropped from the carrying height of an average adult.\n- It landed about ten feet from the building, farther than it would have if it simply fell.\n- This also means it was probably fully cooked.\n\n**It embodies the universe's infinite capacity for change.**\n\n- As *I* recall, it started out as recognizable sweet potato, sticking out of the sidewalk like it had clipped through it in a video game.\n- Someone stepped on it within the first few weeks of its life on the sidewalk.\n\t- This means they were probably looking at a cute cat in the window, or the abject  emptiness of the giant garage door.\n- Since being stepped on, it has been functionally two-dimensional.\n- It is at least 4 months old.\n\t- I am writing this in August. It was definitely there in April. I don't know what this means.\n\n[[Martha]] has a different theory -- the potato fell from a bag while being carried to or from some sort of dinner function, and the potato-dropper immediately slipped in the potato, grinding it into the sidewalk, perhaps with the classic slapstick slipping-on-a-banana pratfall.\n\n",
-    "backlink_index": [
-
-    ]
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/thinkpad-x220-aka-screb/",
@@ -753,7 +2174,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/turd-lake-beer/",
@@ -780,7 +2201,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/aaron/",
@@ -805,7 +2226,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She’s married to [[Aaron]], has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/abe/",
@@ -830,7 +2251,7 @@
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/andrea/",
@@ -865,29 +2286,7 @@
         "excerpt": "<p>Aaron is our wonderful friend and neighbor. He’s married to [[Andrea]], has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a> and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/carl-diehl/",
-    "draft": false,
-    "categories": [
-      "people"
-    ],
-    "last_modified_at": "30-Dec-23",
-    "layout": "note",
-    "date": "2023-11-05 00:00:00 -0700",
-    "website": "https://www.electronicelsewhere.com/",
-    "title": "Carl diehl",
-    "slug": "Carl Diehl",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "<p>Carl is a man of many talents and neologisms. He made a <a href=\"https://www.electronicelsewhere.com/cracked\">somewhat cracked memex</a> He’s related to the great magician <a href=\"https://www.electronicelsewhere.com/mornings-of-the-magician\">Dorny</a>. His son Wolf drew a portrait of Frankie.</p>\n",
-    "raw_markdown": "Carl is a man of many talents and neologisms. He made a [somewhat cracked memex](https://www.electronicelsewhere.com/cracked) He's related to the great magician [Dorny](https://www.electronicelsewhere.com/mornings-of-the-magician). His son Wolf drew a portrait of Frankie.",
-    "backlink_index": [
-
-    ]
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/clamber/",
@@ -922,7 +2321,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/evan/",
@@ -952,7 +2351,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/jane-zemel/",
@@ -974,7 +2373,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/john-james/",
@@ -999,7 +2398,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/jon/",
@@ -1047,7 +2446,7 @@
         "excerpt": "<p>T.I.N.S.T.A.C. stands for There Is No Such Thing as Coincidence, coined by [[Jon]], because life, well, it be that way.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/lucy/",
@@ -1073,7 +2472,7 @@
         "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/martha/",
@@ -1103,9 +2502,9 @@
         "excerpt": "<p>Something incredible has happened in the short two weeks since I posted about the hummingbird family that lives in our courtyard, [[The Paddleboat Family.]]</p>\n"
       },
       {
-        "title": "Bread times",
-        "url": "/bread-times/",
-        "excerpt": "<p>Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of <em>times</em>. I think this was before we lived together, and <em>one</em> of us was harshly shaming the <em>other</em> after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.</p>\n"
+        "title": "The Street Potato",
+        "url": "/the-street-potato/",
+        "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n"
       },
       {
         "title": "How This Memex Started",
@@ -1113,14 +2512,14 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       },
       {
+        "title": "Bread times",
+        "url": "/bread-times/",
+        "excerpt": "<p>Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of <em>times</em>. I think this was before we lived together, and <em>one</em> of us was harshly shaming the <em>other</em> after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.</p>\n"
+      },
+      {
         "title": "What i want to store in my memex",
         "url": "/what-i-want-to-store-in-my-memex/",
         "excerpt": "<h1 id=\"brain-mulch-and-mind-things\">Brain Mulch and Mind Things</h1>\n"
-      },
-      {
-        "title": "The Street Potato",
-        "url": "/the-street-potato/",
-        "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n"
       },
       {
         "title": "Jane zemel",
@@ -1158,7 +2557,7 @@
         "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/nik/",
@@ -1198,7 +2597,7 @@
         "excerpt": "<p>DOES THIS WORK <a href=\"https://octothorp.es/~/cozyWeb?/=tag/cozyweb\">cozyweb</a>???</p>\n\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/ryan/",
@@ -1223,7 +2622,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -1244,7 +2643,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -1279,7 +2678,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/me/",
@@ -1309,7 +2708,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -1334,7 +2733,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -1369,7 +2768,7 @@
         "excerpt": "<p>This is a brief walkthrough of my paintings and drawings in the first show of Grapefruits gallery in the rare book room of [[Mother Foucault’s]].</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -1394,7 +2793,7 @@
         "excerpt": "<p><img src=\"/assets/notes/the-sweet-potato-aug-6-2023.jpeg\" alt=\"A washed out photo taken at night of a very old dark smear of something organic on the sidewalk with the photographer's two feet just visible in the bottom of the frame.\" /></p>\n<blockquote>\n  <p>The Street Potato as of August 6, 2023</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/prior-art/",
@@ -1403,7 +2802,7 @@
 
     ],
     "last_modified_at": "25-Apr-24",
-    "layout": "feedviewer",
+    "layout": "collection",
     "title": "Prior Art",
     "tags": [
       "octothorpes"
@@ -1415,7 +2814,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/research-club/",
@@ -1436,30 +2835,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
-  },
-  {
-    "id": "/sounds-of-the-record-tree/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Jan-24",
-    "layout": "note",
-    "image": "/assets/notes/sotrt-v1-cover.jpg",
-    "date": "2022-01-15 00:00:00 -0800",
-    "tags": [
-      "interdependence day",
-      "music"
-    ],
-    "title": "Sounds of the record tree",
-    "slug": "Sounds of the Record Tree",
-    "ext": ".md",
-    "excerpt": "<p>In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree – the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.</p>\n",
-    "raw_markdown": "In May of 2021, we moved to a new neighborhood on the north side of Ann Arbor. Around the corner from our apartment lives a magical tree -- the Record Tree. In the warmer months, you are sure to find a pile of records, springing up from its roots like toadstools.\n\n![A pile of records at the base of a tree](/assets/notes/sotrt-pile.jpg)\n\n### Sounds of the Record Tree: Vol 1\n\n![Cover for the Sounds of the Record Tree Volume 1 mixtape drawn by Martha Daghlian](/assets/notes/sotrt-v1-cover.jpg)\n\n\nThis is the first mixtape I have made to highlight the gems that reward those who will dig through the Record Tree's sundry produce. Given the (growing) stack of sometimes-muddy records I have brought home from it, it won't be the last. Cover by [Martha](http://athousandcirclets.garden).\n\n<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1380229834&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>\n\n<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/nim-daghlian\" title=\"Municipal Xylophone\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Municipal Xylophone</a> · <a href=\"https://soundcloud.com/nim-daghlian/sets/sotrt-1\" title=\"Sounds of the Record Tree - Vol. 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Sounds of the Record Tree - Vol. 1</a></div>\n\n\n*Track list:*\n\n### Side A\n\n1.\tJayne Kennedy -- Love Your Body Intro\n2.\tSteeleye Span -- A Calling-on Song\n3.\tCuppa Joe -- Love Peace Anarchy Infinity / Archipeligo\n4.\tDionne Warwick -- Track of the Cat\n5.\tBossa Nova -- I Dream of Jeanie\n6.\tMarilyn Martin -- Night Moves\n7.\tBob Gibson -- Celebrated Skier\n8.\tCarol Hensel's Dancersize -- I Will Survive\n\n### Side B\n\n1.\tDisneyland Chilling Thrilling Sounds of the Haunted House -- A Very Long Fuse\n2.\tI want to do it with you -- Pointer Sisters\n3.\tRalph Carmichael -- All My Life\n4.\tCrystal Gayle -- Why Have You Left the One You Left Me For\n5.\tDiana Ross and the Supremes -- Reflections\n6.\tJohnny Cash -- Get Rhythm\n7.\tScarlatti: Sonata in G Major, L 209/K .455 from the Well Tempered Synthesizer by Wendy Carlos\n8.\tThe Surfmen -- Fire Goddess\n9.\tKiss Me -- Terri Lawrence Total Reconstrution by Lenny Bertoldo from Dance Series Issue 50 (For Professional DJs only)\n10.\tPorter Wagoner -- I've Enjoyed As Much of This As I Can Stand\n11. (hidden)\tRuvin / Halfin / Irving / Sherian -- You're a Pink Toothbrush\n",
-    "backlink_index": [
-
-    ]
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/the-garden-of-blogs/",
@@ -1503,7 +2879,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/octothorpethoughts/",
@@ -1526,7 +2902,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/time-confetti-and-the-broken-promise-of-leisure/",
@@ -1548,7 +2924,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/warpaint-no-1/",
@@ -1572,7 +2948,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/workflow-rennovation-2024/",
@@ -1593,7 +2969,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -1618,7 +2994,7 @@
         "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -1648,7 +3024,7 @@
         "excerpt": "<p><a href=\"https://www.nationale.us/amy-bay-they-always-have-and-still-do-2023\">June 2–July 9, 2023 at Nationale</a></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/interdependence-day/",
@@ -1688,7 +3064,7 @@
         "excerpt": "<p>Since 2015, I’ve made a papercut based on the Polish tradition of Wiczynanki for [[Interdependence Day]].</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/infobahn/",
@@ -1711,7 +3087,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/urs/",
@@ -1739,7 +3115,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/hypolink/",
@@ -1762,7 +3138,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/internet-plus/",
@@ -1790,7 +3166,7 @@
         "excerpt": "<p>You can only get [[internet+]] on the Infobahn.</p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/pede/",
@@ -1838,7 +3214,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tinstac/",
@@ -1862,7 +3238,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/media/interdependence-day-papercuts/id-011515-jpg",
@@ -13023,7 +14399,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/gallery/everything-in-my-wifes-bag-two-days-after-we-got-married",
@@ -13048,7 +14424,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/gallery/genre-painting-reference/",
@@ -13071,7 +14447,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/gallery/innerbloom/",
@@ -13096,7 +14472,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/gallery/interdependence-day-papercuts/",
@@ -13120,7 +14496,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/gallery/notes-in-general/",
@@ -13143,7 +14519,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/gallery/pikas-place",
@@ -13225,7 +14601,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/archives/",
@@ -13246,7 +14622,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/art/",
@@ -13267,7 +14643,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/books/",
@@ -13288,7 +14664,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/coffee/",
@@ -13309,7 +14685,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/conceptual-labor/",
@@ -13330,7 +14706,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/cozyweb/",
@@ -13360,7 +14736,7 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       }
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/featured/",
@@ -13381,7 +14757,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/friend/",
@@ -13402,7 +14778,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/good-cups/",
@@ -13423,7 +14799,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/hummingbirds/",
@@ -13444,7 +14820,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/interdependence-day/",
@@ -13465,7 +14841,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/issue-3/",
@@ -13486,7 +14862,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/life/",
@@ -13507,7 +14883,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/memex/",
@@ -13528,7 +14904,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/memorial/",
@@ -13549,7 +14925,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/meta/",
@@ -13570,7 +14946,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/mind-things/",
@@ -13591,7 +14967,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/mulch/",
@@ -13612,7 +14988,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/music/",
@@ -13633,7 +15009,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/nationale/",
@@ -13654,7 +15030,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/neibhborhood/",
@@ -13675,7 +15051,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/neighborhood/",
@@ -13696,7 +15072,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/octothorpes/",
@@ -13717,7 +15093,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/painting/",
@@ -13738,7 +15114,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/rando/",
@@ -13759,7 +15135,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/recipes/",
@@ -13780,7 +15156,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/sources/",
@@ -13801,7 +15177,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/stuff/",
@@ -13822,7 +15198,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/times/",
@@ -13843,7 +15219,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/tag/traditions/",
@@ -13864,7 +15240,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/album/",
@@ -13885,7 +15261,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/audio/",
@@ -13906,7 +15282,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/collection/",
@@ -13927,7 +15303,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/concepts/",
@@ -13948,7 +15324,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/image/",
@@ -13969,7 +15345,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/media/",
@@ -13990,7 +15366,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/objects/",
@@ -14011,7 +15387,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/people/",
@@ -14032,7 +15408,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/texts/",
@@ -14053,7 +15429,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/video/",
@@ -14074,7 +15450,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   },
   {
     "id": "/category/words/",
@@ -14095,6 +15471,6 @@
     "backlink_index": [
 
     ],
-    "date": "2024-04-25 15:21:34 -0700"
+    "date": "2024-04-26 13:20:05 -0700"
   }
 ]

@@ -9,7 +9,7 @@ github_username:  nimdaghlian
 
 
 # Build settings
-incremental: true
+incremental: false
 
 permalink: pretty
 
@@ -109,6 +109,8 @@ rss_feeds:
   - name: "Octothorpe Bookmarks"
     url: "https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:octothorpes/"
     tag: "octothorpes"
+    mode: "notes"
   - name: "Cozyweb Bookmarks"
     url: "https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:cozyweb/"
     tag: "cozyweb"
+    mode: "notes"
