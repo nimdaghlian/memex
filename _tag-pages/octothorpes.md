@@ -1,4 +1,4 @@
 ---
-layout: tag
+layout: tag-and-thorpe
 title: octothorpes
 ---

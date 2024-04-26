@@ -1,0 +1,41 @@
+---
+layout: default
+---
+  <content class="ui sixteen wide column grid stackable gallery tag-page">
+      <!-- descriptive header for gallery -->
+      <div class="ui one column">
+        <h1 class="page_hilight">{{ page.title }}</h1>
+
+        <div class="ui one column description">
+          <h3>This page is also Octothorpin:</h3>
+          <octo-thorpe href="{{ page.url}}">{{ page.title }}</octo-thorpe>
+          {{ content }}
+          <div class="buttons-container one column">
+
+            <h2><i class="las la-filter page_hilight"></i></h2>
+        
+            <!-- Buttons will be added here dynamically -->
+          </div>
+        </div>
+
+
+              <!-- listing of gallery contents -->
+        <div class="ui one column">
+          <div class="ui cards grid four column stackable">
+            {% assign thetag = page.title  %}
+            {% assign docs = site.documents | sort: 'date' | reverse  %}
+            {% for post in docs %}
+              {% if post.tags contains thetag %}
+                {% include basic_card.html  %}
+                <div style="display: none;"><octo-thorpe href="{{ post.url}}">{{ thetag }}</octo-thorpe></div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+
+
+      </div>
+  </content>
+
+
+    {% include listfilter.html  %}
