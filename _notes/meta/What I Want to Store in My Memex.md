@@ -25,7 +25,7 @@ Just for me, I would love to connect everything I have that's *like* my studio j
 
 Many of the things that make me go "I should put that in the memex" are familiar entries in my brain, things I refer back to often. Decided to call these [[Mind Things]]. (I think Brain Mulch is where you can grow new Mind Things?) After enough years of changing devices or changing where I put things online the idea that there could be even semi-complete feeling, navigable *external* archive of the shelves and galleries in my brain that I consult in the studio or in conversation when I'm writing is, like, **the** main reason I'm building this. Jeez that would be nice.
 
-I think the sense that most options are built on damp sand, as it were, has prevented me from really ever using any platform to its fullest potential. I'm always impressed when someone can do that. Feels like [[Clamber]] has accomplished that. So I think I have *many* collections that are entirely in my head that *feel* like they're a real thing out in the world, but then I try to send my friends a link and the dream evaporates. (If any of you read that and were like "yeah, me too", *please do share!*)
+I think the sense that most options are built on damp sand, as it were, has prevented me from really ever using any platform to its fullest potential. I'm always impressed when someone can do that. Feels like [[Case]] has accomplished that. So I think I have *many* collections that are entirely in my head that *feel* like they're a real thing out in the world, but then I try to send my friends a link and the dream evaporates. (If any of you read that and were like "yeah, me too", *please do share!*)
 
 
 

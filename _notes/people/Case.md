@@ -1,5 +1,5 @@
 ---
-title: Clamber
+title: Case
 categories:
   - people
 tags:

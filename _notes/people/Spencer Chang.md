@@ -6,7 +6,7 @@ categories:
 
 Spencer is a real nice guy who reached out to me on Twitter after I made [bloggy.garden/](https://bloggy.garden/). (His feed is the 🌀.) He's doing super cool stuff in the [[cozyweb]] realm like [htmlgarden](https://htmlgarden.spencerchang.me/) and [more!](https://www.spencerchang.me/)
 
-Inspired by [[Clamber]] sending me linkdumps after our conversations, I made this note to capture the links I sent or thought of during our inspiring convesation.
+Inspired by [[Case]] sending me linkdumps after our conversations, I made this note to capture the links I sent or thought of during our inspiring convesation.
 
 (In a perfect world, the backlink to Clamber would send her a notifaction in the way she enjoys the most.)
 
