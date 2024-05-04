@@ -11,7 +11,7 @@ module Jekyll
       feeds = site.config['rss_feeds']
 
       return if feeds.nil?
-      return 
+      # return 
 
       rss_data = {}
 
