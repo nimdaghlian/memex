@@ -7,7 +7,7 @@ permalink: adventures-of-c-a-n/
 [Town overrun by bears](https://www.vox.com/policy-and-politics/21534416/free-state-project-new-hampshire-libertarians-matthew-hongoltz-hetling) // This goes places.
 
 
-](Why Handmade Images Matter) // We talked a lot about AI and art schtuff. This is the first coherent chunk I've been able to  of a big web of writing I've been doing on that. I mentioned it at some point, so here it is guys.
+[Why Handmade Images Matter](/handmade-images-print) // We talked a lot about AI and art schtuff. This is the first coherent chunk I've been able to  of a big web of writing I've been doing on that. I mentioned it at some point, so here it is guys.
 
 
 **Dynamic… systems? theory?** // this one's a headscratcher. I was trying to remember the name of an interesting and practical theory that has a terrible name... on purpose. The guy who came up with it was doing so while contracting for the US government, possibly the military. He wanted to keep getting funding, but he didn't want people to bug him too much while he worked on it. So he picked a deliberately boring name, and put, I believe "dynamic" in the name because he knew bureaucrats liked it. Cna't find. Does that ring a bell for anyone?   

@@ -11,9 +11,11 @@
             "id": "027c3d232e6eb431",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/notes/Pasted image 20231119122046.png"
+                "file": "_notes/texts/Handmade images print version.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/notes/Pasted image 20231119122046.png",
+                "file": "_notes/texts/Handmade images print version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +140,8 @@
   },
   "active": "027c3d232e6eb431",
   "lastOpenFiles": [
+    "assets/notes/Pasted image 20231119122046.png",
+    "_notes/texts/Handmade images print version.md",
     "_notes/times/Adventures of C & A & N.md",
     "_notes/Stumbled into a Webring.md",
     "_notes/The Paddleboat Family.md",
@@ -150,7 +154,6 @@
     "assets/adventures-c-a-n/IMG_4388.HEIC",
     "assets/adventures-c-a-n/IMG_4387.HEIC",
     "assets/adventures-c-a-n/winooski-squircle.png",
-    "assets/notes/Pasted image 20231119122046.png",
     "assets/adventures-c-a-n/IMG_9071.mov",
     "assets/adventures-c-a-n/lotus-l-kang.jpg",
     "assets/adventures-c-a-n/eclipse-yard.jpeg",
@@ -181,8 +184,6 @@
     "_notes/words/prunty.md",
     "_tag-pages/recipes.md",
     "_tag-pages/friendthing.md",
-    "_media/notes/prunty-gif.md",
-    "_notes/words/internet-plus.md",
-    "_notes/texts/Workflow Rennovation 2024.md"
+    "_media/notes/prunty-gif.md"
   ]
 }
