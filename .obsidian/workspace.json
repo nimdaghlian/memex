@@ -11,11 +11,9 @@
             "id": "027c3d232e6eb431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_notes/concepts/Stone Souping.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/notes/Pasted image 20231119122046.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/concepts/Stone Souping.md",
+                "file": "assets/notes/Pasted image 20231119122046.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +138,29 @@
   },
   "active": "027c3d232e6eb431",
   "lastOpenFiles": [
-    "_notes/concepts/Slow Motion Bullseyes.md",
+    "_notes/times/Adventures of C & A & N.md",
+    "_notes/Stumbled into a Webring.md",
+    "_notes/The Paddleboat Family.md",
+    "assets/adventures-c-a-n/vermont-sky.jpeg",
+    "assets/adventures-c-a-n/vermont-barn.jpeg",
+    "assets/adventures-c-a-n/here-lies-gabby-dzessou.jpeg",
+    "assets/adventures-c-a-n/andrew-and-portrats.jpeg",
+    "assets/adventures-c-a-n/IMG_4388 Large.jpeg",
+    "assets/adventures-c-a-n/IMG_4387 Large.jpeg",
+    "assets/adventures-c-a-n/IMG_4388.HEIC",
+    "assets/adventures-c-a-n/IMG_4387.HEIC",
+    "assets/adventures-c-a-n/winooski-squircle.png",
+    "assets/notes/Pasted image 20231119122046.png",
+    "assets/adventures-c-a-n/IMG_9071.mov",
+    "assets/adventures-c-a-n/lotus-l-kang.jpg",
+    "assets/adventures-c-a-n/eclipse-yard.jpeg",
+    "assets/adventures-c-a-n/IMG_4408.HEIC",
+    "assets/adventures-c-a-n/IMG_4383.HEIC",
+    "assets/adventures-c-a-n/IMG_4382.HEIC",
+    "assets/adventures-c-a-n",
+    "assets/untitled folder",
     "_notes/concepts/Stone Souping.md",
+    "_notes/concepts/Slow Motion Bullseyes.md",
     "_notes/concepts/Bread Times.md",
     "_notes/concepts/Brain Mulch.md",
     "_notes/people/Case.md",
@@ -151,28 +170,10 @@
     "_site/site-index.json",
     "_notes/prior-art.md",
     "_site/prior-art/index.html",
-    "_site/prior-art",
     "prior-art.md",
-    "_site/feeds.json",
-    "feeds.json",
-    "_layouts/feedviewer.html",
-    "_data/feeds.json",
-    "_site/octotest/index.html",
-    "_site/octotest",
-    "_plugins/feedgenerator.rb",
     "_notes/projects/octotest.md",
     "_notes/concepts/The Mole Diagram.md",
-    "_site/cache/resize/2cba4ce086be3cd0aa4545d492e3ff6e_800x800.jpeg",
-    "cache/resize/2cba4ce086be3cd0aa4545d492e3ff6e_800x800.jpeg",
-    "_site/cache/resize/07ae0943763fb06ec25427a8be72951b_90x90.jpeg",
-    "_site/cache/resize/07ae0943763fb06ec25427a8be72951b_400x400.jpeg",
-    "cache/resize/07ae0943763fb06ec25427a8be72951b_90x90.jpeg",
-    "cache/resize/07ae0943763fb06ec25427a8be72951b_400x400.jpeg",
-    "_site/assets/notes/mole-diagram.jpeg",
     "_media/notes/mole-diagram-jpeg.md",
-    "assets/notes/mole-diagram.jpeg",
-    "assets/mole-diagram.jpeg",
-    "_media/notes/mole-diagram.jpeg",
     "_cat-pages/words.md",
     "_notes/places/Mother Foucault's.md",
     "_media/notes/redescriptions-walkthrough-mp4.md",
@@ -182,9 +183,6 @@
     "_tag-pages/friendthing.md",
     "_media/notes/prunty-gif.md",
     "_notes/words/internet-plus.md",
-    "_notes/texts/Workflow Rennovation 2024.md",
-    "_notes/words/p.md",
-    "_cat-pages/concepts.md",
-    "_notes/objects/Turd Lake Beer.md"
+    "_notes/texts/Workflow Rennovation 2024.md"
   ]
 }

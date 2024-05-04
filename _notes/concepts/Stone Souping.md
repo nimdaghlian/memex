@@ -7,3 +7,5 @@ When multiple people are interested in a project or an idea or an activity, and 
 
 
 This is the opposite of [brain crack](https://www.youtube.com/watch?v=0sHCQWjTrJ8).
+
+
