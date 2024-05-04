@@ -29,7 +29,6 @@ permalink: adventures-of-c-a-n/
 **Deja Virtual** -- Encountering a real world location that appears to be a memory, but the memory is born from encountering its virtual simulation first.
 ![alt text to come](/assets/adventures-c-a-n/vermont-barn.jpeg)
 ![alt text to come](/assets/adventures-c-a-n/vermont-sky.jpeg)
-![alt text to come](/assets/adventures-c-a-n/vermont-sky.jpeg)
 
 
 ### Things seen
@@ -41,7 +40,7 @@ permalink: adventures-of-c-a-n/
 
 **Winooski's Town Squircle** -- Winooski, VT is centered on a giant roundabout, like a town square. But it's neither round nor square. It is a big squircle, and it's low-key chaotic at all times. Apparently it's called Rotary Park.
 
-![alt text to come](/assets/adventures-c-a-n/winooski-squircle.png)
+![alt text to come](/assets/adventures-c-a-n/winooski-squircle.jpeg)
 
 **Here Lies Gabby Dzessou: Always Doing Her Own Thing**
 
