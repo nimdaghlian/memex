@@ -12,9 +12,9 @@ permalink: adventures-of-c-a-n/
 
 **Dynamic… systems? theory?** // this one's a headscratcher. I was trying to remember the name of an interesting and practical theory that has a terrible name... on purpose. The guy who came up with it was doing so while contracting for the US government, possibly the military. He wanted to keep getting funding, but he didn't want people to bug him too much while he worked on it. So he picked a deliberately boring name, and put, I believe "dynamic" in the name because he knew bureaucrats liked it. Cna't find. Does that ring a bell for anyone?   
 
-**["Working", by Studs Terkel](<https://en.wikipedia.org/wiki/Working_(Terkel_book)>)** -- One of those absolute classics that I feel like I've read because I've dipped in and out of  it so much. One of these days I should go over to the [union bar](https://www.mmmx.cloud/worker-s-tap/) and read through it in their library. Here's a pretty good sample of Studs doing his thing.
+**["Working", by Studs Terkel](<https://en.wikipedia.org/wiki/Working_(Terkel_book)>)** -- One of those absolute classics that I feel like I've read because I've dipped in and out of  it so much. One of these days I should go over to the [union bar](https://www.mmmx.cloud/worker-s-tap/) and read through it in their library. [Here's a pretty good sample of Studs doing his thing](https://www.youtube.com/watch?v=Y6IpaZkAD48).
 
-https://www.youtube.com/watch?v=Y6IpaZkAD48
+
 
 [Dasein](https://en.wikipedia.org/wiki/Dasein) 
 
