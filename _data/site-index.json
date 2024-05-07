@@ -21,7 +21,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/patterns-of-intention/",
@@ -51,7 +51,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/the-paddleboat-family/",
@@ -145,7 +145,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/stone-souping/",
@@ -166,7 +166,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/the-mole-diagram/",
@@ -192,7 +192,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/wushi",
@@ -1339,32 +1339,6 @@
     ]
   },
   {
-    "id": "/how-this-memex-started/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "title": "How This Memex Started",
-    "tags": [
-      "meta",
-      "featured"
-    ],
-    "date": "2023-09-27 00:00:00 -0700",
-    "slug": "How This Memex Started",
-    "ext": ".md",
-    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
-    "raw_markdown": "> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.\n\n## How I Started this Garden\n\n4.18.22\n\nNo digital garden is complete without a good pile of notes about digital gardens themselves!\n\nLess than a month since reading this bittersweet thread 👇 from my friend [[Ryan]], who was, like, *there* when the web cut its own bangs for the first time, I've not only started a digital garden, I've extended its features and roped at least [[Evan|one friend]] into making [his own](https://evans-thoughts-garden.onrender.com).\n\n![Tweet from twitter user @sixfoot6 reading \"i barely think about the web we lost anymore tbh\"](/assets/notes/ryan-tweet-lost-web.png)\n\n\nA little ways down that [thread](https://twitter.com/sixfoot6/status/1506011362249437190), someone mentions digital gardening.\n\n![A tweet from @sixfoot6 reading \"the nostalgia and look backwards weren't taking me far, and faded. and none of the forward-looking discord something something web3 something personal blogs are back something something threads are really lighting me up either we're just here now.\" replied to by @Weegee saying \"I Hold on to people. Though I have been investigating digital gardens with remind me of the old web in a good way. Enjoyed it so far.\"](/assets/notes/original-digital-garden-tweet.png)\n\n\nIt was a term I'd heard before, but there was something about the specificity of how he said it that got me digging. You can see most of what I found and read at [[Digital Gardens]] and [[cozyweb]].\n\nIt was timely, because just a few days prior I had lucked into an actual evening of *web browsing* thanks to the excellent [random button on Marginalia search](https://search.marginalia.nu/explore/random).\n\n> Appropriately enough when I went to go get that link, I discovered that Marginalia has a [memex](https://memex.marginalia.nu), a central reference of one of the [instigating texts of the current movement of digital gardens](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/).\n\n> and holy shit they have a... [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))? [site](https://proxy.vulpes.one/gemini/marginalia.nu/)?\n> wow... brand new thing learned while writing this. this nerdrabbithole keeps getting deeper.\n\nLike Ryan and his friends in that thread, I've been casting about for ghosts of an internet time that I probably don't even remember correctly. Not just for nostalgia, though... for the reasons it was good in the first place. And I'm coming out of a five / ten year [writing project](https://conceptuallabor.com) with a pile of research and a great hunger for lighter, looser writing and free-association. This is its own rabbithole, and it's getting a little late, so in the discursive, anti-completist nature of digital gardens, I'll put a pin in this and come back to it. In any case I was hella primed to find out about this [whole pattern](https://conceptuallabor.com/blog/writing-tools-1) or writing and making websites.\n\n### This Garden's Harvests\n\nThat said, I am so far much more interested in the website-making rather than note-taking parts of digital gardens. That's reflected in my modifications thusfar to the really excellent [digital garden Jekyll template I'm using](https://github.com/maximevaillancourt/digital-garden-jekyll-template).\n\n#### I'm importing RSS feeds\n\nPinboard is totally central to my use of the internet. But, as the author of the Memex points out, we store much more information than we retrieve. I've wanted a better way to view and interact with my bookmarks and research for a long time.\n\nSo I banged together a [little ruby script](https://github.com/nimwunnan/digital-garden-jekyll-template/blob/master/getfeeds.rb) that does the following\n\n* turns entries from an RSS feed into markdown files in the collection `_feeds`\n* adds useful frontmatter such as tags and a default template\n* creates a `note` for every `tag` and `bucket` specified\n\t* for pinboard feeds, it includes the tags from pinboard for each item\n* adds backlinks to `feed` page content to their corresponding `bucket` note\n\n> I'd like to release this as an actual jekyll plugin. It needs some work first, and I'm not usually a ruby developer, but ruby's friendly enough. Anyway, I have to take a break from working *on* this garden to putting things *in* it, so stay tuned for that.\n\nSo far the external sites I've imported are:\n\n* [[astronomy-picture-of-the-day]]\n* [[public-domain-review]]\n* [[the-morning-news]]\n* and [[Martha]]'s excellent [[Grapefruits Sometimes Art Email]]\n\n~~and you can find allllll my bookmarks in the [[bookmarks]] bucket.\n~~\nBookmarks removed after the advent of  [bloggy.garden](https://bloggy.garden)\n### I made some new templates\n\nVery quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Martha|Martha]] a garden of emoji plants. They're evident in the above links.\n\n1.15.23\n\n### New Garden of Blogs\n\nMoved feeds to [bloggy.garden](https://bloggy.garden). Made sense to make it it's own thing -- definitely still interested in the idea of pulling external content into the garden, but not as much as a browser / reader.",
-    "backlink_index": [
-      {
-        "title": "Stumbled into a webring",
-        "url": "/stumbled-into-a-webring/",
-        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
-      }
-    ]
-  },
-  {
     "id": "/stumbled-into-a-webring/",
     "draft": false,
     "categories": [
@@ -1565,28 +1539,6 @@
     "ext": ".md",
     "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
     "raw_markdown": "No Description\n <!-- end excerpt --> \n",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/welcome/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "date": "2023-10-15 00:00:00 -0700",
-    "tags": [
-      "meta",
-      "featured"
-    ],
-    "title": "Welcome",
-    "slug": "Welcome",
-    "ext": ".md",
-    "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n",
-    "raw_markdown": "Welcome to my Memex! This is very much an ongoing project of [digital gardening](/how-this-memex-started), with much still [to-do](/todo) , but I'm pushing \"go\" on this today, calling it done enough to be the thing that it was supposed to be.\n\nSee [[About]] for more about what it is, why I'm doing it, and what's on it. You could dive right with every [note](/notes) or every [image](/category/image).\n\n💕 -- [Ním](/me)\n\n",
     "backlink_index": [
 
     ]
@@ -1839,6 +1791,131 @@
     ]
   },
   {
+    "id": "/activitypods-personal-data-spaces-powered-with-activitypub/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "04-May-24",
+    "layout": "urlnote",
+    "title": "ActivityPods - Personal data spaces powered with ActivityPub\n",
+    "date": "2024-04-26 17:52:06 -0700",
+    "dateadded": "2024-05-04 11:49:36 -0700",
+    "link": "https://activitypods.org/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "activitypods-personal-data-spaces-powered-with-activitypub",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/mastopod/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "04-May-24",
+    "layout": "urlnote",
+    "title": "Mastopod\n",
+    "date": "2024-04-26 17:52:21 -0700",
+    "dateadded": "2024-05-04 11:49:36 -0700",
+    "link": "https://mastopod.com/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "mastopod",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/examples-blocknote/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "04-May-24",
+    "layout": "urlnote",
+    "title": "Examples - BlockNote\n",
+    "date": "2024-04-26 17:52:35 -0700",
+    "dateadded": "2024-05-04 11:49:36 -0700",
+    "link": "https://www.blocknotejs.org/examples",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "examples-blocknote",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/web-of-trust-wikipedia/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "04-May-24",
+    "layout": "urlnote",
+    "title": "Web of trust - Wikipedia\n",
+    "date": "2024-04-26 17:59:42 -0700",
+    "dateadded": "2024-05-04 11:49:36 -0700",
+    "link": "https://en.wikipedia.org/wiki/Web_of_trust",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "web-of-trust-wikipedia",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
+    "id": "/hashtags-rneocities/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "04-May-24",
+    "layout": "urlnote",
+    "title": "Hashtags? : r/neocities\n",
+    "date": "2024-05-04 11:42:40 -0700",
+    "dateadded": "2024-05-04 11:49:36 -0700",
+    "link": "https://www.reddit.com/r/neocities/comments/112q7vg/hashtags/",
+    "feed-slug": "",
+    "feed-name": "Octothorpe Bookmarks",
+    "tags": [
+      "octothorpes"
+    ],
+    "slug": "hashtags-rneocities",
+    "ext": ".md",
+    "excerpt": "<p>No Description\n <!-- end excerpt --></p>\n",
+    "raw_markdown": "No Description\n <!-- end excerpt --> \n",
+    "backlink_index": [
+
+    ]
+  },
+  {
     "id": "/about/",
     "draft": false,
     "categories": [
@@ -1866,7 +1943,7 @@
         "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/colophon/",
@@ -1887,7 +1964,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/development-log/",
@@ -1912,7 +1989,55 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
+  },
+  {
+    "id": "/how-this-memex-started/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "title": "How This Memex Started",
+    "tags": [
+      "meta",
+      "featured"
+    ],
+    "date": "2023-09-27 00:00:00 -0700",
+    "slug": "How This Memex Started",
+    "ext": ".md",
+    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
+    "raw_markdown": "> This site came out of a year or so of experimenting with digital gardens. Here's what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what's going on here.\n\n## How I Started this Garden\n\n4.18.22\n\nNo digital garden is complete without a good pile of notes about digital gardens themselves!\n\nLess than a month since reading this bittersweet thread 👇 from my friend [[Ryan]], who was, like, *there* when the web cut its own bangs for the first time, I've not only started a digital garden, I've extended its features and roped at least [[Evan|one friend]] into making [his own](https://evans-thoughts-garden.onrender.com).\n\n![Tweet from twitter user @sixfoot6 reading \"i barely think about the web we lost anymore tbh\"](/assets/notes/ryan-tweet-lost-web.png)\n\n\nA little ways down that [thread](https://twitter.com/sixfoot6/status/1506011362249437190), someone mentions digital gardening.\n\n![A tweet from @sixfoot6 reading \"the nostalgia and look backwards weren't taking me far, and faded. and none of the forward-looking discord something something web3 something personal blogs are back something something threads are really lighting me up either we're just here now.\" replied to by @Weegee saying \"I Hold on to people. Though I have been investigating digital gardens with remind me of the old web in a good way. Enjoyed it so far.\"](/assets/notes/original-digital-garden-tweet.png)\n\n\nIt was a term I'd heard before, but there was something about the specificity of how he said it that got me digging. You can see most of what I found and read at [[Digital Gardens]] and [[cozyweb]].\n\nIt was timely, because just a few days prior I had lucked into an actual evening of *web browsing* thanks to the excellent [random button on Marginalia search](https://search.marginalia.nu/explore/random).\n\n> Appropriately enough when I went to go get that link, I discovered that Marginalia has a [memex](https://memex.marginalia.nu), a central reference of one of the [instigating texts of the current movement of digital gardens](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/).\n\n> and holy shit they have a... [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))? [site](https://proxy.vulpes.one/gemini/marginalia.nu/)?\n> wow... brand new thing learned while writing this. this nerdrabbithole keeps getting deeper.\n\nLike Ryan and his friends in that thread, I've been casting about for ghosts of an internet time that I probably don't even remember correctly. Not just for nostalgia, though... for the reasons it was good in the first place. And I'm coming out of a five / ten year [writing project](https://conceptuallabor.com) with a pile of research and a great hunger for lighter, looser writing and free-association. This is its own rabbithole, and it's getting a little late, so in the discursive, anti-completist nature of digital gardens, I'll put a pin in this and come back to it. In any case I was hella primed to find out about this [whole pattern](https://conceptuallabor.com/blog/writing-tools-1) or writing and making websites.\n\n### This Garden's Harvests\n\nThat said, I am so far much more interested in the website-making rather than note-taking parts of digital gardens. That's reflected in my modifications thusfar to the really excellent [digital garden Jekyll template I'm using](https://github.com/maximevaillancourt/digital-garden-jekyll-template).\n\n#### I'm importing RSS feeds\n\nPinboard is totally central to my use of the internet. But, as the author of the Memex points out, we store much more information than we retrieve. I've wanted a better way to view and interact with my bookmarks and research for a long time.\n\nSo I banged together a [little ruby script](https://github.com/nimwunnan/digital-garden-jekyll-template/blob/master/getfeeds.rb) that does the following\n\n* turns entries from an RSS feed into markdown files in the collection `_feeds`\n* adds useful frontmatter such as tags and a default template\n* creates a `note` for every `tag` and `bucket` specified\n\t* for pinboard feeds, it includes the tags from pinboard for each item\n* adds backlinks to `feed` page content to their corresponding `bucket` note\n\n> I'd like to release this as an actual jekyll plugin. It needs some work first, and I'm not usually a ruby developer, but ruby's friendly enough. Anyway, I have to take a break from working *on* this garden to putting things *in* it, so stay tuned for that.\n\nSo far the external sites I've imported are:\n\n* [[astronomy-picture-of-the-day]]\n* [[public-domain-review]]\n* [[the-morning-news]]\n* and [[Martha]]'s excellent [[Grapefruits Sometimes Art Email]]\n\n~~and you can find allllll my bookmarks in the [[bookmarks]] bucket.\n~~\nBookmarks removed after the advent of  [bloggy.garden](https://bloggy.garden)\n### I made some new templates\n\nVery quick and dirty so far. They serve two purposes: collecting groups of content, and making it possible for me to show [[Martha|Martha]] a garden of emoji plants. They're evident in the above links.\n\n1.15.23\n\n### New Garden of Blogs\n\nMoved feeds to [bloggy.garden](https://bloggy.garden). Made sense to make it it's own thing -- definitely still interested in the idea of pulling external content into the garden, but not as much as a browser / reader.",
+    "backlink_index": [
+      {
+        "title": "Stumbled into a webring",
+        "url": "/stumbled-into-a-webring/",
+        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "/welcome/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "date": "2023-10-15 00:00:00 -0700",
+    "tags": [
+      "meta",
+      "featured"
+    ],
+    "title": "Welcome",
+    "slug": "Welcome",
+    "ext": ".md",
+    "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n",
+    "raw_markdown": "Welcome to my Memex! This is very much an ongoing project of [digital gardening](/how-this-memex-started), with much still [to-do](/todo) , but I'm pushing \"go\" on this today, calling it done enough to be the thing that it was supposed to be.\n\nSee [[About]] for more about what it is, why I'm doing it, and what's on it. You could dive right with every [note](/notes) or every [image](/category/image).\n\n💕 -- [Ním](/me)\n\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/what-i-want-to-store-in-my-memex/",
@@ -1935,7 +2060,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/what-is-a-memex/",
@@ -1957,7 +2082,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/magic-masala-chips/",
@@ -1980,7 +2105,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/quilt-by-delphine/",
@@ -2005,7 +2130,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/slice-of-life-mug/",
@@ -2030,7 +2155,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/stirrup-cup/",
@@ -2055,7 +2180,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/synthesizers/",
@@ -2080,7 +2205,29 @@
         "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
+  },
+  {
+    "id": "/the-old-seal/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "date": "2023-11-15 00:00:00 -0800",
+    "tags": [
+      "books"
+    ],
+    "category": "objects",
+    "title": "The old seal",
+    "slug": "The Old Seal",
+    "ext": ".md",
+    "excerpt": "<p>Last time Martha and I visited our dear friends Phil and Ellen and got to see <a href=\"https://www.pirages.com/\">Phil’s amazing collection of books</a>, an unusual item stuck out. It was a very intact royal order and wax seal from <strong>1275.</strong> As in the thirteenth century. It’s “not very interesting” to collectors because it comes from <a href=\"https://en.wikipedia.org/wiki/Philip_II%2C_Duke_of_Savoy\">Phillip II, Duke of Savor</a>, who was only duke for about a year.</p>\n",
+    "raw_markdown": "Last time Martha and I visited our dear friends Phil and Ellen and got to see [Phil's amazing collection of books](https://www.pirages.com/), an unusual item stuck out. It was a very intact royal order and wax seal from **1275.** As in the thirteenth century. It's \"not very interesting\" to collectors because it comes from [Phillip II, Duke of Savor](https://en.wikipedia.org/wiki/Philip_II%2C_Duke_of_Savoy), who was only duke for about a year.\n\nHere's Phil's own description of it:\n\n> For details of the 1275 document (with seal) we looked at, go to: [https://manuscriptevidence.org/wpme/the-illustrated-handlist/](https://manuscriptevidence.org/wpme/the-illustrated-handlist/) and scroll down to **Handlist 19**, and there it is. The Google translation of the French is:\narbitral award of Philippe, count of Savoy and Burgundy, between the citizens of Vienne, Ervys de Pusignan, knight, and his children, and the parents and widow of nobleman Pierre de Broen (Brohenc), courier of Vienne, concerning the assassination of the latter in a sedition: it gave rise to a war between the city and the signers of Pusignan, Maubec and Veyssilieu. Act. and date. ap. S. Georgium de Esperenchia, in its orchard.\n\n> This is not entirely clear to me (yet), but it’s interesting because it seems to me to relate to some kind of payment to the widow and parents of a guy who got murdered.\n\n> It’s a killer item.\n\n---\n\nHere are some photos of it, with a bonus picture of the title page from the enormous Anatomy of the Horse by George C Stubbs.\n\n![](/assets/notes/pirages-old-seal-full.jpeg)\n\n![](/assets/notes/pirages-old-seal.jpeg)\n![](/assets/notes/pirages-old-seal-2.jpeg)\n\n![](/assets/notes/pirages-old-seal-in-hand.jpeg)\n![](/assets/notes/pirages-old-seal-text.jpeg)\n![](/assets/notes/pirages-horse-anatomy.jpeg)\n",
+    "backlink_index": [
+
+    ]
   },
   {
     "id": "/the-remote/",
@@ -2104,7 +2251,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/the-side-table/",
@@ -2128,7 +2275,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/the-street-potato/",
@@ -2151,6 +2298,30 @@
     "backlink_index": [
 
     ]
+  },
+  {
+    "id": "/thinkpad-x220-aka-screb/",
+    "draft": false,
+    "categories": [
+      "objects"
+    ],
+    "last_modified_at": "06-Mar-24",
+    "layout": "note",
+    "tags": [
+      "stuff",
+      "issue-3"
+    ],
+    "image": "/assets/notes/screb.jpeg",
+    "category": "objects",
+    "title": "Thinkpad x220 aka screb",
+    "slug": "Thinkpad X220 aka Screb",
+    "ext": ".md",
+    "excerpt": "<p><img src=\"/assets/notes/screb.jpeg\" alt=\"A Thinkpad X220 laptop on a table with an espresso next to it outside on a city street\" /></p>\n",
+    "raw_markdown": "![A Thinkpad X220 laptop on a table with an espresso next to it outside on a city street](/assets/notes/screb.jpeg)\n\nI'm typing this in 2024 on a 2011 Lenovo Thinkpad x220 named Screb, and it's pretty fun. I have it because of an x200 I got to use on a long trip on the Siberian Express that my sister took me on in 2013. My first laptop ever was a cheap-and-old-even-at-the-time Thinkpad that I got in 2000 mainly so I could write whatever it was that I was writing at the age of 20 on my lunchbreak at work (because, you know, files mostly existed in a physical locations then so I needed a way to bring them with me). I remembered it fondly, so when I needed a computer that could keep me reasonably connected with work but also get crushed by a train without it being a big problem, I went for a ~$200 x200. It was honestly pretty usable!\n\nThen, around 2020, I was in one of those situations with an internet service provider that involves hours of unpaid work to prove that they're gaslighting you, and I had to find a device that plugged directly into ethernet, and, lo, there was my old x200. \n\nTwo remarkable things came out of this. One, a laptop running Linux that had been powered down for six years went through about 20 minutes of software updates and was good as new. Two, I saved my studio from burning down because its aftermarket battery was growing an enormous bubble and if I hadn't dug that laptop out of storage it probably would have exploded soon thereafter.\n\nSo that's good.\n\nI ended up selling that and getting the just-better-enough x220, and did a decent amount of actual freelance work and writing on it. It's definitely a better typewriter than development machine, which is mostly what I use it for now.\n\nBut it's excellent at that! I had been running Kubuntu on it, which had some nice quality of life things, but I could _not_ get the power management under control. It regularly got hot enough to be uncomfortable on an actual human lap (mine), though the overheating vintage electronics smell the fan blew out was oddly nostalgic and pleasant.\n\nI recently scrubbed it and installed Mint, which seems to have solved the problem. I get a few hours out of it, and it stays quiet and cool.\n\nAt the moment, all it has is Obsidian, Dropbox, Firefox, and an email client on it and that's _delightful._\n\nNo notifications, *very* comfortable keyboard, dedicated keys for page up/down and browse back/forward, and a little light in the lid that shines down on the keyboard. [And the weird nub mouse thing](https://xkcd.com/243/).\n\nThis is one of those devices that has developed an intense and dedicated following -- you can buy an _x330_ now, which is not a model that was ever issued. Modders have put together an impressive suite of hacks and upgrades to make their own, new beast. As far as I ever got sucked in was installing an mSata hard drive to dual boot Windows and then modifying the BIOS to run some containerized client software -- which I am glad not to be doing anymore. [Some guy once called it the Toyota Corolla of laptops](https://maximevaillancourt.com/blog/why-i-use-a-thinkpad-x220-in-2021), and I agree. Wait, that's not just some guy, that's Maxime Vaillancourt, _the guy_ who wrote the Digital Garden Theme that I used as a starting point to build this memex! Clearly only geniuses use this laptop.\n\nMainly, I like it as a calm, solid feeling device that lets me do a few, focused things and doesn't interrupt me when I do.\n\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/turd-lake-beer/",
@@ -2177,7 +2348,53 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
+  },
+  {
+    "id": "/aaron/",
+    "draft": false,
+    "categories": [
+      "people"
+    ],
+    "last_modified_at": "29-Apr-24",
+    "layout": "note",
+    "tags": [
+      "friend"
+    ],
+    "title": "Aaron",
+    "slug": "Aaron",
+    "ext": ".md",
+    "excerpt": "<p>Aaron is our wonderful friend and neighbor. He has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a> and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n",
+    "raw_markdown": "Aaron is our wonderful friend and neighbor. He has two cats, Saucepan and Shoyu, was in [Nurses](https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/) and now makes music as [S.E.C.R.E.T.S.](https://no1sbiz.bandcamp.com/) \n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-05-07 09:26:34 -0700"
+  },
+  {
+    "id": "/abe/",
+    "draft": false,
+    "categories": [
+      "people"
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "title": "Abe Ingle",
+    "tags": [
+      "friend"
+    ],
+    "slug": "Abe",
+    "ext": ".md",
+    "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n",
+    "raw_markdown": "Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.\n\nHe makes cool [[Synthesizers]].",
+    "backlink_index": [
+      {
+        "title": "Synthesizers",
+        "url": "/synthesizers/",
+        "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
+      }
+    ],
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/andrea/",
@@ -2207,7 +2424,7 @@
         "excerpt": "<p><img src=\"/assets/notes/Pasted%20image%2020231119122046.png\" alt=\"A hand holding a cool beer bottle with a logo that looks like both a turd and a lake and a grain of rice\" /></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/carl-diehl/",
@@ -2230,98 +2447,6 @@
     "backlink_index": [
 
     ]
-  },
-  {
-    "id": "/the-old-seal/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "date": "2023-11-15 00:00:00 -0800",
-    "tags": [
-      "books"
-    ],
-    "category": "objects",
-    "title": "The old seal",
-    "slug": "The Old Seal",
-    "ext": ".md",
-    "excerpt": "<p>Last time Martha and I visited our dear friends Phil and Ellen and got to see <a href=\"https://www.pirages.com/\">Phil’s amazing collection of books</a>, an unusual item stuck out. It was a very intact royal order and wax seal from <strong>1275.</strong> As in the thirteenth century. It’s “not very interesting” to collectors because it comes from <a href=\"https://en.wikipedia.org/wiki/Philip_II%2C_Duke_of_Savoy\">Phillip II, Duke of Savor</a>, who was only duke for about a year.</p>\n",
-    "raw_markdown": "Last time Martha and I visited our dear friends Phil and Ellen and got to see [Phil's amazing collection of books](https://www.pirages.com/), an unusual item stuck out. It was a very intact royal order and wax seal from **1275.** As in the thirteenth century. It's \"not very interesting\" to collectors because it comes from [Phillip II, Duke of Savor](https://en.wikipedia.org/wiki/Philip_II%2C_Duke_of_Savoy), who was only duke for about a year.\n\nHere's Phil's own description of it:\n\n> For details of the 1275 document (with seal) we looked at, go to: [https://manuscriptevidence.org/wpme/the-illustrated-handlist/](https://manuscriptevidence.org/wpme/the-illustrated-handlist/) and scroll down to **Handlist 19**, and there it is. The Google translation of the French is:\narbitral award of Philippe, count of Savoy and Burgundy, between the citizens of Vienne, Ervys de Pusignan, knight, and his children, and the parents and widow of nobleman Pierre de Broen (Brohenc), courier of Vienne, concerning the assassination of the latter in a sedition: it gave rise to a war between the city and the signers of Pusignan, Maubec and Veyssilieu. Act. and date. ap. S. Georgium de Esperenchia, in its orchard.\n\n> This is not entirely clear to me (yet), but it’s interesting because it seems to me to relate to some kind of payment to the widow and parents of a guy who got murdered.\n\n> It’s a killer item.\n\n---\n\nHere are some photos of it, with a bonus picture of the title page from the enormous Anatomy of the Horse by George C Stubbs.\n\n![](/assets/notes/pirages-old-seal-full.jpeg)\n\n![](/assets/notes/pirages-old-seal.jpeg)\n![](/assets/notes/pirages-old-seal-2.jpeg)\n\n![](/assets/notes/pirages-old-seal-in-hand.jpeg)\n![](/assets/notes/pirages-old-seal-text.jpeg)\n![](/assets/notes/pirages-horse-anatomy.jpeg)\n",
-    "backlink_index": [
-
-    ]
-  },
-  {
-    "id": "/thinkpad-x220-aka-screb/",
-    "draft": false,
-    "categories": [
-      "objects"
-    ],
-    "last_modified_at": "06-Mar-24",
-    "layout": "note",
-    "tags": [
-      "stuff",
-      "issue-3"
-    ],
-    "image": "/assets/notes/screb.jpeg",
-    "category": "objects",
-    "title": "Thinkpad x220 aka screb",
-    "slug": "Thinkpad X220 aka Screb",
-    "ext": ".md",
-    "excerpt": "<p><img src=\"/assets/notes/screb.jpeg\" alt=\"A Thinkpad X220 laptop on a table with an espresso next to it outside on a city street\" /></p>\n",
-    "raw_markdown": "![A Thinkpad X220 laptop on a table with an espresso next to it outside on a city street](/assets/notes/screb.jpeg)\n\nI'm typing this in 2024 on a 2011 Lenovo Thinkpad x220 named Screb, and it's pretty fun. I have it because of an x200 I got to use on a long trip on the Siberian Express that my sister took me on in 2013. My first laptop ever was a cheap-and-old-even-at-the-time Thinkpad that I got in 2000 mainly so I could write whatever it was that I was writing at the age of 20 on my lunchbreak at work (because, you know, files mostly existed in a physical locations then so I needed a way to bring them with me). I remembered it fondly, so when I needed a computer that could keep me reasonably connected with work but also get crushed by a train without it being a big problem, I went for a ~$200 x200. It was honestly pretty usable!\n\nThen, around 2020, I was in one of those situations with an internet service provider that involves hours of unpaid work to prove that they're gaslighting you, and I had to find a device that plugged directly into ethernet, and, lo, there was my old x200. \n\nTwo remarkable things came out of this. One, a laptop running Linux that had been powered down for six years went through about 20 minutes of software updates and was good as new. Two, I saved my studio from burning down because its aftermarket battery was growing an enormous bubble and if I hadn't dug that laptop out of storage it probably would have exploded soon thereafter.\n\nSo that's good.\n\nI ended up selling that and getting the just-better-enough x220, and did a decent amount of actual freelance work and writing on it. It's definitely a better typewriter than development machine, which is mostly what I use it for now.\n\nBut it's excellent at that! I had been running Kubuntu on it, which had some nice quality of life things, but I could _not_ get the power management under control. It regularly got hot enough to be uncomfortable on an actual human lap (mine), though the overheating vintage electronics smell the fan blew out was oddly nostalgic and pleasant.\n\nI recently scrubbed it and installed Mint, which seems to have solved the problem. I get a few hours out of it, and it stays quiet and cool.\n\nAt the moment, all it has is Obsidian, Dropbox, Firefox, and an email client on it and that's _delightful._\n\nNo notifications, *very* comfortable keyboard, dedicated keys for page up/down and browse back/forward, and a little light in the lid that shines down on the keyboard. [And the weird nub mouse thing](https://xkcd.com/243/).\n\nThis is one of those devices that has developed an intense and dedicated following -- you can buy an _x330_ now, which is not a model that was ever issued. Modders have put together an impressive suite of hacks and upgrades to make their own, new beast. As far as I ever got sucked in was installing an mSata hard drive to dual boot Windows and then modifying the BIOS to run some containerized client software -- which I am glad not to be doing anymore. [Some guy once called it the Toyota Corolla of laptops](https://maximevaillancourt.com/blog/why-i-use-a-thinkpad-x220-in-2021), and I agree. Wait, that's not just some guy, that's Maxime Vaillancourt, _the guy_ who wrote the Digital Garden Theme that I used as a starting point to build this memex! Clearly only geniuses use this laptop.\n\nMainly, I like it as a calm, solid feeling device that lets me do a few, focused things and doesn't interrupt me when I do.\n\n",
-    "backlink_index": [
-
-    ],
-    "date": "2024-05-04 11:48:12 -0700"
-  },
-  {
-    "id": "/aaron/",
-    "draft": false,
-    "categories": [
-      "people"
-    ],
-    "last_modified_at": "29-Apr-24",
-    "layout": "note",
-    "tags": [
-      "friend"
-    ],
-    "title": "Aaron",
-    "slug": "Aaron",
-    "ext": ".md",
-    "excerpt": "<p>Aaron is our wonderful friend and neighbor. He has two cats, Saucepan and Shoyu, was in <a href=\"https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/\">Nurses</a> and now makes music as <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n",
-    "raw_markdown": "Aaron is our wonderful friend and neighbor. He has two cats, Saucepan and Shoyu, was in [Nurses](https://redefinemag.net/2012/nurses-band-interview-dracula-apples-acre/) and now makes music as [S.E.C.R.E.T.S.](https://no1sbiz.bandcamp.com/) \n",
-    "backlink_index": [
-
-    ],
-    "date": "2024-05-04 11:48:12 -0700"
-  },
-  {
-    "id": "/abe/",
-    "draft": false,
-    "categories": [
-      "people"
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "title": "Abe Ingle",
-    "tags": [
-      "friend"
-    ],
-    "slug": "Abe",
-    "ext": ".md",
-    "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n",
-    "raw_markdown": "Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.\n\nHe makes cool [[Synthesizers]].",
-    "backlink_index": [
-      {
-        "title": "Synthesizers",
-        "url": "/synthesizers/",
-        "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
-      }
-    ],
-    "date": "2024-05-04 11:48:12 -0700"
   },
   {
     "id": "/case/",
@@ -2356,7 +2481,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/evan/",
@@ -2386,7 +2511,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/jane-zemel/",
@@ -2408,7 +2533,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/john-james/",
@@ -2433,7 +2558,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/jon/",
@@ -2481,7 +2606,7 @@
         "excerpt": "<p>T.I.N.S.T.A.C. stands for There Is No Such Thing as Coincidence, coined by [[Jon]], because life, well, it be that way.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/lucy/",
@@ -2507,7 +2632,7 @@
         "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/martha/",
@@ -2537,14 +2662,14 @@
         "excerpt": "<p>Something incredible has happened in the short two weeks since I posted about the hummingbird family that lives in our courtyard, [[The Paddleboat Family.]]</p>\n"
       },
       {
-        "title": "How This Memex Started",
-        "url": "/how-this-memex-started/",
-        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
-      },
-      {
         "title": "Bread times",
         "url": "/bread-times/",
         "excerpt": "<p>Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of <em>times</em>. I think this was before we lived together, and <em>one</em> of us was harshly shaming the <em>other</em> after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.</p>\n"
+      },
+      {
+        "title": "How This Memex Started",
+        "url": "/how-this-memex-started/",
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       },
       {
         "title": "What i want to store in my memex",
@@ -2592,7 +2717,7 @@
         "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/nik/",
@@ -2632,7 +2757,7 @@
         "excerpt": "<p>DOES THIS WORK <a href=\"https://octothorp.es/~/cozyWeb?/=tag/cozyweb\">cozyweb</a>???</p>\n\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/ryan/",
@@ -2657,7 +2782,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -2678,7 +2803,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -2713,7 +2838,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/me/",
@@ -2743,7 +2868,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -2768,7 +2893,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -2803,7 +2928,7 @@
         "excerpt": "<p>This is a brief walkthrough of my paintings and drawings in the first show of Grapefruits gallery in the rare book room of [[Mother Foucault’s]].</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -2833,7 +2958,7 @@
         "excerpt": "<h3 id=\"works-referenced\">Works Referenced</h3>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/prior-art/",
@@ -2854,7 +2979,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/research-club/",
@@ -2875,7 +3000,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/octotest/",
@@ -2883,7 +3008,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "25-Apr-24",
+    "last_modified_at": "06-May-24",
     "layout": "note",
     "tags": [
       "octothorpes"
@@ -2892,11 +3017,11 @@
     "slug": "octotest",
     "ext": ".md",
     "excerpt": "<h2 id=\"testing-octothorpes-irl-omg\">Testing Octothorpes IRL OMG</h2>\n",
-    "raw_markdown": "## Testing Octothorpes IRL OMG\n\n<octo-thorpe>\n  digitalGardens\n</octo-thorpe>\n\n<octo-thorpe>\n  cozyweb\n</octo-thorpe>\n\n##Case sensitive?\n\n  <octo-thorpe>\n  cozyWeb\n  </octo-thorpe>",
+    "raw_markdown": "## Testing Octothorpes IRL OMG\n\n<octo-thorpe>\n  digitalGardens\n</octo-thorpe>\n\n<octo-thorpe>\n  cozyweb\n</octo-thorpe>\n\n##Case sensitive?\n\n  <octo-thorpe>\n  cozyWeb\n  </octo-thorpe>\n\n  ## Backlinking\n\n  <a href=\"https://demo.ideastore.dev/backlinked-page\" rel=\"octo:octothorpes\">Backlinking!</a>",
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/octothorpethoughts/",
@@ -2919,7 +3044,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/time-confetti-and-the-broken-promise-of-leisure/",
@@ -2941,7 +3066,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/handmade-images-print",
@@ -2967,7 +3092,7 @@
         "excerpt": "<h3 id=\"works-referenced\">Works Referenced</h3>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/warpaint-no-1/",
@@ -2991,7 +3116,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/workflow-rennovation-2024/",
@@ -3012,7 +3137,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -3037,7 +3162,7 @@
         "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/adventures-of-c-a-n/",
@@ -3059,7 +3184,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -3089,7 +3214,7 @@
         "excerpt": "<p><a href=\"https://www.nationale.us/amy-bay-they-always-have-and-still-do-2023\">June 2–July 9, 2023 at Nationale</a></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/interdependence-day/",
@@ -3129,7 +3254,7 @@
         "excerpt": "<p>Since 2015, I’ve made a papercut based on the Polish tradition of Wiczynanki for [[Interdependence Day]].</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/infobahn/",
@@ -3152,7 +3277,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/urs/",
@@ -3180,7 +3305,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/hypolink/",
@@ -3203,7 +3328,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/internet-plus/",
@@ -3231,7 +3356,7 @@
         "excerpt": "<p>You can only get [[internet+]] on the Infobahn.</p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/pede/",
@@ -3279,7 +3404,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tinstac/",
@@ -3303,7 +3428,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/media/interdependence-day-papercuts/id-011515-jpg",
@@ -14464,7 +14589,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/gallery/everything-in-my-wifes-bag-two-days-after-we-got-married",
@@ -14489,7 +14614,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/gallery/genre-painting-reference/",
@@ -14512,7 +14637,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/gallery/innerbloom/",
@@ -14537,7 +14662,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/gallery/interdependence-day-papercuts/",
@@ -14561,7 +14686,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/gallery/notes-in-general/",
@@ -14584,7 +14709,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/gallery/pikas-place",
@@ -14666,7 +14791,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/archives/",
@@ -14687,7 +14812,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/art/",
@@ -14708,7 +14833,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/books/",
@@ -14729,7 +14854,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/coffee/",
@@ -14750,7 +14875,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/conceptual-labor/",
@@ -14771,7 +14896,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/cozyweb/",
@@ -14801,7 +14926,7 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       }
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/featured/",
@@ -14822,7 +14947,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/friend/",
@@ -14843,7 +14968,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/good-cups/",
@@ -14864,7 +14989,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/hummingbirds/",
@@ -14885,7 +15010,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/interdependence-day/",
@@ -14906,7 +15031,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/issue-3/",
@@ -14927,7 +15052,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/life/",
@@ -14948,7 +15073,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/memex/",
@@ -14969,7 +15094,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/memorial/",
@@ -14990,7 +15115,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/meta/",
@@ -15011,7 +15136,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/mind-things/",
@@ -15032,7 +15157,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/mulch/",
@@ -15053,7 +15178,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/music/",
@@ -15074,7 +15199,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/nationale/",
@@ -15095,7 +15220,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/neibhborhood/",
@@ -15116,7 +15241,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/neighborhood/",
@@ -15137,7 +15262,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/octothorpes/",
@@ -15158,7 +15283,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/painting/",
@@ -15179,7 +15304,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/rando/",
@@ -15200,7 +15325,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/recipes/",
@@ -15221,7 +15346,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/sources/",
@@ -15242,7 +15367,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/stuff/",
@@ -15263,7 +15388,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/times/",
@@ -15284,7 +15409,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/tag/traditions/",
@@ -15305,7 +15430,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/album/",
@@ -15326,7 +15451,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/audio/",
@@ -15347,7 +15472,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/collection/",
@@ -15368,7 +15493,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/concepts/",
@@ -15389,7 +15514,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/image/",
@@ -15410,7 +15535,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/media/",
@@ -15431,7 +15556,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/objects/",
@@ -15452,7 +15577,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/people/",
@@ -15473,7 +15598,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/texts/",
@@ -15494,7 +15619,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/video/",
@@ -15515,7 +15640,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   },
   {
     "id": "/category/words/",
@@ -15536,6 +15661,6 @@
     "backlink_index": [
 
     ],
-    "date": "2024-05-04 11:48:12 -0700"
+    "date": "2024-05-07 09:26:34 -0700"
   }
 ]
