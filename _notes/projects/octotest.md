@@ -20,4 +20,4 @@ tags: octothorpes
 
   ## Backlinking
 
-  <a href="https://demo.ideastore.dev/backlinked-page" rel="octo:octothropes">Backlinking!</a>
+  <a href="https://demo.ideastore.dev/backlinked-page" rel="octo:octothorpes">Backlinking!</a>
