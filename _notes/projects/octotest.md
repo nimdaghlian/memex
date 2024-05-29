@@ -2,23 +2,15 @@
 tags: octothorpes
 ---
 
-## Testing Octothorpes IRL OMG
+## This page is using the Octothorpe Protocol
 
 <octo-thorpe>
-  digitalGardens
+  demo
 </octo-thorpe>
 
-<octo-thorpe>
-  cozyweb
-</octo-thorpe>
 
-##Case sensitive?
 
-  <octo-thorpe>
-  cozyWeb
-  </octo-thorpe>
+  ## It has Backlinks Too!
 
-  ## Backlinking
+  <a href="https://demo.ideastore.dev/backlinked-page" rel="octo:octothorpes">All About Backlinking!</a>
 
-  <a href="https://demo.ideastore.dev/backlinked-page" rel="octo:octothorpes">Backlinking!</a>
-    <a href="https://demo.ideastore.dev/the-bun-family" rel="octo:octothorpes">Hummingbirds</a>
