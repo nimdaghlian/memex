@@ -4,6 +4,7 @@ title: Meet the Bun Boys
 date: 2020-06-11 15:15:56
 tags:
     - hummingbirds
+oof: yes
 ---
 
 Hummingbirb update. Ms. Bao Bun had to lil fluffpoops that turned into iridescent hovering zoomers in, like, three weeks.
@@ -22,3 +23,5 @@ We named them Business Bun and Cozy Bun because one of them got right down to bu
 Business bun is perched on the nest here, while Cozy is still snuggled inside it.
 
 ![A picture of two hummingbirds in a nest, now fully grown. One perches on the side of the nest, while the other is snuggled inside.]({{ site.baseurl }}{% link /assets/hummingbirds/bunboys01.jpg %})
+
+{{page.oof}}
