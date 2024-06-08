@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/texts/Handmade images print version.md",
+                "file": "_notes/books/The Burglar's Guide to The City.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/texts/Handmade images print version.md",
+                "file": "_notes/books/The Burglar's Guide to The City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,11 @@
   "active": "027c3d232e6eb431",
   "lastOpenFiles": [
     "_site/site-index.json",
+    "_site/burglars-guide.html",
+    "_site/the-burglar-s-guide-to-the-city/index.html",
+    "_site/the-burglar-s-guide-to-the-city",
+    "_notes/texts/Handmade images print version.md",
+    "_notes/books/The Burglar's Guide to The City.md",
     "_site/hashtags-rneocities/index.html",
     "_site/hashtags-rneocities",
     "_site/web-of-trust-wikipedia/index.html",
@@ -148,9 +153,6 @@
     "_site/examples-blocknote/index.html",
     "_site/examples-blocknote",
     "_site/mastopod/index.html",
-    "_site/mastopod",
-    "_site/activitypods-personal-data-spaces-powered-with-activitypub/index.html",
-    "_site/activitypods-personal-data-spaces-powered-with-activitypub",
     "_notes/feeds/pingback-1-0.md",
     "_notes/feeds/activitypods-personal-data-spaces-powered-with-activitypub.md",
     "_notes/feeds/mastopod.md",
@@ -167,7 +169,6 @@
     "_site/assets/adventures-c-a-n/eclipse-yard.jpeg",
     "_site/assets/adventures-c-a-n/andrew-and-portrats.jpeg",
     "assets/adventures-c-a-n/winooski-squircle.jpeg",
-    "_notes/texts/Handmade images print version.md",
     "_notes/times/Adventures of C & A & N.md",
     "_notes/Stumbled into a Webring.md",
     "_notes/The Paddleboat Family.md",
@@ -184,7 +185,6 @@
     "_notes/projects/octotest.md",
     "_notes/concepts/The Mole Diagram.md",
     "_media/notes/mole-diagram-jpeg.md",
-    "_cat-pages/words.md",
-    "_notes/places/Mother Foucault's.md"
+    "_cat-pages/words.md"
   ]
 }
