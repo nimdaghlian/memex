@@ -1,17 +1,6 @@
 
     <div class="overlay page_hilight">        
 
-        <h5 class="page-status">Status: </h5>
-        <div>
-          {% if page.status  %}
-            {{ page.status | capitalize }}<br>
-          {% endif  %}
-          {% if page.type != 'pages' %}
-          <time class="page_hilight" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-            Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
-          </time>
-          {% endif %}
-        </div>
         {% if page.categories.size >0  %}
         <h5>Categories: </h5>
         <div class="ui compact wrapping spaced buttons">
@@ -28,7 +17,7 @@
             {% endfor  %}
         </div>
         {% endif  %}
-        {% if page.oof %}
+        {% if page.hak %}
         <h5>Octothorpes</h5>
         <div>
           {% for tag in page.tags  %}
@@ -38,6 +27,15 @@
        
         {% endif %}
 
+        {% if page.oofs %}
+        <h5>Octothorpes</h5>
+        <div>
+          {% for oof in page.oofs  %}
+          <octo-thorpe>{{oof}}</octo-thorpe>
+          {% endfor  %}
+        </div>
+       
+        {% endif %}
       {% if page.backlinks.size > 0 %}
       <h5>Links to this page: </h5>
       <div class="backlink-box">
@@ -47,5 +45,17 @@
         {% endfor %}
       </div>
       {% endif %}
+
+      <h5 class="page-status">Status: </h5>
+        <div>
+          {% if page.status  %}
+            {{ page.status | capitalize }}<br>
+          {% endif  %}
+          {% if page.type != 'pages' %}
+          <time class="page_hilight" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+            Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+          </time>
+          {% endif %}
+        </div>
 
     </div>        

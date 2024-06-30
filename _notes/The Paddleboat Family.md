@@ -4,7 +4,7 @@ title: The Paddleboat Family
 date: 2020-04-01 15:15:56
 tags:
     - hummingbirds
-oof: yes
+hak: yes
 ---
 
 In the middling time between Portland's winter and spring last year, we noticed a small nest in one of the trees in the courtyard of our apartment building. It's really more of an outdoor hallway than a courtyard, and the trees are pretty rangy  Japanese maples -- not exactly the great outdoors. It was my second spring in this building in an apartment facing that courtyard, and I'd seen hummingbirds before -- even the start of another nest. But never a hummingbird in the nest. Without flowers or even buds on the maples, I didn't expect to see much more. But there it was, an espresso-cup sized nest made of lichen, sticks, and fluff. 

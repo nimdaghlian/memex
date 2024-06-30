@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/books/The Burglar's Guide to The City.md",
+                "file": "_notes/links/A Group is its Own Worst Enemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/books/The Burglar's Guide to The City.md",
+                "file": "_notes/links/A Group is its Own Worst Enemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,21 +138,29 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "027c3d232e6eb431",
+  "active": "1fab0c5de45a701f",
   "lastOpenFiles": [
-    "_site/site-index.json",
-    "_site/burglars-guide.html",
-    "_site/the-burglar-s-guide-to-the-city/index.html",
-    "_site/the-burglar-s-guide-to-the-city",
-    "_notes/texts/Handmade images print version.md",
+    "_site/tag/shelf/index.html",
+    "_site/tag/shelf",
+    "_tag-pages/shelf.md",
+    "_notes/links/The Garden and the Stream.md",
+    "_notes/links/Fan is a Tool-Using Animal.md",
+    "_notes/links/A Group is its Own Worst Enemy.md",
+    "_site/a-group-is-its-own-worst-enemy/index.html",
+    "_site/a-group-is-its-own-worst-enemy",
+    "_site/shirkey-on-communities/index.html",
+    "_site/shirkey-on-communities",
+    "_site/the-garden-and-the-stream/index.html",
+    "_site/the-garden-and-the-stream",
+    "_site/tag/for-ryan/index.html",
+    "_site/tag/for-ryan",
+    "_site/tag/conversations/index.html",
+    "_tag-pages/for-ryan.md",
+    "_tag-pages/conversations.md",
+    "_notes/objects/Buckmanite.md",
+    "_notes/objects/Stirrup Cup.md",
     "_notes/books/The Burglar's Guide to The City.md",
-    "_site/hashtags-rneocities/index.html",
-    "_site/hashtags-rneocities",
-    "_site/web-of-trust-wikipedia/index.html",
-    "_site/web-of-trust-wikipedia",
-    "_site/examples-blocknote/index.html",
-    "_site/examples-blocknote",
-    "_site/mastopod/index.html",
+    "_notes/texts/Handmade images print version.md",
     "_notes/feeds/pingback-1-0.md",
     "_notes/feeds/activitypods-personal-data-spaces-powered-with-activitypub.md",
     "_notes/feeds/mastopod.md",
@@ -177,14 +185,6 @@
     "_notes/concepts/Bread Times.md",
     "_notes/concepts/Brain Mulch.md",
     "_notes/people/Case.md",
-    "_notes/people/Andrea.md",
-    "_notes/people/Aaron.md",
-    "_notes/words/pede.md",
-    "_notes/prior-art.md",
-    "prior-art.md",
-    "_notes/projects/octotest.md",
-    "_notes/concepts/The Mole Diagram.md",
-    "_media/notes/mole-diagram-jpeg.md",
-    "_cat-pages/words.md"
+    "_notes/people/Andrea.md"
   ]
 }
