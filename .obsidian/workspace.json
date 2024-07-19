@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/links/A Group is its Own Worst Enemy.md",
+                "file": "_notes/concepts/Lossy Compiler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/links/A Group is its Own Worst Enemy.md",
+                "file": "_notes/concepts/Lossy Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,14 +138,21 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "1fab0c5de45a701f",
+  "active": "027c3d232e6eb431",
   "lastOpenFiles": [
+    "_media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg.md",
+    "_notes/concepts/Lossy Compiler.md",
+    "_notes/concepts/Slow Motion Bullseyes.md",
+    "_notes/concepts/Mind Things.md",
+    "_notes/concepts/Stone Souping.md",
+    "_notes/concepts/Ada's three kinds of things.md",
+    "_notes/times/Birthday 2024.md",
+    "_notes/links/A Group is its Own Worst Enemy.md",
     "_site/tag/shelf/index.html",
     "_site/tag/shelf",
     "_tag-pages/shelf.md",
     "_notes/links/The Garden and the Stream.md",
     "_notes/links/Fan is a Tool-Using Animal.md",
-    "_notes/links/A Group is its Own Worst Enemy.md",
     "_site/a-group-is-its-own-worst-enemy/index.html",
     "_site/a-group-is-its-own-worst-enemy",
     "_site/shirkey-on-communities/index.html",
@@ -154,7 +161,6 @@
     "_site/the-garden-and-the-stream",
     "_site/tag/for-ryan/index.html",
     "_site/tag/for-ryan",
-    "_site/tag/conversations/index.html",
     "_tag-pages/for-ryan.md",
     "_tag-pages/conversations.md",
     "_notes/objects/Buckmanite.md",
@@ -179,12 +185,6 @@
     "assets/adventures-c-a-n/winooski-squircle.jpeg",
     "_notes/times/Adventures of C & A & N.md",
     "_notes/Stumbled into a Webring.md",
-    "_notes/The Paddleboat Family.md",
-    "_notes/concepts/Stone Souping.md",
-    "_notes/concepts/Slow Motion Bullseyes.md",
-    "_notes/concepts/Bread Times.md",
-    "_notes/concepts/Brain Mulch.md",
-    "_notes/people/Case.md",
-    "_notes/people/Andrea.md"
+    "_notes/The Paddleboat Family.md"
   ]
 }

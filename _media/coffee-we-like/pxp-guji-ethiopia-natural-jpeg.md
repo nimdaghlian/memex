@@ -8,7 +8,7 @@ categories: ["image", "objects"]
 gallery: coffee-we-like
 permalink: /media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg
 layout: asset
-tags: ["coffee", "archives", "neibhborhood"]
+tags: ["coffee", "archives", "neighborhood"]
 --- 
 
 Push x Pull does increadible natural coffee. They always have excellent Ethiopian coffee. This is, like, the best of both of them. So good, drip, pourover, or espresso.
