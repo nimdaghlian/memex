@@ -103,6 +103,10 @@ galleries:
     directory: "coffee-we-like"
     categories: ["objects"]
     tags: ["coffee", "archives"]
+  - name: "Buckmanite"
+    directory: "buckmanite"
+    categories: ["objects"]
+    tags: ["stuff", "neighborhood", "archives"]
 
 
 rss_feeds:

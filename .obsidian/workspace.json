@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee74b675c8930ef",
+        "id": "824fb2e0441f466a",
         "type": "tabs",
         "children": [
           {
-            "id": "027c3d232e6eb431",
+            "id": "c4057b6739b7e494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/concepts/Lossy Compiler.md",
+                "file": "_notes/objects/Buckmanite.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6904d51bc8d5f339",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View 2.jpeg"
               }
             }
           }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 407.5
   },
   "right": {
     "id": "9012175d64067c09",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/concepts/Lossy Compiler.md",
+                "file": "_notes/objects/Buckmanite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,53 +148,53 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "027c3d232e6eb431",
+  "active": "c4057b6739b7e494",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_galleries/Buckmanite.md",
+    "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View 2.jpeg",
+    "_notes/objects/Buckmanite.md",
+    "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View.jpeg",
+    "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View Green.jpeg",
+    "assets/buckmanite/Buckmanite - Typical Substrate Total Formation Close View.jpeg",
+    "assets/buckmanite/Buckmanite - Typical Substrate Shale Detail.jpeg",
+    "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Wide View Green.jpeg",
+    "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Wide View.jpeg",
+    "assets/buckmanite/Buckmanite - Deposit Typical.jpeg",
+    "_site/assets/whatevs/elvie.jpeg",
+    "assets/whatevs/elvie.jpeg",
+    "_site/media/buckmanite/buckmanite-typical-substrate-total-formation-wide-view-jpeg.html",
+    "_site/media/buckmanite/buckmanite-typical-substrate-total-formation-close-view-jpeg.html",
+    "_site/media/buckmanite/buckmanite-typical-substrate-shale-detail-jpeg.html",
+    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-jpeg.html",
+    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-green-jpeg.html",
+    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-jpeg.html",
+    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-green-jpeg.html",
+    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-2-jpeg.html",
+    "_site/media/buckmanite/buckmanite-disposal-jpeg.html",
+    "_site/media/buckmanite/buckmanite-deposit-typical-jpeg.html",
+    "_media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-green-jpeg.md",
+    "_media/buckmanite/buckmanite-typical-substrate-total-formation-close-view-jpeg.md",
+    "_media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-2-jpeg.md",
+    "_media/buckmanite/buckmanite-atypical-substrate-incomplete-ingnition-wide-view-jpeg.md",
+    "_media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-jpeg.md",
+    "_media/buckmanite/buckmanite-typical-substrate-total-formation-wide-view-jpeg.md",
+    "_media/buckmanite/buckmanite-deposit-typical-jpeg.md",
+    "_media/buckmanite/buckmanite-deposit-typical-black-jpeg.md",
+    "_media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-jpeg.md",
+    "_media/buckmanite/buckmanite-deposit-minor-jpeg.md",
+    "_media/buckmanite/buckmanite-typical-substrate-shale-detail-jpeg.md",
+    "_media/buckmanite/buckmanite-disposal-jpeg.md",
+    "_media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-green-jpeg.md",
+    "_media/buckmanite/buckmanite-atypical-substrate-incomplete-ingnition-close-view-jpeg.md",
+    "_media/buckmanite/buckmanite-atypical-substrate-partial-formation-jpeg.md",
+    "_media/buckmanite/buckmanite-deposit-large-jpeg.md",
+    "_notes/links/A Group is its Own Worst Enemy.md",
+    "_notes/concepts/Lossy Compiler.md",
     "_notes/texts/I Cannot Stop Galaxy Braining.md",
     "_media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg.md",
-    "_notes/concepts/Lossy Compiler.md",
     "_notes/concepts/Slow Motion Bullseyes.md",
     "_notes/concepts/Mind Things.md",
-    "_notes/concepts/Stone Souping.md",
-    "_notes/concepts/Ada's three kinds of things.md",
-    "_notes/times/Birthday 2024.md",
-    "_notes/links/A Group is its Own Worst Enemy.md",
-    "_site/tag/shelf/index.html",
-    "_site/tag/shelf",
-    "_tag-pages/shelf.md",
-    "_notes/links/The Garden and the Stream.md",
-    "_notes/links/Fan is a Tool-Using Animal.md",
-    "_site/a-group-is-its-own-worst-enemy/index.html",
-    "_site/a-group-is-its-own-worst-enemy",
-    "_site/shirkey-on-communities/index.html",
-    "_site/shirkey-on-communities",
-    "_site/the-garden-and-the-stream/index.html",
-    "_site/the-garden-and-the-stream",
-    "_site/tag/for-ryan/index.html",
-    "_site/tag/for-ryan",
-    "_tag-pages/for-ryan.md",
-    "_tag-pages/conversations.md",
-    "_notes/objects/Buckmanite.md",
-    "_notes/objects/Stirrup Cup.md",
-    "_notes/books/The Burglar's Guide to The City.md",
-    "_notes/texts/Handmade images print version.md",
-    "_notes/feeds/pingback-1-0.md",
-    "_notes/feeds/activitypods-personal-data-spaces-powered-with-activitypub.md",
-    "_notes/feeds/mastopod.md",
-    "_notes/feeds/examples-blocknote.md",
-    "_notes/feeds/web-of-trust-wikipedia.md",
-    "_notes/feeds/hashtags-rneocities.md",
-    "_site/assets/adventures-c-a-n/winooski-squircle.jpeg",
-    "_site/assets/adventures-c-a-n/vermont-sky.jpeg",
-    "_site/assets/adventures-c-a-n/vermont-barn.jpeg",
-    "_site/assets/adventures-c-a-n/lotus-l-kang.jpg",
-    "_site/assets/adventures-c-a-n/here-lies-gabby-dzessou.jpeg",
-    "_site/assets/adventures-c-a-n/eclipse2.jpeg",
-    "_site/assets/adventures-c-a-n/eclipse1.jpeg",
-    "_site/assets/adventures-c-a-n/eclipse-yard.jpeg",
-    "_site/assets/adventures-c-a-n/andrew-and-portrats.jpeg",
-    "assets/adventures-c-a-n/winooski-squircle.jpeg",
-    "_notes/times/Adventures of C & A & N.md",
-    "_notes/Stumbled into a Webring.md"
+    "_notes/concepts/Stone Souping.md"
   ]
 }
