@@ -3,6 +3,9 @@ title: Buckmanite Samples
 gallery: buckmanite
 status: fresh
 categories: album
+oofs:
+    - buckmanite
+    - Buckman
 --- 
 
 

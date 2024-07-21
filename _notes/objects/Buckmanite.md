@@ -3,8 +3,9 @@ tags:
   - stuff
   - neighborhood
 image: /assets/buckmanite/Buckmanite - Typical Substrate Total Formation Wide View.jpeg
-oof: 
+oofs: 
   - buckmanite
+  - Buckman
 ---
 Buckmanite, or Buckman Slate, is a metamorphic substance endemic to many urban environments, but first identified in the Buckman neighborhood of Portland, Oregon. It is a composite material formed when plastic municipal containers undergo rapid exothermic reactions, deforming to bond with the surrounding environment. These reactions are most often triggered by human intervention, both accidental and intentional, but theoretically could be triggered by natural phenomena such as lightning or incidental lensing of sunlight through nearby mirrors or windows during a heatwave. 
 
@@ -24,6 +25,8 @@ Significant deposits can be easily removed with common hand tools, but thinner l
 
 
 Even partial formation of Buckmanite is enough to cause an ontological metamorphosis of its source materials. Here, a container has lost its internality and has become refuse in need of containing.
+
+![Buckmanite being disposed of](/assets/buckmanite/Buckmanite Disposal.jpeg)
 
 ### Exotic components
 

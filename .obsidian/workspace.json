@@ -11,11 +11,9 @@
             "id": "c4057b6739b7e494",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_notes/objects/Buckmanite.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/buckmanite/Buckmanite Disposal.jpeg"
               }
             }
           },
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/objects/Buckmanite.md",
+                "file": "assets/buckmanite/Buckmanite Disposal.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,10 +148,11 @@
   },
   "active": "c4057b6739b7e494",
   "lastOpenFiles": [
+    "_notes/objects/Buckmanite.md",
+    "_includes/subscribe.html",
     "_site/site-index.json",
     "_galleries/Buckmanite.md",
     "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View 2.jpeg",
-    "_notes/objects/Buckmanite.md",
     "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View Green.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Total Formation Close View.jpeg",
@@ -171,8 +170,6 @@
     "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-jpeg.html",
     "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-green-jpeg.html",
     "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-2-jpeg.html",
-    "_site/media/buckmanite/buckmanite-disposal-jpeg.html",
-    "_site/media/buckmanite/buckmanite-deposit-typical-jpeg.html",
     "_media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-green-jpeg.md",
     "_media/buckmanite/buckmanite-typical-substrate-total-formation-close-view-jpeg.md",
     "_media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-2-jpeg.md",
