@@ -32,15 +32,17 @@ Even partial formation of Buckmanite is enough to cause an ontological metamorph
 
 Buckmanite is defined by a process and location as much as it is by pure material composition. Many different possible structures and appearances of Buckmanite have been theorized. Pictured here is a dramatic example of the incomplete formation of Buckmanite from an atypical source. Note that the original structure was not able to sustain an exothermic reaction long enough to fully transform.
 
+![Buckmanite being disposed of](/assets/buckmanite/Buckmanite%20-%20Atypical%20Substrate%20%20Partial%20Formation.jpeg)
+
 ### Environmental Indicator
 
 While the physical components of Buckmanite are common, its formation most typically occurs within specific sociological conditions. These conditions can be grouped as **Ignition Conditions** and **Formation Conditions.**
 
 ## Ignition conditions
 
-A primary condition seems to be the intersection of a consistent on-street activity within residential or mixed-use neighborhoods. The housed population and local businesses are responsible for the continued presence of refuse containers, and an ongoing presence of unsanctioned (ie any interaction not within the [use permitted by the city](https://www.portland.gov/bps/garbage-recycling/garbage-recycling-and-compost-rules-and-regulations) or private owners of the containers) interactions with them will, in select circumstances, provide the  behavior on the street will eventually provide the conditions to ignite the material. 
+A primary condition seems to be the intersection of consistent on-street activity within residential or mixed-use neighborhoods. The housed population and local businesses are responsible for the continued presence of refuse containers, and enough range of on-street activity will provide an ongoing presence of unsanctioned interactions (ie any interaction not within the [use permitted by the city](https://www.portland.gov/bps/garbage-recycling/garbage-recycling-and-compost-rules-and-regulations) or private owners of the containers). The combination, will, in select circumstances, provide the conditions required to ignite the material. 
 
-Folk theories tend to assign responsibility to unhoused or otherwise indigent actors, but ample field observations exist that contradict this theory. The crucial criteria here is *activity on the street.* Whether that activity comes from a housed or unhoused population is not relevant. Whether or not formation conditions exist, ignition conditions are frequently met by affluent residents of or visitors to neighborhood with a high density of alcohol-serving establishments or proximity to major sporting arenas. The common misconception that ignition conditions are necessarily intentional has been repeatedly disproven. In fact, accidental ignition is perhaps even more common than intentional.
+Folk theories tend to assign responsibility to unhoused or otherwise indigent actors, but ample field observations contradict this theory. The crucial criteria here is *activity on the street.* Whether that activity comes from a housed or unhoused population is not relevant. Whether or not formation conditions exist, ignition conditions are frequently met by affluent residents of or visitors to neighborhood with a high density of alcohol-serving establishments or proximity to major sporting arenas. The common misconception that ignition conditions are necessarily intentional has been repeatedly disproven. In fact, accidental ignition is perhaps even more common than intentional.
 
 ## Formation conditions
 
