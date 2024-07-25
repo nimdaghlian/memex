@@ -11,9 +11,11 @@
             "id": "c4057b6739b7e494",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/buckmanite/Buckmanite Disposal.jpeg"
+                "file": "_notes/projects/Sandwich Invitational.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/buckmanite/Buckmanite Disposal.jpeg",
+                "file": "_notes/projects/Sandwich Invitational.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,28 +150,31 @@
   },
   "active": "c4057b6739b7e494",
   "lastOpenFiles": [
+    "_notes/people/Caitlyn.md",
+    "_site/sandwich-invitational/index.html",
+    "_site/sandwich-invitational",
+    "_site/caitlyn/index.html",
+    "_site/caitlyn",
     "_site/site-index.json",
+    "_site/assets/notes/caitlyn-potato-foot.jpeg",
+    "_media/notes/caitlyn-potato-foot-jpeg.md",
+    "assets/notes/caitlyn-potato-foot.jpeg",
+    "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View 2.jpeg",
+    "_notes/projects/Sandwich Invitational.md",
+    "assets/buckmanite/Buckmanite Disposal.jpeg",
     "_notes/objects/Buckmanite.md",
     "_includes/subscribe.html",
     "_galleries/Buckmanite.md",
-    "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View 2.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Close View Green.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Total Formation Close View.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Shale Detail.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Wide View Green.jpeg",
     "assets/buckmanite/Buckmanite - Typical Substrate Partial Formation Wide View.jpeg",
-    "assets/buckmanite/Buckmanite - Deposit Typical.jpeg",
-    "_site/assets/whatevs/elvie.jpeg",
-    "assets/whatevs/elvie.jpeg",
     "_site/media/buckmanite/buckmanite-typical-substrate-total-formation-wide-view-jpeg.html",
     "_site/media/buckmanite/buckmanite-typical-substrate-total-formation-close-view-jpeg.html",
     "_site/media/buckmanite/buckmanite-typical-substrate-shale-detail-jpeg.html",
     "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-jpeg.html",
-    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-green-jpeg.html",
-    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-jpeg.html",
-    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-green-jpeg.html",
-    "_site/media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-2-jpeg.html",
     "_media/buckmanite/buckmanite-typical-substrate-partial-formation-wide-view-green-jpeg.md",
     "_media/buckmanite/buckmanite-typical-substrate-total-formation-close-view-jpeg.md",
     "_media/buckmanite/buckmanite-typical-substrate-partial-formation-close-view-2-jpeg.md",
@@ -189,9 +194,6 @@
     "_notes/links/A Group is its Own Worst Enemy.md",
     "_notes/concepts/Lossy Compiler.md",
     "_notes/texts/I Cannot Stop Galaxy Braining.md",
-    "_media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg.md",
-    "_notes/concepts/Slow Motion Bullseyes.md",
-    "_notes/concepts/Mind Things.md",
-    "_notes/concepts/Stone Souping.md"
+    "_media/coffee-we-like/pxp-guji-ethiopia-natural-jpeg.md"
   ]
 }

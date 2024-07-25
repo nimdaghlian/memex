@@ -20,7 +20,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/patterns-of-intention/",
@@ -54,37 +54,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
-  },
-  {
-    "id": "/the-conceptual-labor-book/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Jan-24",
-    "layout": "note",
-    "title": "The Conceptual Labor Book",
-    "tags": [
-      "books",
-      "conceptual labor"
-    ],
-    "slug": "The Conceptual Labor Book",
-    "ext": ".md",
-    "excerpt": "<p>This is the Conceptual Labor book that I wrote.</p>\n",
-    "backlink_index": [
-      {
-        "title": "Mind Things",
-        "url": "/mind-things/",
-        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
-      },
-      {
-        "title": "Nik Wise",
-        "url": "/nik/",
-        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
-      }
-    ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/wushi",
@@ -171,6 +141,36 @@
     ]
   },
   {
+    "id": "/the-conceptual-labor-book/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Jan-24",
+    "layout": "note",
+    "title": "The Conceptual Labor Book",
+    "tags": [
+      "books",
+      "conceptual labor"
+    ],
+    "slug": "The Conceptual Labor Book",
+    "ext": ".md",
+    "excerpt": "<p>This is the Conceptual Labor book that I wrote.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Mind Things",
+        "url": "/mind-things/",
+        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
+      },
+      {
+        "title": "Nik Wise",
+        "url": "/nik/",
+        "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
+      }
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
     "id": "/slow-motion-bullseyes/",
     "draft": false,
     "categories": [
@@ -192,6 +192,159 @@
         "title": "Patterns of intention",
         "url": "/patterns-of-intention/",
         "excerpt": "<p>Walking up to [[Martha]]’s recent art show at [[Mother Foucault’s]], I saw <a href=\"https://yalebooks.yale.edu/book/9780300037630/patterns-of-intention/\"><em>Patterns of Intention</em></a> in the window. They’re distressingly good at putting books I want in the window – I think 90% of the books I’ve bought there have come from the window. Or maybe I’m just a lazy browser and need to literally see it from the street to pay attention.</p>\n"
+      },
+      {
+        "title": "I Can't Stop Galaxy Braining",
+        "url": "/i-cannot-stop-galaxy-braining/",
+        "excerpt": "<p>I have very strong, interconnected synesthesia. This makes categorization of really any kind rather <em>non-linear</em> for me. I’m glad to have avoided developing a <em>need</em> for things to be categorized accurately and completely, because nothing ever is, but I’m always looking for a bit more room in definitions, and noting which overlap with which and where the mental threads connect. And sometimes (most times) one thing is like another thing, but only in a certain way. How are you supposed to put everything into rows and columns? Tags are such a good solution to this. You can add one, or a thousand, and you don’t even need to know what else they apply to yet.  They’re a facet of something. Everything is always facets. This is the road to galaxy braining, and it starts from anywhere and everywhere.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "/stone-souping/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "03-May-24",
+    "layout": "note",
+    "tags": [
+      "mind-things"
+    ],
+    "title": "Stone souping",
+    "slug": "Stone Souping",
+    "ext": ".md",
+    "excerpt": "<p>When multiple people are interested in a project or an idea or an activity, and no one has a plan or has actually taken action, but in talking to each other they end up with a plan accidentally. The most common way for this to work is to assume the other person has it more together than you do and lean on their imagined plan to consolidate yours.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
+    "id": "/the-mole-diagram/",
+    "draft": false,
+    "categories": [
+      "concepts"
+    ],
+    "last_modified_at": "15-Mar-24",
+    "layout": "note",
+    "tags": [
+      "mind-things"
+    ],
+    "category": "concepts",
+    "title": "The mole diagram",
+    "slug": "The Mole Diagram",
+    "ext": ".md",
+    "excerpt": "<p>Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you’re-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but <a href=\"https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do\">The Thing I was Trying to Do</a> seemed to pop up in all those realms.</p>\n",
+    "backlink_index": [
+      {
+        "title": "Mind Things",
+        "url": "/mind-things/",
+        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
+      }
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
+    "id": "/about/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "18-Oct-23",
+    "layout": "collection",
+    "title": "About",
+    "tagmatch": [
+      "memex",
+      "meta"
+    ],
+    "color": "blueviolet",
+    "slug": "About",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p><em class=\"page_hilight\">MMMX.<i class=\"las la-cloud page_hilight\"></i></em>, pronounced “mem ex dot cloud” is my semi-public <a href=\"/what-is-a-memex\">memex</a>. It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 <a href=\"/me\">Ním</a></p>\n",
+    "backlink_index": [
+      {
+        "title": "Welcome",
+        "url": "/welcome/",
+        "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
+      }
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
+    "id": "/colophon/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "tags": [
+      "meta"
+    ],
+    "title": "Colophon",
+    "slug": "Colophon",
+    "ext": ".md",
+    "excerpt": "<p>Built in <a href=\"https://jekyllrb.com/\">Jekyll</a>.</p>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
+    "id": "/development-log/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "15-Oct-23",
+    "layout": "note",
+    "title": "Development Log",
+    "tags": [
+      "meta"
+    ],
+    "slug": "Development Log",
+    "ext": ".md",
+    "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n",
+    "backlink_index": [
+      {
+        "title": "How This Memex Started",
+        "url": "/how-this-memex-started/",
+        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
+      }
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
+    "id": "/how-this-memex-started/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "title": "How This Memex Started",
+    "tags": [
+      "meta",
+      "featured"
+    ],
+    "date": "2023-09-27 00:00:00 -0700",
+    "slug": "How This Memex Started",
+    "ext": ".md",
+    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
+    "backlink_index": [
+      {
+        "title": "Stumbled into a webring",
+        "url": "/stumbled-into-a-webring/",
+        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
+      },
+      {
+        "title": "Ryan Gantz",
+        "url": "/ryan/",
+        "excerpt": "<p>Ryan is as nice as he is tall, which is “very!”</p>\n"
       },
       {
         "title": "I Can't Stop Galaxy Braining",
@@ -328,6 +481,27 @@
     ]
   },
   {
+    "id": "/welcome/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "16-Oct-23",
+    "layout": "note",
+    "date": "2023-10-15 00:00:00 -0700",
+    "tags": [
+      "meta",
+      "featured"
+    ],
+    "title": "Welcome",
+    "slug": "Welcome",
+    "ext": ".md",
+    "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n",
+    "backlink_index": [
+
+    ]
+  },
+  {
     "id": "/bread-times/",
     "draft": false,
     "categories": [
@@ -372,51 +546,6 @@
         "excerpt": "<p>I have very strong, interconnected synesthesia. This makes categorization of really any kind rather <em>non-linear</em> for me. I’m glad to have avoided developing a <em>need</em> for things to be categorized accurately and completely, because nothing ever is, but I’m always looking for a bit more room in definitions, and noting which overlap with which and where the mental threads connect. And sometimes (most times) one thing is like another thing, but only in a certain way. How are you supposed to put everything into rows and columns? Tags are such a good solution to this. You can add one, or a thousand, and you don’t even need to know what else they apply to yet.  They’re a facet of something. Everything is always facets. This is the road to galaxy braining, and it starts from anywhere and everywhere.</p>\n"
       }
     ]
-  },
-  {
-    "id": "/stone-souping/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "03-May-24",
-    "layout": "note",
-    "tags": [
-      "mind-things"
-    ],
-    "title": "Stone souping",
-    "slug": "Stone Souping",
-    "ext": ".md",
-    "excerpt": "<p>When multiple people are interested in a project or an idea or an activity, and no one has a plan or has actually taken action, but in talking to each other they end up with a plan accidentally. The most common way for this to work is to assume the other person has it more together than you do and lean on their imagined plan to consolidate yours.</p>\n",
-    "backlink_index": [
-
-    ],
-    "date": "2024-07-23 15:44:02 -0700"
-  },
-  {
-    "id": "/the-mole-diagram/",
-    "draft": false,
-    "categories": [
-      "concepts"
-    ],
-    "last_modified_at": "15-Mar-24",
-    "layout": "note",
-    "tags": [
-      "mind-things"
-    ],
-    "category": "concepts",
-    "title": "The mole diagram",
-    "slug": "The Mole Diagram",
-    "ext": ".md",
-    "excerpt": "<p>Back in art school, I had a dream where I was trying to explain to my friend Greg a tension I was feeling with my studies. I went to art school to focus on being a painter, but once I got there I also joined a martial arts school, started my if-you’re-going-to-get-a-degree-in-painting-you-have-to-learn-how-to-code bargain with myself, and was still writing all the time. I was supposed to be painting, but <a href=\"https://www.letstalkaboutpaintings.com/the-thing-i-am-trying-to-do\">The Thing I was Trying to Do</a> seemed to pop up in all those realms.</p>\n",
-    "backlink_index": [
-      {
-        "title": "Mind Things",
-        "url": "/mind-things/",
-        "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
-      }
-    ],
-    "date": "2024-07-23 15:44:02 -0700"
   },
   {
     "id": "/a-group-is-its-own-worst-enemy/",
@@ -489,135 +618,6 @@
     ]
   },
   {
-    "id": "/about/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "18-Oct-23",
-    "layout": "collection",
-    "title": "About",
-    "tagmatch": [
-      "memex",
-      "meta"
-    ],
-    "color": "blueviolet",
-    "slug": "About",
-    "ext": ".md",
-    "tags": [
-
-    ],
-    "excerpt": "<p><em class=\"page_hilight\">MMMX.<i class=\"las la-cloud page_hilight\"></i></em>, pronounced “mem ex dot cloud” is my semi-public <a href=\"/what-is-a-memex\">memex</a>. It includes things I think are worth remembering, brain mulch, mind things, collections, and various notes. I try to put things on here that would be interesting to other people, but no promises. 💙 <a href=\"/me\">Ním</a></p>\n",
-    "backlink_index": [
-      {
-        "title": "Welcome",
-        "url": "/welcome/",
-        "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n"
-      }
-    ],
-    "date": "2024-07-23 15:44:02 -0700"
-  },
-  {
-    "id": "/colophon/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "15-Oct-23",
-    "layout": "note",
-    "tags": [
-      "meta"
-    ],
-    "title": "Colophon",
-    "slug": "Colophon",
-    "ext": ".md",
-    "excerpt": "<p>Built in <a href=\"https://jekyllrb.com/\">Jekyll</a>.</p>\n",
-    "backlink_index": [
-
-    ],
-    "date": "2024-07-23 15:44:02 -0700"
-  },
-  {
-    "id": "/development-log/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "15-Oct-23",
-    "layout": "note",
-    "title": "Development Log",
-    "tags": [
-      "meta"
-    ],
-    "slug": "Development Log",
-    "ext": ".md",
-    "excerpt": "<h2 id=\"work-\">Work 🪵</h2>\n",
-    "backlink_index": [
-      {
-        "title": "How This Memex Started",
-        "url": "/how-this-memex-started/",
-        "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
-      }
-    ],
-    "date": "2024-07-23 15:44:02 -0700"
-  },
-  {
-    "id": "/how-this-memex-started/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "title": "How This Memex Started",
-    "tags": [
-      "meta",
-      "featured"
-    ],
-    "date": "2023-09-27 00:00:00 -0700",
-    "slug": "How This Memex Started",
-    "ext": ".md",
-    "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n",
-    "backlink_index": [
-      {
-        "title": "Stumbled into a webring",
-        "url": "/stumbled-into-a-webring/",
-        "excerpt": "<p>Ok, so maybe the old, small web has some juice left in it.</p>\n"
-      },
-      {
-        "title": "Ryan Gantz",
-        "url": "/ryan/",
-        "excerpt": "<p>Ryan is as nice as he is tall, which is “very!”</p>\n"
-      },
-      {
-        "title": "I Can't Stop Galaxy Braining",
-        "url": "/i-cannot-stop-galaxy-braining/",
-        "excerpt": "<p>I have very strong, interconnected synesthesia. This makes categorization of really any kind rather <em>non-linear</em> for me. I’m glad to have avoided developing a <em>need</em> for things to be categorized accurately and completely, because nothing ever is, but I’m always looking for a bit more room in definitions, and noting which overlap with which and where the mental threads connect. And sometimes (most times) one thing is like another thing, but only in a certain way. How are you supposed to put everything into rows and columns? Tags are such a good solution to this. You can add one, or a thousand, and you don’t even need to know what else they apply to yet.  They’re a facet of something. Everything is always facets. This is the road to galaxy braining, and it starts from anywhere and everywhere.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "/welcome/",
-    "draft": false,
-    "categories": [
-
-    ],
-    "last_modified_at": "16-Oct-23",
-    "layout": "note",
-    "date": "2023-10-15 00:00:00 -0700",
-    "tags": [
-      "meta",
-      "featured"
-    ],
-    "title": "Welcome",
-    "slug": "Welcome",
-    "ext": ".md",
-    "excerpt": "<p>Welcome to my Memex! This is very much an ongoing project of <a href=\"/how-this-memex-started\">digital gardening</a>, with much still <a href=\"/todo\">to-do</a> , but I’m pushing “go” on this today, calling it done enough to be the thing that it was supposed to be.</p>\n",
-    "backlink_index": [
-
-    ]
-  },
-  {
     "id": "/what-i-want-to-store-in-my-memex/",
     "draft": false,
     "categories": [
@@ -637,7 +637,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/what-is-a-memex/",
@@ -658,7 +658,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/buckmanite/",
@@ -666,7 +666,7 @@
     "categories": [
 
     ],
-    "last_modified_at": "20-Jul-24",
+    "last_modified_at": "23-Jul-24",
     "layout": "note",
     "tags": [
       "stuff",
@@ -693,7 +693,7 @@
         "excerpt": "<p>[[Buckmanite]], or Buckman Slate, is a metamorphic substance endemic to many urban environments, but first identified in the Buckman neighborhood of Portland, Oregon. It is a composite material formed when plastic municipal containers undergo rapid exothermic reactions, deforming to bond with the surrounding environment.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/magic-masala-chips/",
@@ -715,7 +715,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/quilt-by-delphine/",
@@ -739,7 +739,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/slice-of-life-mug/",
@@ -763,7 +763,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/stirrup-cup/",
@@ -787,7 +787,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/synthesizers/",
@@ -811,7 +811,7 @@
         "excerpt": "<p>Abe loves fun and had a bad cat named Baxter. Now he has two bad kitties, Loki and Wick.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/the-old-seal/",
@@ -855,7 +855,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/the-side-table/",
@@ -878,7 +878,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/the-street-potato/",
@@ -922,7 +922,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/turd-lake-beer/",
@@ -948,7 +948,7 @@
         "excerpt": "<p>Andrea is our wonderful friend and neighbor. She has two cats, Saucepan and Shoyu, and made [[Turd Lake Beer]] and is part of <a href=\"https://no1sbiz.bandcamp.com/\">S.E.C.R.E.T.S.</a></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/aaron/",
@@ -968,7 +968,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/abe/",
@@ -992,7 +992,7 @@
         "excerpt": "<p>[[Abe]] made this dope thing recently:</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/andrea/",
@@ -1021,7 +1021,32 @@
         "excerpt": "<p><img src=\"/assets/notes/Pasted%20image%2020231119122046.png\" alt=\"A hand holding a cool beer bottle with a logo that looks like both a turd and a lake and a grain of rice\" /></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
+    "id": "/caitlyn/",
+    "draft": false,
+    "categories": [
+      "people"
+    ],
+    "last_modified_at": "25-Jul-24",
+    "layout": "note",
+    "category": "people",
+    "title": "Caitlyn",
+    "slug": "Caitlyn",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<p>Caitlyn is awesome. We met because of <a href=\"https://www.digitaltrends.com/social-media/wake-up-a-3-a-m-phone-call-is-your-ticket-into-this-nocturnal-social-network/\">Call in the Night</a> + much synchronicity.</p>\n",
+    "backlink_index": [
+      {
+        "title": "September Sandwich Invitational 2024",
+        "url": "/sandwich-invitational/",
+        "excerpt": "<h2 id=\"the-challenge\">The challenge</h2>\n"
+      }
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/carl-diehl/",
@@ -1076,7 +1101,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/evan/",
@@ -1105,7 +1130,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/jane-zemel/",
@@ -1126,7 +1151,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/john-james/",
@@ -1150,7 +1175,7 @@
         "excerpt": "<p>They is [[Evan]], [[John James]], [[Nik Wise]], and [[me]]</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/jon/",
@@ -1197,7 +1222,7 @@
         "excerpt": "<p>T.I.N.S.T.A.C. stands for There Is No Such Thing as Coincidence, coined by [[Jon]], because life, well, it be that way.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/lucy/",
@@ -1222,7 +1247,7 @@
         "excerpt": "<p>[[Lucy]] wrote about a <a href=\"/adas-three-kinds-of-things\">Real</a> <a href=\"/mind-things\">Mind Thing</a> of hers, <a href=\"https://stone-soup.ghost.io/making-a-home-of-each-other/\">The Eggs</a>, for a very cool project called the <a href=\"https://stone-soup.ghost.io/archive/tag/personalcanonscookbook/\">Personal Canons Cookbook.</a></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/martha/",
@@ -1251,14 +1276,14 @@
         "excerpt": "<p>Something incredible has happened in the short two weeks since I posted about the hummingbird family that lives in our courtyard, [[The Paddleboat Family.]]</p>\n"
       },
       {
-        "title": "Bread times",
-        "url": "/bread-times/",
-        "excerpt": "<p>Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of <em>times</em>. I think this was before we lived together, and <em>one</em> of us was harshly shaming the <em>other</em> after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.</p>\n"
-      },
-      {
         "title": "How This Memex Started",
         "url": "/how-this-memex-started/",
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
+      },
+      {
+        "title": "Bread times",
+        "url": "/bread-times/",
+        "excerpt": "<p>Discussing Bread Times is how [[Martha]] and I acknowledged the existence and importance of <em>times</em>. I think this was before we lived together, and <em>one</em> of us was harshly shaming the <em>other</em> after discovering a bag of dinner rolls in his kitchen that he had purchased for his own consumption.</p>\n"
       },
       {
         "title": "What i want to store in my memex",
@@ -1306,7 +1331,7 @@
         "excerpt": "<p>This was a good show. We have one of Ty’s paintings, featuring Dracula. Ty made a cool hat [[Martha]] bought for me.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/nik/",
@@ -1350,7 +1375,7 @@
         "excerpt": "<p>DOES THIS WORK <a href=\"https://octothorp.es/~/cozyWeb?/=tag/cozyweb\">cozyweb</a>???</p>\n\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/ryan/",
@@ -1374,7 +1399,7 @@
         "excerpt": "<blockquote>\n  <p>This site came out of a year or so of experimenting with digital gardens. Here’s what I wrote about how that started and some stuff I did to grow it. The [[Development Log]] has more up-to-date info about what’s going on here.</p>\n</blockquote>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/spencer-chang/",
@@ -1394,7 +1419,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/goodboiz/",
@@ -1428,7 +1453,7 @@
         "excerpt": "<p>Nik made a <a href=\"https://garden.nikolas.ws\">garden</a> at the same time I started getting into this.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/me/",
@@ -1457,7 +1482,7 @@
         "excerpt": "<p>Good friends go on good road trips with you. Even better friends make a free-associative book of snippets of what you saw and talked about on that roadtrip.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/dawn-treader-books/",
@@ -1481,7 +1506,7 @@
         "excerpt": "<p>The first bookstore I worked at was [[Dawn Treader Books]], a classic, all-topics used bookstore (with a particularly strong showing in fiction, especially science fiction). I was 17, and I had also recently started volunteering at WCBN, the community radio station.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/mother-foucault-s/",
@@ -1520,7 +1545,7 @@
         "excerpt": "<p>This is a brief walkthrough of my paintings and drawings in the first show of Grapefruits gallery in the rare book room of [[Mother Foucault’s]].</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/worker-s-tap/",
@@ -1549,7 +1574,7 @@
         "excerpt": "<h3 id=\"works-referenced\">Works Referenced</h3>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/the-record-tree/",
@@ -1572,7 +1597,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/research-club/",
@@ -1592,7 +1617,27 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
+  },
+  {
+    "id": "/sandwich-invitational/",
+    "draft": false,
+    "categories": [
+
+    ],
+    "last_modified_at": "25-Jul-24",
+    "layout": "note",
+    "title": "September Sandwich Invitational 2024",
+    "slug": "Sandwich Invitational",
+    "ext": ".md",
+    "tags": [
+
+    ],
+    "excerpt": "<h2 id=\"the-challenge\">The challenge</h2>\n",
+    "backlink_index": [
+
+    ],
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/sounds-of-the-record-tree/",
@@ -1656,7 +1701,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/octothorpethoughts/",
@@ -1678,7 +1723,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/time-confetti-and-the-broken-promise-of-leisure/",
@@ -1699,7 +1744,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/handmade-images-print",
@@ -1724,7 +1769,7 @@
         "excerpt": "<h3 id=\"works-referenced\">Works Referenced</h3>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/i-cannot-stop-galaxy-braining/",
@@ -1745,7 +1790,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/warpaint-no-1/",
@@ -1768,7 +1813,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/workflow-rennovation-2024/",
@@ -1788,7 +1833,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/adventures-of-a-n/",
@@ -1812,7 +1857,7 @@
         "excerpt": "<p><img src=\"/assets/notes/clamber.jpg\" alt=\"A person laughing in a bucket hat in a crayfish restaurant.\" /></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/adventures-of-c-a-n/",
@@ -1833,7 +1878,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/amy-bay-at-nationale/",
@@ -1862,7 +1907,7 @@
         "excerpt": "<p><a href=\"https://www.nationale.us/amy-bay-they-always-have-and-still-do-2023\">June 2–July 9, 2023 at Nationale</a></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/interdependence-day/",
@@ -1901,7 +1946,7 @@
         "excerpt": "<p>Since 2015, I’ve made a papercut based on the Polish tradition of Wiczynanki for [[Interdependence Day]].</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/infobahn/",
@@ -1923,7 +1968,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/urs/",
@@ -1950,7 +1995,7 @@
         "excerpt": "<p>A Mind Thing is something you reach for in your mind as part of how you understand the world. If it’s all just a pile of Lego up there, (or [[urs]]) then Mind Things are pre-assembled chunks, whether they were deliberately created over painstaking study or just sort of glommed together coincidentally in the eddies of regular mental currents.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/hypolink/",
@@ -1972,7 +2017,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/internet-plus/",
@@ -1999,7 +2044,7 @@
         "excerpt": "<p>You can only get [[internet+]] on the Infobahn.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/pede/",
@@ -2045,7 +2090,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tinstac/",
@@ -2068,7 +2113,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/media/interdependence-day-papercuts/id-011515-jpg",
@@ -13259,7 +13304,7 @@
         "excerpt": "<p>Buckmanite, or Buckman Slate, is a metamorphic substance endemic to many urban environments, but first identified in the Buckman neighborhood of Portland, Oregon. It is a composite material formed when plastic municipal containers undergo rapid exothermic reactions, deforming to bond with the surrounding environment. These reactions are most often triggered by human intervention, both accidental and intentional, but theoretically could be triggered by natural phenomena such as lightning or incidental lensing of sunlight through nearby mirrors or windows during a heatwave.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/gallery/coffee-we-like/",
@@ -13303,7 +13348,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/gallery/everything-in-my-wifes-bag-two-days-after-we-got-married",
@@ -13327,7 +13372,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/gallery/genre-painting-reference/",
@@ -13349,7 +13394,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/gallery/innerbloom/",
@@ -13373,7 +13418,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/gallery/interdependence-day-papercuts/",
@@ -13396,7 +13441,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/gallery/notes-in-general/",
@@ -13418,7 +13463,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/gallery/pikas-place",
@@ -13475,7 +13520,7 @@
         "excerpt": "<p><img src=\"/assets/always-have-still-do/always-have-still-do-060323-5.jpeg\" alt=\"Two red paintings\" /></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/archives/",
@@ -13495,7 +13540,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/art/",
@@ -13515,7 +13560,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/books/",
@@ -13535,7 +13580,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/coffee/",
@@ -13555,7 +13600,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/conceptual-labor/",
@@ -13575,7 +13620,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/conversations/",
@@ -13595,7 +13640,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/cozyweb/",
@@ -13624,7 +13669,7 @@
         "excerpt": "<p>Spencer is a real nice guy who reached out to me on Twitter after I made <a href=\"https://bloggy.garden/\">bloggy.garden/</a>. (His feed is the 🌀.) He’s doing super cool stuff in the [[cozyweb]] realm like <a href=\"https://htmlgarden.spencerchang.me/\">htmlgarden</a> and <a href=\"https://www.spencerchang.me/\">more!</a></p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/featured/",
@@ -13644,7 +13689,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/friend/",
@@ -13664,7 +13709,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/good-cups/",
@@ -13684,7 +13729,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/hummingbirds/",
@@ -13704,7 +13749,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/interdependence-day/",
@@ -13724,7 +13769,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/issue-3/",
@@ -13744,7 +13789,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/life/",
@@ -13764,7 +13809,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/memex/",
@@ -13784,7 +13829,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/memorial/",
@@ -13804,7 +13849,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/meta/",
@@ -13824,7 +13869,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/mind-things/",
@@ -13848,7 +13893,7 @@
         "excerpt": "<p>I have very strong, interconnected synesthesia. This makes categorization of really any kind rather <em>non-linear</em> for me. I’m glad to have avoided developing a <em>need</em> for things to be categorized accurately and completely, because nothing ever is, but I’m always looking for a bit more room in definitions, and noting which overlap with which and where the mental threads connect. And sometimes (most times) one thing is like another thing, but only in a certain way. How are you supposed to put everything into rows and columns? Tags are such a good solution to this. You can add one, or a thousand, and you don’t even need to know what else they apply to yet.  They’re a facet of something. Everything is always facets. This is the road to galaxy braining, and it starts from anywhere and everywhere.</p>\n"
       }
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/mulch/",
@@ -13868,7 +13913,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/music/",
@@ -13888,7 +13933,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/nationale/",
@@ -13908,7 +13953,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/neighborhood/",
@@ -13928,7 +13973,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/octothorpes/",
@@ -13948,7 +13993,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/painting/",
@@ -13968,7 +14013,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/rando/",
@@ -13988,7 +14033,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/recipes/",
@@ -14008,7 +14053,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/shelf/",
@@ -14028,7 +14073,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/sources/",
@@ -14048,7 +14093,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/stuff/",
@@ -14068,7 +14113,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/times/",
@@ -14088,7 +14133,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/tag/traditions/",
@@ -14108,7 +14153,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/album/",
@@ -14128,7 +14173,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/audio/",
@@ -14148,7 +14193,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/collection/",
@@ -14168,7 +14213,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/concepts/",
@@ -14188,7 +14233,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/image/",
@@ -14208,7 +14253,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/media/",
@@ -14228,7 +14273,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/objects/",
@@ -14248,7 +14293,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/people/",
@@ -14268,7 +14313,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/texts/",
@@ -14288,7 +14333,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/video/",
@@ -14308,7 +14353,7 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   },
   {
     "id": "/category/words/",
@@ -14328,6 +14373,6 @@
     "backlink_index": [
 
     ],
-    "date": "2024-07-23 15:44:02 -0700"
+    "date": "2024-07-25 12:22:17 -0700"
   }
 ]
