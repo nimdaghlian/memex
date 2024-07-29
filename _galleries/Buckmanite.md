@@ -2,10 +2,14 @@
 title: Buckmanite Samples
 gallery: buckmanite
 status: fresh
+tags:
+    - featured
+    - neighborhood
 categories: album
 oofs:
     - buckmanite
     - Buckman
+date: 2024-07-20
 --- 
 
 
