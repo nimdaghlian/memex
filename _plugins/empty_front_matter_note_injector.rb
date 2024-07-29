@@ -16,4 +16,5 @@ Jekyll::Hooks.register :site, :after_init do |site|
       File.write(filename, raw_note_content)
     end
   end
+  p 'processed empty front matter'
 end

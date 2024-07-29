@@ -107,6 +107,18 @@ galleries:
     directory: "buckmanite"
     categories: ["objects"]
     tags: ["stuff", "neighborhood", "archives"]
+  - name: "Things to See in Buckman"
+    directory: "the-neighborhood"
+    categories: ["collection", "album"]
+    tags: ["neighborhood", "archives"]
+  - name: "Good Clouds of Buckman"
+    directory: "clouds-in-se"
+    categories: ["collection", "album"]
+    tags: ["neighborhood", "archives"]
+  - name: "Fallin Trees of Buckman"
+    directory: "fallen-trees"
+    categories: ["collection", "album"]
+    tags: ["neighborhood", "archives"]
 
 
 rss_feeds:

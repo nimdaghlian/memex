@@ -1,0 +1,60 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  {% include floopdashes.html stroke = page.color  %}
+  {% include page_hilight.html hilight = page.color parent="body" %}
+
+  <body class="{{ page.bodyclass }}">
+    {% include nav.html  %}
+    <main class="ui container">
+    <content class="ui two column grid stackable gallery">
+        <!-- descriptive header for gallery -->
+        <div class="ui twelve wide column">
+          <h1 class="page_hilight">{{ page.title }}</h1>
+          <div class="description page_hilight">
+            {{ content }}
+          </div>
+                <!-- listing of gallery contents -->
+      
+        <div class="ui cards grid three column stackable">
+          {% assign album_name = page.album_name %}
+          {% for album in site.data.photos %}
+            {% if album.name == album_name %}
+              <h2>{{ album.name }}</h2>
+              <div class="gallery">
+                {% for photo_url in album.photos offset:1 %}
+                  {% assign thumbnail_url = photo_url | append: '?x=512&y=512' %}
+                  <div class="thumbnail">
+                    <a href="{{ photo_url }}">
+                      <img src="{{ thumbnail_url }}" alt="{{ photo_url }}">
+                    </a>
+                  </div>
+                {% endfor %}
+              </div>
+            {% endif %}
+          {% endfor %}
+
+        </div>
+
+
+
+        </div>
+        <!-- end descriptive header -->
+
+        <!-- sidebar -->
+        <side style="font-size: 0.9em;" class="ui four wide column flooped">
+          {% include side.html  %}
+        </side>
+        <!-- end sidebar -->
+ 
+
+
+
+
+    </content>
+    </main>   
+    {% include footer.html %}
+  </body>
+</html>

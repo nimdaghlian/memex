@@ -104,4 +104,5 @@ module Jekyll
       site.data['feeds'] = rss_data
     end
   end
+  p "feedgenerator ended"
 end

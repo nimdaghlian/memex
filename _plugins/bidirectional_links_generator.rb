@@ -124,4 +124,5 @@ class BidirectionalLinksGenerator < Jekyll::Generator
   def note_id_from_note(note)
     note.data['title'].bytes.join
   end
+  p "link gen ended"
 end

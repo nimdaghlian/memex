@@ -67,5 +67,6 @@ module Jekyll
         end
       end
     end
+    p "auto tag ended"
   end
   

@@ -179,5 +179,5 @@ gal.each do |galitem|
 end
 
 
-
+p "processed galleries"
 end

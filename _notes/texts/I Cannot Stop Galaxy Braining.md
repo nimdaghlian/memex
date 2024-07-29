@@ -7,6 +7,7 @@ I have very strong, interconnected synesthesia. This makes categorization of rea
 
 ## Language has a direction, but ideas have many
 
+
 Galaxy brain is not what you're supposed to do for writing, because sentences go in one direction and galaxy is all directions. But the difference between writing essays for humans and writing code for computers is that humans are [lossy compilers](https://mmmx.cloud/lossy-compiler). We do not interpret every word and every idea as replicable tokens with fixed meanings. There's a give to syntax, and meaningful writing, even with its many carefully chosen words and arranged thoughts, will spawn countless and unpredictable new thoughts in its readers. I've always felt like this winds up some tension at the heart of language -- words help us drill down and get specific, but they also rebound outward at incredible speed, colliding with new words and ideas on their arc.
 
 Seems like since writing began, we've experimented with ways to resolve this tension. Ways to fix ideas in writing but keep them mobile. The internet is maybe the biggest experiment in that tradition ever, animating text like never before with hyperlinks. Hyperlinks say "this text is related to this other text." Hashtags are interesting because they say "this text *might* be related to some other text that might or might not exist yet." They are inherently speculative and interconnected. It's always a little exciting to click on a hashtag with no other results.
