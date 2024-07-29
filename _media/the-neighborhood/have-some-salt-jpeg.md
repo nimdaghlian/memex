@@ -10,3 +10,5 @@ permalink: /media/things-to-see-in-buckman/have-some-salt-jpeg
 layout: asset
 tags: ["neighborhood", "archives"]
 --- 
+
+This is a plug of fancy pink salt, probably from the Johnson's Salt distro nearby. I assume it was placed here by human hands, and not extruded from the building.

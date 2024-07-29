@@ -1,5 +1,5 @@
 ---
-title: self portrait as dog.jpeg
+title: self portrait by dog.jpeg
 date: 2024-07-28 23:15:56 -0700
 dateadded: 2024-07-28 23:15:56 -0700
 asset: /assets/the-neighborhood/self portrait as dog.jpeg
