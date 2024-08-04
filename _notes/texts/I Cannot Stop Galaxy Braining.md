@@ -1,9 +1,13 @@
 ---
 title: I Can't Stop Galaxy Braining
 category: texts
+oofs:
+  - why-we-made-octothorpes
+tags:
+  - octothorpes
 ---
 
-I have very strong, interconnected synesthesia. This makes categorization of really any kind rather *non-linear* for me. I'm glad to have avoided developing a *need* for things to be categorized accurately and completely, because nothing ever is, but I'm always looking for a bit more room in definitions, and noting which overlap with which and where the mental threads connect. And sometimes (most times) one thing is like another thing, but only in a certain way. How are you supposed to put everything into rows and columns? Tags are such a good solution to this. You can add one, or a thousand, and you don't even need to know what else they apply to yet.  They're a facet of something. Everything is always facets. This is the road to galaxy braining, and it starts from anywhere and everywhere.
+I have very strong, interconnected synesthesia. This makes categorization of really any kind rather *non-linear* for me. I'm glad to have avoided developing a *need* for things to be categorized accurately and completely, because nothing ever is, but I'm always looking for a bit more room in definitions, and noting which things overlap with which and where the mental threads connect. And sometimes (most times) one thing is like another thing, but only in a certain way. How are you supposed to put everything into rows and columns? Tags are such a good solution to this. You can add one, or a thousand, and you don't even need to know what else they apply to yet.  They're a facet of something. Everything is always facets. This is the road to galaxy braining, and it starts from anywhere and everywhere.
 
 ## Language has a direction, but ideas have many
 

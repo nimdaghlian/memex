@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/objects/Dorians.md",
+                "file": "assets/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/objects/Dorians.md",
+                "file": "assets/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,29 +138,39 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "c4057b6739b7e494",
+  "active": "1fab0c5de45a701f",
   "lastOpenFiles": [
     "_site/site-index.json",
+    "_site/we-got-used-to-talking-to-the-internet-itself-instead-of-people-on-the-internet/index.html",
+    "_site/we-got-used-to-talking-to-the-internet-itself-instead-of-people-on-the-internet",
+    "_site/we-really-like-personal-sites-but-the-internet-has-been-turning-into-poisonous-garbage-at-an-alarming-rate/index.html",
+    "_site/we-really-like-personal-sites-but-the-internet-has-been-turning-into-poisonous-garbage-at-an-alarming-rate",
+    "_site/um-me-no-no-august/index.html",
+    "_site/um-me-no-no-august",
+    "_site/cache/resize/9e8074c22bff0dc69f71392aab879284_90x90.png",
+    "_site/assets/texts/ray-beef-chat.png",
+    "_site/assets/texts",
+    "_site/assets/Untitled.md",
+    "cache/resize/9e8074c22bff0dc69f71392aab879284_90x90.png",
+    "assets/texts/ray-beef-chat.png",
+    "assets/texts/ray-beef-chat 1.png",
+    "assets/texts",
+    "_notes/texts/We got used to talking to the internet itself instead of people on the internet.md",
+    "assets/Untitled.md",
+    "_notes/texts/We Really Like Personal Sites But the Internet Has Been Turning into Poisonous Garbage At An Alarming Rate.md",
+    "_notes/texts/Workflow Rennovation 2024.md",
+    "_notes/texts/I Cannot Stop Galaxy Braining.md",
+    "_notes/replies/um me no no august.md",
+    "_notes/objects/Dorians.md",
+    "_notes/Untitled.md",
+    "_notes/replies",
     "_site/cache/resize/25c7ed511f1859ed39a419d61a8ab0c8_800x800.jpeg",
     "cache/resize/25c7ed511f1859ed39a419d61a8ab0c8_800x800.jpeg",
     "_site/media/things-to-see-in-buckman/part-of-the-problem-jpeg.html",
     "_site/cache/resize/3af74f652d4b2582036ba7f75f3074e8_90x90.jpeg",
     "_site/cache/resize/3af74f652d4b2582036ba7f75f3074e8_400x400.jpeg",
     "cache/resize/3af74f652d4b2582036ba7f75f3074e8_90x90.jpeg",
-    "cache/resize/3af74f652d4b2582036ba7f75f3074e8_400x400.jpeg",
-    "_site/gallery/things-to-see-in-buckman/index.html",
-    "_site/gallery/things-to-see-in-buckman",
-    "_site/media/things-to-see-in-buckman/truck-boss-jpeg.html",
-    "_site/media/things-to-see-in-buckman/stick-here-jpeg.html",
-    "_site/media/things-to-see-in-buckman/shoe-store-jpeg.html",
-    "_site/media/things-to-see-in-buckman/self-portrait-as-dog-jpeg.html",
-    "_site/media/things-to-see-in-buckman/ruffville-jpeg.html",
-    "_site/media/things-to-see-in-buckman/my-other-car-is-jpeg.html",
-    "_site/assets/the-neighborhood/part of the problem.jpeg",
     "_media/the-neighborhood/part-of-the-problem-jpeg.md",
-    "assets/the-neighborhood/part of the problem.jpeg",
-    "assets/the-neighborhood/IMG_4897.jpeg",
-    "_site/assets/the-neighborhood/truck boss.jpeg",
     "_media/the-neighborhood/truck-boss-jpeg.md",
     "_media/the-neighborhood/stick-here-jpeg.md",
     "_media/the-neighborhood/shoe-store-jpeg.md",
@@ -175,15 +185,6 @@
     "_media/fallen-trees/img-3057-jpeg.md",
     "_media/fallen-trees/img-2594-jpeg.md",
     "_media/fallen-trees/img-2593-jpeg.md",
-    "_media/fallen-trees/img-2592-jpeg.md",
-    "_media/fallen-trees/img-1769-jpeg.md",
-    "_media/fallen-trees/img-1768-jpeg.md",
-    "_media/fallen-trees/img-1767-jpeg.md",
-    "_media/fallen-trees/img-1766-jpeg.md",
-    "_media/fallen-trees/img-1765-jpeg.md",
-    "_media/fallen-trees/img-1764-jpeg.md",
-    "_media/fallen-trees/img-1763-jpeg.md",
-    "_media/fallen-trees/img-1762-jpeg.md",
-    "_media/fallen-trees/img-1761-jpeg.md"
+    "_media/fallen-trees/img-2592-jpeg.md"
   ]
 }
