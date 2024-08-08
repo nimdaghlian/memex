@@ -4,6 +4,7 @@ oofs:
 tags:
   - octothorpes
 image: /assets/texts/ray-beef-chat.png
+category: texts
 ---
 ![Screenshot from the webcomic Achewood showing Ray Smuckles, the cat, sending chat messages to his best friend Roast Beef using a custom chat app that Beef made called Ray_and_Beef_Chat 8.0](/assets/texts/ray-beef-chat.png)
 

@@ -141,6 +141,9 @@
   "active": "30300804095ca847",
   "lastOpenFiles": [
     "_site/site-index.json",
+    "_site/tag/drawings/index.html",
+    "_site/tag/drawings",
+    "_tag-pages/drawings.md",
     "_site/media/notes-in-general/rikimbili-jpeg.html",
     "_site/cache/resize/67d1d2edcacd91864d10c12e953e3ba6_400x400.jpeg",
     "_site/assets/notes/rikimbili.jpeg",
@@ -160,9 +163,7 @@
     "_site/we-really-like-personal-sites-but-the-internet-has-been-turning-into-poisonous-garbage-at-an-alarming-rate/index.html",
     "_site/we-really-like-personal-sites-but-the-internet-has-been-turning-into-poisonous-garbage-at-an-alarming-rate",
     "_site/um-me-no-no-august/index.html",
-    "_site/um-me-no-no-august",
     "_site/cache/resize/9e8074c22bff0dc69f71392aab879284_90x90.png",
-    "_site/assets/texts",
     "_site/assets/Untitled.md",
     "_notes/texts/We got used to talking to the internet itself instead of people on the internet.md",
     "assets/Untitled.md",
@@ -184,7 +185,6 @@
     "_media/the-neighborhood/dune-jpeg.md",
     "_galleries/Things to See in Buckman.md",
     "_media/fallen-trees/img-3059-jpeg.md",
-    "_media/fallen-trees/img-3057-jpeg.md",
-    "_media/fallen-trees/img-2594-jpeg.md"
+    "_media/fallen-trees/img-3057-jpeg.md"
   ]
 }
