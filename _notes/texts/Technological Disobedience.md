@@ -1,9 +1,10 @@
 ---
 image: /assets/notes/rikimbili.jpeg
 category: texts
-oofs: for-spencer
 ---
 > This essay was originally published in a zine for an opening at the PCNA MFA design program in Portland, sometime around 2017. The rest of the details escape me!
+
+<br>
 
 
 ![A drawing of a modified bicycle made called a rikimbili](/assets/notes/rikimbili.jpeg)

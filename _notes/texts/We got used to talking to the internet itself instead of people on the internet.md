@@ -33,7 +33,7 @@ The biggest thing missing from my "back in my day" list was socializing. As in *
 
 I try to remember that the social internet is still relatively new, weird, and unfinished, because that means *we're still deciding what it can be.* And regular people have as much of a share in that "we" as the massive corporations do. Hashtags on Twitter happened because users started using them before official adoption. [A03 basically made tags a turing complete language](https://www.mmmx.cloud/fan-is-a-tool-using-animal/).
 
-I admire when people can do that, just say "idk what you want me to do, but i'mgonna do this instead."  [It's a foundational principle of the internet](https://www.mmmx.cloud/a-group-is-its-own-worst-enemy/). Without realizing it, I think I left that audacity in the land of websites, and fell in line with the social internet more than I wanted to.
+I admire when people can do that, just say "[idk what you want me to do, but i'mgonna do this instead.](https://joinreboot.org/p/folk-programmers)"  [It's a foundational principle of the internet](https://www.mmmx.cloud/a-group-is-its-own-worst-enemy/). Without realizing it, I think I left that audacity in the land of websites, and fell in line with the social internet more than I wanted to.
 
 There were two moments I can actually identify that woke me up to the idea that *I could have expectations* of social media and take some agency in how I use it. It reminded me that what we think of as social media is really just some ways of doing things on top of the basic fact that people can talk to each other through the internet. Basically that *it doesn't have to be this way.*
 
