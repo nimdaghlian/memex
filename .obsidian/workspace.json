@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/people/Martha.md",
+                "file": "_notes/people/me.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/people/Martha.md",
+                "file": "_notes/people/me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,12 +140,17 @@
   },
   "active": "30300804095ca847",
   "lastOpenFiles": [
+    "assets/notes/octobutton-sm.png",
+    "assets/notes/HoHollywoodHeights4199Construction-Lemmings.gif",
+    "assets/notes/button.png",
+    "assets/notes/octobutton.png",
+    "_notes/people/me.md",
+    "_notes/people/Martha.md",
     "_site/site-index.json",
     "_notes/texts/I Cannot Stop Galaxy Braining.md",
     "_notes/texts/We got used to talking to the internet itself instead of people on the internet.md",
     "_notes/texts/We Really Like Personal Sites But the Internet Has Been Turning into Poisonous Garbage At An Alarming Rate.md",
     "_notes/objects/The Street Potato.md",
-    "_notes/people/me.md",
     "_site/media/notes-in-general/bouquet-500h-jpg.html",
     "_site/cache/resize/eeef25c2149adda6597c9485bc805d4a_90x90.jpg",
     "_site/cache/resize/eeef25c2149adda6597c9485bc805d4a_400x400.jpg",
@@ -162,10 +167,7 @@
     "_tag-pages/drawings.md",
     "_site/media/notes-in-general/rikimbili-jpeg.html",
     "_site/cache/resize/67d1d2edcacd91864d10c12e953e3ba6_400x400.jpeg",
-    "_site/assets/notes/rikimbili.jpeg",
-    "cache/resize/67d1d2edcacd91864d10c12e953e3ba6_400x400.jpeg",
     "_media/notes/rikimbili-jpeg.md",
-    "assets/notes/rikimbili.jpeg",
     "_site/technological-disobedience/index.html",
     "_site/technological-disobedience",
     "_site/we-got-used-to-talking-to-the-internet-itself-instead-of-people-on-the-internet/index.html",
@@ -183,7 +185,6 @@
     "_media/the-neighborhood/shoe-store-jpeg.md",
     "_media/the-neighborhood/self-portrait-as-dog-jpeg.md",
     "_media/the-neighborhood/ruffville-jpeg.md",
-    "_media/the-neighborhood/my-other-car-is-jpeg.md",
-    "_media/the-neighborhood/mcrib-is-back-jpeg.md"
+    "_media/the-neighborhood/my-other-car-is-jpeg.md"
   ]
 }
