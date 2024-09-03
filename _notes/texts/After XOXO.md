@@ -103,10 +103,6 @@ We have been convinced that stuff has to scale.
  
 Kissane is challenging us to do something that can empower mass numbers of people without having to *harvest* mass numbers of people. That's definitely tricky.
 
-I don't think we should ask people to run their own servers to connect to each other, and anything that does will fail to have mass adoption, but I do think it's worth seeing what happens if people had new fun ways to ask for stuff and read it. 
-
-I don't think I have the answer, but I am excited to ask, and be working on the idea, "what would a modern browseable internet be?"
-
-If this is where the conversation is at, I'm excited to see what comes next and will try hard to contribute meaningfully to it.
+But if this is where the conversation is at, I'm excited to see what comes next and will try hard to contribute meaningfully to it.
 
 Thank you XOXO for making this conversation feel vital, spirited, and friendly.
