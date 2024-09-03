@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/people/me.md",
+                "file": "_notes/texts/After XOXO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/people/me.md",
+                "file": "_notes/texts/After XOXO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +140,12 @@
   },
   "active": "30300804095ca847",
   "lastOpenFiles": [
+    "_notes/people/me.md",
+    "_notes/texts/After XOXO.md",
     "assets/notes/octobutton-sm.png",
     "assets/notes/HoHollywoodHeights4199Construction-Lemmings.gif",
     "assets/notes/button.png",
     "assets/notes/octobutton.png",
-    "_notes/people/me.md",
     "_notes/people/Martha.md",
     "_site/site-index.json",
     "_notes/texts/I Cannot Stop Galaxy Braining.md",
@@ -166,7 +167,6 @@
     "_site/tag/drawings",
     "_tag-pages/drawings.md",
     "_site/media/notes-in-general/rikimbili-jpeg.html",
-    "_site/cache/resize/67d1d2edcacd91864d10c12e953e3ba6_400x400.jpeg",
     "_media/notes/rikimbili-jpeg.md",
     "_site/technological-disobedience/index.html",
     "_site/technological-disobedience",
