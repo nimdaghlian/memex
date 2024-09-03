@@ -92,6 +92,21 @@ I don't think that's true. I only read this post because I checked, for the thir
 
 I feel like all these conversations and calls to action I hear have this in common; they're calling for an active and critical engagement with the internet -- what we put on it, how we build it, and how we use it to connect with other people. For some people that means writing your own CMS from scratch and federating all your posts to multiple services. For others it might mean making a mutual aid Facebook group. Or maybe just starting a text thread with friends. 
 
-There's a sort of "cat's out of the bag, what comes next?" vibe to a lot of these conversations. I definitely don't have the answer, but I've really appreciated the questions and challenges posed by all the sources I've posted here. If this is where the conversation is at, I'm excited to see what comes next and will try hard to contribute meaningfully to it.
+There's a sort of "cat's out of the bag, what comes next?" vibe to a lot of these conversations. I definitely don't have the answer, but I've really appreciated the questions and challenges posed by all the sources I've posted here. This is what I'm hearing:
+
+We want to be able to connect, broadly
+We want a humane speed.
+We don't just want moderation, we want a kind of internet that *can be moderated.* We might just want moderate internet.
+We have been convinced that you can't scale if you ask people to *do something* to get to content, rather than just lining up to receive it.
+We have been convinced that stuff has to scale.
+
+ 
+Kissane is challenging us to do something that can empower mass numbers of people without having to *harvest* mass numbers of people. That's definitely tricky.
+
+I don't think we should ask people to run their own servers to connect to each other, and anything that does will fail to have mass adoption, but I do think it's worth seeing what happens if people had new fun ways to ask for stuff and read it. 
+
+I don't think I have the answer, but I am excited to ask, and be working on the idea, "what would a modern browseable internet be?"
+
+If this is where the conversation is at, I'm excited to see what comes next and will try hard to contribute meaningfully to it.
 
 Thank you XOXO for making this conversation feel vital, spirited, and friendly.
