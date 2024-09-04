@@ -95,9 +95,10 @@ Mastodon made it *convenient* for me to find this set of articles, but I had to 
 
 Jason Becker says: 
 
-> I am never going to get all of the people I’m connected to online to go back to using RSS. And I’m not going to get them to bookmark my webpage and visit it multiple times a day. They have places they consistently read feeds.
+ *I am never going to get all of the people I’m connected to online to go back to using RSS. And I’m not going to get them to bookmark my webpage and visit it multiple times a day. They have places they consistently read feeds.*
 
-I don't think that's true. I only read this post because I checked, for the third time, the website of a guy who checked Jason's website. Maybe no one's going to find and check your website without a reason, but I'm going to click through if I actually care about it, or if the link looks interesting. This is called *browsing* and I miss it.
+
+I don't think that's entirely true. I mean, no, not everyone. [Maybe not every post is for everyone](https://www.youtube.com/watch?v=R2vejhdm8lo&t=49s) But I only read his post because I checked, for the third time, the website of a guy who checked Jason's website. . Maybe no one's going to find and check your website without a reason, but I'm going to click through if I actually care about it, or if the link looks interesting. This is called *browsing* and I miss it.
 
 I feel like all these conversations and calls to action I hear have this in common; they're calling for an active and critical engagement with the internet -- what we put on it, how we build it, and how we use it to connect with other people. For some people that means writing your own CMS from scratch and federating all your posts to multiple services. For others it might mean making a mutual aid Facebook group. Or maybe just starting a text thread with friends. 
 
