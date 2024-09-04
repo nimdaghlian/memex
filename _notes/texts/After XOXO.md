@@ -36,22 +36,22 @@ Our through-line so far, paraphrased:
 So, the way people talked about "being on the internet" at the last XOXO, in 2019, felt, uhh, *different* than this. This felt like a "Frogs that jumped out of the pot" conference. A "How do we deal with the fact that society and most of our livlihoods have oriented themselves to this boiling pot of water that towers over our every waking moment while all we want to do is hop around and catch flies?" #lilypdacoded 
 ## Next -- the IndieWeb becomes or remains discourse
 
-While mulling this all over in the last week, I came across some posts, on independent blogs, that seemed to be part of this zeitgeist for the open internet. They were both pro-small and personal website and critical of some of the largest current projects working towards independent and non-commercial internet spaces, the IndieWeb and Fediverse movements.
+While mulling this all over in the last week, I came across some posts, on independent blogs, that seemed to be part of this zeitgeist for the open internet. They were both for small and personal websites and critical of some of the largest current projects working towards independent and non-commercial internet spaces, the IndieWeb and Fediverse movements.
 
 Roughly in order that I read them:
 
-[Yelling at Clouds](https://manuelmoreale.com/yelling-at-the-web-clouds) by Manuel Morale
-[IndieWeb's 3 Body Problem](https://so1o.xyz/blog/3-body-problem) by Solo
-[Smaller](https://minutestomidnight.co.uk/blog/smaller/) by Simone Silvestroni
-[Has the IndieWeb become Irrelevant](https://starbreaker.org/blog/tech/has-indieweb-become-irrelevant/index.html) by Matthew Graybosch
-[The Social Web](https://manuelmoreale.com/the-social-web) by Manuel Morale
+- [Yelling at Clouds](https://manuelmoreale.com/yelling-at-the-web-clouds) by Manuel Morale
+- [IndieWeb's 3 Body Problem](https://so1o.xyz/blog/3-body-problem) by Solo
+- [Smaller](https://minutestomidnight.co.uk/blog/smaller/) by Simone Silvestroni
+- [Has the IndieWeb become Irrelevant](https://starbreaker.org/blog/tech/has-indieweb-become-irrelevant/index.html) by Matthew Graybosch
+- [The Social Web](https://manuelmoreale.com/the-social-web) by Manuel Morale
 
 And responses from the IndieWeb community:
-[Has the IndieWeb become discourse again?](https://martymcgui.re/2024/08/29/141602/) by Marty McGuire
-[Ownership, connection, and control](https://json.blog/2024/08/29/ownership-connection-and.html) by Jason Becker
+- [Has the IndieWeb become discourse again?](https://martymcgui.re/2024/08/29/141602/) by Marty McGuire
+- [Ownership, connection, and control](https://json.blog/2024/08/29/ownership-connection-and.html) by Jason Becker
 
 
-A lot of it is inside-baseball for a small community, but I don't even think it registers on the internet drama scale. I agree with a many of the specific points from the critical side, enough that I'm already building something that I think aligns with many of them, but I also agree with much of the responses from the IndieWeb community, who are all, in all of my experience, friendly, welcoming, and open minded people. If this is stuff you already care about, I do encourage you to read all these posts. But, with the thread from XOXO running through my thoughts, here's a summery of what I thought was most compelling from these posts.
+A lot of it is inside-baseball for a small community, and I don't even think it registers on the internet drama scale. I agree with a many of the specific points from the critical side, enough that I'm already building something that I think aligns with many of them, but I also agree with much of the responses from the IndieWeb community, who are all, in all of my experience, friendly, welcoming, and open minded people. If this is stuff you already care about, I do encourage you to read all these posts. But, with the thread from XOXO running through my thoughts, here's a summary of what I thought was most compelling from these posts.
 
 - If you want to be an individual who writes stuff on a website who talks to other individuals about it, email, a webpage, and RSS do really well for that. You might not need more than that.
 - We should critically assess the benefits of integration between "websites" and "platforms"
@@ -94,11 +94,11 @@ I feel like all these conversations and calls to action I hear have this in comm
 
 There's a sort of "cat's out of the bag, what comes next?" vibe to a lot of these conversations. I definitely don't have the answer, but I've really appreciated the questions and challenges posed by all the sources I've posted here. This is what I'm hearing:
 
-We want to be able to connect, broadly
-We want a humane speed.
-We don't just want moderation, we want a kind of internet that *can be moderated.* We might just want moderate internet.
-We have been convinced that you can't scale if you ask people to *do something* to get to content, rather than just lining up to receive it.
-We have been convinced that stuff has to scale.
+- We want to be able to connect, broadly
+- We want a humane speed.
+- We don't just want moderation, we want a kind of internet that *can be moderated.* We might just want moderate internet.
+- We have been convinced that you can't scale if you ask people to *do something* to get to content, rather than just lining up to receive it.
+- We have been convinced that stuff has to scale.
 
  
 Kissane is challenging us to do something that can empower mass numbers of people without having to *harvest* mass numbers of people. That's definitely tricky.
