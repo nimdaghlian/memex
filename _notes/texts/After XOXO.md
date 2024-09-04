@@ -1,6 +1,11 @@
+---
+oofs:
+  - xoxofest
+  - activeWeb
+---
 
 
-There was a particularly strong thread that ran through most of my conversations at XOXO. It was braided from questions (pleas?) like the following:
+There was a particularly strong thread that ran through most of my conversations at [XOXO](https://xoxofest.com/) this year. It was braided from questions (pleas?) like the following:
 
 - what's wrong with the internet now
 - can we make it not poisonous again
@@ -19,15 +24,15 @@ Some points on the line, in chronological order:
 
 *note: most of these quotes are from memory. Once the recordings of the talks are posted I'll link to them and correct anything here. Feel free to correct me if you have notes.*
 
-Darius Kazemi says "Indie is just an economic descriptor" in his funny, insightful talk about the highs and lows of trying to make it building independent projects and communities on the internet, in part as a followup to his 2014 talk "[How I Won The Lottery](https://www.youtube.com/watch?v=l_F9jxsfGCw)" This was to say that it's a way of existing in the market, rather than a coherent aesthetic or a value system, and it can be liberating or fuck you up in equal measures.
+[Darius Kazemi](https://tinysubversions.com/) says "Indie is just an economic descriptor" in his funny, insightful talk about the highs and lows of trying to make it building independent projects and communities on the internet, in part as a followup to his 2014 talk "[How I Won The Lottery](https://www.youtube.com/watch?v=l_F9jxsfGCw)" This was to say that it's a way of existing in the market, rather than a coherent aesthetic or a value system, and it can be liberating or fuck you up in equal measures.
 
-Someone, probably Molly White* says something to the effect "**We used to do weird things on the internet and then at some point it started doing weird things to us?**” Interestingly, when I tried to clarify who said this on the XOXO slack, it was clear that this could be considered one of the main themes of the festival. Someone else asked Andy Baio, one of the organizers, if this was on purpose. He responded that, while he had themes in mind when inviting speakers, they were ultimately in control of their own talks. He didn't even see the talks before they presented live, so this solid theme we felt mostly came together organically.
+Someone, (maybe Molly White?) says something to the effect "**We used to do weird things on the internet and then at some point it started doing weird things to us?**” Interestingly, when I tried to clarify who said this on the XOXO slack, it was clear that this could be considered one of the main themes of the festival. Someone else asked Andy Baio, one of the organizers, if this was on purpose. He responded that, while he had themes in mind when inviting speakers, they were ultimately in control of their own talks. He didn't even see the talks before they presented live, so this solid theme we felt mostly came together organically.
 
-Definitely Molly White asked the room to **remember the time they felt embodied excitement, like in the pit of their stomach, about making something on the internet**. Her example was building her user profile page (called a lookup) on Neopets. She challenged us to find that feeling again with what we do now. The crowd was stoked.
+Definitely [Molly White](https://www.mollywhite.net/) asked the room to **remember the time they felt embodied excitement, like in the pit of their stomach, about making something on the internet**. Her example was building her user profile page (called a lookup) on Neopets. She challenged us to find that feeling again with what we do now. The crowd was stoked.
 
-Erin Kissane, with great generosity and attention, told her story of gathering countless friends and strangers via the internet to process early COVID data. How it became the foundation for whatever public understanding we had of the pandemic, and what that community of purpose meant to her. This structured her nuanced critique of the current state of the internet. She implored us not to take a "dark forest" approach in leaving the sites of the current online toxicity. Both so these networks of care and shared concern could still form in public, and so that there was somewhere for those who come next to go. Instead, she gave us the rallying cry **Fix the fucking networks.** It's a line that I know many people in the last week or so have written down in their own accounts and web logs.
+[Erin Kissane](https://erinkissane.com/), with great generosity and attention, told her story of gathering countless friends and strangers via the internet to process early COVID data. How it became the foundation for whatever public understanding we had of the pandemic, and what that community of purpose meant to her. This structured her nuanced critique of the current state of the internet. She implored us not to take a "dark forest" approach in leaving the sites of the current online toxicity. Both so these networks of care and shared concern could still form in public, and so that there was somewhere for those who come next to go. Instead, she gave us the rallying cry **Fix the fucking networks.** It's a line that I know many people in the last week or so have written down in their own accounts and web logs.
 
-Ed Yong's moving, personal talk brought it home about both what one could do with the internet and what it could do to you. It was so open-hearted and immediate and personal that I don't really feel like I can or should try to summarize it here, only to say that when I do post the video you should definitely watch it all. In it, he said something along the lines that **we'll look back on the era where we put our random thoughts online for milions of strangers to read like we look back on when we built houses with asbestos.** This was greeted with ripples of laughter and then applause, filtered through I believe both relief and regret.
+[Ed Yong's](https://edyong.me/) moving, personal talk brought it home about both what one could do with the internet and what it could do to you. It was so open-hearted and immediate and personal that I don't really feel like I can or should try to summarize it here, only to say that when I do post the video you should definitely watch it all. In it, he said something along the lines that **we'll look back on the era where we put our random thoughts online for milions of strangers to read like we look back on when we built houses with asbestos.** This was greeted with ripples of laughter and then applause, filtered through I believe both relief and regret.
 
 Our through-line so far, paraphrased:
 
