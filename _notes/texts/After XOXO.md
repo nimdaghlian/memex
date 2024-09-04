@@ -116,3 +116,5 @@ Erin Kissane is challenging us to do something that can empower mass numbers of 
 But if this is where the conversation is at, I'm excited to see what comes next and will try hard to contribute meaningfully to it.
 
 Thank you XOXO for making this conversation feel vital, spirited, and friendly.
+
+ps OMG I almost forgot. One of the great things that came out of this zeitgeist already was Molly White putting out a call for personal blogs in the afterglow of the festival on the XOXO slack and getting [this treasure trove](https://gist.github.com/molly/e5003cfed284baf075c01e9470c089bc) back. That's your present for getting this far. ❌🅾️❌🅾️
