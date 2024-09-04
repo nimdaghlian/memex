@@ -42,7 +42,7 @@ Our through-line so far, paraphrased:
 - We need to fix the fucking networks if we want to hang on to that feeling, and be safe out there on our own, while still being able to find each other.
 - Massive social media feeds are acute *and* chronic health hazards.
 
-So, the way people talked about "being on the internet" at the last XOXO, in 2019, felt, uhh, *different* than this. This felt like a "Frogs that jumped out of the pot" conference. A "How do we deal with the fact that society and most of our livlihoods have oriented themselves to this boiling pot of water that towers over our every waking moment while all we want to do is hop around and catch flies?"
+So, the way people talked about "being on the internet" at the last XOXO, in 2019, felt, uhh, *different* than this. This felt like a "Frogs that jumped out of the pot[^1]" conference. A "How do we deal with the fact that society and most of our livlihoods have oriented themselves to this boiling pot of water that towers over our every waking moment while all we want to do is hop around and catch flies?"
 ## Next -- the IndieWeb becomes or remains discourse
 
 While mulling this all over in the last week, I came across some posts, on independent blogs, that seemed to be part of this zeitgeist for the open internet. They were both for small and personal websites and critical of some of the largest current projects working towards independent and non-commercial internet spaces, the IndieWeb and Fediverse movements.
@@ -118,3 +118,5 @@ But if this is where the conversation is at, I'm excited to see what comes next 
 Thank you XOXO for making this conversation feel vital, spirited, and friendly.
 
 ps OMG I almost forgot. One of the great things that came out of this zeitgeist already was Molly White putting out a call for personal blogs in the afterglow of the festival on the XOXO slack and getting [this treasure trove](https://gist.github.com/molly/e5003cfed284baf075c01e9470c089bc) back. That's your present for getting this far. ❌🅾️❌🅾️
+
+[^1]: In likening the experience of using the internet in the 21st century to frogs in a pot of boiling water, I should point out that frogs, and all other creatures with enough sense not to invent social media, actually do jump out. [Unless their higher functions have been taken away deliberately by the people controlling the experiment.](https://en.wikipedia.org/wiki/Boiling_frog#cite_ref-23)
