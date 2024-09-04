@@ -80,12 +80,12 @@ Reading this conversation felt like hearing from frogs that got out of the pot b
 
 It is very easy to go, fuck yeah, out with the new, in with the old, let's make the internet sane and quiet and small. But... 
 
-It's very hard to balance that with Erin Kissane's call to action. As she said in her talk, she and her army of volunteers should never have had to step in to do the work we expect our governments to do in a pandemic. But now we have the tools for citiziens to self-organize *en mass* about issues they care about, so we should think very critically about dismantaling them before the next pandemic. How do we balance these concerns?
+It's very hard to balance that with Erin Kissane's call to action. As she said in her talk, she and her army of volunteers should never have had to step in to do the work we expect our governments to do in a pandemic. But now we have the tools for citizens to self-organize *en masse* about issues they care about, so we should think very critically about dismantling them before the next pandemic. How do we balance these concerns?
 
 
 ## The Active Web
 
-Here I am participating in discourse, in relatively real-time. How did I get into it? I read a post by Sarah Joy on Mastodon that linked to a post that linked to this. So a combination of push and pull internet.
+Here I am participating in discourse, in relatively real-time. How did I get into it? I saw a [post by Sarah Joy on Mastodon](https://front-end.social/@sarajw/113035847169727351) that linked to a post that linked to this. So a combination of the convenience of a social feed, and the small web's call to browse.
 
 The double edged sword of convenience is that it's accessible, but it's also exploitable. In America, a "convenience" store is conveniently located, but it's also full of addictive substances. Nothing hates inconvenience more than addiction.
 
