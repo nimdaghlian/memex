@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45b52cf83e99b54b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/texts/After XOXO.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +152,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "30300804095ca847",
+  "active": "45b52cf83e99b54b",
   "lastOpenFiles": [
-    "_notes/people/me.md",
+    "assets/notes/handout-stack.jpeg",
     "_notes/texts/After XOXO.md",
+    "Untitled.md",
+    "_notes/people/me.md",
     "assets/notes/octobutton-sm.png",
     "assets/notes/HoHollywoodHeights4199Construction-Lemmings.gif",
     "assets/notes/button.png",
@@ -184,8 +199,6 @@
     "_media/the-neighborhood/truck-boss-jpeg.md",
     "_media/the-neighborhood/stick-here-jpeg.md",
     "_media/the-neighborhood/shoe-store-jpeg.md",
-    "_media/the-neighborhood/self-portrait-as-dog-jpeg.md",
-    "_media/the-neighborhood/ruffville-jpeg.md",
-    "_media/the-neighborhood/my-other-car-is-jpeg.md"
+    "_media/the-neighborhood/self-portrait-as-dog-jpeg.md"
   ]
 }
