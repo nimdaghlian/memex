@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45b52cf83e99b54b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "_notes/texts/After XOXO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +139,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "45b52cf83e99b54b",
+  "active": "30300804095ca847",
   "lastOpenFiles": [
+    "Untitled.md",
     "assets/notes/buckmanite-at-form-a.jpg",
     "assets/notes/handout-stack.jpeg",
     "_notes/texts/After XOXO.md",
-    "Untitled.md",
     "_notes/people/me.md",
     "assets/notes/octobutton-sm.png",
     "assets/notes/HoHollywoodHeights4199Construction-Lemmings.gif",
@@ -175,7 +162,6 @@
     "_site/assets/notes/bouquet.md",
     "_site/assets/notes/bouquet-500h.jpg",
     "cache/resize/eeef25c2149adda6597c9485bc805d4a_90x90.jpg",
-    "cache/resize/eeef25c2149adda6597c9485bc805d4a_400x400.jpg",
     "_media/notes/bouquet-500h-jpg.md",
     "assets/notes/bouquet.md",
     "_notes/texts/Technological Disobedience.md",
