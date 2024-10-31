@@ -2,7 +2,7 @@
 octothorpes: weirdweboctober
 permalink: wwo-favs
 ---
-I'm still curating this list but these are some of my favorites from Weird Web October
+I'm still curating this list but these are some of my favorites from Weird Web October. [Go find your own favs here](https://weirdweboctober-starter.glitch.me/sites/?octothorpe=weirdweboctober)!
 
 [#Emoji](https://octothorp.es/~/Emoji)
 [Emoji Metropolis](https://weird.sha.codes/emoji/) 
@@ -11,7 +11,7 @@ I'm still curating this list but these are some of my favorites from Weird Web O
 [Bugzify](https://weird-web.studiodev.xyz/bugs/)
 [Grashopper Puppet](<[Bugzify](https://weird-web.studiodev.xyz/bugs/)>)
 
-unprocessed: 
+raw urls:
 
 [https://cdpn.io/pen/debug/MWNJRGP](https://cdpn.io/pen/debug/MWNJRGP)
 
