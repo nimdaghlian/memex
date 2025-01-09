@@ -9,7 +9,7 @@ github_username:  nimdaghlian
 
 
 # Build settings
-incremental: false
+incremental: true
 
 permalink: pretty
 
@@ -63,7 +63,7 @@ collections:
     output: true
     permalink: /category/:name/
 feed:
-  disable_in_development: false
+  disable_in_development: true
   path: feed/posts.atom
   collections:
       - notes

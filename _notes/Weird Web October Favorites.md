@@ -4,82 +4,127 @@ permalink: wwo-favs
 ---
 I'm still curating this list but these are some of my favorites from Weird Web October. [Go find your own favs here](https://weirdweboctober-starter.glitch.me/sites/?octothorpe=weirdweboctober)!
 
-[#Emoji](https://octothorp.es/~/Emoji)
+
+### [#Nature](https://octothorp.es/~/Nature)
+
+[day one: nature](https://xixxii.neocities.org/projects/weirdweboctober24/01-nature)
+
+[ some kind of creature ribose](https://ribo.zone/weirdweb/nature/#look)
+
+[Nature](https://nature-weird.surge.sh/)
+
+[Naturizify](https://weird-web.studiodev.xyz/nature/)
+
+### [#Blessed](https://octothorp.es/~/Blessed)
+
+[bless you  ribose](https://ribo.zone/weirdweb/blessed/)
+
+[Blessed - Weird Web October](https://wwo.jzplusplus.com/9-blessed.html)
+
+[Blessed Weird Web October (Mitchell Busby)](https://mitchellbusby.github.io/wwo-24/blessed/)
+
+### [#Emoji](https://octothorp.es/~/Emoji)
+
 [Emoji Metropolis](https://weird.sha.codes/emoji/) 
 
-[#Bugs](https://octothorp.es/~/Bugs)
+### [#Bugs](https://octothorp.es/~/Bugs)
+
 [Bugzify](https://weird-web.studiodev.xyz/bugs/)
+
 [Grashopper Puppet](<[Bugzify](https://weird-web.studiodev.xyz/bugs/)>)
 
-raw urls:
+### Unsorted
 
-[https://cdpn.io/pen/debug/MWNJRGP](https://cdpn.io/pen/debug/MWNJRGP)
+[TODO List Rain](https://weird.sha.codes/lists/)
 
-[https://weird-web.studiodev.xyz/irl/](https://weird-web.studiodev.xyz/irl/)
+[birder's list 9/10979](https://objelisks.space/wwo/birds)
 
-[http://codekitchen.net/weird/cold-fingers/](http://codekitchen.net/weird/cold-fingers/)
+[Click Away the Stress](https://weird.sha.codes/notifications/)
 
-[https://wwo-yooksel.vercel.app/2024/07-science/index.html](https://wwo-yooksel.vercel.app/2024/07-science/index.html)
+[✧ color](https://vidyagiri.com/webtober/color/)
 
-[https://xixxii.neocities.org/projects/weirdweboctober24/22-bugs](https://xixxii.neocities.org/projects/weirdweboctober24/22-bugs)
+[WWO24 API: What do our computers tell each other anyway?](https://www.ragman.net/wwo24/api/)
 
-[https://wwo-yooksel.vercel.app/2024/13-gifs/index.html](https://wwo-yooksel.vercel.app/2024/13-gifs/index.html)
+[FOMO vs. JOMO Slider](https://weird.sha.codes/css/)
 
-[https://wwo-yooksel.vercel.app/2024/11-api/index.html](https://wwo-yooksel.vercel.app/2024/11-api/index.html)
+[food time](https://objelisks.space/wwo/food)
 
-[https://weird.sha.codes/blessed/](https://weird.sha.codes/blessed/)
+[find your color](https://thegarbage.club/weird/3/)
 
-[https://thegarbage.club/weird/13/](https://thegarbage.club/weird/13/)
+[Art  Weird Web October (Mitchell Busby)](https://mitchellbusby.github.io/wwo-24/art/)
 
-[https://ribo.zone/weirdweb/api/](https://ribo.zone/weirdweb/api/)
+[ADHD Brain](https://weird.sha.codes/gifs/)
 
-[https://wwo.jzplusplus.com/17-dimensions.html](https://wwo.jzplusplus.com/17-dimensions.html)
+[mattl's weirdwebtober](https://weirdwebtober.neocities.org/)
 
-[https://weird-web.studiodev.xyz/memes/](https://weird-web.studiodev.xyz/memes/)
+[Food - Weird Web October](https://wwo.jzplusplus.com/5-food.html)
 
-[https://objelisks.space/wwo/food](https://objelisks.space/wwo/food)
+[APIzify](https://weird-web.studiodev.xyz/api/)
 
-[https://www.ragman.net/wwo24/api/](https://www.ragman.net/wwo24/api/)
+[Museum of Random History](https://wwo-yooksel.vercel.app/2024/14-history/index.html)
 
-[https://annoying.one/](https://annoying.one/)
+[Star Jar](https://weird.sha.codes/blessed/)
 
-[https://weird.sha.codes/notifications/](https://weird.sha.codes/notifications/)
+[map of mammals  ribose](https://ribo.zone/weirdweb/api/)
 
-[https://vidyagiri.com/webtober/color/](https://vidyagiri.com/webtober/color/)
+[GIFs](https://thegarbage.club/weird/13/)
 
-[https://www.ragman.net/wwo24/api/](https://www.ragman.net/wwo24/api/)
+[The First GIFilm](https://wwo-yooksel.vercel.app/2024/13-gifs/index.html)
 
-[https://cdpn.io/pen/debug/MWNePZE](https://cdpn.io/pen/debug/MWNePZE)
+[Peeking Cats](https://wwo-yooksel.vercel.app/2024/11-api/index.html)
 
-[https://lil-bits.nobr.me/api](https://lil-bits.nobr.me/api)
+[Blue and Grey Marbles](https://wwo-yooksel.vercel.app/2024/07-science/index.html)
 
-[https://by.georgie.nu/weird/food/](https://by.georgie.nu/weird/food/)
+[Bee API](https://weird.sha.codes/api/)
 
-[https://webkitty.glitch.me/](https://webkitty.glitch.me/)
+[Cold Fingers](http://codekitchen.net/weird/cold-fingers/)
 
-[https://wwo.jzplusplus.com/4-lists.html](https://wwo.jzplusplus.com/4-lists.html)
+[☕️ The real ritual is in the morning](https://by.georgie.nu/weird/ritual/)
 
-[https://weird.sha.codes/api/](https://weird.sha.codes/api/)
+[that time I could actually graphic design, Georgie Cooke (2024)](https://by.georgie.nu/weird/art/)
 
-[https://weird-web.studiodev.xyz/social/](https://weird-web.studiodev.xyz/social/)
+[day fifteen - audio](https://xixxii.neocities.org/projects/weirdweboctober24/15-audio)
 
-[https://wwo-yooksel.vercel.app/2024/10-art/index.html](https://wwo-yooksel.vercel.app/2024/10-art/index.html)
+[I’d like to be under the sea](https://by.georgie.nu/weird/audio/)
 
-[https://weird.sha.codes/memes/](https://weird.sha.codes/memes/)
+[Put the groceries away](https://by.georgie.nu/weird/food/)
 
-[https://weird.sha.codes/words/](https://weird.sha.codes/words/)
+[Magpie Sightings](https://taterinx.neocities.org/october-web/1-nature)
 
-[https://cdpn.io/pen/debug/jOgyjoB](https://cdpn.io/pen/debug/jOgyjoB)
+[in the gallery  ribose](https://ribo.zone/weirdweb/art/)
 
-[https://by.georgie.nu/weird/](https://by.georgie.nu/weird/)
+[cell culture  ribose](https://ribo.zone/weirdweb/ritual/)
 
-[https://by.georgie.nu/weird/blessed/](https://by.georgie.nu/weird/blessed/)
+[Tiny Museum of Van Gogh Copies](https://wwo-yooksel.vercel.app/2024/10-art/index.html)
 
-[https://ribo.zone/weirdweb/nature/](https://ribo.zone/weirdweb/nature/)
+[BYOC - Color - Weird Web October](https://wwo.jzplusplus.com/3-color.html)
 
-[https://weird-web.studiodev.xyz/api/](https://weird-web.studiodev.xyz/api/)
+[haiku Generator](https://weird.sha.codes/words/)
 
-[https://wwo-yooksel.vercel.app/2024/14-history/index.html](https://wwo-yooksel.vercel.app/2024/14-history/index.html)
+[rare words i like](https://sweetfish.site/attic/weird/words)
 
-[https://vidyagiri.com/webtober/memes/](https://vidyagiri.com/webtober/memes/)  
+[homologous](https://cdpn.io/pen/debug/jOgyjoB)
 
+[The mesh gradient to GIF pipeline](https://mitchellbusby.github.io/wwo-24/gifs/)
+
+[day three: color](https://xixxii.neocities.org/projects/weirdweboctober24/03-color)
+
+[look up 🪽](https://by.georgie.nu/weird/blessed/)
+
+[Socializify](https://weird-web.studiodev.xyz/social/)
+
+[The Annoying Potato](https://annoying.one/)
+
+[hey Geronimo setlists](https://by.georgie.nu/weird/lists/)
+
+[Chat Simulator](https://weird.sha.codes/social/)
+
+<https://wwo-yooksel.vercel.app/2024/13-gifs/index.html>
+
+<https://wwo.jzplusplus.com/17-dimensions.html>
+
+<https://wwo.jzplusplus.com/4-lists.html>
+
+<https://vidyagiri.com/webtober/memes/>
+
+<https://by.georgie.nu/weird/blessed/>
