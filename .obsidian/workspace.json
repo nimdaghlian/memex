@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_media/coffee-we-like/wesley-andrews-yunnan-china-red-honey-jpeg.md",
+                "file": "_notes/Instead of Instagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wesley-andrews-yunnan-china-red-honey-jpeg"
+              "title": "Instead of Instagram"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "9012175d64067c09",
@@ -169,6 +170,8 @@
   },
   "active": "7aafa7b367e8ab35",
   "lastOpenFiles": [
+    "_media/coffee-we-like/wesley-andrews-yunnan-china-red-honey-jpeg.md",
+    "_notes/Instead of Instagram.md",
     "_site/site-index.json",
     "_site/chris-herdt/index.html",
     "_site/chris-herdt",
@@ -188,13 +191,11 @@
     "_site/assets/coffee-we-like/wesley-andrews-yunnan-china-red-honey.jpeg",
     "_site/assets/coffee-we-like/pxp-lao-xu-zhai-yunnan-china-natural.jpeg",
     "_media/coffee-we-like/pxp-lao-xu-zhai-yunnan-china-natural-jpeg.md",
-    "_media/coffee-we-like/wesley-andrews-yunnan-china-red-honey-jpeg.md",
     "_media/coffee-we-like/pxp-pnicaragua-natural-jpeg.md",
     "_site/media/notes-in-general/octobutton-sm-png.html",
     "_site/media/notes-in-general/hohollywoodheights4199construction-lemmings-gif.html",
     "_site/media/notes-in-general/handout-stack-jpeg.html",
     "_site/media/notes-in-general/button-png.html",
-    "_site/media/notes-in-general/buckmanite-at-form-a-jpg.html",
     "_media/coffee-we-like/pxp-nicaragua-natural-jpeg.md",
     "_media/coffee-we-like/pxp-los-tonos-costa-rica-natural-jpeg.md",
     "_media/notes/hohollywoodheights4199construction-lemmings-gif.md",
