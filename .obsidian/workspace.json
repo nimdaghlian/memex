@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/books/Guidebook to The Viridian Maw.md",
+                "file": "_notes/Instead of Instagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guidebook to The Viridian Maw"
+              "title": "Instead of Instagram"
             }
           }
         ],
@@ -169,8 +169,8 @@
   },
   "active": "7aafa7b367e8ab35",
   "lastOpenFiles": [
-    "_notes/books/The Burglar's Guide to The City.md",
     "_notes/books/Guidebook to The Viridian Maw.md",
+    "_notes/books/The Burglar's Guide to The City.md",
     "_notes/Instead of Instagram.md",
     "_media/coffee-we-like/wesley-andrews-yunnan-china-red-honey-jpeg.md",
     "_site/site-index.json",
