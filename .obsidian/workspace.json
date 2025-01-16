@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Weird Web October Favorites.md",
+                "file": "_notes/Instead of Instagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weird Web October Favorites"
+              "title": "Instead of Instagram"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Instead of Instagram.md",
+                "file": "_media/id-papercuts/id-011525-jpg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instead of Instagram"
+              "title": "id-011525-jpg"
             }
           }
         ],
@@ -169,34 +169,38 @@
   },
   "active": "7aafa7b367e8ab35",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_notes/times/Interdependence Day.md",
+    "_site/media/interdependence-day-papercuts/id-011525-jpg.html",
+    "_site/cache/resize/e09b01e36ff327c24621fb08870243ed_90x90.jpg",
+    "_site/cache/resize/e09b01e36ff327c24621fb08870243ed_400x400.jpg",
+    "cache/resize/e09b01e36ff327c24621fb08870243ed_90x90.jpg",
+    "cache/resize/e09b01e36ff327c24621fb08870243ed_400x400.jpg",
+    "_site/assets/id-papercuts/id-011525.jpg",
+    "_media/id-papercuts/id-011525-jpg.md",
+    "assets/id-papercuts/id-011525_tmp1524897979",
+    "assets/id-papercuts/id-011525.jpg",
+    "_site/media/interdependence-day-papercuts/interdependence-day-2025-timelapse-mp4.html",
+    "_site/viridian-maw.html",
+    "_site/instead-of-instagram/index.html",
+    "_site/instead-of-instagram",
+    "_site/assets/id-papercuts/Interdependence Day 2025 timelapse.mp4",
+    "_media/id-papercuts/interdependence-day-2025-timelapse-mp4.md",
+    "assets/id-papercuts/Interdependence Day 2025 timelapse.mp4.sb-39ca32c6-QIvV7n",
+    "assets/id-papercuts/Interdependence Day 2025 timelapse.mp4",
+    "_notes/Instead of Instagram.md",
+    "_notes/Weird Web October Favorites.md",
     "_notes/books/Guidebook to The Viridian Maw.md",
     "_notes/books/The Burglar's Guide to The City.md",
-    "_notes/Instead of Instagram.md",
     "_media/coffee-we-like/wesley-andrews-yunnan-china-red-honey-jpeg.md",
-    "_site/site-index.json",
-    "_site/chris-herdt/index.html",
-    "_site/chris-herdt",
     "_notes/people/Chris Herdt.md",
-    "_site/media/coffee-we-like/wesley-andrews-yunnan-china-red-honey.html",
     "_site/cache/resize/e46624c9f094dcc5581edd0f2f09bb7a_90x90.jpeg",
     "_site/cache/resize/a714734159777acda3f579f7ea380744_90x90.jpeg",
     "_site/cache/resize/a714734159777acda3f579f7ea380744_400x400.jpeg",
     "_site/cache/resize/e46624c9f094dcc5581edd0f2f09bb7a_400x400.jpeg",
-    "cache/resize/e46624c9f094dcc5581edd0f2f09bb7a_90x90.jpeg",
-    "cache/resize/a714734159777acda3f579f7ea380744_90x90.jpeg",
-    "cache/resize/a714734159777acda3f579f7ea380744_400x400.jpeg",
-    "cache/resize/e46624c9f094dcc5581edd0f2f09bb7a_400x400.jpeg",
     "_media/coffee-we-like/pxp-wush-wush-ethiopia-natural-jpeg.md",
-    "_site/media/coffee-we-like/wesley-andrews-yunnan-china-red-honey-jpeg.html",
-    "_site/media/coffee-we-like/pxp-lao-xu-zhai-yunnan-china-natural-jpeg.html",
-    "_site/assets/coffee-we-like/wesley-andrews-yunnan-china-red-honey.jpeg",
-    "_site/assets/coffee-we-like/pxp-lao-xu-zhai-yunnan-china-natural.jpeg",
     "_media/coffee-we-like/pxp-lao-xu-zhai-yunnan-china-natural-jpeg.md",
     "_media/coffee-we-like/pxp-pnicaragua-natural-jpeg.md",
-    "_site/media/notes-in-general/octobutton-sm-png.html",
-    "_site/media/notes-in-general/hohollywoodheights4199construction-lemmings-gif.html",
-    "_site/media/notes-in-general/handout-stack-jpeg.html",
-    "_site/media/notes-in-general/button-png.html",
     "_media/coffee-we-like/pxp-nicaragua-natural-jpeg.md",
     "_media/coffee-we-like/pxp-los-tonos-costa-rica-natural-jpeg.md",
     "_media/notes/hohollywoodheights4199construction-lemmings-gif.md",
@@ -208,12 +212,7 @@
     "_notes/Dawn Treader Dream.md",
     "now.md",
     "Untitled.md",
-    "_notes/Weird Web October Favorites.md",
     "_notes/Stumbled into a Webring.md",
-    "_notes/The Bun Boys.md",
-    "_notes/The Bun Family.md",
-    "_notes/The Paddleboat Family.md",
-    "_notes/people/me.md",
-    "_notes/people/Martha.md"
+    "_notes/The Bun Boys.md"
   ]
 }

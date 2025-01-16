@@ -17,20 +17,7 @@ I willingly use Instagram for two things: 1) brain-rotting meme garbage 2) seein
 
 Instagram and other big platforms will always have our back on #1, but I think we can achieve #2 with a little bit of effort. 
 
-## What I'll do to help
-
-- Make and update this post to get you started
-- Wrangle any momentum that may build
-- Answer all your questions
-- Track the progress here
-- Actively post to the new platform
-
-- I'm not at the "will host a fediverse server" stage yet, so not that. If that sentence makes no sense to you, read on.
-
-## What you should do
-
-- Read this, and then DM or email me questions.
-- Recruit friends.
+Give this a read, and definitely feel free to ask me any questions you have, and please share with friends!
 
 ## One excellent but unrealistic option
 
@@ -93,6 +80,8 @@ Cons:
 - $1-10 a month
 - Interface is a little limited and underdeveloped at times
 - possibly hard to understand?
+---
+
 ## Other options
 
 - BlueSky! It feels more and more like Twitter, which I'm not sure is great, but [I'm on there.](https://bsky.app/profile/niiiiim.bsky.social) It's also technically Federated, but in a much, much earlier stage of doing that kind of thing. [Mark Ruffalo is trying to help.](https://www.theregister.com/2025/01/14/free_our_feeds_decentralized_social_media/)
