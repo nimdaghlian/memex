@@ -36,6 +36,7 @@ Instagram and other big platforms will always have our back on #1, but I think w
 
 Just blog! Blogging is great, and easy, and you can read blogs via RSS. You already use RSS if you listen to Podcasts. RSS readers are really, really great because you get to build your own feed(s) of content and there are no ads. We are in a renaissance of blogs, and I will personally sit down with you and set you up on the blog you want and give you the tools to make a network of friends together.
 
+...but I know that this is _not_ the same experience of opening up an app that makes it easy to quickly post something, so here are:
 
 ## Two Good, Visually-Focused Options
 
