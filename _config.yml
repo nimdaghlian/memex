@@ -123,6 +123,11 @@ galleries:
     directory: "moms-tableaux"
     categories: ["collection", "album"]
     tags: ["family", "archives"]
+  - name: "Cats"
+    directory: "cats"
+    categories: ["collection"]
+    tags: ["family", "archives", "cats"]
+
 
 rss_feeds:
   - name: "Octothorpe Bookmarks"

@@ -88,6 +88,7 @@ gal.each do |galitem|
       'png' => 'image',
       'gif' => 'image',
       'mp4' => 'video',
+      'm4v' => 'video',
       'webm' => 'video',
       'mp3' => 'audio',
       'wav' => 'audio',

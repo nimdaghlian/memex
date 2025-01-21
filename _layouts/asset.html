@@ -26,6 +26,15 @@ layout: default
 
     <side class="ui five wide column">
     <h1>{{ page.title }}</h1>
+    {% if page.oofs %}
+    <h5>Octothorpes</h5>
+    <div>
+      {% for oof in page.oofs  %}
+      <octo-thorpe>{{oof}}</octo-thorpe>
+      {% endfor  %}
+    </div>
+   
+    {% endif %}
       <div>
         {{ content }}
 <!-- end excerpt -->
