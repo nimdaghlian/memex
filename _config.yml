@@ -115,11 +115,14 @@ galleries:
     directory: "clouds-in-se"
     categories: ["collection", "album"]
     tags: ["neighborhood", "archives"]
-  - name: "Fallin Trees of Buckman"
+  - name: "Fallen Trees of Buckman"
     directory: "fallen-trees"
     categories: ["collection", "album"]
     tags: ["neighborhood", "archives"]
-
+  - name: "Mom's Tableaux"
+    directory: "moms-tableaux"
+    categories: ["collection", "album"]
+    tags: ["family", "archives"]
 
 rss_feeds:
   - name: "Octothorpe Bookmarks"
