@@ -11,8 +11,8 @@
             <content>
               {{ content }}
             </content>
-            <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-              Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+            <time datetime="{{ page.last_modified | date_to_xmlschema }}">{% if page.type != 'pages' %}
+              Last updated on {{ page.last_modified | date: "%B %-d, %Y" }}
               {% endif %}
             </time>
           </div>

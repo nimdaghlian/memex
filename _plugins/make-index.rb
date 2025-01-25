@@ -7,13 +7,19 @@ Jekyll::Hooks.register :site, :post_write do |site|
 
   # Loop through all site documents
   site.documents.each do |document|
+
+        
+    if File.exist?(document.path)
+      last_modified = File.mtime(document.path)
+    end
+    # document.data['last_modified'] = last_modified
     # Create a hash for the current document with 'id' attribute
     # set to the permalink
     document_hash = { 'id' => document.url }
 
     # Exclude the 'backlinks' key from the document.data hash
-    document_data = document.data.reject { |key, _value| key == 'backlinks' }
-    # Add the front matter data to the document hash
+      document_data = document.data.reject! { |key| key == 'backlinks' }
+      # Add the front matter data to the document hash
     document_hash.merge!(document.data)
 
     # Add the document hash to the all_documents array

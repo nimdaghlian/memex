@@ -23,7 +23,6 @@ exclude:
 
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
 safe: false 
 
 tag_index_layout: tag

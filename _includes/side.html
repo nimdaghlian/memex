@@ -52,8 +52,8 @@
             {{ page.status | capitalize }}<br>
           {% endif  %}
           {% if page.type != 'pages' %}
-          <time class="page_hilight" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-            Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+          <time class="page_hilight" datetime= """></time>
+            Last updated on  {{ page.last_modified | date: "%B %-d, %Y" }}
           </time>
           {% endif %}
         </div>
