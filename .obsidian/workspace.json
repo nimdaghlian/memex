@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/words/Urs.md",
+                "file": "_notes/concepts/Mind Things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urs"
+              "title": "Mind Things"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/words/Urs.md"
+                "file": "_notes/concepts/Mind Things.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Urs"
+              "title": "File properties for Mind Things"
             }
           }
         ],
@@ -166,6 +166,8 @@
   },
   "active": "30300804095ca847",
   "lastOpenFiles": [
+    "_notes/concepts/Brain Mulch.md",
+    "_notes/words/Urs.md",
     "_notes/words/tinstac.md",
     "_notes/words/prunty.md",
     "_notes/words/pede.md",
@@ -209,8 +211,6 @@
     "_media/moms-tableaux/image2-jpeg.md",
     "_media/moms-tableaux/image1-jpeg.md",
     "_galleries/Mom's Tableaux.md",
-    "_galleries/Fallen Trees of Buckman.md",
-    "_media/id-papercuts/id-011525-jpg.md",
-    "_media/id-papercuts/id-011524-jpg.md"
+    "_galleries/Fallen Trees of Buckman.md"
   ]
 }

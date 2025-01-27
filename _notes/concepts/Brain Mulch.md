@@ -6,6 +6,7 @@ tags:
 title: Brain Mulch
 categories: words
 featured: home
+oofs: words
 ---
 
 Things that are like brain mulch: notes about stuff, bookmarks or saved thoughts or links, encouraged to build up, ferment, and grow into more thinglike-things, but remain content with the mulching process.
