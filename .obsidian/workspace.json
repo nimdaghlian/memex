@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Instead of Instagram.md",
+                "file": "_notes/words/Urs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instead of Instagram"
+              "title": "Urs"
             }
           }
         ]
@@ -132,13 +132,25 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "a28dbca23a2331e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "_notes/words/Urs.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Urs"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +166,13 @@
   },
   "active": "30300804095ca847",
   "lastOpenFiles": [
+    "_notes/words/tinstac.md",
+    "_notes/words/prunty.md",
+    "_notes/words/pede.md",
+    "_notes/words/internet-plus.md",
+    "_notes/words/Infobahn.md",
+    "_notes/words/hypolink.md",
+    "_notes/Instead of Instagram.md",
     "_site/site-index.json",
     "_plugins/inject_last_modified.rb",
     "_plugins/jekyll_last_modified.rb",
@@ -165,7 +184,6 @@
     "_media/cats/elvira-bee-game-mp4.md",
     "assets/cats/elvira-bee-game.mp4",
     "_site/assets/cats/elvira-bee-game.m4v",
-    "assets/cats/elvira-bee-game.m4v",
     "_site/cache/resize/2f5d75dbd8238917681ffc81c545de20_90x90.jpeg",
     "_site/cache/resize/2f5d75dbd8238917681ffc81c545de20_400x400.jpeg",
     "cache/resize/2f5d75dbd8238917681ffc81c545de20_90x90.jpeg",
@@ -193,12 +211,6 @@
     "_galleries/Mom's Tableaux.md",
     "_galleries/Fallen Trees of Buckman.md",
     "_media/id-papercuts/id-011525-jpg.md",
-    "_media/id-papercuts/id-011524-jpg.md",
-    "_notes/times/Interdependence Day.md",
-    "_media/id-papercuts/interdependence-day-2025-timelapse-mp4.md",
-    "_notes/Instead of Instagram.md",
-    "_notes/Weird Web October Favorites.md",
-    "_notes/books/Guidebook to The Viridian Maw.md",
-    "_notes/books/The Burglar's Guide to The City.md"
+    "_media/id-papercuts/id-011524-jpg.md"
   ]
 }

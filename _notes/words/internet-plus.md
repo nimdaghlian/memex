@@ -3,7 +3,8 @@ layout: word
 title: internet+
 category: words
 author: Jon
-definition: "An imagined internet you can only get on 🕶️ cool 🕶️ computers."
+definition: An imagined internet you can only get on 🕶️ cool 🕶️ computers.
+oofs: words
 ---
 
 When [[Jon]] and Megan got an iMac G4 -- the one with the weird foot and arm situation -- I asked "wow does that get Internet _plus_" and of course the answer was yes.
