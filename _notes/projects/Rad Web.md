@@ -3,7 +3,8 @@ oofs:
   - activeWeb
   - cozyweb
 ---
-![[/assets/notes/radweb-flyer.jpeg]]
+
+![A colorful flyer that says MAKE WEBSITES](/assets/notes/radweb-flyer.jpeg)
 
 
 tired of the algorithm?
