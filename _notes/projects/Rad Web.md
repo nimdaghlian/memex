@@ -35,3 +35,4 @@ _**WHO**_: Me, **[Ním Daghlian](https://www.mmmx.cloud/me)**, artist/writer/de
 To prepare, create a [Glitch](https://glitch.com/) account and email me at nim@ideastore.dev to sign up.
 
  I'll follow up with more info and the basics on how to prepare for the class. And feel free to reach out with any and all questions you may have! We are so excited to MAKE WEBSITES with you!!!
+

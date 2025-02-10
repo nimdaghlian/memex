@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/projects/Rad Web.md",
+                "file": "_notes/links/Art Sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rad Web"
+              "title": "Art Sites"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Weird Web October Favorites.md",
+                "file": "_notes/links/Art Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Weird Web October Favorites"
+              "title": "Backlinks for Art Sites"
             }
           },
           {
@@ -127,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -145,8 +148,7 @@
               "title": "File properties for Rad Web"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,12 +168,13 @@
   },
   "active": "30300804095ca847",
   "lastOpenFiles": [
+    "_notes/projects/Rad Web.md",
+    "_notes/links/Art Sites.md",
+    "_notes/concepts/Mind Things.md",
     "assets/notes/radweb-flyer.jpeg",
     "assets/notes/Pasted image 20250130113326 Large.jpeg",
     "assets/notes/Pasted image 20231119122046 Large.jpeg",
     "assets/notes/Pasted image 20250130113326.png",
-    "_notes/concepts/Mind Things.md",
-    "_notes/projects/Rad Web.md",
     "_notes/concepts/Brain Mulch.md",
     "_notes/words/Urs.md",
     "_notes/words/tinstac.md",
@@ -201,7 +204,6 @@
     "_galleries/Cats.md",
     "_site/assets/cats/IMG_6159.jpeg",
     "assets/cats/IMG_6159.jpeg",
-    "_site/cache/resize/c2fb2db4955b03730208fe042e4f3be5_90x90.jpeg",
     "_tag-pages/family.md",
     "_media/moms-tableaux/img-3716-jpg.md",
     "_media/moms-tableaux/img-3715-jpg.md",
