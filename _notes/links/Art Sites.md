@@ -68,6 +68,8 @@
 
 ## And look at how it used to be
 
+
+- [This is Tomorrow](http://thisistomorrow.info/)
 - [tryharder](https://try-har-der.blogspot.com/)
 
 - [Leap Into the Void](https://imoralist.blogspot.com/2011/02/rusty-scruby-at-pyo-gallery.html)
@@ -80,6 +82,4 @@
 
 - [research/reference: Archive](https://researchandreference.tumblr.com/archive)
 
-- [2019 YOUNG PAINTERS | 101 artists of unusual promise, b. 1989 or 
-
-younger](https://youngpainters.wordpress.com/)
+- [1000 young painters](https://youngpainters.wordpress.com/)
