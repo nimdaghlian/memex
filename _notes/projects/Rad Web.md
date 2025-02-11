@@ -4,35 +4,32 @@ oofs:
   - cozyweb
 title: Radical Web Art Workshop
 ---
+The [first workshop was great!](/rad-web-first-workshop) We covered a lot of ground (maybe more than we needed to) and I was super impressed by all the cool sites that everyone made:
 
-![A colorful flyer that says MAKE WEBSITES](/assets/notes/radweb-flyer.jpeg)
+You can follow them [here](https://octothorp.es/~/rad-web-art)
 
+* [whats-on-evans-desk.glitch.me](https://whats-on-evans-desk.glitch.me/examples/basic-page)
 
-tired of the algorithm?
+* [iyimatd.glitch.me](https://iyimatd.glitch.me/examples/basic-page)
 
-sick of posts and posting?
+* [osrawest.glitch.me](https://osrawest.glitch.me/examples/basic-page/)
 
-want to own your own pixels? wanna make a zine but online?
+* [circusbaby.glitch.me](https://circusbaby.glitch.me/)
 
-LET'S MAKE WEBSITES 
+* [newmoonpeepshow.glitch.me](https://newmoonpeepshow.glitch.me/examples/basic-page)
 
-Join a beginner-friendly, FREE workshop on making independent websites as a creative an medium. No coding experience required - as long as you have a laptop that can connect to WiFi and are comfortable online, you will leave with your own cool website and the skills to update it.
+* [deconstruction-recomposition.glitch.me](https://deconstruction-recomposition.glitch.me/examples/basic-page)
 
+* [plantpettingclub.glitch.me](https://plantpettingclub.glitch.me/)
 
-_**WHEN**_: **Saturday, Feb. 8, 1-4pm** (with optional free work time 4-5pm)
+* [specula-melitensis.glitch.me](https://specula-melitensis.glitch.me/)
 
-_**WHERE**_: **Virtua Gallery, Lloyd Center Mall** (2nd floor, near All American Magic Shop)
+* [cleangrinder.glitch.me](https://cleangrinder.glitch.me/)
 
+* [virtua-gal.glitch.me](https://virtua-gal.glitch.me/examples/basic-page)
 
-_**WHO**_: Me, **[Ním Daghlian](https://www.mmmx.cloud/me)**, artist/writer/developer, will facilitate the workshop. [Grapefruits](https://www.marthadaghlian.com/grapefruits-art-space) (aka me, Martha Daghlian) is co-facilitator and will be on hand to get creative and help out as needed. [Virtua Gallery](https://www.instagram.com/virtua_gal/) is our gracious host for this event, thank you!
+* [wowiezowie.glitch.me](https://wowiezowie.glitch.me/)
 
+* [danky-little-ants.glitch.me](https://danky-little-ants.glitch.me/)
 
-**_WHAT TO BRING_**: A laptop that can connect to wifi, some images/text/other content you want to use for your website, a willingness to try things and be silly online together!
-
-  
-
-**Please reply to this email to let us know you want to participate!** 
-To prepare, create a [Glitch](https://glitch.com/) account and email me at nim@ideastore.dev to sign up.
-
- I'll follow up with more info and the basics on how to prepare for the class. And feel free to reach out with any and all questions you may have! We are so excited to MAKE WEBSITES with you!!!
 

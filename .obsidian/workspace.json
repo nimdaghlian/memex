@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/links/Art Sites.md",
+                "file": "_notes/projects/Rad Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Art Sites"
+              "title": "Rad Web"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/links/Art Sites.md",
+                "file": "_notes/projects/Rad Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Art Sites"
+              "title": "Backlinks for Rad Web"
             }
           },
           {
@@ -168,8 +168,24 @@
   },
   "active": "30300804095ca847",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_site/media/notes-in-general/radweb-flyer-jpeg.html",
+    "_site/cache/resize/1c64a86d646ac8ad70cadb361d8e123e_90x90.jpeg",
+    "_site/cache/resize/1c64a86d646ac8ad70cadb361d8e123e_400x400.jpeg",
+    "cache/resize/1c64a86d646ac8ad70cadb361d8e123e_90x90.jpeg",
+    "cache/resize/1c64a86d646ac8ad70cadb361d8e123e_400x400.jpeg",
+    "_site/rad-web/index.html",
+    "_site/rad-web",
+    "_site/rad-web-first-workshop.html",
+    "_site/art-sites/index.html",
+    "_site/art-sites",
+    "_site/assets/notes/radweb-flyer.jpeg",
+    "_site/assets/art-feeds-v1.opml",
+    "_media/notes/radweb-flyer-jpeg.md",
+    "_notes/projects/Rad Web Workshop.md",
     "_notes/projects/Rad Web.md",
     "_notes/links/Art Sites.md",
+    "assets/art-feeds-v1.opml",
     "_notes/concepts/Mind Things.md",
     "assets/notes/radweb-flyer.jpeg",
     "assets/notes/Pasted image 20250130113326 Large.jpeg",
@@ -184,35 +200,19 @@
     "_notes/words/Infobahn.md",
     "_notes/words/hypolink.md",
     "_notes/Instead of Instagram.md",
-    "_site/site-index.json",
     "_plugins/inject_last_modified.rb",
     "_plugins/jekyll_last_modified.rb",
-    "_plugins/last_modified_generator.rb",
-    "_plugins/last_mod.rb",
-    "Gemfile.lock",
-    "_site/media/cats/elvira-bee-game-mp4.html",
-    "_site/assets/cats/elvira-bee-game.mp4",
     "_media/cats/elvira-bee-game-mp4.md",
-    "assets/cats/elvira-bee-game.mp4",
-    "_site/assets/cats/elvira-bee-game.m4v",
     "_site/cache/resize/2f5d75dbd8238917681ffc81c545de20_90x90.jpeg",
-    "_site/cache/resize/2f5d75dbd8238917681ffc81c545de20_400x400.jpeg",
-    "cache/resize/2f5d75dbd8238917681ffc81c545de20_90x90.jpeg",
-    "cache/resize/2f5d75dbd8238917681ffc81c545de20_400x400.jpeg",
     "_tag-pages/cats.md",
     "_media/cats/img-6159-jpeg.md",
     "_galleries/Cats.md",
-    "_site/assets/cats/IMG_6159.jpeg",
-    "assets/cats/IMG_6159.jpeg",
     "_tag-pages/family.md",
     "_media/moms-tableaux/img-3716-jpg.md",
     "_media/moms-tableaux/img-3715-jpg.md",
     "_media/moms-tableaux/image8-jpeg.md",
     "_media/moms-tableaux/image7-jpeg.md",
     "_media/moms-tableaux/image6-jpeg.md",
-    "_media/moms-tableaux/image5-jpeg.md",
-    "_media/moms-tableaux/image4-jpeg.md",
-    "_media/moms-tableaux/image3-jpeg.md",
-    "_media/moms-tableaux/image2-jpeg.md"
+    "_media/moms-tableaux/image5-jpeg.md"
   ]
 }

@@ -1,3 +1,7 @@
+---
+layout: note
+---
+
 ## In no particular order
 
 - [Art Lovers New York](https://www.artloversnewyork.com/)
@@ -33,7 +37,6 @@
 - [Home - Yale School of Art](https://www.art.yale.edu/)
 
 - [ART DELIVERY from The Jealous Curator | Danielle Krysa | Substack](https://thejealouscurator.substack.com/)
-
 
 - [Jackson's Art Blog - Jackson's Art Blog](https://www.jacksonsart.com/blog/)
 
