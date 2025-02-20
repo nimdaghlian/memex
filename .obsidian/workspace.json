@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/projects/Rad Web.md",
+                "file": "_notes/Instead of Instagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rad Web"
+              "title": "Instead of Instagram"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/projects/Rad Web.md",
+                "file": "_notes/Instead of Instagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rad Web"
+              "title": "Backlinks for Instead of Instagram"
             }
           },
           {
@@ -168,6 +168,12 @@
   },
   "active": "30300804095ca847",
   "lastOpenFiles": [
+    "_notes/projects/Rad Web Workshop.md",
+    "_notes/ref/SPARQL functions.md",
+    "_notes/ref",
+    "_notes/links/Art Sites.md",
+    "_notes/projects/Rad Web.md",
+    "_notes/projects/Research Club.md",
     "_site/site-index.json",
     "_site/media/notes-in-general/radweb-flyer-jpeg.html",
     "_site/cache/resize/1c64a86d646ac8ad70cadb361d8e123e_90x90.jpeg",
@@ -182,9 +188,6 @@
     "_site/assets/notes/radweb-flyer.jpeg",
     "_site/assets/art-feeds-v1.opml",
     "_media/notes/radweb-flyer-jpeg.md",
-    "_notes/projects/Rad Web Workshop.md",
-    "_notes/projects/Rad Web.md",
-    "_notes/links/Art Sites.md",
     "assets/art-feeds-v1.opml",
     "_notes/concepts/Mind Things.md",
     "assets/notes/radweb-flyer.jpeg",
@@ -200,8 +203,6 @@
     "_notes/words/Infobahn.md",
     "_notes/words/hypolink.md",
     "_notes/Instead of Instagram.md",
-    "_plugins/inject_last_modified.rb",
-    "_plugins/jekyll_last_modified.rb",
     "_media/cats/elvira-bee-game-mp4.md",
     "_site/cache/resize/2f5d75dbd8238917681ffc81c545de20_90x90.jpeg",
     "_tag-pages/cats.md",
@@ -211,8 +212,6 @@
     "_media/moms-tableaux/img-3716-jpg.md",
     "_media/moms-tableaux/img-3715-jpg.md",
     "_media/moms-tableaux/image8-jpeg.md",
-    "_media/moms-tableaux/image7-jpeg.md",
-    "_media/moms-tableaux/image6-jpeg.md",
-    "_media/moms-tableaux/image5-jpeg.md"
+    "_media/moms-tableaux/image7-jpeg.md"
   ]
 }

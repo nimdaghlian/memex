@@ -67,7 +67,8 @@ layout: note
 - [The TLS Arts ](https://www.the-tls.co.uk/categories/arts)
 
 - [NATIONALE](https://www.nationale.us/)
-
+- [The Guardian](https://www.theguardian.com/artanddesign)
+- 
 
 ## And look at how it used to be
 

@@ -69,17 +69,20 @@ Cons:
 
 ## A Secret Third Thing
 
-[Micro.blog](https://micro.blog/about/pricing) is a way to blog on the Fediverse, so it does all the stuff up there and more. I honestly don't know if this will be easier or harder to get so I put it last. It's like a combination of Twitter and blogging, but you can follow or be followed by people on Threads or Mastodon or Pixelfed and even automatically crosspost to those or Bluesky.
+Some disappointing shit went down with Micro.blog since I posted this, so rescinding this recommendation for now. If the service was as distributed as the underlying technology, maybe there'd be another, better managed server to join. Hazards of single platforms are still there even if the code's open.
 
-Pros:
-- post in one place, see and be seen on different platforms
-- custom domain if you want it
-- kinda weird?
 
-Cons:
-- $1-10 a month
-- Interface is a little limited and underdeveloped at times
-- possibly hard to understand?
+==[Micro.blog](https://micro.blog/about/pricing) is a way to blog on the Fediverse, so it does all the stuff up there and more. I honestly don't know if this will be easier or harder to get so I put it last. It's like a combination of Twitter and blogging, but you can follow or be followed by people on Threads or Mastodon or Pixelfed and even automatically crosspost to those or Bluesky.==
+
+==Pros:==
+- ==post in one place, see and be seen on different platforms==
+- ==custom domain if you want it==
+- ==kinda weird?==
+
+==Cons:==
+- ==$1-10 a month==
+- ==Interface is a little limited and underdeveloped at times==
+- ==possibly hard to understand?==
 ---
 
 ## Other options
