@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Nim subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Uncategorized" title="Uncategorized"/>
+        <outline text="Art" title="Art">
+            <outline type="rss" text="East City Art" title="East City Art" xmlUrl="http://www.eastcityart.com/feed/" htmlUrl="https://www.eastcityart.com"/>
+            <outline type="rss" text="ArtLeaks" title="ArtLeaks" xmlUrl="http://art-leaks.org/feed/" htmlUrl="https://art-leaks.org"/>
+            <outline type="rss" text="Art Papers" title="Art Papers" xmlUrl="https://www.artpapers.org/feed/" htmlUrl="https://www.artpapers.org/"/>
+            <outline type="rss" text="BmoreArt" title="BmoreArt" xmlUrl="http://www.bmoreart.com/feed" htmlUrl="https://bmoreart.com/"/>
+            <outline type="rss" text="Aesthetica Magazine" title="Aesthetica Magazine" xmlUrl="http://www.aestheticamagazine.com/blog/feed/" htmlUrl="https://www.aestheticamagazine.com"/>
+            <outline type="rss" text="Hyperallergic" title="Hyperallergic" xmlUrl="http://feeds.hyperallergic.com/hyperallergic" htmlUrl="https://hyperallergic.com/"/>
+            <outline type="rss" text="Contemporary Art Daily" title="Contemporary Art Daily" xmlUrl="https://www.contemporaryartdaily.com/feed/"/>
+            <outline type="rss" text="Rhizome Blog" title="Rhizome Blog" xmlUrl="http://feeds.feedburner.com/TheRhizomeBlogRss" htmlUrl="https://rhizome.org/feeds/frontpage/"/>
+            <outline type="rss" text="ArteFuse" title="ArteFuse" xmlUrl="http://artefuse.com/feed/" htmlUrl="https://artefuse.com/"/>
+            <outline type="rss" text="The Guggenheim Museums and Foundation" title="The Guggenheim Museums and Foundation" xmlUrl="http://feeds.feedburner.com/bmwguggenheimlab/log" htmlUrl="https://www.guggenheim.org"/>
+            <outline type="rss" text="Just Paint" title="Just Paint" xmlUrl="https://justpaint.org/feed/" htmlUrl="https://justpaint.org/"/>
+            <outline type="rss" text="Unframed (LACMA)" title="Unframed (LACMA)" xmlUrl="https://unframed.lacma.org/feed/" htmlUrl="https://unframed.lacma.org/"/>
+            <outline type="rss" text="Latitudes" title="Latitudes" xmlUrl="http://lttds.blogspot.com/feeds/posts/default" htmlUrl="http://lttds.blogspot.com/"/>
+            <outline type="rss" text="Art and design + News | The Guardian" title="Art and design + News | The Guardian" xmlUrl="http://www.guardian.co.uk/artanddesign/artanddesign+tone/news/rss" htmlUrl="https://www.theguardian.com/artanddesign/artanddesign+tone/news"/>
+            <outline type="rss" text="News - a-n The Artists Information Company" title="News - a-n The Artists Information Company" xmlUrl="https://www.a-n.co.uk/news/feed/" htmlUrl="https://www.a-n.co.uk/news/"/>
+            <outline type="rss" text="OC Art Blog | Frieze LA &amp; Post-Fair: Exploring Two Sides of the Art World" title="OC Art Blog | Frieze LA &amp; Post-Fair: Exploring Two Sides of the Art World" xmlUrl="http://www.ocartblog.com/feed/" htmlUrl="http://www.ocartblog.com"/>
+            <outline type="rss" text="DailyArtfair.com" title="DailyArtfair.com" xmlUrl="http://artaddict.net/events/rss" htmlUrl="https://dailyartfair.com"/>
+            <outline type="rss" text="criticismism ii" title="criticismism ii" xmlUrl="http://www.criticismism.com/feed/" htmlUrl="https://criticismism.com"/>
+            <outline type="rss" text="ArtsJournal" title="ArtsJournal" xmlUrl="http://www.artsjournal.com/artsjournal1/atom.xml" htmlUrl="https://www.artsjournal.com"/>
+            <outline type="rss" text="Art Archives - IGNANT" title="Art Archives - IGNANT" xmlUrl="http://www.ignant.de/category/art/feed/" htmlUrl="https://www.ignant.com/category/art/"/>
+            <outline type="rss" text="The Jealous Curator" title="The Jealous Curator" xmlUrl="https://thejealouscurator.substack.com/feed/" htmlUrl="https://thejealouscurator.substack.com"/>
+            <outline type="rss" text="AFRICANAH.ORG" title="AFRICANAH.ORG" xmlUrl="http://africanah.org/feed/" htmlUrl="https://africanah.org"/>
+            <outline type="rss" text="Jackson's Art Blog" title="Jackson's Art Blog" xmlUrl="https://www.jacksonsart.com/blog/feed/" htmlUrl="https://www.jacksonsart.com/blog/"/>
+            <outline type="rss" text="Artforum" title="Artforum" xmlUrl="https://www.artforum.com/rss" htmlUrl="https://www.artforum.com"/>
+            <outline type="rss" text="Flash Art" title="Flash Art" xmlUrl="http://www.flashartonline.com/feed/" htmlUrl="https://flash---art.com"/>
+            <outline type="rss" text="Redefine Magazine" title="Redefine Magazine" xmlUrl="https://redefinemag.net/feed/" htmlUrl="https://redefinemag.net/"/>
+            <outline type="rss" text="Variable West" title="Variable West" xmlUrl="https://variablewest.com/feed/" htmlUrl="https://variablewest.com/"/>
+            <outline type="rss" text="Art Viewer" title="Art Viewer" xmlUrl="http://artviewer.org/feed/" htmlUrl="https://artviewer.org"/>
+            <outline type="rss" text="MOCAD" title="MOCAD" xmlUrl="https://mocadetroit.org/feed/" htmlUrl="https://mocadetroit.org/"/>
+            <outline type="rss" text="Residency Unlimited" title="Residency Unlimited" xmlUrl="http://www.residencyunlimited.org/feed/" htmlUrl="https://residencyunlimited.org"/>
+            <outline type="rss" text="Creative Capital" title="Creative Capital" xmlUrl="http://blog.creative-capital.org/feed/" htmlUrl="https://creative-capital.org"/>
+            <outline type="rss" text="The Visualist" title="The Visualist" xmlUrl="http://www.thevisualist.org/feed/" htmlUrl="http://thevisualist.org"/>
+            <outline type="rss" text="Art in America" title="Art in America" xmlUrl="https://www.artnews.com/c/art-in-america/feed/" htmlUrl="https://www.artnews.com"/>
+            <outline type="rss" text="Biennial Foundation" title="Biennial Foundation" xmlUrl="http://www.biennialfoundation.org/feed/" htmlUrl="http://biennialfoundation.dreamhosters.com/"/>
+            <outline type="rss" text="Corridor8" title="Corridor8" xmlUrl="http://www.corridor8.co.uk/feed/" htmlUrl="https://corridor8.co.uk"/>
+            <outline type="rss" text="ELEPHANT" title="ELEPHANT" xmlUrl="http://www.elephantmag.com/feed/" htmlUrl="https://elephant.art/"/>
+            <outline type="rss" text="Contemporary And" title="Contemporary And" xmlUrl="http://www.contemporaryand.com/feed/" htmlUrl="https://contemporaryand.com/"/>
+            <outline type="rss" text="WM | whitehot magazine of contemporary art - latest articles" title="WM | whitehot magazine of contemporary art - latest articles" xmlUrl="http://whitehotmagazine.com/rss.php" htmlUrl="https://whitehotmagazine.com/"/>
+            <outline type="rss" text="Ocula Magazine" title="Ocula Magazine" xmlUrl="https://ocula.com/magazine/feed/" htmlUrl="https://ocula.com/magazine/"/>
+            <outline type="rss" text="HaberArts: New York Art Reviews" title="HaberArts: New York Art Reviews" xmlUrl="http://www.haberarts.com/feed/" htmlUrl="https://www.haberarts.com"/>
+            <outline type="rss" text="Larry's List - Art Collector Interviews and Art Collector Email Addresses" title="Larry's List - Art Collector Interviews and Art Collector Email Addresses" xmlUrl="http://www.larryslist.com/artmarket/feed/" htmlUrl="https://www.larryslist.com/artmarket"/>
+            <outline type="rss" text="Los Angeles County Museum on Fire" title="Los Angeles County Museum on Fire" xmlUrl="http://lacmaonfire.blogspot.com/feeds/posts/default" htmlUrl="http://lacmaonfire.blogspot.com/"/>
+            <outline type="rss" text="greg.org" title="greg.org" xmlUrl="https://greg.org/feed" htmlUrl="https://greg.org"/>
+            <outline type="rss" text="Momus" title="Momus" xmlUrl="http://momus.ca/feed/" htmlUrl="https://momus.ca/"/>
+            <outline type="rss" text="Cranbrook Art Museum News" title="Cranbrook Art Museum News" xmlUrl="https://cranbrookart.edu/news/feed/" htmlUrl="https://cranbrookart.edu"/>
+            <outline type="rss" text="Artillery Magazine" title="Artillery Magazine" xmlUrl="https://artillerymag.com/rss/" htmlUrl="https://artillerymag.com/"/>
+            <outline type="rss" text="Artnet News" title="Artnet News" xmlUrl="http://news.artnet.com/feed/" htmlUrl="https://news.artnet.com"/>
+        </outline>
+    </body>
+</opml>
