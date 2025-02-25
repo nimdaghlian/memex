@@ -1,3 +1,7 @@
+---
+layout: note
+---
+
 ### 1. String Functions
 - STR(?var): Converts an IRI or literal to a string.
 - STRLEN(?str): Returns the length of a string.

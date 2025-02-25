@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27d80eebb6eaefbb",
+        "id": "26a476ae5d448835",
         "type": "tabs",
         "children": [
           {
-            "id": "30300804095ca847",
+            "id": "0b0b80ed9fde63b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/projects/Rad Web.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rad Web"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/projects/Rad Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rad Web"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,35 +161,37 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "30300804095ca847",
+  "active": "0b0b80ed9fde63b0",
   "lastOpenFiles": [
-    "_notes/Instead of Instagram.md",
+    "vsc/images/angela/orig/4.jpg",
+    "vsc/images/angela/orig/3.jpg",
+    "vsc/images/angela/orig/2.jpg",
+    "vsc/images/angela/orig/1.jpg",
+    "vsc/images/angela/orig",
+    "vsc/images/angela/untitled folder",
+    "vsc/images/vaune/orig/08_WTF_Vaune.jpg",
+    "vsc/images/vaune/orig/07_WTF_Vaune.jpg",
+    "vsc/images/vaune/orig/06_WTF_Vaune.jpg",
+    "vsc/images/vaune/orig/05_WTF_Vaune.jpg",
+    "vsc/images/vaune/orig/04_WTF_Vaune.jpg",
+    "vsc/images/vaune/orig/03_WTF_Vaune.jpg",
+    "vsc/images/vaune/orig/02_WTF_Vaune.jpg",
+    "vsc/images/vaune/orig",
+    "vsc/images/vaune/untitled folder",
+    "vsc/images/vaune/sized",
+    "vsc/images/sofia/orig",
+    "vsc/images/sofia/untitled folder",
+    "vsc/images/sofia/sized",
+    "vsc/images/scott/orig",
+    "vsc/images/scott/untitled folder",
     "_notes/projects/Rad Web.md",
+    "_notes/Instead of Instagram.md",
     "_notes/projects/Rad Web Workshop.md",
     "_notes/ref/SPARQL functions.md",
-    "_notes/ref",
     "_notes/links/Art Sites.md",
     "_notes/projects/Research Club.md",
-    "_site/site-index.json",
-    "_site/media/notes-in-general/radweb-flyer-jpeg.html",
-    "_site/cache/resize/1c64a86d646ac8ad70cadb361d8e123e_90x90.jpeg",
-    "_site/cache/resize/1c64a86d646ac8ad70cadb361d8e123e_400x400.jpeg",
-    "cache/resize/1c64a86d646ac8ad70cadb361d8e123e_90x90.jpeg",
-    "cache/resize/1c64a86d646ac8ad70cadb361d8e123e_400x400.jpeg",
-    "_site/rad-web/index.html",
-    "_site/rad-web",
-    "_site/rad-web-first-workshop.html",
-    "_site/art-sites/index.html",
-    "_site/art-sites",
-    "_site/assets/notes/radweb-flyer.jpeg",
-    "_site/assets/art-feeds-v1.opml",
     "_media/notes/radweb-flyer-jpeg.md",
-    "assets/art-feeds-v1.opml",
     "_notes/concepts/Mind Things.md",
-    "assets/notes/radweb-flyer.jpeg",
-    "assets/notes/Pasted image 20250130113326 Large.jpeg",
-    "assets/notes/Pasted image 20231119122046 Large.jpeg",
-    "assets/notes/Pasted image 20250130113326.png",
     "_notes/concepts/Brain Mulch.md",
     "_notes/words/Urs.md",
     "_notes/words/tinstac.md",
@@ -204,7 +201,6 @@
     "_notes/words/Infobahn.md",
     "_notes/words/hypolink.md",
     "_media/cats/elvira-bee-game-mp4.md",
-    "_site/cache/resize/2f5d75dbd8238917681ffc81c545de20_90x90.jpeg",
     "_tag-pages/cats.md",
     "_media/cats/img-6159-jpeg.md",
     "_galleries/Cats.md",
