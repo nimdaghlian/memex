@@ -31,13 +31,13 @@ Jekyll::Hooks.register :site, :post_write do |site|
     # Add the document hash to the all_documents array
     all_documents << document_hash
      # Generate raw Markdown file
-     content = <<~MARKDOWN
-     ---
-     #{document_data.to_yaml}
-     ---
-     #{document_content}
-   MARKDOWN
-   write_file(site.dest, document.url, "md", content)
+  #    content = <<~MARKDOWN
+  #    ---
+  #    #{document_data.to_yaml}
+  #    ---
+  #    #{document_content}
+  #  MARKDOWN
+  #  write_file(site.dest, document.url, "md", content)
   # Remove the "backlinks" key from each hash in the all_documents array
   # all_documents.each { |document| document.delete('backlinks') }
   end
