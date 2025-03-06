@@ -8,7 +8,6 @@ Jekyll::Hooks.register :site, :post_write do |site|
     # Write file to the output directory
     path = File.join(dest, url.gsub(/\.html$/, ".#{extension}"))
     FileUtils.mkdir_p(File.dirname(path))
-    console.log(path)
   end
   # Loop through all site documents
   site.documents.each do |document|
