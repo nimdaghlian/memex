@@ -20,9 +20,11 @@ exclude:
   - .obsidian
   - obsidian-templates
   - feeds.json
+  - vsc
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 safe: false 
 
 tag_index_layout: tag

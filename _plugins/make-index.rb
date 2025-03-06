@@ -4,7 +4,12 @@ require 'builder'
 Jekyll::Hooks.register :site, :post_write do |site|
   # Create an array to hold all document objects
   all_documents = []
-
+  def write_file(dest, url, extension, content)
+    # Write file to the output directory
+    path = File.join(dest, url.gsub(/\.html$/, ".#{extension}"))
+    FileUtils.mkdir_p(File.dirname(path))
+    console.log(path)
+  end
   # Loop through all site documents
   site.documents.each do |document|
 
@@ -19,15 +24,25 @@ Jekyll::Hooks.register :site, :post_write do |site|
 
     # Exclude the 'backlinks' key from the document.data hash
       document_data = document.data.reject! { |key| key == 'backlinks' }
+      document_front_matter = document.data.reject! { |key| key == 'raw_markdown' }
+      document_content = document.data["raw_markdown"]
       # Add the front matter data to the document hash
     document_hash.merge!(document.data)
 
     # Add the document hash to the all_documents array
     all_documents << document_hash
-  end
-
+     # Generate raw Markdown file
+     content = <<~MARKDOWN
+     ---
+     #{document_data.to_yaml}
+     ---
+     #{document_content}
+   MARKDOWN
+   write_file(site.dest, document.url, "md", content)
   # Remove the "backlinks" key from each hash in the all_documents array
   # all_documents.each { |document| document.delete('backlinks') }
+  end
+    
 
   # Generate the JSON content
   json_content = JSON.pretty_generate(all_documents)

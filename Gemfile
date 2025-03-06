@@ -31,6 +31,7 @@ gem 'dotenv'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
+  gem 'jekyll-seo-tag'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
