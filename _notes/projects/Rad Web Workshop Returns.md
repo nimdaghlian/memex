@@ -3,7 +3,7 @@ oofs:
   - activeWeb
   - cozyweb
 title: Return of the Radical Web Art Workshop
-permalink: rad-web-second-workshop
+permalink: rad-web-returns
 ---
 If  you wanted to attend the [first Make Radical Websites workshop](https://www.mmmx.cloud/rad-web) hosted at Virtua Gal but didn't make it in, good news! We're going to do it again.
 
