@@ -2,7 +2,9 @@
 title: Pika's Place
 gallery: pikas-place
 permalink: /gallery/pikas-place
-categories: album
+categories: 
+    - album
+    - collection
 layout: gallery
 color: dimgrey
 date: 2023-10-01

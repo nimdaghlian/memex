@@ -5,7 +5,9 @@ status: fresh
 tags:
     - featured
     - neighborhood
-categories: album
+categories: 
+    - album
+    - collection
 oofs:
     - buckmanite
     - Buckman

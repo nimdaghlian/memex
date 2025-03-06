@@ -168,10 +168,11 @@
   },
   "active": "0b0b80ed9fde63b0",
   "lastOpenFiles": [
+    "_site/site-index.json",
+    "_site/rad-web-returns.html",
     "_notes/projects/Rad Web Workshop.md",
     "_notes/projects/Rad Web Workshop Returns.md",
     "_notes/projects/Rad Web.md",
-    "_site/site-index.json",
     "_plugins/raw_content_generator.rb",
     "_plugins/create_raw_source.rb",
     "_site/assets/art-feeds.opml",
@@ -212,7 +213,6 @@
     "_tag-pages/family.md",
     "_media/moms-tableaux/img-3716-jpg.md",
     "_media/moms-tableaux/img-3715-jpg.md",
-    "_media/moms-tableaux/image8-jpeg.md",
-    "_media/moms-tableaux/image7-jpeg.md"
+    "_media/moms-tableaux/image8-jpeg.md"
   ]
 }
