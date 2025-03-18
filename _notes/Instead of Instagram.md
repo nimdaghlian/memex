@@ -4,6 +4,7 @@ oofs:
   - cozyweb
   - blogging
   - community
+  - reboot-blog
 ---
 This is a post following up a story I posted *on* Instagram volunteering to help anyone interested to get *off* Instagram and onto something more open, with the hopes we could get a little crew together to seed a small network that could be fun enough to keep using. Because of a) everything and b) Meta's recent rollback of [moderation and/or attempt to cut its workforce in the shittiest way possible](https://bsky.app/profile/utopia-defer.red/post/3lfpzprwaic2v),  it seems like this is another moment where people are looking around for options. A few people I know are planning to leave the platform right now, so I want this to serve as a reference for them and anyone else interested the next time ripples of dissatsifaction spread across the platform.
 
