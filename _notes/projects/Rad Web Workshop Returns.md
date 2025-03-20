@@ -2,6 +2,7 @@
 oofs:
   - activeWeb
   - cozyweb
+  - rad-web-news
 title: Return of the Radical Web Art Workshop
 permalink: rad-web-returns
 ---
