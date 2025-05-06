@@ -6,7 +6,7 @@ title: Radical Web Art Workshop
 ---
 The [first workshop was great!](/rad-web-first-workshop) We covered a lot of ground (maybe more than we needed to) and I was super impressed by all the cool sites that everyone made:
 
-You can follow them [here](https://octothorp.es/~/rad-web-art) and I did a little write uasp [here](https://ideastore.dev/blog/The-Rad-Web/).
+You can follow them [here](https://octothorp.es/~/rad-web-art) and I did a little write up [here](https://ideastore.dev/blog/The-Rad-Web/).
 
 * [whats-on-evans-desk.glitch.me](https://whats-on-evans-desk.glitch.me/examples/basic-page)
 

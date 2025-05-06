@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/projects/Rad Web Workshop Returns.md",
+                "file": "_notes/projects/Rad Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rad Web Workshop Returns"
+              "title": "Rad Web"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/projects/Rad Web Workshop Returns.md",
+                "file": "_notes/projects/Rad Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rad Web Workshop Returns"
+              "title": "Backlinks for Rad Web"
             }
           },
           {
@@ -168,10 +168,11 @@
   },
   "active": "0b0b80ed9fde63b0",
   "lastOpenFiles": [
-    "_site/site-index.json",
-    "_site/rad-web-returns.html",
     "_notes/projects/Rad Web Workshop.md",
     "_notes/projects/Rad Web Workshop Returns.md",
+    "_notes/Instead of Instagram.md",
+    "_site/site-index.json",
+    "_site/rad-web-returns.html",
     "_notes/projects/Rad Web.md",
     "_plugins/raw_content_generator.rb",
     "_plugins/create_raw_source.rb",
@@ -184,7 +185,6 @@
     "_site/vsc/images/michelle/sized",
     "_site/vsc/images/kristen/sized/kristin22.jpg",
     "_site/vsc/images/kristen/sized/kristin2.jpg",
-    "_site/vsc/images/kristen/sized",
     "vsc/images/whalen/sized/Solstice+-+Whalen+Polikoff+24+x+9.jpg",
     "vsc/images/kristen/sized/kristin22.jpg",
     "vsc/images/kristen/sized/kristin2.jpg",
@@ -192,7 +192,6 @@
     "_site/vsc/images/vaune/sized/07_WTF_Vaune.jpeg",
     "_site/vsc/images/vaune/sized/06_WTF_Vaune.jpeg",
     "_site/vsc/images/vaune/sized/05_WTF_Vaune.jpeg",
-    "_notes/Instead of Instagram.md",
     "_notes/ref/SPARQL functions.md",
     "_notes/links/Art Sites.md",
     "_notes/projects/Research Club.md",
