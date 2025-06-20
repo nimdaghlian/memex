@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/links/For Dad.md",
+                "file": "_notes/books/The Burglar's Guide to The City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "For Dad"
+              "title": "The Burglar's Guide to The City"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/links/For Dad.md",
+                "file": "_notes/books/The Burglar's Guide to The City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for For Dad"
+              "title": "Backlinks for The Burglar's Guide to The City"
             }
           },
           {
@@ -168,11 +168,11 @@
   },
   "active": "0b0b80ed9fde63b0",
   "lastOpenFiles": [
+    "_notes/links/For Dad.md",
     "_site/site-index.json",
     "_site/for-dad/index.html",
     "_site/for-dad",
     "_notes/research/Time Confetti and The Broken Promise of Leisure.md",
-    "_notes/links/For Dad.md",
     "_notes/donate.md",
     "_notes/projects/Rad Web Workshop Returns.md",
     "_notes/projects/Rad Web Workshop.md",
@@ -186,7 +186,6 @@
     "assets/art-feeds-0225.opml",
     "_site/vsc/images/whalen/sized/Solstice+-+Whalen+Polikoff+24+x+9.jpg",
     "_site/vsc/images/whalen/sized",
-    "_site/vsc/images/michelle/sized/michelle.pdf",
     "_site/vsc/images/kristen/sized/kristin22.jpg",
     "_site/vsc/images/kristen/sized/kristin2.jpg",
     "vsc/images/whalen/sized/Solstice+-+Whalen+Polikoff+24+x+9.jpg",
