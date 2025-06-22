@@ -11,12 +11,14 @@
             "id": "0b0b80ed9fde63b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/notes/middlefingerasaurus.png.png"
+                "file": "_notes/concepts/Mind Things.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "middlefingerasaurus.png"
+              "icon": "lucide-file",
+              "title": "Mind Things"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/notes/middlefingerasaurus.png.png",
+                "file": "_notes/concepts/Mind Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for middlefingerasaurus.png"
+              "title": "Backlinks for Mind Things"
             }
           },
           {
@@ -167,6 +169,9 @@
   "active": "0b0b80ed9fde63b0",
   "lastOpenFiles": [
     "_site/site-index.json",
+    "_media/notes/pasted-image-20231119122046-png.md",
+    "assets/notes/Pasted image 20231119122046.png",
+    "assets/notes/middlefingerasaurus.png.png",
     "_site/middlefingerasaurus/index.html",
     "_site/middlefingerasaurus",
     "_notes/concepts/Middlefingerasuarus.md",
@@ -180,9 +185,6 @@
     "_site/middlefingerasuarus",
     "_site/assets/notes/middlefingerasaurus.png.png",
     "_media/notes/middlefingerasaurus-png-png.md",
-    "assets/notes/middlefingerasaurus.png.png",
-    "assets/notes/Pasted image 20231119122046.png",
-    "_media/notes/pasted-image-20231119122046-png.md",
     "_notes/concepts/Mind Things.md",
     "_notes/books/The Burglar's Guide to The City.md",
     "_notes/links/For Dad.md",
@@ -196,7 +198,6 @@
     "_notes/Instead of Instagram.md",
     "_site/rad-web-returns.html",
     "_plugins/raw_content_generator.rb",
-    "_plugins/create_raw_source.rb",
     "_site/vsc/images/whalen/sized/Solstice+-+Whalen+Polikoff+24+x+9.jpg",
     "_site/vsc/images/kristen/sized/kristin22.jpg",
     "_site/vsc/images/kristen/sized/kristin2.jpg",
