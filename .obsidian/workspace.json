@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/concepts/Mind Things.md",
+                "file": "_notes/books/The Burglar's Guide to The City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mind Things"
+              "title": "The Burglar's Guide to The City"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/concepts/Mind Things.md",
+                "file": "_notes/books/The Burglar's Guide to The City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mind Things"
+              "title": "Backlinks for The Burglar's Guide to The City"
             }
           },
           {
@@ -168,6 +168,7 @@
   },
   "active": "0b0b80ed9fde63b0",
   "lastOpenFiles": [
+    "_notes/concepts/Mind Things.md",
     "_site/site-index.json",
     "_media/notes/pasted-image-20231119122046-png.md",
     "assets/notes/Pasted image 20231119122046.png",
@@ -185,7 +186,6 @@
     "_site/middlefingerasuarus",
     "_site/assets/notes/middlefingerasaurus.png.png",
     "_media/notes/middlefingerasaurus-png-png.md",
-    "_notes/concepts/Mind Things.md",
     "_notes/books/The Burglar's Guide to The City.md",
     "_notes/links/For Dad.md",
     "_site/for-dad/index.html",
