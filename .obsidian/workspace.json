@@ -11,14 +11,12 @@
             "id": "0b0b80ed9fde63b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_notes/books/The Burglar's Guide to The City.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/notes/middlefingerasaurus.png.png"
               },
-              "icon": "lucide-file",
-              "title": "The Burglar's Guide to The City"
+              "icon": "lucide-image",
+              "title": "middlefingerasaurus.png"
             }
           }
         ]
@@ -54,7 +52,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/books/The Burglar's Guide to The City.md",
+                "file": "assets/notes/middlefingerasaurus.png.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Burglar's Guide to The City"
+              "title": "Backlinks for middlefingerasaurus.png"
             }
           },
           {
@@ -166,8 +164,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "0b0b80ed9fde63b0",
+  "active": "1fab0c5de45a701f",
   "lastOpenFiles": [
+    "assets/notes/Pasted image 20231119122046.png",
+    "_media/notes/pasted-image-20231119122046-png.md",
+    "_notes/concepts/Middlefingerasuarus.md",
+    "assets/notes/middlefingerasaurus.png.png",
+    "_notes/concepts/Mind Things.md",
+    "_notes/books/The Burglar's Guide to The City.md",
     "_notes/links/For Dad.md",
     "_site/site-index.json",
     "_site/for-dad/index.html",
@@ -194,12 +198,10 @@
     "_site/vsc/images/vaune/sized/08_WTF_Vaune.jpeg",
     "_site/vsc/images/vaune/sized/07_WTF_Vaune.jpeg",
     "_site/vsc/images/vaune/sized/06_WTF_Vaune.jpeg",
-    "_site/vsc/images/vaune/sized/05_WTF_Vaune.jpeg",
     "_notes/ref/SPARQL functions.md",
     "_notes/links/Art Sites.md",
     "_notes/projects/Research Club.md",
     "_media/notes/radweb-flyer-jpeg.md",
-    "_notes/concepts/Mind Things.md",
     "_notes/concepts/Brain Mulch.md",
     "_notes/words/Urs.md",
     "_notes/words/tinstac.md",
@@ -209,9 +211,6 @@
     "_notes/words/Infobahn.md",
     "_notes/words/hypolink.md",
     "_media/cats/elvira-bee-game-mp4.md",
-    "_tag-pages/cats.md",
-    "_media/cats/img-6159-jpeg.md",
-    "_galleries/Cats.md",
-    "_tag-pages/family.md"
+    "_tag-pages/cats.md"
   ]
 }
