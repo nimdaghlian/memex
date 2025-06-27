@@ -39,17 +39,17 @@ gal.each do |galitem|
   # put all mds for images in _media/name bc it mirrors the assets dir
   # put all galleries in a _galleries collection, no notes, simple permalinks
 
-  ## Make pages for every image in the specified directory 
+  ## Make pages for every image in the specified directory
 
-  # only run if the media directory exists
-  if File.exists?(files_location)
+  # only run if the media directory exist
+  if File.exist?(files_location)
 
     # make gallery index #
 
     if gal_name
 
       # make sure the note that links to this gallery has somewhere to go
-      unless File.exists?(gallery_notes)
+      unless File.exist?(gallery_notes)
         Dir.mkdir(gallery_notes)
       end
 
@@ -57,7 +57,7 @@ gal.each do |galitem|
       # Using proper names assumes that you're formatting the permalink correctly with :name to get the slug in config
 
       indexname = "#{gallery_notes}#{gal_name}.md"
-      unless File.exists?(indexname)
+      unless File.exist?(indexname)
       newindex = File.new(indexname, "w+")
       newindex.puts "---"
       newindex.puts "title: #{gal_name}"
@@ -72,7 +72,7 @@ gal.each do |galitem|
     else
     # TODO add error message for galleries needing to have a name
     end
-    
+
     # TODO add flag to overwrite, or to delete notes with no file
     if !File.exist?(output_location)
       Dir.mkdir(output_location)
@@ -104,7 +104,7 @@ gal.each do |galitem|
       if file_type
 
         ## Date Handling ##
-      
+
         # If file name has an expected date pattern, set that as the date
         # only run if no date has been manually set from config
         # TODO allow regex to be set from config
@@ -122,10 +122,10 @@ gal.each do |galitem|
         fileslug = f.to_slug.sub(/-\Z/,"")
         filename = "#{output_location}#{fileslug}.md"
 
-        # TODO config flag to overwrite 
+        # TODO config flag to overwrite
         if File.exist?(filename)
           next
-          
+
         else
           file = File.new(filename, "w+")
           file.puts "---"
@@ -145,7 +145,7 @@ gal.each do |galitem|
           file.puts "categories: #{file_type}"
           file.puts "gallery: #{name_slug}"
           # NOTE this is pretty jekyll specific but specifying a permalink is pretty handy
-          # TODO however it doesn't work with subdirectories yet as it allows for naming separate from directory name 
+          # TODO however it doesn't work with subdirectories yet as it allows for naming separate from directory name
           file.puts "permalink: /media/#{name_slug}/#{fileslug}"
           file.puts "layout: asset"
           file.puts "tags: #{gal_tags}"
@@ -163,7 +163,7 @@ gal.each do |galitem|
 
 
     Dir.glob(['*.{jpg,jpeg,tiff,png,gif,mov,mp3,mp4,wav,mpeg,aiff,webm,avi}'], base: files_location) do |f|
-    
+
 
     end
 

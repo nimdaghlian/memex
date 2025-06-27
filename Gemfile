@@ -10,7 +10,6 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.2.2"
 gem "webrick", "~> 1.7"
 gem "nokogiri"
-gem 'feed-normalizer'
 gem 'time'
 gem 'json'
 gem 'yaml'
@@ -22,6 +21,9 @@ gem 'rss'
 gem 'builder'
 gem 'net-http'
 gem 'dotenv'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
