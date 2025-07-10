@@ -36,6 +36,11 @@
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
 
+    {% if page.octo-type %}
+        <meta property="octo:type" content="{{page.octo-type}}">
+    {% endif %}
+
+
   <title>
     {% if page.id == "home" %}
       {{ site.title }}
