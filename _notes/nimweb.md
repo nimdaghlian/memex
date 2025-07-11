@@ -11,7 +11,3 @@ The following sites are in it:
 - <a rel="octo:octothorpes" href="https://nimdaghlian.com">My paintings</a>
 - <a rel="octo:octothorpes" href="https://www.letstalkaboutpaintings.com">Lets Talk About Paintings</a>
 - <a rel="octo:octothorpes" href="https://ideastore.dev">The Idea Store</a>
-what now?
-- <a rel="octo:octothorpes" href="https://nimdaghlian.com/">My paintings</a>
-- <a rel="octo:octothorpes" href="https://www.letstalkaboutpaintings.com/">Lets Talk About Paintings</a>
-- <a rel="octo:octothorpes" href="https://ideastore.dev/">The Idea Store</a>
