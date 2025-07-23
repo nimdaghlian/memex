@@ -1,16 +1,18 @@
 ---
-tags:
-  - times
+tags: []
 categories:
   - objects
 dateadded: 2023-08-17
 permalink: sam-zell-weird-art
+oofs:
+  - wtf
+  - times
 ---
 8.17.23
 
 I was visiting Michigan, and a buddy of mine (who shall remain anonymous for this story) has been working for the University of Michigan in a capacity that overlaps with the Natural History Museum. Until recently, that museum was housed in a building that I and many, many Michigan natives loved dearly as kids. It was a small but stately museum, big to a kid and cozy to an adult, with a lot of handmade displays. It was a magical place, but this isn't about that.
 
-My buddy worked on a small exhibit that was installed in the rotunda of the old Museum building, which has since been turned into administrative offices. I went to go check it out with him, and he was like "I'm allowed to just walk around here -- I kinda want to see what they've done to the place." Reader, I did too.
+My buddy had done some work in the old Museum building, which has since been turned into administrative offices. I went to visit him, and he was like "I'm allowed to just walk around here -- I kinda want to see what they've done to the place." Reader, I did too.
 
 The place was abandoned even though it was like two in the afternoon, and the high-end-Best-Western vibes that had scoured our fond memories from the building seemed even eerier for it. We were about done, somewhat defeated by the antiseptic blandness of it all, and we were leaving when I pointed at a small sculpture? figurine? just...sitting on a side table in an otherwise impossible-to-notice waiting room.
 
