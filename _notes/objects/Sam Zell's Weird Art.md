@@ -4,6 +4,7 @@ tags:
 categories:
   - objects
 dateadded: 2023-08-17
+permalink: sam-zell-weird-art
 ---
 8.17.23
 
