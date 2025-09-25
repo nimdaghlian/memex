@@ -7,7 +7,7 @@ tags:
 hak: yes
 ---
 
-Hummingbirb update. Ms. Bao Bun had to lil fluffpoops that turned into iridescent hovering zoomers in, like, three weeks.
+Hummingbirb update. Ms. Bao Bun had two lil fluffpoops that turned into iridescent hovering zoomers in, like, three weeks.
 
 ![A picture of two hummingbirds in a nest, barely grown]({{ site.baseurl }}{% link /assets/hummingbirds/bunboys06.jpg %})
 

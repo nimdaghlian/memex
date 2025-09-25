@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/times/Adventures of C & A & N.md",
+                "file": "_notes/texts/I Cannot Stop Galaxy Braining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventures of C & A & N"
+              "title": "I Cannot Stop Galaxy Braining"
+            }
+          },
+          {
+            "id": "89b560cf22fa3d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/texts/After XOXO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "After XOXO"
+            }
+          },
+          {
+            "id": "8719495ba3e28b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/texts/We got used to talking to the internet itself instead of people on the internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "We got used to talking to the internet itself instead of people on the internet"
+            }
+          },
+          {
+            "id": "bfc5c211c02ff9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Instead of Instagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instead of Instagram"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/times/Adventures of C & A & N.md",
+                "file": "GIM triage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Adventures of C & A & N"
+              "title": "Backlinks for GIM triage"
             }
           },
           {
@@ -152,10 +195,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "notion-like-tables:Create new loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -166,18 +211,26 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "0b0b80ed9fde63b0",
+  "active": "bfc5c211c02ff9f8",
   "lastOpenFiles": [
-    "_notes/times/Adventures of A & N.md",
+    "_notes/texts/We Really Like Personal Sites But the Internet Has Been Turning into Poisonous Garbage At An Alarming Rate.md",
+    "_notes/The Bun Boys.md",
+    "_notes/objects/The Remote.md",
+    "_notes/objects/Synthesizers.md",
+    "_notes/objects/Stirrup Cup.md",
+    "_notes/objects/Buckmanite.md",
+    "_notes/texts/I Cannot Stop Galaxy Braining.md",
+    "GIM triage.md",
+    "_notes/texts/We got used to talking to the internet itself instead of people on the internet.md",
+    "_notes/texts/After XOXO.md",
     "_notes/times/Dr Merkin.md",
+    "_notes/times/Adventures of C & A & N.md",
+    "_notes/times/Adventures of A & N.md",
     "_notes/times/Amy Bay at Nationale.md",
     "_notes/objects/Sam Zell's Weird Art.md",
     "_site/site-index.json",
     "_notes/objects/The Street Potato.md",
-    "_notes/objects/The Remote.md",
     "_notes/objects/The Side Table.md",
-    "_notes/objects/Synthesizers.md",
-    "_notes/objects/Stirrup Cup.md",
     "_site/sam-zell-weird-art.html",
     "_site/sam-zell-s-weird-art/index.html",
     "_site/sam-zell-s-weird-art",
@@ -205,14 +258,6 @@
     "_site/cache/resize/9d13dd8cc8633385cfe2c8bf8c4904d8_90x90.png",
     "_site/middlefingerasuarus/index.html",
     "_site/middlefingerasuarus",
-    "_media/notes/middlefingerasaurus-png-png.md",
-    "_notes/links/For Dad.md",
-    "_notes/research/Time Confetti and The Broken Promise of Leisure.md",
-    "_notes/donate.md",
-    "_notes/projects/Rad Web Workshop Returns.md",
-    "_notes/projects/Rad Web Workshop.md",
-    "_notes/projects/Rad Web.md",
-    "_notes/Instead of Instagram.md",
-    "_notes/ref/SPARQL functions.md"
+    "_media/notes/middlefingerasaurus-png-png.md"
   ]
 }

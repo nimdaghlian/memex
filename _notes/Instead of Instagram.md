@@ -68,6 +68,10 @@ Cons:
 > ### Why not [Cara?](https://cara.app/explore) 
 > I'm not confident in its stability. There's a lot to love there, and the people working on it (I've met some) seem to be really great, but it's currently a volunteer project, and we've had some heartbreaking failures of wonderful projects (like Cohost) in the independent web space, so I'm concerned by their lack of runway.
 
+
+
+
+
 ## A Secret Third Thing
 
 Some disappointing shit went down with Micro.blog since I posted this, so rescinding this recommendation for now. If the service was as distributed as the underlying technology, maybe there'd be another, better managed server to join. Hazards of single platforms are still there even if the code's open.
@@ -89,6 +93,22 @@ Some disappointing shit went down with Micro.blog since I posted this, so rescin
 
 - BlueSky! It feels more and more like Twitter, which I'm not sure is great, but [I'm on there.](https://bsky.app/profile/niiiiim.bsky.social) It's also technically Federated, but in a much, much earlier stage of doing that kind of thing. [Mark Ruffalo is trying to help.](https://www.theregister.com/2025/01/14/free_our_feeds_decentralized_social_media/)
 - Tumblr. It's still there. [I'm on there](https://www.tumblr.com/flarmbt), kind of. It's a closed platform, but less... terrible? Pretty sure the owner of Wordpress will destroy it eventually, though.
+
+### Let's start a newsletter! What about Substack?
+
+Newsletters are great! Especially if the archive shows up as a little blog. Together, a blog and a newsletter lets you control your content and your list of subscribers, and it's part of the grand tradition of the open, human-made web. Just don't use Substack, please.
+
+Substack is trying to become synonymous with "a blog and a newsletter." That would be really bad. If you want to start a newsletter and / or a blog, please please, don't user Substack. Please don't call blogs "substacks." [The reasons are deep and you can read all about them here](https://leavesubstack.com/) but, in short, they knowingly and willingly monitize and promote Nazis (actual real Nazis not just like, lower-case-n), not to mention Bari Weiss, and they're going to close and enshittify the service like every other big platform. Which is extra bad because the service they're trying to control is *having a blog and a newsletter.* I understand if you have a livelihood that relies on the recommendation engine and network they've created, but if all you want is a newsletter that also has a blog, *you absolutely do not need Substack.* The link above has a good guide to alternatives, some of which are here:
+
+- [Pencilbooth](http://pencilbooth.com/) < especially good for visual artists
+- [Buttondown](https://buttondown.com/)
+- [Steady.page](https://steady.page/en/)
+- [Ghost](https://ghost.org/)
+- [Beehiiv](https://www.beehiiv.com/)
+- [Memberful](https://memberful.com/)
+
+If you want to use any of these, but it seems hard, *i will help you get set up for free* just so I don't have to subscribe to another Substack.
+
 
 ## Some background on me and why I think small steps like these are important
 
