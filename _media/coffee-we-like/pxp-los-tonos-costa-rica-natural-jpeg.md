@@ -9,7 +9,7 @@ gallery: coffee-we-like
 permalink: /media/coffee-we-like/pxp-los-tonos-costa-rica-natural-jpeg
 layout: asset
 tags: ["coffee", "archives"]
-oofs: "Pineapple"
+oofs: "pineapple"
 --- 
 
 Aka The Heart of Jesus or the Two Week Old Pineapple. Was described as having an undertone like the taste pineapple gets when you leave it out on the counter for a couple weeks. Accurate, and delicious.
