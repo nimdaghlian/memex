@@ -18,11 +18,6 @@
     background-size: cover;
 }
 
-#playing-field div {
-    height: 80vh;
-    width: 45%;
-}
-
 
 /* Style for toggled elements */
  .disabled {
@@ -72,11 +67,155 @@
         <img class="mover" src="/switch/8.gif" can-move can-toggle id="play-8"/>
         <img class="mover" src="/switch/9.gif" can-move can-toggle id="play-9"/>
         <img class="mover" src="/switch/10.gif" can-move can-toggle id="play-10"/>
+        <img class="mover" src="/switch/11.gif" can-move can-toggle id="play-11"/>
+        <img class="mover" src="/switch/12.gif" can-move can-toggle id="play-12"/>
+        <img class="mover" src="/switch/13.gif" can-move can-toggle id="play-13"/>
 
 
     </div>
 
 
 
+<script>
+
+
+// Configuration
+const config = {
+  returnDelay: 3000,      // Time in ms before element returns (3 seconds)
+  moveDuration: 800,      // Animation duration in ms
+  easing: 'ease-out',     // CSS easing function
+
+  // Define elements and their favorite positions
+  elements: [
+    {id: "play-1", x: 100, y: 100 },
+    {id: "play-2", x: 400, y: 150 },
+    {id: "play-3", x: 700, y: 200 },
+    {id: "play-4", x: 1000, y: 250 },
+    {id: "play-5", x: 1200, y: 300 },
+    {id: "play-6", x: 200, y: 500 },
+    {id: "play-7", x: 500, y: 550 },
+    {id: "play-8", x: 800, y: 600 },
+    {id: "play-9", x: 1000, y: 650 },
+    {id: "play-10", x: 1200, y: 700 },
+    {id: "play-11", x: 1000, y: 250 },
+    {id: "play-12", x: 1100, y: 300 },
+    {id: "play-13", x: 100, y: 700 }
+
+  ]
+};
+
+// Element state tracker
+const elementStates = new Map();
+
+// Initialize draggable elements
+function initDraggableElements() {
+  config.elements.forEach(el => {
+    const elem = document.getElementById(el.id);
+    if (!elem) return;
+
+    // Set initial position
+    elem.style.position = 'absolute';
+    elem.style.left = `${el.x}px`;
+    elem.style.top = `${el.y}px`;
+    elem.style.cursor = 'grab';
+    elem.style.transition = 'none';
+
+    // Store state
+    elementStates.set(el.id, {
+      favoriteX: el.x,
+      favoriteY: el.y,
+      returnTimeout: null,
+      isDragging: false
+    });
+
+    // Add drag listeners
+    elem.addEventListener('mousedown', onMouseDown);
+  });
+}
+
+// Mouse down handler
+function onMouseDown(e) {
+  const elem = e.currentTarget;
+  const state = elementStates.get(elem.id);
+
+  // Clear any pending return
+  if (state.returnTimeout) {
+    clearTimeout(state.returnTimeout);
+    state.returnTimeout = null;
+  }
+
+  state.isDragging = true;
+  elem.style.cursor = 'grabbing';
+  elem.style.transition = 'none';
+
+  // Calculate offset from element's actual position on screen
+  const rect = elem.getBoundingClientRect();
+  const offsetX = e.clientX - rect.left;
+  const offsetY = e.clientY - rect.top;
+
+  function onMouseMove(e) {
+    if (!state.isDragging) return;
+
+    const x = e.clientX - offsetX;
+    const y = e.clientY - offsetY;
+
+    elem.style.left = `${x}px`;
+    elem.style.top = `${y}px`;
+  }
+
+  function onMouseUp() {
+    if (!state.isDragging) return;
+
+    state.isDragging = false;
+    elem.style.cursor = 'grab';
+
+    // Schedule return to favorite position
+    state.returnTimeout = setTimeout(() => {
+      returnToFavorite(elem);
+    }, config.returnDelay);
+
+    document.removeEventListener('mousemove', onMouseMove);
+    document.removeEventListener('mouseup', onMouseUp);
+  }
+
+  document.addEventListener('mousemove', onMouseMove);
+  document.addEventListener('mouseup', onMouseUp);
+
+  e.preventDefault();
+}
+
+// Return element to its favorite position
+function returnToFavorite(elem) {
+  const state = elementStates.get(elem.id);
+
+  // Enable smooth transition
+  elem.style.transition = `left ${config.moveDuration}ms ${config.easing}, top ${config.moveDuration}ms ${config.easing}`;
+
+  // Move to favorite position
+  elem.style.left = `${state.favoriteX}px`;
+  elem.style.top = `${state.favoriteY}px`;
+
+  // Remove transition after animation completes
+  setTimeout(() => {
+    if (!state.isDragging) {
+      elem.style.transition = 'none';
+    }
+  }, config.moveDuration);
+}
+
+// Initialize when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initDraggableElements);
+} else {
+  initDraggableElements();
+}
+
+// Export for manual initialization if needed
+window.DraggableAutoReturn = {
+  init: initDraggableElements,
+  config: config
+};
+</script>
 </body>
+
 </html>
