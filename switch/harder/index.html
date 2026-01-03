@@ -100,7 +100,6 @@ const config = {
     {id: "play-11", x: 1000, y: 250 },
     {id: "play-12", x: 1100, y: 300 },
     {id: "play-13", x: 100, y: 700 }
-
   ]
 };
 
@@ -113,10 +112,17 @@ function initDraggableElements() {
     const elem = document.getElementById(el.id);
     if (!elem) return;
 
-    // Set initial position
-    elem.style.position = 'absolute';
-    elem.style.left = `${el.x}px`;
-    elem.style.top = `${el.y}px`;
+    // Only set position if not already set
+    if (!elem.style.position || elem.style.position === 'static') {
+      elem.style.position = 'absolute';
+    }
+    if (!elem.style.left) {
+      elem.style.left = `${el.x}px`;
+    }
+    if (!elem.style.top) {
+      elem.style.top = `${el.y}px`;
+    }
+
     elem.style.cursor = 'grab';
     elem.style.transition = 'none';
 
@@ -128,13 +134,14 @@ function initDraggableElements() {
       isDragging: false
     });
 
-    // Add drag listeners
-    elem.addEventListener('mousedown', onMouseDown);
+    // Add drag listeners for both mouse and touch
+    elem.addEventListener('mousedown', onDragStart);
+    elem.addEventListener('touchstart', onDragStart, { passive: false });
   });
 }
 
-// Mouse down handler
-function onMouseDown(e) {
+// Unified drag start handler for both mouse and touch
+function onDragStart(e) {
   const elem = e.currentTarget;
   const state = elementStates.get(elem.id);
 
@@ -148,22 +155,34 @@ function onMouseDown(e) {
   elem.style.cursor = 'grabbing';
   elem.style.transition = 'none';
 
+  // Get the correct event coordinates (mouse or touch)
+  const clientX = e.type === 'touchstart' ? e.touches[0].clientX : e.clientX;
+  const clientY = e.type === 'touchstart' ? e.touches[0].clientY : e.clientY;
+
   // Calculate offset from element's actual position on screen
   const rect = elem.getBoundingClientRect();
-  const offsetX = e.clientX - rect.left;
-  const offsetY = e.clientY - rect.top;
+  const offsetX = clientX - rect.left;
+  const offsetY = clientY - rect.top;
 
-  function onMouseMove(e) {
+  function onDragMove(e) {
     if (!state.isDragging) return;
 
-    const x = e.clientX - offsetX;
-    const y = e.clientY - offsetY;
+    // Prevent scrolling on touch devices
+    if (e.type === 'touchmove') {
+      e.preventDefault();
+    }
+
+    const moveX = e.type === 'touchmove' ? e.touches[0].clientX : e.clientX;
+    const moveY = e.type === 'touchmove' ? e.touches[0].clientY : e.clientY;
+
+    const x = moveX - offsetX;
+    const y = moveY - offsetY;
 
     elem.style.left = `${x}px`;
     elem.style.top = `${y}px`;
   }
 
-  function onMouseUp() {
+  function onDragEnd() {
     if (!state.isDragging) return;
 
     state.isDragging = false;
@@ -174,12 +193,20 @@ function onMouseDown(e) {
       returnToFavorite(elem);
     }, config.returnDelay);
 
-    document.removeEventListener('mousemove', onMouseMove);
-    document.removeEventListener('mouseup', onMouseUp);
+    // Remove both mouse and touch listeners
+    document.removeEventListener('mousemove', onDragMove);
+    document.removeEventListener('touchmove', onDragMove);
+    document.removeEventListener('mouseup', onDragEnd);
+    document.removeEventListener('touchend', onDragEnd);
+    document.removeEventListener('touchcancel', onDragEnd);
   }
 
-  document.addEventListener('mousemove', onMouseMove);
-  document.addEventListener('mouseup', onMouseUp);
+  // Add both mouse and touch move/end listeners
+  document.addEventListener('mousemove', onDragMove);
+  document.addEventListener('touchmove', onDragMove, { passive: false });
+  document.addEventListener('mouseup', onDragEnd);
+  document.addEventListener('touchend', onDragEnd);
+  document.addEventListener('touchcancel', onDragEnd);
 
   e.preventDefault();
 }
