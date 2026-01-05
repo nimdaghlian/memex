@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title>Play HTML Example</title>
+    <title>Difficult Cats</title>
      <script
       type="module"
       src="https://unpkg.com/playhtml@latest/dist/init.es.js">
@@ -27,27 +27,7 @@
 </style>
 
 <script>
- // // Get all toggleable elements
- // const toggleElements = document.querySelectorAll('[can-toggle]');
 
- // // Track if any element has been clicked
- // let hasBeenClicked = false;
-
- // // Add click listeners to each element
- // toggleElements.forEach(element => {
- //   element.addEventListener('click', function(e) {
- //     if (!hasBeenClicked) {
- //       hasBeenClicked = true;
-
- //       // Disable all OTHER elements
- //       toggleElements.forEach(el => {
- //         if (el !== element) {
- //           el.classList.add('disabled');
- //         }
- //       });
- //     }
- //   });
- // });
 </script>
 
 <body>
@@ -77,29 +57,27 @@
 
 
 <script>
-
-
 // Configuration
 const config = {
   returnDelay: 3000,      // Time in ms before element returns (3 seconds)
   moveDuration: 800,      // Animation duration in ms
   easing: 'ease-out',     // CSS easing function
 
-  // Define elements and their favorite positions
+  // Define elements and their favorite positions (using transform translate)
   elements: [
-    {id: "play-1", x: 100, y: 100 },
-    {id: "play-2", x: 400, y: 150 },
-    {id: "play-3", x: 700, y: 200 },
-    {id: "play-4", x: 1000, y: 250 },
-    {id: "play-5", x: 1200, y: 300 },
-    {id: "play-6", x: 200, y: 500 },
-    {id: "play-7", x: 500, y: 550 },
-    {id: "play-8", x: 800, y: 600 },
-    {id: "play-9", x: 1000, y: 650 },
-    {id: "play-10", x: 1200, y: 700 },
-    {id: "play-11", x: 1000, y: 250 },
-    {id: "play-12", x: 1100, y: 300 },
-    {id: "play-13", x: 100, y: 700 }
+    {id: "play-1", x: 0, y: 0 },
+    {id: "play-2", x: 0, y: 0 },
+    {id: "play-3", x: 0, y: 0 },
+    {id: "play-4", x: 0, y: 0 },
+    {id: "play-5", x: 0, y: 0 },
+    {id: "play-6", x: 0, y: 0 },
+    {id: "play-7", x: 0, y: 0 },
+    {id: "play-8", x: 0, y: 0 },
+    {id: "play-9", x: 0, y: 0 },
+    {id: "play-10", x: 0, y: 0 },
+    {id: "play-11", x: 0, y: 0 },
+    {id: "play-12", x: 0, y: 0 },
+    {id: "play-13", x: 0, y: 0 }
   ]
 };
 
@@ -112,24 +90,22 @@ function initDraggableElements() {
     const elem = document.getElementById(el.id);
     if (!elem) return;
 
-    // Only set position if not already set
-    if (!elem.style.position || elem.style.position === 'static') {
-      elem.style.position = 'absolute';
-    }
-    if (!elem.style.left) {
-      elem.style.left = `${el.x}px`;
-    }
-    if (!elem.style.top) {
-      elem.style.top = `${el.y}px`;
-    }
-
+    // Don't change positioning - use transform instead
     elem.style.cursor = 'grab';
     elem.style.transition = 'none';
+
+    // Get current transform or set to favorite position
+    const currentTransform = window.getComputedStyle(elem).transform;
+    if (!currentTransform || currentTransform === 'none') {
+      elem.style.transform = `translate(${el.x}px, ${el.y}px)`;
+    }
 
     // Store state
     elementStates.set(el.id, {
       favoriteX: el.x,
       favoriteY: el.y,
+      currentX: el.x,
+      currentY: el.y,
       returnTimeout: null,
       isDragging: false
     });
@@ -156,13 +132,26 @@ function onDragStart(e) {
   elem.style.transition = 'none';
 
   // Get the correct event coordinates (mouse or touch)
-  const clientX = e.type === 'touchstart' ? e.touches[0].clientX : e.clientX;
-  const clientY = e.type === 'touchstart' ? e.touches[0].clientY : e.clientY;
+  const startX = e.type === 'touchstart' ? e.touches[0].clientX : e.clientX;
+  const startY = e.type === 'touchstart' ? e.touches[0].clientY : e.clientY;
 
-  // Calculate offset from element's actual position on screen
-  const rect = elem.getBoundingClientRect();
-  const offsetX = clientX - rect.left;
-  const offsetY = clientY - rect.top;
+  // Parse current transform to get actual current position
+  const transform = window.getComputedStyle(elem).transform;
+  let currentX = 0;
+  let currentY = 0;
+
+  if (transform && transform !== 'none') {
+    const matrix = transform.match(/matrix.*\((.+)\)/);
+    if (matrix) {
+      const values = matrix[1].split(', ');
+      currentX = parseFloat(values[4]) || 0;
+      currentY = parseFloat(values[5]) || 0;
+    }
+  }
+
+  // Store the actual current position at drag start
+  const startTranslateX = currentX;
+  const startTranslateY = currentY;
 
   function onDragMove(e) {
     if (!state.isDragging) return;
@@ -175,11 +164,18 @@ function onDragStart(e) {
     const moveX = e.type === 'touchmove' ? e.touches[0].clientX : e.clientX;
     const moveY = e.type === 'touchmove' ? e.touches[0].clientY : e.clientY;
 
-    const x = moveX - offsetX;
-    const y = moveY - offsetY;
+    // Calculate delta from start position
+    const deltaX = moveX - startX;
+    const deltaY = moveY - startY;
 
-    elem.style.left = `${x}px`;
-    elem.style.top = `${y}px`;
+    // Apply transform based on start position + delta
+    const newX = startTranslateX + deltaX;
+    const newY = startTranslateY + deltaY;
+
+    state.currentX = newX;
+    state.currentY = newY;
+
+    elem.style.transform = `translate(${newX}px, ${newY}px)`;
   }
 
   function onDragEnd() {
@@ -216,11 +212,12 @@ function returnToFavorite(elem) {
   const state = elementStates.get(elem.id);
 
   // Enable smooth transition
-  elem.style.transition = `left ${config.moveDuration}ms ${config.easing}, top ${config.moveDuration}ms ${config.easing}`;
+  elem.style.transition = `transform ${config.moveDuration}ms ${config.easing}`;
 
   // Move to favorite position
-  elem.style.left = `${state.favoriteX}px`;
-  elem.style.top = `${state.favoriteY}px`;
+  elem.style.transform = `translate(${state.favoriteX}px, ${state.favoriteY}px)`;
+  state.currentX = state.favoriteX;
+  state.currentY = state.favoriteY;
 
   // Remove transition after animation completes
   setTimeout(() => {
@@ -242,6 +239,7 @@ window.DraggableAutoReturn = {
   init: initDraggableElements,
   config: config
 };
+
 </script>
 </body>
 
