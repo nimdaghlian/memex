@@ -9,12 +9,13 @@ layout: default
 
   <div id="notes-entry-container">
     <content>
+        {% if page.image %}
+        <img src="{{ site.url }}{{ page.image }}">
+        {% endif %}
       {{ content }}
     </content>
   </div>
   </article>
   <side style="font-size: 0.9em;" class="ui five wide column">
-    {% include side.html  %}     
+    {% include side.html  %}
 </side>
-
-

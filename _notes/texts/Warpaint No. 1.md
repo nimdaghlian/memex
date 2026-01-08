@@ -1,4 +1,5 @@
 ---
+title: Whatever
 tags:
   - art
   - painting
@@ -50,4 +51,4 @@ Generally, I'm averse to direct connections between the historical "meaning" of 
 
 Digging into these sitcom-cartoon-allegories full of fleshy, awkward people has built a dim, drafty theater in my mind. I'm sitting in the back of it, watching a play of manners in a language I don't understand. Sometimes the sun will break through the window so realistically I feel the warmth and am suddenly aware of exactly how ripe the pears on the table are, the number of strands of hair out of place in the lead actress's complex hairstyle. Sometimes soldiers or disease tear through and kill half the cast, and I can't tell if the blood is real. The smell of old beer certainly is.
 
-I don't understand how Steen, Vermeer, and Vrancx's scenes all existed at the same time as part of the same way of life, just like I don't understand exactly how to fit life as a painter into the world we currently have. 
+I don't understand how Steen, Vermeer, and Vrancx's scenes all existed at the same time as part of the same way of life, just like I don't understand exactly how to fit life as a painter into the world we currently have.

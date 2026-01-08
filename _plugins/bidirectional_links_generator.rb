@@ -4,10 +4,10 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     graph_nodes = []
     graph_edges = []
 
-    all_notes = site.collections['notes'].docs
-    all_pages = site.pages
+    all_notes = site.collections['notes'].docs.select { |doc| doc.respond_to?(:content) && !doc.content.nil? }
 
-    all_docs = site.documents
+
+    all_docs = site.documents.select { |doc| doc.respond_to?(:content) && !doc.content.nil? }
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
 
@@ -32,28 +32,28 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
         # Replace double-bracketed links with label using note title
         # [[A note about cats|this is a link to the note about cats]]
-        current_note.content.gsub!(
+        current_note.content = current_note.content.gsub(
           /\[\[#{note_title_regexp_pattern}\|(.+?)(?=\])\]\]/i,
           anchor_tag
         )
 
         # Replace double-bracketed links with label using note filename
         # [[cats|this is a link to the note about cats]]
-        current_note.content.gsub!(
+        current_note.content = current_note.content.gsub(
           /\[\[#{title_from_data}\|(.+?)(?=\])\]\]/i,
           anchor_tag
         )
 
         # Replace double-bracketed links using note title
         # [[a note about cats]]
-        current_note.content.gsub!(
+        current_note.content = current_note.content.gsub(
           /\[\[(#{title_from_data})\]\]/i,
           anchor_tag
         )
 
         # Replace double-bracketed links using note filename
         # [[cats]]
-        current_note.content.gsub!(
+        current_note.content = current_note.content.gsub(
           /\[\[(#{note_title_regexp_pattern})\]\]/i,
           anchor_tag
         )
@@ -77,7 +77,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     all_docs.each do |current_note|
       # Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
-        e.content.include?(current_note.url)
+        e.content && e.content.include?(current_note.url)
       end
 
 
@@ -107,7 +107,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       # Nodes: Jekyll
       moar_backlinks = [] 
       all_docs.filter do |e|
-        if e.content.include?(current_note.url)
+        if e.respond_to?(:content) && e.content && e.content.include?(current_note.url)
           backlink_index = {title: e.data['title'], url: e.url, excerpt: e.data["excerpt"]}
           moar_backlinks.push(backlink_index)
         end
