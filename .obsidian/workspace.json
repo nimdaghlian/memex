@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "````",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,29 +198,32 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8719495ba3e28b56",
+  "active": "e1df9207d4f2ae63",
   "lastOpenFiles": [
     "_site/site-index.json",
+    "_site/media/notes-in-general/three-leaves-jpg.html",
+    "_site/assets/notes/three-leaves.jpg",
+    "_media/notes/three-leaves-jpg.md",
+    "assets/notes/three-leaves.jpg",
+    "_site/media/interdependence-day-papercuts/three-leaves-jpg.html",
+    "_site/cache/resize/d18783c8f564bb697538605dee480792_90x90.jpg",
+    "_site/cache/resize/d18783c8f564bb697538605dee480792_400x400.jpg",
+    "cache/resize/d18783c8f564bb697538605dee480792_90x90.jpg",
+    "cache/resize/d18783c8f564bb697538605dee480792_400x400.jpg",
+    "_site/media/interdependence-day-papercuts/id-011526-jpg.html",
+    "_site/cache/resize/c45c40acb282e7a630876c3b20fe763f_90x90.jpg",
+    "_site/cache/resize/c45c40acb282e7a630876c3b20fe763f_400x400.jpg",
+    "_site/assets/id-papercuts/three-leaves.jpg",
+    "cache/resize/c45c40acb282e7a630876c3b20fe763f_90x90.jpg",
+    "_media/id-papercuts/three-leaves-jpg.md",
+    "assets/id-papercuts/three-leaves_tmp1185494497",
+    "_media/id-papercuts/id-011526-jpg.md",
     "_site/show-and-tell-2026.html",
     "_site/media/notes-in-general/show-and-tell-flyer-jpeg.html",
     "_site/media/buckmanite/buckmanite-atypical-substrate-partial-formation-copy-jpeg.html",
-    "_site/cache/resize/4032fc93d33e1d8ceb08d5b1a883b6d0_400x400.jpeg",
-    "cache/resize/4032fc93d33e1d8ceb08d5b1a883b6d0_400x400.jpeg",
     "_site/Warpaint No. 1.html",
     "_site/dr-merkin/index.html",
     "_site/dr-merkin",
-    "_site/cache/resize/4032fc93d33e1d8ceb08d5b1a883b6d0_90x90.jpeg",
-    "_site/test_bidirectional_links.rb",
-    "_site/switch/harder/index.html",
-    "_site/switch/10.gif",
-    "_site/switch/11.gif",
-    "_site/switch/9.gif",
-    "_site/switch/locked.html",
-    "_site/switch/locked-simple.html",
-    "_site/switch/bg.jpg",
-    "_site/switch/7.gif",
-    "_site/switch/8.gif",
-    "_site/switch/6.gif",
     "_site/pandoc-templates/README.md",
     "_site/pandoc-templates/FINAL-EXAMPLE.md",
     "_site/GIM triage.md",
@@ -241,9 +245,6 @@
     "_notes/texts/I Cannot Stop Galaxy Braining.md",
     "GIM triage.md",
     "_notes/texts/After XOXO.md",
-    "_notes/times/Dr Merkin.md",
-    "_notes/times/Adventures of C & A & N.md",
-    "_notes/times/Adventures of A & N.md",
-    "_notes/times/Amy Bay at Nationale.md"
+    "_notes/times/Dr Merkin.md"
   ]
 }
