@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/texts/After XOXO.md",
+                "file": "_notes/concepts/Brain Crack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "After XOXO"
+              "title": "Brain Crack"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/times/Show and Tell at the Big Table.md",
+                "file": "_notes/concepts/Brain Coffee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Show and Tell at the Big Table"
+              "title": "Brain Coffee"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "````",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/times/Show and Tell at the Big Table.md"
+                "file": "_notes/concepts/Brain Crack.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Show and Tell at the Big Table"
+              "title": "File properties for Brain Crack"
             }
           }
         ],
@@ -198,9 +197,20 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e1df9207d4f2ae63",
+  "active": "89b560cf22fa3d57",
   "lastOpenFiles": [
+    "_notes/concepts/Brain Meth.md",
     "_site/site-index.json",
+    "_notes/concepts/Brain Coffee.md",
+    "_notes/concepts/Brain Crack.md",
+    "_site/brain-coffee.html",
+    "assets/texts/brain coffee.md",
+    "_notes/texts/After XOXO.md",
+    "_site/brain-meth.html",
+    "_site/brain-crack.html",
+    "_site/assets/texts/brain coffee.md",
+    "_notes/concepts/Ada's three kinds of things.md",
+    "_notes/times/Show and Tell at the Big Table.md",
     "_site/media/notes-in-general/three-leaves-jpg.html",
     "_site/assets/notes/three-leaves.jpg",
     "_media/notes/three-leaves-jpg.md",
@@ -220,17 +230,12 @@
     "_media/id-papercuts/id-011526-jpg.md",
     "_site/show-and-tell-2026.html",
     "_site/media/notes-in-general/show-and-tell-flyer-jpeg.html",
-    "_site/media/buckmanite/buckmanite-atypical-substrate-partial-formation-copy-jpeg.html",
-    "_site/Warpaint No. 1.html",
-    "_site/dr-merkin/index.html",
-    "_site/dr-merkin",
     "_site/pandoc-templates/README.md",
     "_site/pandoc-templates/FINAL-EXAMPLE.md",
     "_site/GIM triage.md",
     "_media/buckmanite/buckmanite-atypical-substrate-partial-formation-copy-jpeg.md",
     "_media/notes/show-and-tell-flyer-jpeg.md",
     "_notes/texts/We got used to talking to the internet itself instead of people on the internet.md",
-    "_notes/times/Show and Tell at the Big Table.md",
     "_media/coffee-we-like/pxp-los-tonos-costa-rica-natural-jpeg.md",
     "pandoc-templates/example-article.md",
     "pandoc-templates/FINAL-EXAMPLE.md",
@@ -238,13 +243,6 @@
     "_notes/objects/Buckmanite.md",
     "_notes/Instead of Instagram.md",
     "_notes/texts/We Really Like Personal Sites But the Internet Has Been Turning into Poisonous Garbage At An Alarming Rate.md",
-    "_notes/The Bun Boys.md",
-    "_notes/objects/The Remote.md",
-    "_notes/objects/Synthesizers.md",
-    "_notes/objects/Stirrup Cup.md",
-    "_notes/texts/I Cannot Stop Galaxy Braining.md",
-    "GIM triage.md",
-    "_notes/texts/After XOXO.md",
-    "_notes/times/Dr Merkin.md"
+    "_notes/The Bun Boys.md"
   ]
 }
