@@ -7,6 +7,11 @@ category: concepts
 permalink: brain-coffee
 title: Brain Coffee
 description: Brain Coffee is a proposed guide to keep LLM use from turning into Brain Meth
+oofs:
+  - ai
+  - coffee
+  - brains
+  - lifehack
 ---
 Brain Coffee is put forward as a framework to guide one's use of LLMs and "AI" to keep it from turning into [[Brain Meth]].
 

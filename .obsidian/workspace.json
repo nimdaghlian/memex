@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/concepts/Brain Coffee.md",
+                "file": "_notes/concepts/Brain Meth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain Coffee"
+              "title": "Brain Meth"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/concepts/Brain Crack.md"
+                "file": "_notes/concepts/Brain Meth.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Brain Crack"
+              "title": "File properties for Brain Meth"
             }
           }
         ],
@@ -197,11 +197,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "89b560cf22fa3d57",
+  "active": "8719495ba3e28b56",
   "lastOpenFiles": [
-    "_notes/concepts/Brain Meth.md",
     "_site/site-index.json",
     "_notes/concepts/Brain Coffee.md",
+    "_notes/concepts/Brain Meth.md",
     "_notes/concepts/Brain Crack.md",
     "_site/brain-coffee.html",
     "assets/texts/brain coffee.md",
