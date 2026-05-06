@@ -11,7 +11,6 @@ oofs:
   - ai
   - meth
   - lifehack
-  - brains
 ---
 Brain Meth is distinct from [[Brain Crack]] because it is _productive._ Not in the sense that it enables you to work logically towards your goals, or towards completing a project, but in the sense that you are _doing stuff_ when you're high on Brain Meth, while Brain Crack is all about daydreaming how great it'll be once you start doing stuff.
 

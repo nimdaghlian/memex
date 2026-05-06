@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8719495ba3e28b56",
+  "active": "e1df9207d4f2ae63",
   "lastOpenFiles": [
     "_site/site-index.json",
     "_notes/concepts/Brain Coffee.md",
