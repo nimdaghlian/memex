@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: note-lewk
 date: 2026-03-09
 tags:
   - mind-things

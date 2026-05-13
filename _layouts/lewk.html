@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light" data-font="serif"{% if page.color %} style="--accent: {{ page.color }}"{% endif %}>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <title>{% if page.id == "home" %}{{ site.title }}{% else %}{{ page.title | default: site.title }}{% endif %}</title>
+
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="article">
+  {% else %}
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  {% endif %}
+  {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">{% endif %}
+  {% if page.image %}<meta property="og:image" content="{{ site.url }}{{ page.image }}">{% endif %}
+  {% if page.date %}<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+  {% if page.octo-type %}<meta property="octo:type" content="{{ page.octo-type }}">{% endif %}
+
+  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;700&family=Space+Grotesk:wght@400;500;700&family=VT323&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/lewk.css">
+  <link rel="stylesheet" href="/memex.css">
+
+  <link rel="preload" as="fetch" href="https://octothorp.es/?uri={{ site.url }}{{ page.url }}">
+  <link rel="stylesheet" href="https://octothorp.es/tag.css">
+  <script async defer type="module" data-register="https://octothorp.es/" src="https://octothorp.es/tag.js"></script>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="a74f19b7-82e6-483f-bade-bb15db588d67"></script>
+</head>
+<body>
+
+<nav class="nav">
+  <a class="brand" href="/">memex</a>
+  <a href="/about">About</a>
+  <a href="/notes">Notes</a>
+  <a href="/notecloud">Notecloud</a>
+  <a href="https://nimdaghlian.com/art">Art</a>
+  <a href="/feeds">Feeds</a>
+  <a href="/lewk">Lewk</a>
+</nav>
+
+<main class="page">
+  {{ content }}
+</main>
+
+{% include colophon.html %}
+
+<footer class="footer">
+  <span>memex of Ním Daghlian</span>
+  <span class="meta">{{ site.time | date: "%Y" }}</span>
+</footer>
+
+<div class="themer" role="group" aria-label="Theme and font">
+  <div class="themer-group">
+    <button data-theme-set="light"  title="light"  style="background:#fff;border-color:#111"></button>
+    <button data-theme-set="paper"  title="paper"  style="background:#f4ecdc;border-color:#2a2418"></button>
+    <button data-theme-set="hot"    title="hot"    style="background:#fff8f0;border-color:#d31138"></button>
+    <button data-theme-set="moss"   title="moss"   style="background:#d8dcc4;border-color:#1b2618"></button>
+    <button data-theme-set="ocean"  title="ocean"  style="background:#0c2436;border-color:#5acab1"></button>
+    <button data-theme-set="dark"   title="dark"   style="background:#111;border-color:#ff8a14"></button>
+    <button data-theme-set="noir"   title="noir"   style="background:#0a0a0a;border-color:#d31138"></button>
+    <button data-theme-set="lagoon"    title="lagoon"    style="background:#226985;border-color:#fdf4b6"></button>
+    <button data-theme-set="iris"      title="iris"      style="background:#c2e88e;border-color:#4e0e6c"></button>
+    <button data-theme-set="lemon"     title="lemon"     style="background:#fff700;border-color:#1a1a00"></button>
+    <button data-theme-set="blueprint" title="blueprint" style="background:#001a4d;border-color:#e6f0ff"></button>
+    <button data-theme-set="rose"      title="rose"      style="background:#ffd5e0;border-color:#2a0814"></button>
+    <button data-theme-set="newsprint" title="newsprint" style="background:#e8e6dc;border-color:#1a1a1a"></button>
+  </div>
+  <div class="themer-divider"></div>
+  <div class="themer-group">
+    <button data-font-set="serif" title="serif" style="font-family: Lora, serif">Aa</button>
+    <button data-font-set="sans"  title="sans"  style="font-family: Inter, sans-serif; font-weight: 500">Aa</button>
+    <button data-font-set="block" title="block" style="font-family: 'Space Grotesk', sans-serif; font-weight: 700">Aa</button>
+    <button data-font-set="mono"  title="mono"  style="font-family: ui-monospace, monospace">Aa</button>
+    <button data-font-set="pixel" title="pixel" style="font-family: VT323, monospace; font-size: 16px">Aa</button>
+  </div>
+</div>
+
+<script>
+  (function () {
+    const root = document.documentElement;
+    const themes = ['light','paper','hot','moss','ocean','dark','noir','lagoon','iris','lemon','blueprint','rose','newsprint'];
+    const fonts  = ['serif','sans','block','mono','pixel'];
+
+    function bind(attr, storageKey, options) {
+      const stored = localStorage.getItem(storageKey);
+      if (stored && options.includes(stored)) root.setAttribute(attr, stored);
+
+      const mark = () => {
+        const cur = root.getAttribute(attr);
+        document.querySelectorAll(`[data-${attr.replace('data-','')}-set]`).forEach(b => {
+          const v = b.dataset[attr.replace('data-','') + 'Set'];
+          b.setAttribute('aria-pressed', v === cur);
+        });
+      };
+      mark();
+      document.querySelectorAll(`[data-${attr.replace('data-','')}-set]`).forEach(b => {
+        b.addEventListener('click', () => {
+          const v = b.dataset[attr.replace('data-','') + 'Set'];
+          root.setAttribute(attr, v);
+          localStorage.setItem(storageKey, v);
+          mark();
+        });
+      });
+      return { mark, set: v => { root.setAttribute(attr, v); localStorage.setItem(storageKey, v); mark(); } };
+    }
+
+    const themeCtl = bind('data-theme', 'lewk-theme', themes);
+    const fontCtl  = bind('data-font',  'lewk-font',  fonts);
+
+    document.querySelector('.themer').addEventListener('contextmenu', (e) => {
+      e.preventDefault();
+      themeCtl.set(themes[Math.floor(Math.random() * themes.length)]);
+      fontCtl.set(fonts[Math.floor(Math.random()  * fonts.length)]);
+    });
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<footer class="colophon">
+  <section>
+    {% assign aboutpage = site.notes | where: "title", "About" | first %}
+    {% if aboutpage %}
+    <h5>About this site</h5>
+    <p>{{ aboutpage.excerpt | strip_html }}</p>
+    <a class="link-arrow" href="{{ aboutpage.url }}">More about this site</a>
+    {% endif %}
+
+    <h5 style="margin-top: var(--sp-4)">Subscribe</h5>
+    <p><a href="https://buttondown.email/nim#subscribe-form">Get updates when I add things here.</a></p>
+    <div class="cluster">
+      <a class="btn" href="https://buttondown.email/nim#subscribe-form">subscribe</a>
+      <a class="btn" href="https://buttondown.com/nim/rss">rss</a>
+      <a class="btn" href="https://buttondown.com/nim/archive/">archive</a>
+    </div>
+  </section>
+
+  <section>
+    <h5>Types of things</h5>
+    <div class="cluster">
+      {% for collection in site.collections %}
+        {% if collection.label != "cat-pages" and collection.label != "tag-pages" and collection.label != "posts" %}
+        <a class="btn" href="/{{ collection.label }}">{{ collection.label }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h5 style="margin-top: var(--sp-4)">Categories</h5>
+    <div class="cloud">
+      {% for cat in site.cat-pages %}
+      <a class="cloud-2" href="{{ cat.url }}">{{ cat.title }}</a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section>
+    <h5>Tags on things</h5>
+    <div class="cloud">
+      {% for tag in site.tag-pages %}
+      <a class="cloud-2" href="{{ tag.url }}">{{ tag.title }}</a>
+      {% endfor %}
+    </div>
+  </section>
+</footer>

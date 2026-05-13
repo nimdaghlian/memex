@@ -1,0 +1,73 @@
+/* memex.css — memex-specific styles layered on top of lewk.css
+ * Patterns tied to the memex (notes + wiki + octothorpes) info architecture:
+ * sidebar metadata, backlinks, octothorpe component, status indicator.
+ * Loaded after lewk.css so it can reference its tokens (--accent, --fg, etc).
+ */
+
+/* sidebar block — paired with article in .split, holds metadata blocks */
+.side {
+  font-family: var(--font-ui);
+  font-size: var(--fs-2);
+  letter-spacing: 0.04em;
+  color: var(--swatch-2);
+}
+.side > * + * { margin-top: var(--sp-4); }
+.side h5 { margin: 0 0 var(--sp-2); }
+
+/* backlinks — list of incoming wiki-style links with excerpt */
+.backlinks { display: grid; gap: 0; }
+.backlinks-item {
+  padding: var(--sp-3) 0;
+  border-top: var(--rule);
+}
+.backlinks-item:first-child { border-top: 0; }
+.backlinks-item a {
+  font-family: var(--font-display);
+  font-size: var(--fs-3);
+  text-transform: none;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+.backlinks-item a:hover {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: var(--accent);
+}
+.backlinks-item p {
+  font-size: var(--fs-2);
+  color: var(--muted-color);
+  margin: var(--sp-1) 0 0;
+  font-family: var(--font-body);
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+/* status pill — note state indicator (sprouting / budding / evergreen / etc) */
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-family: var(--font-ui);
+  font-size: var(--fs-2);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--swatch-2);
+}
+.status::before {
+  content: "";
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+/* octothorpe web component — minimal styling, defers to octothorp.es JS for behavior */
+octo-thorpe {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-2);
+  text-transform: lowercase;
+  color: var(--accent);
+  margin-right: var(--sp-2);
+}
+octo-thorpe::before { content: "#"; opacity: 0.6; }

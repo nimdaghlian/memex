@@ -1,0 +1,75 @@
+---
+layout: lewk
+---
+
+<div class="split split--wide">
+  <article class="prose">
+    <h6 class="meta">{{ page.category | default: "note" }}</h6>
+    <h1 style="margin-top: var(--sp-2)">{{ page.title }}</h1>
+
+    {% if page.image %}
+    <img src="{{ page.image }}" alt="{{ page.title }}">
+    {% endif %}
+
+    {{ content }}
+  </article>
+
+  <aside class="side stack">
+    {% if page.categories.size > 0 or page.category %}
+    <div>
+      <h5>Categories</h5>
+      <div class="cluster">
+        {% if page.category %}
+        <a class="btn" href="/category/{{ page.category }}">{{ page.category }}</a>
+        {% endif %}
+        {% for cat in page.categories %}
+        <a class="btn" href="/category/{{ cat }}">{{ cat }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if page.tags.size > 0 %}
+    <div>
+      <h5>Tags</h5>
+      <div class="cluster">
+        {% for tag in page.tags %}
+        <a class="tag" href="/tag/{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if page.hak or page.oofs %}
+    <div>
+      <h5>Octothorpes</h5>
+      <div class="cluster">
+        {% if page.hak %}{% for tag in page.tags %}<octo-thorpe>{{ tag }}</octo-thorpe>{% endfor %}{% endif %}
+        {% if page.oofs %}{% for oof in page.oofs %}<octo-thorpe>{{ oof }}</octo-thorpe>{% endfor %}{% endif %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if page.backlinks.size > 0 %}
+    <div>
+      <h5>Links to this page</h5>
+      <div class="backlinks">
+        {% for backlink in page.backlinks %}
+        <div class="backlinks-item">
+          <a href="{{ site.baseurl }}{{ backlink.url }}{% if site.use_html_extension %}.html{% endif %}">{{ backlink.title }}</a>
+          <p>{{ backlink.excerpt | strip_html | truncatewords: 10 | remove: "[]" }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    <div>
+      <h5>Status</h5>
+      {% if page.status %}<span class="status">{{ page.status | capitalize }}</span>{% endif %}
+      {% if page.type != 'pages' and page.last_modified %}
+      <p class="meta" style="margin-top: var(--sp-2)">Last updated <time datetime="{{ page.last_modified | date_to_xmlschema }}">{{ page.last_modified | date: "%B %-d, %Y" }}</time></p>
+      {% endif %}
+    </div>
+  </aside>
+</div>
