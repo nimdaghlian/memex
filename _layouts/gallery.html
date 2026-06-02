@@ -8,49 +8,51 @@
 
   <body class="{{ page.bodyclass }}">
     {% include nav.html  %}
-    <main class="ui container">
-    <content class="ui two column grid stackable gallery">
-        <!-- descriptive header for gallery -->
-        <div class="ui twelve wide column">
+    <main class="page full">
+        <div class="reading left">
           <h1 class="page_hilight">{{ page.title }}</h1>
           <div class="description page_hilight">
             {{ content }}
           </div>
-                <!-- listing of gallery contents -->
-      
-        <div class="ui cards grid three column stackable">
-        {% assign g = page.gallery %}
-          {% for post in site.media %}
-            {% if post.gallery contains g %}
-            {% assign postTitle = post.title  %}
-            {% assign postGallery = post.gallery  %}
-            {% assign postUrl = post.url  %}
-            {% assign postExcerpt = post.excerpt  %}
-            {% assign postDate = post.date  %}
-            {% assign postImage = post.image  %}
-
-            {% include image_card.html  %}
-            {% endif %}
-          {% endfor %}
-        </div>
+    <content class="sidebar sidebar--right flush">
 
 
 
-        </div>
-        <!-- end descriptive header -->
+        <section class="section reading left">
+            <!-- descriptive header for gallery -->
 
+                    <!-- listing of gallery contents -->
+            <div class="grid">
+            {% assign g = page.gallery %}
+            {% for post in site.media %}
+                {% if post.gallery contains g %}
+                {% assign postTitle = post.title  %}
+                {% assign postGallery = post.gallery  %}
+                {% assign postUrl = post.url  %}
+                {% assign postExcerpt = post.excerpt  %}
+                {% assign postDate = post.date  %}
+                {% assign postImage = post.image  %}
+
+                {% include image_card.html  %}
+                {% endif %}
+            {% endfor %}
+            </div>
+        </section>
         <!-- sidebar -->
-        <side style="font-size: 0.9em;" class="ui four wide column flooped">
+        <side style="font-size: 0.9em;" class="flooped">
           {% include side.html  %}
         </side>
         <!-- end sidebar -->
- 
-
-
-
-
     </content>
-    </main>   
+        </div>
+        <!-- end descriptive header -->
+
+
+
+
+
+
+    </main>
     {% include footer.html %}
   </body>
 </html>
