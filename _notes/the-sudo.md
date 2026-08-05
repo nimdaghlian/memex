@@ -8,6 +8,6 @@ This is the home page for the new web ring for The Sudo. It uses Octothorpe Prot
 
 The following sites are in it:
 
-- <a rel="octo:octothorpes" href="https://reeds.website">My paintings</a>
-- <a rel="octo:octothorpes" href="https://justinmiller.io">Lets Talk About Paintings</a>
-- <a rel="octo:octothorpes" href="https://ideastore.dev">The Idea Store</a>
+- <a rel="octo:octothorpes" href="https://reeds.website">Reed / Loops</a>
+- <a rel="octo:octothorpes" href="https://justinmiller.io">Justin Miller</a>
+- <a rel="octo:octothorpes" href="https://ideastore.dev">Another dang site of mine</a>
