@@ -4,7 +4,7 @@ octo-type: Webring
 layout: note
 ---
 
-This is the home page for the new web ring for The Sudo. It uses Octothorpe Protocol to connect sites run by folks in the cool Portland crew known as the Sudo.
+This is the home page for the new web ring for The Sudo. It uses [Octothorpe Protocol](https://octothorp.es/) to connect sites run by folks in the cool Portland crew known as the Sudo.
 
 The following sites are in it:
 
