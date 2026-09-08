@@ -1,41 +1,103 @@
 require 'set'
+require 'json'
 require 'shellwords'
 require 'pathname'
 
-# Sets `last_modified` and `first_published` on every document from git history,
-# so a fresh checkout (where every file shares one mtime) still reports real
-# per-file dates. Falls back to filesystem mtime for files git doesn't know about
-# (new/untracked notes), and front matter always wins if it sets either key.
+# Sets `last_modified` and `first_published` on every document.
+#
+# File.mtime is useless here: a fresh checkout gives every file the same
+# timestamp, so every note reported the build date. Git history has the real
+# per-file dates, but Render clones with --depth=1 and that history is missing
+# at deploy time. So we read git history whenever it is actually available
+# (i.e. locally) and cache the result to a committed JSON file, which the
+# shallow deploy build then reads instead.
 module MemexGitDates
+  CACHE = '_data/file_dates.json'.freeze
+
+  def self.git(site, args)
+    out = `git -C #{site.source.shellescape} #{args} 2>/dev/null`
+    # Backticks inherit the build's locale, which on some hosts is ASCII; paths
+    # in this repo are not.
+    $?.success? ? out.force_encoding(Encoding::UTF_8) : nil
+  end
+
+  def self.shallow?(site)
+    git(site, 'rev-parse --is-shallow-repository').to_s.strip == 'true'
+  end
+
+  # => { "path" => { "last_modified" => Time, "first_published" => Time } }
   def self.history(site)
-    @history ||= begin
-      dates = {}
-      out = `git -C #{site.source.shellescape} log --format='C%ct' --name-only --diff-filter=AMR 2>/dev/null`
-      if $?.success?
-        commit = nil
-        out.each_line do |line|
-          line = line.strip
-          next if line.empty?
-          if line.start_with?('C') && line[1..] =~ /\A\d+\z/
-            commit = Time.at(line[1..].to_i)
-          elsif commit
-            # git log walks newest -> oldest, so first sighting is the last
-            # modification and the final one is the first publication.
-            entry = (dates[line] ||= { 'last_modified' => commit })
-            entry['first_published'] = commit
-          end
-        end
-      end
+    return @history if defined?(@history)
+
+    @history = if shallow?(site)
+      Jekyll.logger.warn 'Dates:', 'shallow clone, reading dates from cache'
+      from_cache(site)
+    else
+      dates = from_git(site)
+      write_cache(site, dates) if dates.any?
       dates
     end
   end
 
-  # Files with uncommitted edits should report the working copy's mtime, not
-  # the date of their last commit.
+  def self.from_git(site)
+    dates = {}
+    # -z keeps paths raw; without it git octal-escapes and quotes any path with
+    # non-ASCII or spaces, which then never matches a document's real path.
+    log = git(site, "log -z --format='C%ct' --name-only --diff-filter=AMR")
+    return dates unless log
+
+    commit = nil
+    log.split("\0").each do |line|
+      line = line.strip
+      next if line.empty?
+      if line.start_with?('C') && line[1..] =~ /\A\d+\z/
+        commit = Time.at(line[1..].to_i)
+      elsif commit
+        # git log walks newest -> oldest, so the first sighting of a path is
+        # its last modification and the final one is its first publication.
+        entry = (dates[line] ||= { 'last_modified' => commit })
+        entry['first_published'] = commit
+      end
+    end
+    dates
+  end
+
+  def self.from_cache(site)
+    path = File.join(site.source, CACHE)
+    return {} unless File.exist?(path)
+
+    JSON.parse(File.read(path)).each_with_object({}) do |(file, times), out|
+      out[file] = {
+        'last_modified' => Time.at(times['last_modified']),
+        'first_published' => Time.at(times['first_published'])
+      }
+    end
+  rescue JSON::ParserError => e
+    Jekyll.logger.warn 'Dates:', "could not read #{CACHE}: #{e.message}"
+    {}
+  end
+
+  # Only ever written from a full clone, so a shallow deploy build can't
+  # clobber the cache with dates it doesn't actually know.
+  def self.write_cache(site, dates)
+    path = File.join(site.source, CACHE)
+    payload = dates.sort.to_h { |file, times|
+      [file, { 'last_modified' => times['last_modified'].to_i,
+               'first_published' => times['first_published'].to_i }]
+    }
+    json = JSON.pretty_generate(payload)
+    return if File.exist?(path) && File.read(path) == json
+
+    File.write(path, json)
+    Jekyll.logger.info 'Dates:', "refreshed #{CACHE} (commit it so deploys stay current)"
+  end
+
+  # Files with uncommitted edits should report the working copy's mtime rather
+  # than the date of their last commit.
   def self.dirty(site)
     @dirty ||= begin
-      out = `git -C #{site.source.shellescape} status --porcelain 2>/dev/null`
-      $?.success? ? out.each_line.map { |l| l[3..].to_s.strip.split(' -> ').last }.compact.to_set : Set.new
+      status = git(site, 'status --porcelain')
+      status ? status.each_line.map { |l| l[3..].to_s.strip.split(' -> ').last }.compact.to_set : Set.new
     end
   end
 end
