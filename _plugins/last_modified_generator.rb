@@ -66,7 +66,7 @@ module MemexGitDates
     path = File.join(site.source, CACHE)
     return {} unless File.exist?(path)
 
-    JSON.parse(File.read(path)).each_with_object({}) do |(file, times), out|
+    JSON.parse(File.read(path, encoding: Encoding::UTF_8)).each_with_object({}) do |(file, times), out|
       out[file] = {
         'last_modified' => Time.at(times['last_modified']),
         'first_published' => Time.at(times['first_published'])
@@ -86,9 +86,9 @@ module MemexGitDates
                'first_published' => times['first_published'].to_i }]
     }
     json = JSON.pretty_generate(payload)
-    return if File.exist?(path) && File.read(path) == json
+    return if File.exist?(path) && File.read(path, encoding: Encoding::UTF_8) == json
 
-    File.write(path, json)
+    File.write(path, json, encoding: Encoding::UTF_8)
     Jekyll.logger.info 'Dates:', "refreshed #{CACHE} (commit it so deploys stay current)"
   end
 
