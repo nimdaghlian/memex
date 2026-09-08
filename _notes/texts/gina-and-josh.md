@@ -28,4 +28,4 @@ Josh brought more than headlamps and extra flannels to his adventures with Gina.
 
 So, as is tradition for wedding speeches, I will end with a quote from Friedrich Neitszche:
 
-Suppose that we said yes to a single moment, then we have not only said yes to ourselves, but to the whole of existence. For nothing stands alone, either in ourselves or in things; and if our soul did but once vibrate and resound with a chord of happiness, then all of eternity was necessary to bring forth this one occurrence—and in this single moment when we said yes, all of eternity was embraced, redeemed, justified and affirmed.
+```Suppose that we said yes to a single moment, then we have not only said yes to ourselves, but to the whole of existence. For nothing stands alone, either in ourselves or in things; and if our soul did but once vibrate and resound with a chord of happiness, then all of eternity was necessary to bring forth this one occurrence—and in this single moment when we said yes, all of eternity was embraced, redeemed, justified and affirmed.```
