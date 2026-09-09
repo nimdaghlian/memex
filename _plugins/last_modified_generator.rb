@@ -52,7 +52,7 @@ module MemexGitDates
       next if line.empty?
       if line.start_with?('C') && line[1..] =~ /\A\d+\z/
         commit = Time.at(line[1..].to_i)
-      elsif commit
+      elsif commit && line != CACHE
         # git log walks newest -> oldest, so the first sighting of a path is
         # its last modification and the final one is its first publication.
         entry = (dates[line] ||= { 'last_modified' => commit })
