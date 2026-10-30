@@ -32,9 +32,8 @@ I make music as Municipal Xylophone.
 
 I make websites as the [Idea Store](https://ideastore.dev/){:target="_blank"}.
 
-I don't use social media much but you can find me on [Mastodon](https://xoxo.zone/@nim){:target="_blank"} and, regrettably, [Instagram](https://www.instagram.com/nimdaghlian/){:target="_blank"}.
+I don't use social media much but you can find me on [Mastodon](https://xoxo.zone/@nim){:target="_blank"} and [Bluesky](https://bsky.app/profile/niiiiim.bsky.social){:target="_blank"} and [Sito](https://id.sito.org/ndg/). 
 
-My newsletter is called Big Table and I invite you to it!
+My newsletter is called Big Table and I invite you to it! 2026 update: I haven't posted in a while, but that's going to change soon. 
 
 {% include subscribe.html %}
-
