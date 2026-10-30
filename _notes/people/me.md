@@ -14,7 +14,7 @@ I made this memex.
 
 I'm married to [[Martha]]. We live in [[neighborhood| the Buckman neighborhood of Portland.]]
 
-Our cats are [Frankenstein Minidisc and Elvira Blu-ray](https://www.instagram.com/frankensteinandelvira/). They co-edit the [Buckman Shouter](https://buckmanshouter.neocities.org/).
+Our cats are [Frankenstein Minidisc and Elvira Blu-ray](https://www.instagram.com/frankensteinandelvira/). They co-edit the [Buckman Shouter](https://thebuckmanshouter.neocities.org/).
 
 Here are some of my paintings
 
