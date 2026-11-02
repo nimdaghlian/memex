@@ -34,6 +34,8 @@ I make websites as the [Idea Store](https://ideastore.dev/){:target="_blank"}.
 
 I don't use social media much but you can find me on [Mastodon](https://xoxo.zone/@nim){:target="_blank"} and [Bluesky](https://bsky.app/profile/niiiiim.bsky.social){:target="_blank"} and [Sito](https://id.sito.org/ndg/). 
 
+I _have_ been on Tumblr a lot lately. [Shitposts](https://flarmbt.tumblr.com/) and [paintings](https://nimdaghlian.tumblr.com/).
+
 My newsletter is called Big Table and I invite you to it! 2026 update: I haven't posted in a while, but that's going to change soon. 
 
 {% include subscribe.html %}
